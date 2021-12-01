@@ -30293,5 +30293,110 @@
         "Item2": "19",
         "Item3": "34",
         "Item4": "54"
+    },
+    {
+        "LootTableID": "ArmorCase_HorticulturistMakeGood_T3",
+        "AND/OR": "AND",
+        "UseLevelGS": "TRUE",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "ClothingHead_HorticulturistT3_MakeGood",
+        "Item2": "ClothingChest_HorticulturistT3_MakeGood",
+        "Item3": "ClothingHands_HorticulturistT3_MakeGood",
+        "Item4": "ClothingLegs_HorticulturistT3_MakeGood",
+        "Item5": "ClothingFeet_HorticulturistT3_MakeGood"
+    },
+    {
+        "LootTableID": "ArmorCase_HorticulturistMakeGood_T3_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "ArmorCase_HorticulturistMakeGood_T3_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 1,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "ArmorCase_HorticulturistMakeGood_T4",
+        "AND/OR": "AND",
+        "UseLevelGS": "TRUE",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "ClothingHead_HorticulturistT4_MakeGood",
+        "Item2": "ClothingChest_HorticulturistT4_MakeGood",
+        "Item3": "ClothingHands_HorticulturistT4_MakeGood",
+        "Item4": "ClothingLegs_HorticulturistT4_MakeGood",
+        "Item5": "ClothingFeet_HorticulturistT4_MakeGood"
+    },
+    {
+        "LootTableID": "ArmorCase_HorticulturistMakeGood_T4_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "ArmorCase_HorticulturistMakeGood_T4_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 1,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "ArmorCase_HorticulturistMakeGood_T5",
+        "AND/OR": "AND",
+        "UseLevelGS": "TRUE",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "ClothingHead_HorticulturistT5_MakeGood",
+        "Item2": "ClothingChest_HorticulturistT5_MakeGood",
+        "Item3": "ClothingHands_HorticulturistT5_MakeGood",
+        "Item4": "ClothingLegs_HorticulturistT5_MakeGood",
+        "Item5": "ClothingFeet_HorticulturistT5_MakeGood"
+    },
+    {
+        "LootTableID": "ArmorCase_HorticulturistMakeGood_T5_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "ArmorCase_HorticulturistMakeGood_T5_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 1,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
     }
 ]

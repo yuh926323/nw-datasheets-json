@@ -1151,7 +1151,6 @@
         "ItemName": "MSQ_Heartgem",
         "ItemDropProbability": 100,
         "PauseAndClearLootOnTaskComplete": false,
-        "AwardOnlyOnce": "TRUE",
         "IsHidden": "1"
     },
     {

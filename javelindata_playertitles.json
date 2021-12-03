@@ -691,7 +691,7 @@
         "TitleNeutral": "@ui_playertitle_skill_leatherworking4_THEY",
         "Description": "@ui_playertitle_skills_description",
         "CategoricalProgressionId": "Leatherworking",
-        "RequiredCategoricalProgressionLevel": 100,
+        "RequiredCategoricalProgressionLevel": 140,
         "RequiredPlayerLevel": 0
     },
     {
@@ -2429,6 +2429,17 @@
         "TitleNeutral": "@ui_playertitle_territory_permanent_owner_15_THEY",
         "Description": "@ui_playertitle_territory_permanent_owner_desc",
         "AchievementId": "TerritoryPermanentOwner15",
+        "RequiredCategoricalProgressionLevel": 0,
+        "RequiredPlayerLevel": 0
+    },
+    {
+        "TitleID": "PlayerTitle_TurkeyTerror",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Special_Achievements",
+        "TitleMale": "@ui_playertitle_special_TurkeyTerror",
+        "TitleFemale": "@ui_playertitle_special_TurkeyTerror_SHE",
+        "TitleNeutral": "@ui_playertitle_special_TurkeyTerror_THEY",
+        "Description": "@ui_playertitle_TurkeyTerror_description",
         "RequiredCategoricalProgressionLevel": 0,
         "RequiredPlayerLevel": 0
     }

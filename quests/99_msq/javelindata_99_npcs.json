@@ -15,8 +15,9 @@
         "ConversationStateId10": "9901_09_MSQ_Yonas",
         "ConversationStateId11": "9901_10_MSQ_Yonas",
         "ConversationStateId12": "9901_11_MSQ_Yonas",
-        "ConversationStateId13": "9901_12_MSQ_Yonas",
-        "ConversationStateId14": "9901_13_MSQ_Yonas"
+        "ConversationStateId13": "9901_11_B_MSQ_Yonas_TaskTopic",
+        "ConversationStateId14": "9901_12_MSQ_Yonas",
+        "ConversationStateId15": "9901_13_MSQ_Yonas"
     },
     {
         "NPCId": "NPC_9902_MSQ_Yonas",
@@ -93,7 +94,8 @@
         "Title": "@9903e_MSQ_Emile_title",
         "GenericName": "@9903_MSQ_Emile",
         "ConversationStateId1": "9903_10_MSQ_Emile",
-        "ConversationStateId2": "9903_13_MSQ_Emile"
+        "ConversationStateId2": "9903_13_MSQ_Emile",
+        "ConversationStateId3": "9903_14_MSQ_Emile"
     },
     {
         "NPCId": "9904_MSQ_Theophrastus",
@@ -128,7 +130,8 @@
         "NPCId": "9904e_MSQ_Theophrastus",
         "Title": "@9904e_MSQ_Theophrastus_title",
         "GenericName": "@9904_MSQ_Theophrastus",
-        "ConversationStateId1": "9904e_08_MSQ_Theophrastus"
+        "ConversationStateId1": "9904e_08_MSQ_Theophrastus",
+        "ConversationStateId2": "9904e_10_MSQ_Theophrastus"
     },
     {
         "NPCId": "9905_MSQ_Rima",
@@ -307,5 +310,13 @@
         "InteractOptionDisplayNameOverride": "@9927_VK_ScoutsNote_Examine",
         "ConversationStateId1": "9927_00_VK_ScoutsNote",
         "ConversationStateId2": "9927_01_VK_ScoutsNote"
+    },
+    {
+        "NPCId": "9928_MSQ_YonasMemorial",
+        "Title": "@9928_MSQ_YonasMemorial_title",
+        "GenericName": "@9928_MSQ_YonasMemorial",
+        "InteractOptionDisplayNameOverride": "@9928_MSQ_YonasMemorial_Examine",
+        "ConversationStateId1": "9928_MSQ_YonasMemorial_Default",
+        "ConversationStateId2": "9928_01_YonasMemorial"
     }
 ]

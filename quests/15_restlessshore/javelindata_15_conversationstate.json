@@ -428,5 +428,186 @@
         "DefaultDialogue": "@NPC_Default_Dialogue_1599_01_Nekumanesh",
         "RequiredLevel": 43,
         "LinearObjectiveId1": "1599_1513_Nekumanesh"
+    },
+    {
+        "ConversationStateId": "1524_00_Boatswain",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1524_00_Boatswain",
+        "RequiredLevel": 0
+    },
+    {
+        "ConversationStateId": "1524_01_Boatswain",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1524_01_Boatswain",
+        "RequiredLevel": 42,
+        "LinearObjectiveId1": "1524_1514_FirstThing",
+        "TopicId1": "1524_Boatswain01_talk"
+    },
+    {
+        "ConversationStateId": "1524_01a_Boatswain",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1524_01a_Boatswain",
+        "RequiredLevel": 42,
+        "TopicId1": "1524_Boatswain01_talk"
+    },
+    {
+        "ConversationStateId": "1524_02_Boatswain",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1524_02_Boatswain",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "15_Quest_14",
+        "LinearObjectiveId1": "1524_1515_FootstepsBeach"
+    },
+    {
+        "ConversationStateId": "1524_03_Boatswain",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1524_03_Boatswain",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "15_Quest_15",
+        "LinearObjectiveId1": "1524_1516_TrueTerror"
+    },
+    {
+        "ConversationStateId": "1524_04_Boatswain",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1524_04_Boatswain",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "15_Quest_16",
+        "LinearObjectiveId1": "1524_1517_PiratesLife"
+    },
+    {
+        "ConversationStateId": "1525_00_AngryEarth",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1525_00_AngryEarth",
+        "RequiredLevel": 0
+    },
+    {
+        "ConversationStateId": "1525_01_AngryEarth",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1525_01_AngryEarth",
+        "RequiredLevel": 46,
+        "LinearObjectiveId1": "1525_1518_Communication"
+    },
+    {
+        "ConversationStateId": "1525_02_AngryEarth",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1525_02_AngryEarth",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "15_Quest_18",
+        "LinearObjectiveId1": "1525_1519_Ammunition"
+    },
+    {
+        "ConversationStateId": "1525_03_AngryEarth",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1525_03_AngryEarth",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "15_Quest_19",
+        "LinearObjectiveId1": "1525_1520_Rations"
+    },
+    {
+        "ConversationStateId": "1525_04_AngryEarth",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1525_04_AngryEarth",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "15_Quest_20"
+    },
+    {
+        "ConversationStateId": "1526_00_Naturalist",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1526_00_Naturalist",
+        "RequiredLevel": 0
+    },
+    {
+        "ConversationStateId": "1526_01_Naturalist",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1526_01_Naturalist",
+        "RequiredLevel": 41,
+        "LinearObjectiveId1": "1526_1521_Point"
+    },
+    {
+        "ConversationStateId": "1526_02_Naturalist",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1526_02_Naturalist",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "15_Quest_21",
+        "LinearObjectiveId1": "1526_1522_Breath"
+    },
+    {
+        "ConversationStateId": "1526_03_Naturalist",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1526_03_Naturalist",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "15_Quest_22",
+        "LinearObjectiveId1": "1526_1523_ToothClaw"
+    },
+    {
+        "ConversationStateId": "1527_00_Wader",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1527_00_Wader",
+        "RequiredLevel": 0
+    },
+    {
+        "ConversationStateId": "1527_01_Wader",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1527_01_Wader",
+        "RequiredLevel": 45,
+        "LinearObjectiveId1": "1527_1524_Steadfast"
+    },
+    {
+        "ConversationStateId": "1527_02_Wader",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1527_02_Wader",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "15_Quest_24",
+        "LinearObjectiveId1": "1527_1525_Treasured"
+    },
+    {
+        "ConversationStateId": "1527_03_Wader",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1527_03_Wader",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "15_Quest_25"
+    },
+    {
+        "ConversationStateId": "1528_00_Rogue",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1528_00_Rogue",
+        "RequiredLevel": 0
+    },
+    {
+        "ConversationStateId": "1528_01_Rogue",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1528_01_Rogue",
+        "RequiredLevel": 45,
+        "RequiredAchievement": "15_Quest_25",
+        "LinearObjectiveId1": "1528_1526_NotAnotherFish"
+    },
+    {
+        "ConversationStateId": "1528_02_Rogue",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@NPC_Default_Dialogue_1528_02_Rogue",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "15_Quest_26"
     }
 ]

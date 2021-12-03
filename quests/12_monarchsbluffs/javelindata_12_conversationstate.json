@@ -684,5 +684,137 @@
         "DefaultDialogue": "@1223_02_Fisher_DefaultDialog",
         "RequiredLevel": 0,
         "RequiredAchievement": "FishingQuest_05"
+    },
+    {
+        "ConversationStateId": "1225_00_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1225_00_Giacomo_DefaultDialog",
+        "RequiredLevel": 0
+    },
+    {
+        "ConversationStateId": "1225_01a_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_01_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "S_encroachingcorruption",
+        "LinearObjectiveId1": "1225_0101_downpayment_MB"
+    },
+    {
+        "ConversationStateId": "1225_01b_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_01_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "S_encroachingcorruption",
+        "LinearObjectiveId1": "1225_0101_downpayment_FL"
+    },
+    {
+        "ConversationStateId": "1225_01c_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_01_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "S_encroachingcorruption",
+        "LinearObjectiveId1": "1225_0101_downpayment_EF"
+    },
+    {
+        "ConversationStateId": "1225_01d_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_01_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "S_encroachingcorruption",
+        "LinearObjectiveId1": "1225_0101_downpayment_WW"
+    },
+    {
+        "ConversationStateId": "1225_02_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_02_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "S_downpayment",
+        "LinearObjectiveId1": "1225_0201_majorpurchase",
+        "TopicId1": "1225_Giacomo_HousingGeneral"
+    },
+    {
+        "ConversationStateId": "1225_03_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_03_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "12_Quest_Housing_2",
+        "LinearObjectiveId1": "1225_0301_insuringinvestmentA",
+        "TopicId1": "1225_Giacomo_HousingGeneral"
+    },
+    {
+        "ConversationStateId": "1225_04_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_04_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "12_Quest_Housing_3a",
+        "LinearObjectiveId1": "1225_0302_insuringinvestmentB",
+        "TopicId1": "1225_Giacomo_HousingGeneral"
+    },
+    {
+        "ConversationStateId": "1225_05_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_05_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "12_Quest_Housing_3b",
+        "LinearObjectiveId1": "1225_0401_siteinspection",
+        "TopicId1": "1225_Giacomo_HousingStorage"
+    },
+    {
+        "ConversationStateId": "1225_05a_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_0401_siteinspection_talkto_Giacomo",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "12_Quest_Housing_3b",
+        "RequiredActiveObjectiveId": "1225_0401_siteinspection",
+        "RequiredActiveTaskId": "1225_0401_d_02_01_TalkTo_GiacomoTravelersA_1225_05a_Giacomo",
+        "TopicId1": "1225_Giacomo_HousingStorage"
+    },
+    {
+        "ConversationStateId": "1225_06_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_06_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "12_Quest_Housing_4",
+        "TopicId1": "1225_Giacomo_HousingStorage"
+    },
+    {
+        "ConversationStateId": "1225_07_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_07_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "12_Quest_Housing_4",
+        "LinearObjectiveId1": "1225_0501_mandatoryimprovements",
+        "TopicId1": "1225_Giacomo_HousingStorage"
+    },
+    {
+        "ConversationStateId": "1225_08_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_08_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "12_Quest_Housing_5",
+        "LinearObjectiveId1": "1225_0601_closingcost",
+        "TopicId1": "1225_Giacomo_HousingStorage"
+    },
+    {
+        "ConversationStateId": "1225_09_Giacomo",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_09_Giacomo_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "12_Quest_Housing_6",
+        "TopicId1": "1225_Giacomo_HousingTrophy"
     }
 ]

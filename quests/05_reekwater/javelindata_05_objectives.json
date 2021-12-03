@@ -569,7 +569,7 @@
     },
     {
         "ObjectiveID": "0511_0201_UmbrasReach",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -578,7 +578,7 @@
         "NpcDestinationId": "0511_Stranger",
         "ExclusiveTerritory": 0,
         "AchievementId": "WeaponQuest_UmbrasReach_00",
-        "RequiredAchievementId": "05_Quest_06",
+        "RequiredAchievementId": "07_Quest_11",
         "SuccessGameEventId": "0511_0201_UmbrasReach_success",
         "CanBeAbandoned": false,
         "Title": "@0511_0201_UmbrasReach_objective_title",
@@ -592,7 +592,7 @@
     },
     {
         "ObjectiveID": "0511_0202_UmbrasReach_inbrightestlight",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -608,7 +608,7 @@
     },
     {
         "ObjectiveID": "0511_0203_UmbrasReach_stygianchannel",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -624,7 +624,7 @@
     },
     {
         "ObjectiveID": "0511_0204_UmbrasReach_graspingtwilight",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -640,7 +640,7 @@
     },
     {
         "ObjectiveID": "0511_0205_UmbrasReach_astitchofshade",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -656,7 +656,7 @@
     },
     {
         "ObjectiveID": "0511_0206_UmbrasReach_indarkestshadow",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -672,7 +672,7 @@
     },
     {
         "ObjectiveID": "0511_0207_UmbrasReach_powerofthevoid",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -688,7 +688,7 @@
     },
     {
         "ObjectiveID": "0511_0208_UmbrasReach_duskyfocus",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -704,7 +704,7 @@
     },
     {
         "ObjectiveID": "0511_0209_UmbrasReach_holdbackthenight",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,

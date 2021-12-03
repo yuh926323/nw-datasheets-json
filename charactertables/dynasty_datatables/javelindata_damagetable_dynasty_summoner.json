@@ -344,7 +344,7 @@
         "DamageType": "Corruption",
         "DeflectDamageID": "Deflect_Default",
         "CanCrit": false,
-        "DmgCoef": 0.800000011920929,
+        "DmgCoef": 0.44999998807907104,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
         "PowerLevel": 0,

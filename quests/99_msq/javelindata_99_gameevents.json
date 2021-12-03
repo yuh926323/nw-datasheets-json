@@ -14,20 +14,6 @@
         "AzothRewardChance": 1
     },
     {
-        "EventID": "9901_0008_oldstoneremembers_success",
-        "Level": 13,
-        "CreatureType": "MSQ+",
-        "Reward Type": "Armor",
-        "UniversalExpAmount": 2000,
-        "CurrencyReward": 6450,
-        "ItemReward": "QuestRewardArmorL13",
-        "CategoricalProgressionReward": 0,
-        "TerritoryStanding": 0,
-        "EmitTelemetry": true,
-        "AzothReward": 100,
-        "AzothRewardChance": 1
-    },
-    {
         "EventID": "9901_0008_oldstoneremembers_v2_success",
         "Level": 13,
         "CreatureType": "MSQ+",
@@ -63,20 +49,6 @@
         "UniversalExpAmount": 1730,
         "CurrencyReward": 4500,
         "ItemReward": "QuestRewardArmorL15",
-        "CategoricalProgressionReward": 0,
-        "TerritoryStanding": 0,
-        "EmitTelemetry": true,
-        "AzothReward": 150,
-        "AzothRewardChance": 1
-    },
-    {
-        "EventID": "9901_0011_afreshsoul_success",
-        "Level": 17,
-        "CreatureType": "MSQ+",
-        "Reward Type": "Weapons",
-        "UniversalExpAmount": 2500,
-        "CurrencyReward": 7050,
-        "ItemReward": "QuestRewardWeaponsL17",
         "CategoricalProgressionReward": 0,
         "TerritoryStanding": 0,
         "EmitTelemetry": true,
@@ -253,6 +225,18 @@
         "AzothRewardChance": 1
     },
     {
+        "EventID": "9901_0021_destinyunearthed_solo_success",
+        "Level": 0,
+        "CreatureType": "MSQ-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "CategoricalProgressionReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
         "EventID": "9901_0022_theritual_success",
         "Level": 25,
         "CreatureType": "MSQ+",
@@ -335,20 +319,6 @@
         "TerritoryStanding": 0,
         "EmitTelemetry": true,
         "AzothReward": 20,
-        "AzothRewardChance": 1
-    },
-    {
-        "EventID": "9904_0028_thenoseknows_success",
-        "Level": 32,
-        "CreatureType": "MSQ+",
-        "Reward Type": "Armor",
-        "UniversalExpAmount": 4880,
-        "CurrencyReward": 9300,
-        "ItemReward": "QuestRewardArmorL32",
-        "CategoricalProgressionReward": 0,
-        "TerritoryStanding": 0,
-        "EmitTelemetry": true,
-        "AzothReward": 100,
         "AzothRewardChance": 1
     },
     {
@@ -855,6 +825,18 @@
         "AzothRewardChance": 1
     },
     {
+        "EventID": "9905_0059_InMemoriam_success",
+        "Level": 60,
+        "CreatureType": "MSQ-",
+        "UniversalExpAmount": 5630,
+        "CurrencyReward": 2250,
+        "CategoricalProgressionReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 100,
+        "AzothRewardChance": 1
+    },
+    {
         "EventID": "9926_0101_TenaciousRose_success",
         "Level": 20,
         "CreatureType": "Quest",
@@ -1221,6 +1203,42 @@
     },
     {
         "EventID": "MSQ_0027_StormwallBarrier_interact",
+        "Level": 0,
+        "CreatureType": "MSQ-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "CategoricalProgressionReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "MSQ_0037_PlanB_Water_Interact",
+        "Level": 0,
+        "CreatureType": "MSQ-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "CategoricalProgressionReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "MSQ_0037_PlanB_Fire_Interact",
+        "Level": 0,
+        "CreatureType": "MSQ-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "CategoricalProgressionReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "MSQ_0037_PlanB_Fire_Rima_Interact",
         "Level": 0,
         "CreatureType": "MSQ-",
         "UniversalExpAmount": 0,

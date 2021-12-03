@@ -506,5 +506,19 @@
         "RequiredLevel": 0,
         "TopicId1": "0725_Prospector_talk",
         "ConversationService1": "Join_Outpost_Rush"
+    },
+    {
+        "ConversationStateId": "0728_Kesava_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@0728_Kesava_Default",
+        "RequiredLevel": 0
+    },
+    {
+        "ConversationStateId": "0728_Kesava_1",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@0728_Kesava_1",
+        "RequiredLevel": 0
     }
 ]

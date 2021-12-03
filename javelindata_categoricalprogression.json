@@ -7,7 +7,8 @@
         "InfiniteLevels": false,
         "RankTableId": "MerchantGuild",
         "MinTrackedLevel": 0,
-        "ShowAsObjectiveReward": false
+        "ShowAsObjectiveReward": true,
+        "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation1.dds"
     },
     {
         "CategoricalProgressionId": "Marauder",
@@ -17,7 +18,8 @@
         "InfiniteLevels": false,
         "RankTableId": "ProcurerGuild",
         "MinTrackedLevel": 0,
-        "ShowAsObjectiveReward": false
+        "ShowAsObjectiveReward": true,
+        "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation2.dds"
     },
     {
         "CategoricalProgressionId": "Covenant",
@@ -27,7 +29,8 @@
         "InfiniteLevels": false,
         "RankTableId": "ExplorerGuild",
         "MinTrackedLevel": 0,
-        "ShowAsObjectiveReward": false
+        "ShowAsObjectiveReward": true,
+        "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation3.dds"
     },
     {
         "CategoricalProgressionId": "Repair_T1",
@@ -588,6 +591,193 @@
         "ShowAsObjectiveReward": false
     },
     {
+        "CategoricalProgressionId": "Weaponsmithing_PostCap",
+        "DisplayName": "@ui_weaponsmithing_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Weaponsmithing",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Armoring_PostCap",
+        "DisplayName": "@ui_armoring_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Armoring",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Jewelcrafting_PostCap",
+        "DisplayName": "@ui_jewelcrafting_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Jewelcrafting",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Arcana_PostCap",
+        "DisplayName": "@ui_arcana_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Arcana",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Cooking_PostCap",
+        "DisplayName": "@ui_cooking_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Cooking",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Fishing_PostCap",
+        "DisplayName": "@ui_Fishing_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Fishing",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Furnishing_PostCap",
+        "DisplayName": "@ui_furnishing_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Furnishing",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Engineering_PostCap",
+        "DisplayName": "@ui_engineering_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Engineering",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Smelting_PostCap",
+        "DisplayName": "@ui_smelting_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Smelting",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Woodworking_PostCap",
+        "DisplayName": "@ui_woodworking_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Woodworking",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Leatherworking_PostCap",
+        "DisplayName": "@ui_leatherworking_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Leatherworking",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Weaving_PostCap",
+        "DisplayName": "@ui_weaving_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Weaving",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Stonecutting_PostCap",
+        "DisplayName": "@ui_stonecutting_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Stonecutting",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Skinning_PostCap",
+        "DisplayName": "@ui_skinning_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Skinning",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Mining_PostCap",
+        "DisplayName": "@ui_mining_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Mining",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Logging_PostCap",
+        "DisplayName": "@ui_logging_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Logging",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
+        "CategoricalProgressionId": "Harvesting_PostCap",
+        "DisplayName": "@ui_harvesting_postcap",
+        "MaxLevel": 1,
+        "AutoRankUp": true,
+        "InfiniteLevels": true,
+        "RankTableId": "TradeSkillPostCap",
+        "PreSkillCapSkill": "Harvesting",
+        "MinTrackedLevel": 0,
+        "ShowAsObjectiveReward": false
+    },
+    {
         "CategoricalProgressionId": "Azoth_Currency",
         "MaxLevel": 0,
         "AutoRankUp": false,
@@ -857,8 +1047,7 @@
         "InfiniteLevels": false,
         "RankTableId": "SyndicateTokens",
         "MinTrackedLevel": 0,
-        "ShowAsObjectiveReward": true,
-        "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation1.dds"
+        "ShowAsObjectiveReward": false
     },
     {
         "CategoricalProgressionId": "MarauderTokens",
@@ -868,8 +1057,7 @@
         "InfiniteLevels": false,
         "RankTableId": "MarauderTokens",
         "MinTrackedLevel": 0,
-        "ShowAsObjectiveReward": true,
-        "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation2.dds"
+        "ShowAsObjectiveReward": false
     },
     {
         "CategoricalProgressionId": "CovenantTokens",
@@ -879,8 +1067,7 @@
         "InfiniteLevels": false,
         "RankTableId": "CovenantTokens",
         "MinTrackedLevel": 0,
-        "ShowAsObjectiveReward": true,
-        "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation3.dds"
+        "ShowAsObjectiveReward": false
     },
     {
         "CategoricalProgressionId": "EventProgress",
@@ -890,43 +1077,7 @@
         "InfiniteLevels": false,
         "RankTableId": "EventRanks",
         "MinTrackedLevel": 0,
-        "ShowAsObjectiveReward": false,
-        "IconPath": "lyshineui/images/icons/objectives/reward_factionReputation.dds"
-    },
-    {
-        "CategoricalProgressionId": "DungeonAmrineDifficulty",
-        "MaxLevel": 10,
-        "AutoRankUp": true,
-        "InfiniteLevels": false,
-        "RankTableId": "MutatorRankData",
-        "MinTrackedLevel": 0,
-        "ShowAsObjectiveReward": false
-    },
-    {
-        "CategoricalProgressionId": "DungeonEdengrove00Difficulty",
-        "MaxLevel": 10,
-        "AutoRankUp": true,
-        "InfiniteLevels": false,
-        "RankTableId": "MutatorRankData",
-        "MinTrackedLevel": 0,
-        "ShowAsObjectiveReward": false
-    },
-    {
-        "CategoricalProgressionId": "DungeonReekwater00Difficulty",
-        "MaxLevel": 10,
-        "AutoRankUp": true,
-        "InfiniteLevels": false,
-        "RankTableId": "MutatorRankData",
-        "MinTrackedLevel": 0,
-        "ShowAsObjectiveReward": false
-    },
-    {
-        "CategoricalProgressionId": "DungeonEbonscale00Difficulty",
-        "MaxLevel": 10,
-        "AutoRankUp": true,
-        "InfiniteLevels": false,
-        "RankTableId": "MutatorRankData",
-        "MinTrackedLevel": 0,
-        "ShowAsObjectiveReward": false
+        "ShowAsObjectiveReward": true,
+        "IconPath": "lyshineui/images/icons/objectives/reward_eventProgress.dds"
     }
 ]

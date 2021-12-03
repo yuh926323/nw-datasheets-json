@@ -912,8 +912,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
-        "DefaultAchievement": 0,
-        "DiscoveredAchievement": "spiritshrine_01_30251_discovered",
+        "DefaultAchievement": 1,
         "ChartedAchievement": "spiritshrine_01_30251_charted",
         "POITag": "spiritshrine_01_30251",
         "AudioGroup": "Music_POI",
@@ -921,6 +920,25 @@
         "CanPlaceCamp": false,
         "DevName": "Spirit Shrine",
         "Containers": 0,
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png"
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
+    },
+    {
+        "TerritoryID": 30252,
+        "NameLocalizationKey": "@ui_poi_yeti_30252",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/event_cave.png",
+        "DiscoveryRadius": 150,
+        "IsDiscoverable": true,
+        "IsChartable": true,
+        "DefaultAchievement": 0,
+        "DiscoveredAchievement": "yeti_30252_discovered",
+        "ChartedAchievement": "yeti_30252_charted",
+        "POITag": "yeti_30252",
+        "AudioGroup": "Music_POI",
+        "AudioState": "cave_ice",
+        "CanPlaceCamp": false,
+        "Containers": 0,
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_icecave.png"
     }
 ]

@@ -1,5 +1,27 @@
 [
     {
+        "VariantID": "LostPresent01",
+        "Visual_Healthy": "slices\\Holiday\\WinterConvergence\\Activities\\LostPresent\\WinterConv_Activity_LostPresent_VisualHealthy.slice",
+        "GatherableEntryID": "LostPresent01",
+        "InteractPromptRadius": 1,
+        "DetectableRadius": 1,
+        "MarkerRadius": 1,
+        "AudioPreload_depleted": "RarePresent",
+        "SFX_depleted": "Play_SFX_RarePresent_Depleted",
+        "AudioPreload_idle": "RarePresent",
+        "SFX_Idle": "Play_SFX_RarePresent_Lp",
+        "VFX_Idle": "Event_Winter_Convergence.Present.Idle_Rare",
+        "IdleVFX_Offset_Z": 10,
+        "DepletedVFX": "Event_Winter_Convergence.Present.End_Rare",
+        "depletedVFX_Offset_Z": 10,
+        "gatheringVFX_Offzet_Z": 10,
+        "interactionMarker_Offset_Z": 10,
+        "InteractOnlyOnQuest": false,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\basesphere.cgf",
+        "Collision_Offset_Z": 10,
+        "VisualHealthy_Offset_Z": 10
+    },
+    {
         "VariantID": "0404_CorruptedNoduleA",
         "Visual_Healthy": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Healthy.dynamicslice",
         "Visual_Depleted": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Depleted.dynamicslice",
@@ -20,8 +42,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0404_CorruptedNoduleA",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -45,8 +67,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0404_CorruptedNoduleB",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -70,8 +92,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0404_CorruptedNoduleC",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -95,8 +117,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0404_CorruptedNoduleD",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -141,8 +163,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0604_CorruptedNoduleA",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -166,8 +188,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0604_CorruptedNoduleB",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -191,8 +213,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0604_CorruptedNoduleC",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -216,8 +238,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0604_CorruptedNoduleD",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -236,7 +258,7 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0804_CorruptedNodule",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 0,
         "VisualHealthy_Offset_Z": 0
     },
@@ -285,8 +307,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0904_CorruptedNoduleA",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -310,8 +332,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0904_CorruptedNoduleB",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -335,8 +357,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0904_CorruptedNoduleC",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -360,8 +382,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0904_CorruptedNoduleD",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -385,8 +407,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1204_CorruptedNoduleA",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -410,8 +432,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1204_CorruptedNoduleB",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -435,8 +457,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1204_CorruptedNoduleC",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -460,8 +482,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1204_CorruptedNoduleD",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
-        "Collision_Offset_Z": 0,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
         "VisualHealthy_Offset_Z": 0
     },
     {
@@ -472,13 +494,20 @@
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
         "MarkerRadius": 10,
-        "IdleVFX_Offset_Z": 0,
-        "depletedVFX_Offset_Z": 0,
-        "gatheringVFX_Offzet_Z": 0,
+        "AudioPreload_depleted": "Gath_Alchemy_Fire_Boid",
+        "SFX_depleted": "Play_Alchemy_Fire_Boid",
+        "AudioPreload_idle": "Corruption_Beam_A",
+        "SFX_Idle": "Play_Corruption_Beam_A",
+        "VFX_Idle": "env_darkness.Core.Core_minor_monolith_idle01",
+        "IdleVFX_Offset_Z": 1.5,
+        "DepletedVFX": "env_darkness.Core.Core_death01",
+        "depletedVFX_Offset_Z": 1.5,
+        "GatheringFX": "env_darkness.Core.Core_minor_monolith_gather01",
+        "gatheringVFX_Offzet_Z": 1.5,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1127_MalignNodeA",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 0,
         "VisualHealthy_Offset_Z": 0
     },
@@ -490,13 +519,20 @@
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
         "MarkerRadius": 10,
-        "IdleVFX_Offset_Z": 0,
-        "depletedVFX_Offset_Z": 0,
-        "gatheringVFX_Offzet_Z": 0,
+        "AudioPreload_depleted": "Gath_Alchemy_Fire_Boid",
+        "SFX_depleted": "Play_Alchemy_Fire_Boid",
+        "AudioPreload_idle": "Corruption_Beam_A",
+        "SFX_Idle": "Play_Corruption_Beam_A",
+        "VFX_Idle": "env_darkness.Core.Core_minor_monolith_idle01",
+        "IdleVFX_Offset_Z": 1.5,
+        "DepletedVFX": "env_darkness.Core.Core_death01",
+        "depletedVFX_Offset_Z": 1.5,
+        "GatheringFX": "env_darkness.Core.Core_minor_monolith_gather01",
+        "gatheringVFX_Offzet_Z": 1.5,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1127_MalignNodeB",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 0,
         "VisualHealthy_Offset_Z": 0
     },
@@ -508,13 +544,20 @@
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
         "MarkerRadius": 10,
-        "IdleVFX_Offset_Z": 0,
-        "depletedVFX_Offset_Z": 0,
-        "gatheringVFX_Offzet_Z": 0,
+        "AudioPreload_depleted": "Gath_Alchemy_Fire_Boid",
+        "SFX_depleted": "Play_Alchemy_Fire_Boid",
+        "AudioPreload_idle": "Corruption_Beam_A",
+        "SFX_Idle": "Play_Corruption_Beam_A",
+        "VFX_Idle": "env_darkness.Core.Core_minor_monolith_idle01",
+        "IdleVFX_Offset_Z": 1.5,
+        "DepletedVFX": "env_darkness.Core.Core_death01",
+        "depletedVFX_Offset_Z": 1.5,
+        "GatheringFX": "env_darkness.Core.Core_minor_monolith_gather01",
+        "gatheringVFX_Offzet_Z": 1.5,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1127_MalignNodeC",
         "InteractOnlyOnQuest": true,
-        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 0,
         "VisualHealthy_Offset_Z": 0
     },
@@ -640,7 +683,7 @@
     },
     {
         "VariantID": "1130_ArcaneFocus1",
-        "Visual_Healthy": "slices\\WorldEvents\\Windsward\\SpectralShrine\\WorldEvent_Object_06_SpectralShrine_00.dynamicslice",
+        "Visual_Healthy": "slices/WorldEvents/Windsward/SpectralShrine/Art/WorldEvent_Art_06_SpectralShrine_00.dynamicslice",
         "Visual_Depleted": "slices\\POIs\\Assembly\\QuestAssets\\Ancient_Rubble_Pile_A.dynamicslice",
         "GatherableEntryID": "1130_ArcaneFocus1",
         "InteractPromptRadius": 3,
@@ -660,7 +703,7 @@
     },
     {
         "VariantID": "1130_ArcaneFocus2",
-        "Visual_Healthy": "slices\\WorldEvents\\Windsward\\SpectralShrine\\WorldEvent_Object_06_SpectralShrine_00.dynamicslice",
+        "Visual_Healthy": "slices/WorldEvents/Windsward/SpectralShrine/Art/WorldEvent_Art_06_SpectralShrine_00.dynamicslice",
         "Visual_Depleted": "slices\\POIs\\Assembly\\QuestAssets\\Ancient_Rubble_Pile_A.dynamicslice",
         "GatherableEntryID": "1130_ArcaneFocus2",
         "InteractPromptRadius": 3,
@@ -680,7 +723,7 @@
     },
     {
         "VariantID": "1130_ArcaneFocus3",
-        "Visual_Healthy": "slices\\WorldEvents\\Windsward\\SpectralShrine\\WorldEvent_Object_06_SpectralShrine_00.dynamicslice",
+        "Visual_Healthy": "slices/WorldEvents/Windsward/SpectralShrine/Art/WorldEvent_Art_06_SpectralShrine_00.dynamicslice",
         "Visual_Depleted": "slices\\POIs\\Assembly\\QuestAssets\\Ancient_Rubble_Pile_A.dynamicslice",
         "GatherableEntryID": "1130_ArcaneFocus3",
         "InteractPromptRadius": 3,
@@ -700,7 +743,7 @@
     },
     {
         "VariantID": "1130_ArcaneFocus4",
-        "Visual_Healthy": "slices\\WorldEvents\\Windsward\\SpectralShrine\\WorldEvent_Object_06_SpectralShrine_00.dynamicslice",
+        "Visual_Healthy": "slices/WorldEvents/Windsward/SpectralShrine/Art/WorldEvent_Art_06_SpectralShrine_00.dynamicslice",
         "Visual_Depleted": "slices\\POIs\\Assembly\\QuestAssets\\Ancient_Rubble_Pile_A.dynamicslice",
         "GatherableEntryID": "1130_ArcaneFocus4",
         "InteractPromptRadius": 3,
@@ -716,6 +759,24 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
         "Collision_Offset_Z": 0,
+        "VisualHealthy_Offset_Z": 0
+    },
+    {
+        "VariantID": "Dynasty_Gong",
+        "Visual_Depleted": "slices\\WorldEvents\\Ebonscale\\WorldEvent_Object_Dynasty_Gong_Depleted_FX.dynamicslice",
+        "Visual_Basemesh": "slices\\WorldEvents\\Ebonscale\\WorldEvent_Object_Dynasty_Gong_Base_Mesh.dynamicslice",
+        "GatherableEntryID": "Dynasty_Gong",
+        "InteractPromptRadius": 10,
+        "DetectableRadius": 10,
+        "MarkerRadius": 15,
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractTag": "IO_Dynasty_Gong",
+        "InteractOnlyOnQuest": false,
+        "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Living_Structures\\Dynasty\\dynasty_struc_deco_gong_large_AB.cgf",
+        "Collision_Offset_Z": 6.340000152587891,
         "VisualHealthy_Offset_Z": 0
     }
 ]

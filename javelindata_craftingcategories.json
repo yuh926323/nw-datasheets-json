@@ -4151,7 +4151,91 @@
         "DisplayText": "@RecipeFurnishing_GroupName"
     },
     {
+        "CategoryID": "CraftingPatterns",
+        "DisplayText": "@CraftingPatterns_GroupName"
+    },
+    {
+        "CategoryID": "Tokens",
+        "DisplayText": "@Tokens_GroupName"
+    },
+    {
+        "CategoryID": "TokenCreation",
+        "DisplayText": "@TokenCreation_GroupName"
+    },
+    {
+        "CategoryID": "TokenConversion",
+        "DisplayText": "@TokenConversion_GroupName"
+    },
+    {
+        "CategoryID": "Pattern",
+        "DisplayText": "@Pattern"
+    },
+    {
+        "CategoryID": "PatternRecipes",
+        "DisplayText": "@PatternRecipes"
+    },
+    {
         "CategoryID": "Lodestone",
         "DisplayText": "@Lodestone"
+    },
+    {
+        "CategoryID": "GypsumRefining",
+        "DisplayText": "@GypsumRefining_GroupName"
+    },
+    {
+        "CategoryID": "GypsumCasting",
+        "DisplayText": "@GypsumCasting_GroupName"
+    },
+    {
+        "CategoryID": "GypsumRaw",
+        "DisplayText": "@GypsumRaw_GroupName"
+    },
+    {
+        "CategoryID": "GypsumCasts",
+        "DisplayText": "@GypsumCasts_GroupName"
+    },
+    {
+        "CategoryID": "GypsumAttunement",
+        "DisplayText": "@GypsumAttunement_GroupName"
+    },
+    {
+        "CategoryID": "AttributeStr",
+        "DisplayText": "@AttributeStr"
+    },
+    {
+        "CategoryID": "AttributeDex",
+        "DisplayText": "@AttributeDex"
+    },
+    {
+        "CategoryID": "AttributeInt",
+        "DisplayText": "@AttributeInt"
+    },
+    {
+        "CategoryID": "AttributeFoc",
+        "DisplayText": "@AttributeFoc"
+    },
+    {
+        "CategoryID": "AttributeCon",
+        "DisplayText": "@AttributeCon"
+    },
+    {
+        "CategoryID": "TimelessShardsStr",
+        "DisplayText": "@TimelessShardsStr"
+    },
+    {
+        "CategoryID": "TimelessShardsDex",
+        "DisplayText": "@TimelessShardsDex"
+    },
+    {
+        "CategoryID": "TimelessShardsInt",
+        "DisplayText": "@TimelessShardsInt"
+    },
+    {
+        "CategoryID": "TimelessShardsFoc",
+        "DisplayText": "@TimelessShardsFoc"
+    },
+    {
+        "CategoryID": "TimelessShardsCon",
+        "DisplayText": "@TimelessShardsCon"
     }
 ]

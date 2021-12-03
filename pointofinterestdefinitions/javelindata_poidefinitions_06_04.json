@@ -223,16 +223,16 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "DiscoveryRadius": 150,
-        "IsDiscoverable": true,
+        "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": 0,
-        "DiscoveredAchievement": "spiritshrine_02_60414_discovered",
+        "DefaultAchievement": 1,
         "ChartedAchievement": "spiritshrine_02_60414_charted",
         "POITag": "spiritshrine_60414",
         "AudioGroup": "Music_POI",
         "AudioState": "spiritshrine",
         "CanPlaceCamp": false,
         "DevName": "Spirit Shrine",
-        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png"
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
     }
 ]

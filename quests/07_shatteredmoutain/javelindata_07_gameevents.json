@@ -619,9 +619,19 @@
         "AzothRewardChance": 1
     },
     {
+        "EventID": "0726_Gravestone_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
         "EventID": "0701_AntiCorruptionBomb_interact",
         "Level": 0,
-        "CreatureType": "Quest",
+        "CreatureType": "Quest-",
         "UniversalExpAmount": 0,
         "CurrencyReward": 0,
         "EmitTelemetry": true,
@@ -631,7 +641,7 @@
     {
         "EventID": "0701_AntiCorruptionBombB_interact",
         "Level": 0,
-        "CreatureType": "Quest",
+        "CreatureType": "Quest-",
         "UniversalExpAmount": 0,
         "CurrencyReward": 0,
         "EmitTelemetry": true,
@@ -641,7 +651,7 @@
     {
         "EventID": "0702_BlightNodule_interact",
         "Level": 0,
-        "CreatureType": "Quest",
+        "CreatureType": "Quest-",
         "UniversalExpAmount": 0,
         "CurrencyReward": 0,
         "EmitTelemetry": true,
@@ -651,7 +661,17 @@
     {
         "EventID": "0703_BaetylusLuckstone_interact",
         "Level": 0,
-        "CreatureType": "Quest",
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "0726_BookOfIsabella_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
         "UniversalExpAmount": 0,
         "CurrencyReward": 0,
         "EmitTelemetry": true,

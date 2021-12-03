@@ -142,5 +142,12 @@
         "Title": "@0725_Prospector_Title",
         "GenericName": "@0725_Prospector",
         "ConversationStateId1": "0725_00_Prospector"
+    },
+    {
+        "NPCId": "0728_Kesava",
+        "Title": "@0728_Kesava_Title",
+        "GenericName": "@0728_Kesava",
+        "ConversationStateId1": "0728_Kesava_Default",
+        "ConversationStateId2": "0728_Kesava_1"
     }
 ]

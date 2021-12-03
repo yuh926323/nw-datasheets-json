@@ -10,7 +10,8 @@
         "AllowInFtue": false,
         "AllowInWar": false,
         "AllowInArena": false,
-        "DisallowInGameModes": "Dungeon,OutpostRush,Duel,"
+        "DisallowInGameModes": "Dungeon,OutpostRush,Duel,",
+        "DisallowedWaterDepths": "Deep,"
     },
     {
         "ActivityCrc": "Trade",

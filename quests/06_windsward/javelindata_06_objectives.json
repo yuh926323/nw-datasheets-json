@@ -392,7 +392,7 @@
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@0603_0201_survivalistquest_complete_availaible_response",
         "HideIncompleteTurninMarker": false,
-        "ReleaseEventTags": "HFR"
+        "ORMReleaseEventTags": "HFR"
     },
     {
         "ObjectiveID": "0603_0201_survivalistquest_V2",
@@ -1172,7 +1172,7 @@
     },
     {
         "ObjectiveID": "0623_0101_FQ01",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 5,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1196,7 +1196,7 @@
     },
     {
         "ObjectiveID": "0623_0102_FQ02",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 10,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1221,7 +1221,7 @@
     },
     {
         "ObjectiveID": "0423_0101_FQ03",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 15,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1246,7 +1246,7 @@
     },
     {
         "ObjectiveID": "0923_0101_FQ04",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 20,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1271,7 +1271,7 @@
     },
     {
         "ObjectiveID": "1223_0101_FQ05",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1296,7 +1296,7 @@
     },
     {
         "ObjectiveID": "1023_0101_FQ06",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 30,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1321,7 +1321,7 @@
     },
     {
         "ObjectiveID": "0223_0101_FQ07",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 35,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1346,7 +1346,7 @@
     },
     {
         "ObjectiveID": "1323_0101_FQ08",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 40,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1371,7 +1371,7 @@
     },
     {
         "ObjectiveID": "1523_0101_FQ09",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 40,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1396,7 +1396,7 @@
     },
     {
         "ObjectiveID": "1123_0101_FQ10",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 45,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1421,7 +1421,7 @@
     },
     {
         "ObjectiveID": "1424_0101_FQ11",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 50,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1446,7 +1446,7 @@
     },
     {
         "ObjectiveID": "0324_0101_FQ12",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 55,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1471,7 +1471,7 @@
     },
     {
         "ObjectiveID": "0724_0101_FQ13",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1496,7 +1496,7 @@
     },
     {
         "ObjectiveID": "0823_0101_FQ14",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1521,7 +1521,7 @@
     },
     {
         "ObjectiveID": "0523_0101_FQ15",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,

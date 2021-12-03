@@ -11,7 +11,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_story_task_getoffthebeach",
-        "IsHidden": 0,
         "SubTask1": "0901_0100_d_02_task_goto_watchtower"
     },
     {
@@ -28,8 +27,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_onboarding_goToOutpost_task01_desc",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_onboarding_goToOutpost_task01_desc"
     },
     {
         "TaskID": "0901_0101_d_00_container_culldrowned",
@@ -42,7 +40,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0901_0101_d_02_TaskGoToPOITag_drowned_shipwreck_2",
         "SubTask2": "0901_0101_d_03_kill_3_Drowned"
     },
@@ -58,8 +55,7 @@
         "UIScreenTag": "Map",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0901_0101_d_01_task",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0901_0101_d_01_task"
     },
     {
         "TaskID": "0901_0101_d_02_TaskGoToPOITag_drowned_shipwreck_2",
@@ -74,8 +70,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0901_0101_d_02_task",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0901_0101_d_02_task"
     },
     {
         "TaskID": "0901_0101_d_03_kill_3_Drowned",
@@ -91,8 +86,7 @@
         "KillEnemyType": "Drowned",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0901_0101_d_03_task",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0901_0101_d_03_task"
     },
     {
         "TaskID": "0901_0102_d_00_container_campandtools",
@@ -105,7 +99,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0901_0102_d_01_container_campandtools_gather",
         "SubTask2": "0901_0102_d_02_TaskHaveItems_1_1hSkinningKnifeT1"
     },
@@ -120,7 +113,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0901_0102_d_01_01_TaskHaveItems_1_FlintT1",
         "SubTask2": "0901_0102_d_01_02_TaskHaveItems_1_WoodT1"
     },
@@ -136,8 +129,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 1,
-        "TP_DescriptionTag": "@0901_0102_d_02_task",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0901_0102_d_02_task"
     },
     {
         "TaskID": "0901_0102_d_01_02_TaskHaveItems_1_WoodT1",
@@ -151,8 +143,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0901_0102_d_03_task",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0901_0102_d_03_task"
     },
     {
         "TaskID": "0901_0102_d_02_TaskHaveItems_1_1hSkinningKnifeT1",
@@ -169,8 +160,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0102_d_04_task",
-        "OverrideLocation": "9739.80 337.22 45.20",
-        "IsHidden": 0
+        "OverrideLocation": "9739.80 337.22 45.20"
     },
     {
         "TaskID": "0901_0103_d_00_container_boarproblem",
@@ -183,7 +173,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0901_0103_d_01_kill_1_Boar",
         "SubTask2": "0901_0103_d_02_equip_skinning",
         "SubTask3": "0901_0103_d_03_TaskGatherItems_1_RedMeatT1",
@@ -203,8 +192,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0103_d_01_task",
-        "OverrideLocation": "9743.953 398.832 55.843",
-        "IsHidden": 0
+        "OverrideLocation": "9743.953 398.832 55.843"
     },
     {
         "TaskID": "0901_0103_d_02_equip_skinning",
@@ -219,8 +207,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0103_d_02_task",
-        "OverrideLocation": "9743.953 398.832 55.843",
-        "IsHidden": 0
+        "OverrideLocation": "9743.953 398.832 55.843"
     },
     {
         "TaskID": "0901_0103_d_03_TaskGatherItems_1_RedMeatT1",
@@ -236,8 +223,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0103_d_03_task",
-        "OverrideLocation": "9743.953 398.832 55.843",
-        "IsHidden": 0
+        "OverrideLocation": "9743.953 398.832 55.843"
     },
     {
         "TaskID": "0901_0103_d_04_TaskGameEvent_1_Craft_CookingT1",
@@ -254,8 +240,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0103_d_04_task",
-        "OverrideLocation": "9739.80 337.22 45.20",
-        "IsHidden": 0
+        "OverrideLocation": "9739.80 337.22 45.20"
     },
     {
         "TaskID": "0901_0103_d_05_TaskHaveItems_1_LightRation",
@@ -270,7 +255,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0901_0104_d_00_container_xmarksthespot",
@@ -283,7 +268,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0901_0104_d_01_TaskGoToPOITag_shipwreck_40005",
         "SubTask2": "0901_0104_d_02_container_xmarksthespot_lorepages",
         "SubTask3": "0901_0104_d_03_container_xmarksthespot_locker",
@@ -302,8 +286,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0901_0104_xmarksthespot_GoTo_POI_search",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0901_0104_xmarksthespot_GoTo_POI_search"
     },
     {
         "TaskID": "0901_0104_d_02_container_xmarksthespot_lorepages",
@@ -318,7 +301,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0104_xmarksthespot_POIRef_shipwreck_40005",
-        "IsHidden": 0,
         "SubTask1": "0901_0104_d_02_01_TaskAchievement_ShipsRoster_shipwreck_40005",
         "SubTask2": "0901_0104_d_02_02_TaskAchievement_ShipsManifest_shipwreck_40005",
         "SubTask3": "0901_0104_d_02_03_TaskAchievement_ShipsLog_shipwreck_40005"
@@ -337,8 +319,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0104_xmarksthespot_collect_shipsroster",
-        "OverrideLocation": "9868.855 276.170 42.598",
-        "IsHidden": 0
+        "OverrideLocation": "9868.855 276.170 42.598"
     },
     {
         "TaskID": "0901_0104_d_02_02_TaskAchievement_ShipsManifest_shipwreck_40005",
@@ -354,8 +335,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0104_xmarksthespot_collect_shipsmanifest",
-        "OverrideLocation": "9858.940 266.077 40.374",
-        "IsHidden": 0
+        "OverrideLocation": "9858.940 266.077 40.374"
     },
     {
         "TaskID": "0901_0104_d_02_03_TaskAchievement_ShipsLog_shipwreck_40005",
@@ -371,8 +351,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0104_xmarksthespot_collect_shipslog",
-        "OverrideLocation": "9929.145 302.392 40.834",
-        "IsHidden": 0
+        "OverrideLocation": "9929.145 302.392 40.834"
     },
     {
         "TaskID": "0901_0104_d_03_container_xmarksthespot_locker",
@@ -386,7 +365,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0901_0104_d_03_01_TaskGoToPOITag_shipwreck_40006",
         "SubTask2": "0901_0104_d_03_02_TaskGatherAndReturnItems_ShipsLocker_shipwreck_40006"
     },
@@ -402,8 +381,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0901_0104_xmarksthespot_GoTo_POI_search",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0901_0104_xmarksthespot_GoTo_POI_search"
     },
     {
         "TaskID": "0901_0104_d_03_02_TaskGatherAndReturnItems_ShipsLocker_shipwreck_40006",
@@ -423,8 +401,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0104_xmarksthespot_search_IO_at_POI",
-        "OverrideLocation": "9989.58 198.37 45.37",
-        "IsHidden": 0
+        "OverrideLocation": "9989.58 198.37 45.37"
     },
     {
         "TaskID": "0901_0104_d_04_TaskGoToPOITag_shipwreck_40004",
@@ -438,8 +415,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0901_0104_xmarksthespot_GoTo_POI_search",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0901_0104_xmarksthespot_GoTo_POI_search"
     },
     {
         "TaskID": "0901_0104_d_05_container_xmarksthespot_flags",
@@ -454,7 +430,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0104_xmarksthespot_POIRef_shipwreck_40004",
-        "IsHidden": 0,
         "SubTask1": "0901_0104_d_05_01_TaskGatherAndReturnItems_shipflagStern_shipwreck_40004",
         "SubTask2": "0901_0104_d_05_02_TaskGatherAndReturnItems_shipflagBow_shipwreck_40004"
     },
@@ -476,8 +451,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0104_xmarksthespot_collect_sternflag",
-        "OverrideLocation": "9935.793 413.678 51.641",
-        "IsHidden": 0
+        "OverrideLocation": "9935.793 413.678 51.641"
     },
     {
         "TaskID": "0901_0104_d_05_02_TaskGatherAndReturnItems_shipflagBow_shipwreck_40004",
@@ -497,8 +471,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0104_xmarksthespot_collect_bowflag",
-        "OverrideLocation": "9924.812 373.003 50.231",
-        "IsHidden": 0
+        "OverrideLocation": "9924.812 373.003 50.231"
     },
     {
         "TaskID": "0901_0107_d_00_container_preciouscargo",
@@ -511,7 +484,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0901_0107_d_01_TaskGoToPOITag_drowned_cavern",
         "SubTask2": "0901_0107_d_02_TaskTriggerArea_drowned_cavern",
         "SubTask3": "0901_0107_d_03_kill_Damned_Cultist_Named_03_drowned_cavern"
@@ -529,8 +501,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0901_0107_d_01_task",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0901_0107_d_01_task"
     },
     {
         "TaskID": "0901_0107_d_02_TaskTriggerArea_drowned_cavern",
@@ -547,8 +518,7 @@
         "UseLargeItemDisplay": 0,
         "TP_TargetTag": "TriggerVol_09_BeachCave",
         "TP_DescriptionTag": "@0901_0107_d_02_task",
-        "OverrideLocation": "9755.29 476.29 59.19",
-        "IsHidden": 0
+        "OverrideLocation": "9755.29 476.29 59.19"
     },
     {
         "TaskID": "0901_0107_d_03_kill_Damned_Cultist_Named_03_drowned_cavern",
@@ -565,8 +535,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0901_0107_d_03_task",
-        "OverrideLocation": "9755.29 476.29 59.19",
-        "IsHidden": 0
+        "OverrideLocation": "9755.29 476.29 59.19"
     },
     {
         "TaskID": "0901_0108_d_00_container_introtosettlement",
@@ -579,7 +548,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0901_0108_d_01_GrantAchievement_FirstLight",
         "SubTask2": "0901_0108_d_02_transport_npc_note",
         "SubTask3": "0901_0108_d_03_have_npc_note",
@@ -598,7 +566,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0901_0108_d_02_transport_npc_note",
@@ -614,7 +582,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0901_0108_d_03_have_npc_note",
@@ -630,7 +598,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 1,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0901_0108_d_04_task_openmap",
@@ -644,8 +612,7 @@
         "UIScreenTag": "Map",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@task_getoffbeach_openmap",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@task_getoffbeach_openmap"
     },
     {
         "TaskID": "0925_0101_d_00_container_truffles",
@@ -658,7 +625,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0925_0101_d_01_GiveItem_GatheringSickleT1",
         "SubTask2": "0925_0101_d_01A_EquipItem_Sickle",
         "SubTask3": "0925_0101_d_02_container_truffles_tasks",
@@ -678,7 +644,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0925_0101_d_01A_EquipItem_Sickle",
@@ -693,8 +659,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0425_0101_truffles_equip_sickle",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0425_0101_truffles_equip_sickle"
     },
     {
         "TaskID": "0925_0101_d_02_container_truffles_tasks",
@@ -707,7 +672,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0925_0101_d_02_01_GatherAndReturn_5_DeliciousTruffles",
         "SubTask2": "0925_0101_d_02_02_container_truffles_tasks"
     },
@@ -728,8 +693,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0425_0101_truffles_gather_truffle",
-        "OverrideLocation": "9476.864 468.780 60.205",
-        "IsHidden": 0
+        "OverrideLocation": "9476.864 468.780 60.205"
     },
     {
         "TaskID": "0925_0101_d_02_02_container_truffles_tasks",
@@ -742,7 +706,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0925_0101_d_02_02_01_Have_5_DeliciousTruffles",
         "SubTask2": "0925_0101_d_02_02_02_container_truffles_gather"
     },
@@ -759,7 +723,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0925_0101_d_02_02_02_container_truffles_gather",
@@ -773,7 +737,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0425_0101_truffles_optional_gather_hyssop",
-        "IsHidden": 0,
         "SubTask1": "0925_0101_d_02_02_02_01_GatherAndReturn_Herbs",
         "SubTask2": "0925_0101_d_02_02_02_02_GatherAndReturn_Berries"
     },
@@ -790,7 +753,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0925_0101_d_02_02_02_02_GatherAndReturn_Berries",
@@ -805,7 +768,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0925_0101_d_03_SliceSwap_0425_HerbalistPath_Off",
@@ -820,7 +783,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0925_0101_d_04_SliceSwap_0425_HerbalistFLTown_On",
@@ -835,7 +798,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_01a01_d_00_container_warnmagistrate",
@@ -848,7 +811,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0904_01a01_d_01_transport_npc_note",
         "SubTask2": "0904_01a01_d_02_have_npc_note"
     },
@@ -866,7 +828,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_01a01_d_02_have_npc_note",
@@ -882,7 +844,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 1,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0902_0101_d_00_container_hearthandhome",
@@ -895,26 +857,10 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
-        "SubTask1": "0902_0101_d_01_givetraveltoken",
-        "SubTask2": "0902_0101_d_02_interact_inn"
+        "SubTask1": "0902_0101_d_01_interact_inn"
     },
     {
-        "TaskID": "0902_0101_d_01_givetraveltoken",
-        "Type": "TaskGiveItem",
-        "TargetQty": 1,
-        "ItemName": "0905_0307_Ectoplasm",
-        "ItemDropProbability": 0,
-        "ChestDropProbability": 0,
-        "EnforceLocationRequirement": false,
-        "AwardOnlyOnce": false,
-        "ShouldCheckPoints": false,
-        "Duration": 0,
-        "UseLargeItemDisplay": 0,
-        "IsHidden": 0
-    },
-    {
-        "TaskID": "0902_0101_d_02_interact_inn",
+        "TaskID": "0902_0101_d_01_interact_inn",
         "Type": "TaskOpenUiScreen",
         "TargetQty": 1,
         "ItemDropProbability": 0,
@@ -925,8 +871,7 @@
         "UIScreenTag": "InnInteractMenu",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0101_hearthandhome_interact_inn",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0101_hearthandhome_interact_inn"
     },
     {
         "TaskID": "0902_0102_d_00_container_intrototrader",
@@ -939,7 +884,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0902_0102_d_01_open_tradingpost",
         "SubTask2": "0902_0102_d_02_openUI_global_storage"
     },
@@ -955,8 +899,7 @@
         "UIScreenTag": "Contracts",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0102_intrototrader_open_tradingpost",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0102_intrototrader_open_tradingpost"
     },
     {
         "TaskID": "0902_0102_d_02_openUI_global_storage",
@@ -970,8 +913,7 @@
         "InteractTag": "SettlementStorage",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0102_intrototrader_openUI_global_storage",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0102_intrototrader_openUI_global_storage"
     },
     {
         "TaskID": "0905_0102_d_00_container_campingunlock",
@@ -984,7 +926,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0905_0102_d_01_transport_npc_note",
         "SubTask2": "0905_0102_d_02_have_npc_note"
     },
@@ -1002,7 +943,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0905_0102_d_02_have_npc_note",
@@ -1018,7 +959,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 1,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0903_0201_d_00_container_survivalistquest",
@@ -1031,7 +972,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0903_0201_d_01_survivalistquest_makeCamp",
         "SubTask2": "0903_0201_d_02_container_survivalistquest_wolfDens"
     },
@@ -1047,8 +987,7 @@
         "KillEnemyType": "MakeCamp",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0201_survivalistquest_makecamp",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0201_survivalistquest_makecamp"
     },
     {
         "TaskID": "0903_0201_d_02_container_survivalistquest_wolfDens",
@@ -1061,7 +1000,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0903_0201_d_02_01_TaskGoToPOITag_alphawolf_den_40010",
         "SubTask2": "0903_0201_d_02_02_survivalistquest_kill_5_Wolf_alphawolf_den_40010",
         "SubTask3": "0903_0201_d_02_03_TaskGoToPOITag_alphawolf_den_40023",
@@ -1080,8 +1019,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@09_task_travelto_POITag_generic",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@09_task_travelto_POITag_generic"
     },
     {
         "TaskID": "0903_0201_d_02_02_survivalistquest_kill_5_Wolf_alphawolf_den_40010",
@@ -1097,8 +1035,7 @@
         "KillEnemyType": "Wolf_Timber_09FL02",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@09_task_cull_enemies_generic",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@09_task_cull_enemies_generic"
     },
     {
         "TaskID": "0903_0201_d_02_03_TaskGoToPOITag_alphawolf_den_40023",
@@ -1113,8 +1050,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@09_task_travelto_POITag_generic",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@09_task_travelto_POITag_generic"
     },
     {
         "TaskID": "0903_0201_d_02_04_TaskHaveAndReturnItems_4_MI_CoarseWolfHairs_Wolf",
@@ -1132,8 +1068,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0201_survivalistquest_skin_target",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0201_survivalistquest_skin_target"
     },
     {
         "TaskID": "0903_0201_d_00_container_survivalistquest_V2",
@@ -1146,7 +1081,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0903_0201_V2_d_01_survivalistquest_makeCamp",
         "SubTask2": "0903_0201_V2_d_01_01_container_survivalistquest_wolfDens"
     },
@@ -1162,8 +1096,7 @@
         "KillEnemyType": "MakeCamp",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0201_survivalistquest_makecamp",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0201_survivalistquest_makecamp"
     },
     {
         "TaskID": "0903_0201_V2_d_01_01_container_survivalistquest_wolfDens",
@@ -1176,7 +1109,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0903_0201_V2_d_02_00_container_survivalistquest_wolfDen_01",
         "SubTask2": "0903_0201_V2_d_02_00_container_survivalistquest_wolfDen_02"
     },
@@ -1191,7 +1124,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0903_0201_V2_d_02_01_TaskGoToPOITag_alphawolf_den_wolf_den_40226",
         "SubTask2": "0903_0201_V2_d_02_02_TaskHaveAndReturnItems_4_MI_CoarseWolfHairs_Wolf"
     },
@@ -1208,8 +1141,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0201_V2_TaskGoToPOITag_WolfDen01",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0201_V2_TaskGoToPOITag_WolfDen01"
     },
     {
         "TaskID": "0903_0201_V2_d_02_02_TaskHaveAndReturnItems_4_MI_CoarseWolfHairs_Wolf",
@@ -1227,8 +1159,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0201_V2_TaskHaveAndReturnItems",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0201_V2_TaskHaveAndReturnItems"
     },
     {
         "TaskID": "0903_0201_V2_d_02_00_container_survivalistquest_wolfDen_02",
@@ -1241,7 +1172,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0903_0201_V2_d_02_01_TaskGoToPOITag_alphawolf_den_40230",
         "SubTask2": "0903_0201_V2_d_03_00_container_survivalistquest_killAlpha"
     },
@@ -1258,8 +1189,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0201_V2_TaskGoToPOITag_WolfDen02",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0201_V2_TaskGoToPOITag_WolfDen02"
     },
     {
         "TaskID": "0903_0201_V2_d_03_00_container_survivalistquest_killAlpha",
@@ -1273,7 +1203,7 @@
         "InteractTag": "IO_0903_0201_AlphaLure",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0903_0201_V2_d_03_01_container_survivalistquest_wolfDen_02_PartialContainer",
         "SubTask2": "0903_0201_V2_d_03_03_TaskHaveAndReturnItems_FineAlphaFur"
     },
@@ -1288,7 +1218,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0903_0201_V2_d_03_02a_TaskInteract_LureAlpha_Optional",
         "SubTask2": "0903_0201_V2_d_02_02b_TaskInteract_KillContribution_Alpha_Hidden"
     },
@@ -1306,8 +1236,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0903_0201_V2_TaskInteract_LureAlpha_Optional",
-        "OverrideLocation": "8495.422 890.757 105.636",
-        "IsHidden": 0
+        "OverrideLocation": "8495.422 890.757 105.636"
     },
     {
         "TaskID": "0903_0201_V2_d_02_02b_TaskInteract_KillContribution_Alpha_Hidden",
@@ -1323,7 +1252,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0903_0201_V2_TaskInteract_KillContribution_Alpha_Hidden",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0903_0201_V2_d_03_03_TaskHaveAndReturnItems_FineAlphaFur",
@@ -1341,8 +1270,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0903_0201_V2_TaskHaveAndReturnItems_FineAlphaFur",
-        "OverrideLocation": "8495.422 890.757 105.636",
-        "IsHidden": 0
+        "OverrideLocation": "8495.422 890.757 105.636"
     },
     {
         "TaskID": "0902_0103_d_00_container_introtooverseer",
@@ -1355,7 +1283,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0902_0103_d_01_transport_npc_note",
         "SubTask2": "0902_0103_d_02_have_npc_note"
     },
@@ -1372,7 +1299,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0902_0103_d_02_have_npc_note",
@@ -1388,7 +1315,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 1,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_0104_d_00_container_overseersettlement",
@@ -1401,7 +1328,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0904_0104_d_01_container_overseersettlement_gather",
         "SubTask2": "0904_0104_d_02_container_overseersettlement_refine"
     },
@@ -1416,7 +1342,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0904_0104_d_01_01_TaskHaveItems_40_StoneT1",
         "SubTask2": "0904_0104_d_01_02_TaskHaveItems_16_RawhideT1",
         "SubTask3": "0904_0104_d_01_03_TaskHaveItems_40_WoodT1"
@@ -1433,8 +1359,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0104_overseersettlement_gather_stone",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0104_overseersettlement_gather_stone"
     },
     {
         "TaskID": "0904_0104_d_01_02_TaskHaveItems_16_RawhideT1",
@@ -1448,8 +1373,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0104_overseersettlement_gather_rawhide",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0104_overseersettlement_gather_rawhide"
     },
     {
         "TaskID": "0904_0104_d_01_03_TaskHaveItems_40_WoodT1",
@@ -1463,8 +1387,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0104_overseersettlement_gather_wood",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0104_overseersettlement_gather_wood"
     },
     {
         "TaskID": "0904_0104_d_02_container_overseersettlement_refine",
@@ -1477,7 +1400,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0904_0104_d_02_01_TaskHaveAndReturnItems_10_TimberT2",
         "SubTask2": "0904_0104_d_02_02_TaskHaveAndReturnItems_10_BlockT2",
         "SubTask3": "0904_0104_d_02_03_TaskHaveAndReturnItems_4_LeatherT2"
@@ -1495,8 +1418,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0104_overseersettlement_refine_timber",
-        "OverrideLocation": "8852 643 3.16",
-        "IsHidden": 0
+        "OverrideLocation": "8852 643 3.16"
     },
     {
         "TaskID": "0904_0104_d_02_02_TaskHaveAndReturnItems_10_BlockT2",
@@ -1511,8 +1433,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0104_overseersettlement_refine_blocks",
-        "OverrideLocation": "8868 627 0.26",
-        "IsHidden": 0
+        "OverrideLocation": "8868 627 0.26"
     },
     {
         "TaskID": "0904_0104_d_02_03_TaskHaveAndReturnItems_4_LeatherT2",
@@ -1527,8 +1448,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0104_overseersettlement_refine_leather",
-        "OverrideLocation": "8855 672 3.45",
-        "IsHidden": 0
+        "OverrideLocation": "8855 672 3.45"
     },
     {
         "TaskID": "0904_0103_d_00_container_introtoartificer",
@@ -1541,7 +1461,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0904_0103_d_01_transport_npc_note",
         "SubTask2": "0904_0103_d_02_have_npc_note"
     },
@@ -1559,7 +1478,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_0103_d_02_have_npc_note",
@@ -1575,7 +1494,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 1,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0905_0101_d_00_container_craftforartificer",
@@ -1588,7 +1507,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0905_0101_d_01_GiveItem_ArtificerResourceContainer1",
         "SubTask2": "0905_0101_d_02_container_craftforartificer_tasks",
         "SubTask3": "0905_0101_d_03_HaveItems_9_IngotT2",
@@ -1608,7 +1526,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0905_0101_d_02_container_craftforartificer_tasks",
@@ -1621,7 +1539,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0905_0101_d_02_01_container_craftforartificer_tasks_ore",
         "SubTask2": "0905_0101_d_02_02_HaveItems_1_IngotT2"
     },
@@ -1637,7 +1555,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_gatherironore",
-        "IsHidden": 0,
         "SubTask1": "0905_0101_d_02_01_01_HaveItems_90_OreT1"
     },
     {
@@ -1652,8 +1569,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0101_d_01_task",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0101_d_01_task"
     },
     {
         "TaskID": "0905_0101_d_02_02_HaveItems_1_IngotT2",
@@ -1667,7 +1583,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0905_0101_d_03_HaveItems_9_IngotT2",
@@ -1682,8 +1598,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0905_0101_d_02_task",
-        "OverrideLocation": "8844 648 2.99",
-        "IsHidden": 0
+        "OverrideLocation": "8844 648 2.99"
     },
     {
         "TaskID": "0905_0101_d_04_CraftRecipe",
@@ -1700,8 +1615,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0905_0101_d_03_task",
-        "OverrideLocation": "8835 659 2.84",
-        "IsHidden": 0
+        "OverrideLocation": "8835 659 2.84"
     },
     {
         "TaskID": "0905_0101_d_05_HaveItems_1_1hSwordT2",
@@ -1716,7 +1630,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "OverrideLocation": "8835 659 2.84",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0903_0202_d_00_container_returntomagistrate",
@@ -1729,7 +1643,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0903_0202_d_01_transport_npc_note",
         "SubTask2": "0903_0202_d_02_have_npc_note"
     },
@@ -1747,7 +1660,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0903_0202_d_02_have_npc_note",
@@ -1763,7 +1676,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 1,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0902_0202_d_00_container_introtoallfactions",
@@ -1776,7 +1689,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0909_0202_d_00_introtoallfactions_accepted",
         "SubTask2": "0902_0202_d_01_container_introtoallfactions_talkTo",
         "SubTask3": "0902_0202_d_03_talkedtoallfactions",
@@ -1795,7 +1707,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0902_0202_d_01_container_introtoallfactions_talkTo",
@@ -1809,7 +1721,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0202_introtoallfactions_choose",
-        "IsHidden": 0,
         "SubTask1": "0902_0202_d_02_01_TaskGameEvent_Marauder",
         "SubTask2": "0902_0202_d_02_02_TaskGameEvent_Syndicate",
         "SubTask3": "0902_0202_d_02_03_TaskGameEvent_Covenant"
@@ -1828,8 +1739,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0202_introtoallfactions_speak_marauders",
-        "OverrideLocation": "8803.2 742.45 85.12",
-        "IsHidden": 0
+        "OverrideLocation": "8803.2 742.45 85.12"
     },
     {
         "TaskID": "0902_0202_d_02_02_TaskGameEvent_Syndicate",
@@ -1845,8 +1755,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0202_introtoallfactions_speak_syndicate",
-        "OverrideLocation": "8861.88 642.36 61.79",
-        "IsHidden": 0
+        "OverrideLocation": "8861.88 642.36 61.79"
     },
     {
         "TaskID": "0902_0202_d_02_03_TaskGameEvent_Covenant",
@@ -1862,8 +1771,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0202_introtoallfactions_speak_covenant",
-        "OverrideLocation": "8903.63 686.46 61.47",
-        "IsHidden": 0
+        "OverrideLocation": "8903.63 686.46 61.47"
     },
     {
         "TaskID": "0902_0202_d_03_talkedtoallfactions",
@@ -1878,7 +1786,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0902_0202_d_04_talkedtoMagistrate",
@@ -1894,8 +1802,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0202_introtoallfactions_speak_magistrate",
-        "OverrideLocation": "8869.98 706.14 62.08",
-        "IsHidden": 0
+        "OverrideLocation": "8869.98 706.14 62.08"
     },
     {
         "TaskID": "0907_0101_d_00_container_marauderquest1",
@@ -1908,7 +1815,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0907_0101_d_01_TaskGoToPOITag_abandoned_village_40015",
         "SubTask2": "0907_0101_d_02_container_marauderquest1_subtask1"
     },
@@ -1925,8 +1831,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@09_task_travelto_POITag_generic",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@09_task_travelto_POITag_generic"
     },
     {
         "TaskID": "0907_0101_d_02_container_marauderquest1_subtask1",
@@ -1939,7 +1844,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0907_0101_d_02_01_kill_25_Withered",
         "SubTask2": "0907_0101_d_02_02_TaskHaveAndReturnItems_6_FlawedFreshPearl_abandoned_village_40015",
         "SubTask3": "0907_0101_d_02_03_TaskHaveAndReturnItems_3_SilverFlask_WitheredRetcher"
@@ -1957,8 +1862,7 @@
         "KillEnemyType": "Lakecast",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0907_0101_marauderquest1_cull_enemy_group_withered",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0907_0101_marauderquest1_cull_enemy_group_withered"
     },
     {
         "TaskID": "0907_0101_d_02_02_TaskHaveAndReturnItems_6_FlawedFreshPearl_abandoned_village_40015",
@@ -1975,8 +1879,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0907_0101_marauderquest1_search_container_for_item_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0907_0101_marauderquest1_search_container_for_item_at_POI"
     },
     {
         "TaskID": "0907_0101_d_02_03_TaskHaveAndReturnItems_3_SilverFlask_WitheredRetcher",
@@ -1994,8 +1897,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0907_0101_marauderquest1_recover_item_from_targets_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0907_0101_marauderquest1_recover_item_from_targets_at_POI"
     },
     {
         "TaskID": "0908_0101_d_00_container_syndicatequest1",
@@ -2008,7 +1910,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0908_0101_d_01_TaskGoToPOITag_abandoned_village_40002",
         "SubTask2": "0908_0101_d_02_TaskHaveAndReturnItems_8_AzothSplinter_abandoned_village_40002"
     },
@@ -2025,8 +1926,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@09_task_travelto_POITag_generic",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@09_task_travelto_POITag_generic"
     },
     {
         "TaskID": "0908_0101_d_02_TaskHaveAndReturnItems_8_AzothSplinter_abandoned_village_40002",
@@ -2043,8 +1943,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0908_0101_syndicatequest1_search_container_for_item_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0908_0101_syndicatequest1_search_container_for_item_at_POI"
     },
     {
         "TaskID": "0909_0101_d_00_container_covenantquest1",
@@ -2057,7 +1956,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0909_0101_d_01_TaskGoToPOITag_corrupted_camp_40013",
         "SubTask2": "0909_0101_d_02_container_covenantquest1_subtask1"
     },
@@ -2074,8 +1972,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@09_task_travelto_POITag_generic",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@09_task_travelto_POITag_generic"
     },
     {
         "TaskID": "0909_0101_d_02_container_covenantquest1_subtask1",
@@ -2088,7 +1985,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0909_0101_d_02_01_kill_12_Corrupted",
         "SubTask2": "0909_0101_d_02_02_TaskHaveAndReturnItems_3_BlessedIronBlank_corrupted_camp_40013",
         "SubTask3": "0909_0101_d_02_03_TaskHaveAndReturnItems_8_SpoiledRations_CorruptedSkinner"
@@ -2106,8 +2003,7 @@
         "KillEnemyType": "Gristlerot",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0909_0101_covenantquest1_cull_enemy_group_corrupted",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0909_0101_covenantquest1_cull_enemy_group_corrupted"
     },
     {
         "TaskID": "0909_0101_d_02_02_TaskHaveAndReturnItems_3_BlessedIronBlank_corrupted_camp_40013",
@@ -2124,8 +2020,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0909_0101_covenantquest1_search_container_for_item_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0909_0101_covenantquest1_search_container_for_item_at_POI"
     },
     {
         "TaskID": "0909_0101_d_02_03_TaskHaveAndReturnItems_8_SpoiledRations_CorruptedSkinner",
@@ -2143,8 +2038,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0909_0101_covenantquest1_recover_item_from_targets_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0909_0101_covenantquest1_recover_item_from_targets_at_POI"
     },
     {
         "TaskID": "0909_0103_d_00_container_timetochoose",
@@ -2157,7 +2051,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0909_0103_d_03_timetochoose_accept",
         "SubTask2": "0909_0103_d_01_container_timetochoose_choice"
     },
@@ -2174,7 +2067,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0909_0103_d_01_container_timetochoose_choice",
@@ -2187,7 +2080,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0909_0103_d_01_01_timetochoose_choice_marauder",
         "SubTask2": "0909_0103_d_01_02_timetochoose_choice_syndicate",
         "SubTask3": "0909_0103_d_01_03_timetochoose_choice_covenant"
@@ -2205,8 +2098,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0909_0103_timetochoose_choice_marauders",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0909_0103_timetochoose_choice_marauders"
     },
     {
         "TaskID": "0909_0103_d_01_02_timetochoose_choice_syndicate",
@@ -2221,8 +2113,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0909_0103_timetochoose_choice_syndicate",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0909_0103_timetochoose_choice_syndicate"
     },
     {
         "TaskID": "0909_0103_d_01_03_timetochoose_choice_covenant",
@@ -2237,8 +2128,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0909_0103_timetochoose_choice_covenant",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0909_0103_timetochoose_choice_covenant"
     },
     {
         "TaskID": "0902_0401_d_00_container_factionhandoff",
@@ -2251,7 +2141,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0902_0401_d_01_open_factionMission",
         "SubTask2": "0902_0401_d_02_container_factionhandoff_faction"
     },
@@ -2267,8 +2156,7 @@
         "UIScreenTag": "OWMissionBoard",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0401_factionhandoff_faction_board_open",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0401_factionhandoff_faction_board_open"
     },
     {
         "TaskID": "0902_0401_d_02_container_factionhandoff_faction",
@@ -2282,7 +2170,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0401_factionhandoff_faction_mission_complete",
-        "IsHidden": 0,
         "SubTask1": "0902_0401_d_02_01_Marauder_factionmission_complete",
         "SubTask2": "0902_0401_d_02_02_Syndicate_factionmission_complete",
         "SubTask3": "0902_0401_d_02_03_Covenant_factionmission_complete"
@@ -2300,7 +2187,7 @@
         "ShouldCheckPoints": true,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0902_0401_d_02_02_Syndicate_factionmission_complete",
@@ -2315,7 +2202,7 @@
         "ShouldCheckPoints": true,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0902_0401_d_02_03_Covenant_factionmission_complete",
@@ -2330,7 +2217,7 @@
         "ShouldCheckPoints": true,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_0501_d_00_container_encroachingcorruption",
@@ -2343,7 +2230,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0904_0501_d_01_TalktoConstable",
         "SubTask2": "0904_0501_d_02_container_encroachingcorruption_Interacts"
     },
@@ -2361,8 +2247,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0501_TalktoConstable",
-        "OverrideLocation": "8857.879 775.533 72.258",
-        "IsHidden": 0
+        "OverrideLocation": "8857.879 775.533 72.258"
     },
     {
         "TaskID": "0904_0501_d_02_container_encroachingcorruption_Interacts",
@@ -2376,7 +2261,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0501_encroachingcorruption_interact_nodes",
-        "IsHidden": 0,
         "SubTask1": "0904_0501_d_02_01_corruptednode_A",
         "SubTask2": "0904_0501_d_02_02_corruptednode_B",
         "SubTask3": "0904_0501_d_02_03_corruptednode_C"
@@ -2395,8 +2279,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0501_encroachingcorruption_nodeA",
-        "OverrideLocation": "8734.449 1038.370 88.213",
-        "IsHidden": 0
+        "OverrideLocation": "8734.449 1038.370 88.213"
     },
     {
         "TaskID": "0904_0501_d_02_02_corruptednode_B",
@@ -2412,8 +2295,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0501_encroachingcorruption_nodeB",
-        "OverrideLocation": "8793.403 1273.279 101.314",
-        "IsHidden": 0
+        "OverrideLocation": "8793.403 1273.279 101.314"
     },
     {
         "TaskID": "0904_0501_d_02_03_corruptednode_C",
@@ -2429,8 +2311,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0501_encroachingcorruption_nodeC",
-        "OverrideLocation": "9242.146 1230.209 39.872",
-        "IsHidden": 0
+        "OverrideLocation": "9242.146 1230.209 39.872"
     },
     {
         "TaskID": "0922_1501_d_00_container_intrototravel",
@@ -2443,7 +2324,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0922_1501_d_01_transport_npc_note",
         "SubTask2": "0922_1501_d_02_have_npc_note"
     },
@@ -2461,7 +2341,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0922_1501_d_02_have_npc_note",
@@ -2477,7 +2357,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 1,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0922_1502_d_00_container_returntravel",
@@ -2490,7 +2370,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0922_1502_d_01_task_openmap"
     },
     {
@@ -2505,8 +2384,7 @@
         "UIScreenTag": "Map",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0922_1502_d_01_task",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0922_1502_d_01_task"
     },
     {
         "TaskID": "0910_0101_d_00_container_laidtorest",
@@ -2519,7 +2397,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0910_0101_d_01_TaskGoToPOITag_abandoned_village_40002",
         "SubTask2": "0910_0101_d_02_TaskHaveAndReturnItems_4_DayspringBarley_abandoned_village_40002"
     },
@@ -2536,8 +2413,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0910_0101_laidtorest_goto_dayspringmills",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0910_0101_laidtorest_goto_dayspringmills"
     },
     {
         "TaskID": "0910_0101_d_02_TaskHaveAndReturnItems_4_DayspringBarley_abandoned_village_40002",
@@ -2556,8 +2432,7 @@
         "InteractTag": "IO_0901_Barley",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0910_0101_laidtorest_gather_item_from_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0910_0101_laidtorest_gather_item_from_IO"
     },
     {
         "TaskID": "0910_0102_d_00_container_distillation",
@@ -2570,7 +2445,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0910_0102_d_01_TaskGoToPOITag_abandoned_village_40002",
         "SubTask2": "0910_0102_d_02_container_distillation_tasks"
     },
@@ -2587,8 +2461,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0910_0102_distillation_goto_hilltop",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0910_0102_distillation_goto_hilltop"
     },
     {
         "TaskID": "0910_0102_d_02_container_distillation_tasks",
@@ -2601,7 +2474,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0910_0102_d_02_01_TaskHaveAndReturnItems_4_HilltopHops_corrupted_camp_40013",
         "SubTask2": "0910_0102_d_02_02_TaskHaveAndReturnItems_GirouxBrewRecipe_corrupted_camp_40013"
     },
@@ -2622,8 +2495,7 @@
         "InteractTag": "IO_0903_HilltopHops",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0910_0102_distillation_gather_item_from_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0910_0102_distillation_gather_item_from_IO"
     },
     {
         "TaskID": "0910_0102_d_02_02_TaskHaveAndReturnItems_GirouxBrewRecipe_corrupted_camp_40013",
@@ -2641,8 +2513,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0910_0102_distillation_recover_item_from_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0910_0102_distillation_recover_item_from_target_at_POI"
     },
     {
         "TaskID": "0910_0201_d_00_container_zoneofcontrol",
@@ -2655,7 +2526,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0910_0201_d_01_TaskGoToPOITag_pirate_fort_40017",
         "SubTask2": "0910_0201_d_02_TaskInteract_0907_SabotagedCannon_pirate_fort_40017"
     },
@@ -2672,8 +2542,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0910_0201_zoneofcontrol_goto_coffmans",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0910_0201_zoneofcontrol_goto_coffmans"
     },
     {
         "TaskID": "0910_0201_d_02_TaskInteract_0907_SabotagedCannon_pirate_fort_40017",
@@ -2690,8 +2559,7 @@
         "KillEnemyType": "0907_SabotagedCannon_interact",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0910_0201_zoneofcontrol_interact_with_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0910_0201_zoneofcontrol_interact_with_IO"
     },
     {
         "TaskID": "0903_0301_d_00_container_avoidopenflame",
@@ -2704,7 +2572,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0903_0301_d_01_GoToPOITag_abandoned_village_40002",
         "SubTask2": "0903_0301_d_02_container_avoidopenflame_tasks"
     },
@@ -2721,8 +2588,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0301_avoidopenflame_goto_dayspringmills",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0301_avoidopenflame_goto_dayspringmills"
     },
     {
         "TaskID": "0903_0301_d_02_container_avoidopenflame_tasks",
@@ -2735,7 +2601,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0903_0301_d_02_01_kill_12_Harvestbane",
         "SubTask2": "0903_0301_d_02_02_HaveAndReturnItems_6_GunpowderCask_abandoned_village_40002"
     },
@@ -2753,8 +2619,7 @@
         "KillEnemyType": "Harvestbane",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0301_avoidopenflame_kill_harvestbane",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0301_avoidopenflame_kill_harvestbane"
     },
     {
         "TaskID": "0903_0301_d_02_02_HaveAndReturnItems_6_GunpowderCask_abandoned_village_40002",
@@ -2773,8 +2638,7 @@
         "InteractTag": "IO_0902_GunpowderCask",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0301_avoidopenflame_get_items_from_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0301_avoidopenflame_get_items_from_IO"
     },
     {
         "TaskID": "0903_0401_d_00_container_skininthegame",
@@ -2787,7 +2651,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0903_0401_d_01_TaskGoToPOITag_abandoned_village_40002",
         "SubTask2": "0903_0401_d_02_container_skininthegame_hunting_tasks",
         "SubTask3": "0903_0401_d_03_TaskGoToPOITag_abandoned_village_40002",
@@ -2807,8 +2670,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0401_skininthegame_goto_eldersbluff",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0401_skininthegame_goto_eldersbluff"
     },
     {
         "TaskID": "0903_0401_d_02_container_skininthegame_hunting_tasks",
@@ -2821,7 +2683,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0903_0401_d_02_01_TaskGatherItem_3_LynxPelt_firstlight6",
         "SubTask2": "0903_0401_d_02_02_TaskGatherItem_4_BrownRabbitPelt_firstlight6"
     },
@@ -2842,8 +2704,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0401_skininthegame_gather_items",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0401_skininthegame_gather_items"
     },
     {
         "TaskID": "0903_0401_d_02_02_TaskGatherItem_4_BrownRabbitPelt_firstlight6",
@@ -2862,8 +2723,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0401_skininthegame_gather_items",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0401_skininthegame_gather_items"
     },
     {
         "TaskID": "0903_0401_d_03_TaskGoToPOITag_abandoned_village_40002",
@@ -2878,8 +2738,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0401_skininthegame_goto_saircor",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0401_skininthegame_goto_saircor"
     },
     {
         "TaskID": "0903_0401_d_04_container_skininthegame_ancient_tasks",
@@ -2892,7 +2751,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0903_0401_d_04_01_TaskHaveAndReturnItems_8_GuardianCloth_ancient_ruins_40020",
         "SubTask2": "0903_0401_d_04_02_TaskHaveAndReturnItems_1_AncientCloth_ancient_ruins_40020"
     },
@@ -2912,8 +2771,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0401_skininthegame_get_killtoken_from_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0401_skininthegame_get_killtoken_from_target_at_POI"
     },
     {
         "TaskID": "0903_0401_d_04_02_TaskHaveAndReturnItems_1_AncientCloth_ancient_ruins_40020",
@@ -2930,8 +2788,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0903_0401_skininthegame_get_item_from_container_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0903_0401_skininthegame_get_item_from_container_at_POI"
     },
     {
         "TaskID": "0904_0201_d_00_container_minerrequisition",
@@ -2944,7 +2801,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0904_0201_d_01_container_minerrequisition_letum",
         "SubTask2": "0904_0201_d_02_container_minerrequisition_forellac"
     },
@@ -2960,7 +2816,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0201_minerrequisition_container_letum",
-        "IsHidden": 0,
         "SubTask1": "0904_0201_d_01_01_TaskHaveAndReturnItems_6_BatchCharcoal_corrupted_mine_40014"
     },
     {
@@ -2979,8 +2834,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0201_minerrequisition_get_killtoken_from_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0201_minerrequisition_get_killtoken_from_target_at_POI"
     },
     {
         "TaskID": "0904_0201_d_02_container_minerrequisition_forellac",
@@ -2994,7 +2848,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0201_minerrequisition_container_forellac",
-        "IsHidden": 0,
         "SubTask1": "0904_0201_d_02_01_TaskHaveAndReturnItems_2_FreshCaughtTrout_abandoned_fishing_village_40024",
         "SubTask2": "0904_0201_d_02_02_kill_5_Bloatfish"
     },
@@ -3015,8 +2868,7 @@
         "InteractTag": "IO_0904_FishTrap",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0201_minerrequisition_get_items_from_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0201_minerrequisition_get_items_from_IO"
     },
     {
         "TaskID": "0904_0201_d_02_02_kill_5_Bloatfish",
@@ -3032,8 +2884,7 @@
         "KillEnemyType": "Bloatfish",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0201_minerrequisition_kill_bloatfish",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0201_minerrequisition_kill_bloatfish"
     },
     {
         "TaskID": "0904_0301_d_00_container_muzzleorthrus",
@@ -3046,7 +2897,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0904_0301_d_01_TaskGoToPOITag_abandoned_village_40002",
         "SubTask2": "0904_0301_d_02_container_muzzleorthrus_kill"
     },
@@ -3063,8 +2913,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0301_muzzleorthrus_goto_nyharts",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0301_muzzleorthrus_goto_nyharts"
     },
     {
         "TaskID": "0904_0301_d_02_container_muzzleorthrus_kill",
@@ -3077,7 +2926,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0904_0301_d_02_01_kill_named_pirate_agent_pirate_town_40016",
         "SubTask2": "0904_0301_d_02_02_kill_named_pirate_agent_pirate_town_40016"
     },
@@ -3096,8 +2945,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0301_muzzleorthrus_kill_target_at_POI",
-        "OverrideLocation": "9014.327 1782.412 40.513",
-        "IsHidden": 0
+        "OverrideLocation": "9014.327 1782.412 40.513"
     },
     {
         "TaskID": "0904_0301_d_02_02_kill_named_pirate_agent_pirate_town_40016",
@@ -3114,8 +2962,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0301_muzzleorthrus_kill_target_at_POI",
-        "OverrideLocation": "9020.144 1665.612 51.587",
-        "IsHidden": 0
+        "OverrideLocation": "9020.144 1665.612 51.587"
     },
     {
         "TaskID": "0904_0302_d_00_container_snuffingcandle",
@@ -3128,7 +2975,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0904_0302_d_01_TaskGoToPOITag_abandoned_village_40002",
         "SubTask2": "0904_0302_d_02_container_snuffingcandle_tasks"
     },
@@ -3145,8 +2991,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0302_snuffingcandle_goto_elafry",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0302_snuffingcandle_goto_elafry"
     },
     {
         "TaskID": "0904_0302_d_02_container_snuffingcandle_tasks",
@@ -3159,7 +3004,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0904_0302_d_02_01_GetQuestLorePage_Approach",
         "SubTask2": "0904_0302_d_02_02_GetQuestLorePage_Hall",
         "SubTask3": "0904_0302_d_02_03_GetQuestLorePage_Sphaera",
@@ -3178,8 +3023,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0302_snuffingcandle_lore_approach",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0302_snuffingcandle_lore_approach"
     },
     {
         "TaskID": "0904_0302_d_02_02_GetQuestLorePage_Hall",
@@ -3193,8 +3037,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0302_snuffingcandle_lore_hall",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0302_snuffingcandle_lore_hall"
     },
     {
         "TaskID": "0904_0302_d_02_03_GetQuestLorePage_Sphaera",
@@ -3208,8 +3051,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0302_snuffingcandle_lore_sphaera",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0302_snuffingcandle_lore_sphaera"
     },
     {
         "TaskID": "0904_0302_d_02_04_kill_Sentinel_Taskmaster_ancient_lighthouse_40008",
@@ -3225,8 +3067,7 @@
         "KillEnemyType": "AncientGuardian_Spearman_Named_00",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0302_snuffingcandle_kill_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0302_snuffingcandle_kill_target_at_POI"
     },
     {
         "TaskID": "0904_0302_d_02_05_kill_Javelineer_Officer_ancient_lighthouse_40008",
@@ -3242,8 +3083,7 @@
         "KillEnemyType": "AncientGuardian_Javelineer_09FL08",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0302_snuffingcandle_kill_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0302_snuffingcandle_kill_target_at_POI"
     },
     {
         "TaskID": "0904_0303_d_00_container_curseebonyhawk",
@@ -3256,7 +3096,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0904_0303_d_00_TaskGoToPOITag_haunted_village_40012",
         "SubTask2": "0904_0303_d_01_container_curseebonyhawk_subtask1",
         "SubTask3": "0904_0303_d_02_container_curseebonyhawk_subtask2",
@@ -3274,8 +3113,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0303_curseebonyhawk_goto_sleepytallow",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0303_curseebonyhawk_goto_sleepytallow"
     },
     {
         "TaskID": "0904_0303_d_01_container_curseebonyhawk_subtask1",
@@ -3289,7 +3127,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0303_curseebonyhawk_container",
-        "IsHidden": 0,
         "SubTask1": "0904_0303_d_01_01_Kill_5_Ghost_haunted_village_40012",
         "SubTask2": "0904_0303_d_01_02_TaskAchievement_GetQuestLorePage_EbonyHawk1"
     },
@@ -3307,8 +3144,7 @@
         "KillEnemyType": "Ebony_Hawk",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0303_curseebonyhawk_kill_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0303_curseebonyhawk_kill_target_at_POI"
     },
     {
         "TaskID": "0904_0303_d_01_02_TaskAchievement_GetQuestLorePage_EbonyHawk1",
@@ -3323,7 +3159,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0303_curseebonyhawk_searchforclues",
-        "IsHidden": 0
+        "OverrideLocation": "8445.825 1385.676 280.350"
     },
     {
         "TaskID": "0904_0303_d_02_container_curseebonyhawk_subtask2",
@@ -3337,7 +3173,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0303_curseebonyhawk_container",
-        "IsHidden": 0,
         "SubTask1": "0904_0303_d_02_01_TaskHaveAndReturnItems_8_SailorLockets_haunted_village_40012",
         "SubTask2": "0904_0303_d_02_03_TaskGoToPOITag_haunted_village_40012",
         "SubTask3": "0904_0303_d_02_02_TaskAchievement_GetQuestLorePage_EbonyHawk2"
@@ -3358,8 +3193,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0303_curseebonyhawk_get_killtoken_from_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0303_curseebonyhawk_get_killtoken_from_target_at_POI"
     },
     {
         "TaskID": "0904_0303_d_02_03_TaskGoToPOITag_haunted_village_40012",
@@ -3374,7 +3208,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@09_task_travelto_POITag_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_0303_d_02_02_TaskAchievement_GetQuestLorePage_EbonyHawk2",
@@ -3389,7 +3223,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0303_curseebonyhawk_continuesearch",
-        "IsHidden": 0
+        "OverrideLocation": "8344.030 1366.045 280.325"
     },
     {
         "TaskID": "0904_0303_d_03_container_curseebonyhawk_subtask3",
@@ -3403,7 +3237,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0303_curseebonyhawk_container",
-        "IsHidden": 0,
         "SubTask1": "0904_0303_d_03_03_TaskGoToPOITag_haunted_village_40012",
         "SubTask2": "0904_0303_d_03_01_TaskAchievement_GetQuestLorePage_EbonyHawk3",
         "SubTask3": "0904_0303_d_03_02_kill_LightningGhost_haunted_village_40012"
@@ -3421,7 +3254,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@09_task_travelto_POITag_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_0303_d_03_01_TaskAchievement_GetQuestLorePage_EbonyHawk3",
@@ -3436,7 +3269,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0303_curseebonyhawk_completejournal",
-        "IsHidden": 0
+        "OverrideLocation": "8424.731 1325.531 293.772"
     },
     {
         "TaskID": "0904_0303_d_03_02_kill_LightningGhost_haunted_village_40012",
@@ -3452,8 +3285,7 @@
         "KillEnemyType": "Ghost_Shipwrecked_23_09FL10_Named",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0303_curseebonyhawk_kill_target",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0303_curseebonyhawk_kill_target"
     },
     {
         "TaskID": "0902_0501_d_00_container_discardedmemories",
@@ -3466,13 +3298,12 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0902_0501_d_01_container_discardedmemories_subtask1",
         "SubTask2": "0902_0501_d_02_container_discardedmemories_subtask2"
     },
     {
         "TaskID": "0902_0501_d_01_container_discardedmemories_subtask1",
-        "Type": "SimpleTaskContainer",
+        "Type": "ConsecutiveTaskContainer",
         "TargetQty": 0,
         "ItemDropProbability": 0,
         "ChestDropProbability": 0,
@@ -3482,7 +3313,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0501_discardedmemories_searchforclues",
-        "IsHidden": 0,
+        "OverrideLocation": "8506.020 1924.042 149.105",
         "SubTask1": "0902_0501_d_01_01_TaskGoToPOITag_abandoned_village_40025",
         "SubTask2": "0902_0501_d_01_02_TaskAchievement_GetQuestLorePage_ClearwaterBend"
     },
@@ -3499,7 +3330,8 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "TP_DescriptionTag": "@0902_0501_discardedmemories_Travel",
+        "OverrideLocation": "8506.020 1924.042 149.105"
     },
     {
         "TaskID": "0902_0501_d_01_02_TaskAchievement_GetQuestLorePage_ClearwaterBend",
@@ -3513,11 +3345,12 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "TP_DescriptionTag": "@0902_0501_discardedmemories_Lore",
+        "OverrideLocation": "8506.020 1924.042 149.105"
     },
     {
         "TaskID": "0902_0501_d_02_container_discardedmemories_subtask2",
-        "Type": "SimpleTaskContainer",
+        "Type": "ConsecutiveTaskContainer",
         "TargetQty": 0,
         "ItemDropProbability": 0,
         "ChestDropProbability": 0,
@@ -3527,7 +3360,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0501_discardedmemories_searchforclues2",
-        "IsHidden": 0,
+        "OverrideLocation": "8841.649 1924.046 133.179",
         "SubTask1": "0902_0501_d_02_01_TaskGoToPOITag_abandoned_village_40001",
         "SubTask2": "0902_0501_d_02_02_TaskAchievement_GetQuestLorePage_CampbellsRest"
     },
@@ -3544,7 +3377,8 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "TP_DescriptionTag": "@0902_0501_discardedmemories_Travel2",
+        "OverrideLocation": "8841.649 1924.046 133.179"
     },
     {
         "TaskID": "0902_0501_d_02_02_TaskAchievement_GetQuestLorePage_CampbellsRest",
@@ -3558,7 +3392,8 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "TP_DescriptionTag": "@0902_0501_discardedmemories_Lore2",
+        "OverrideLocation": "8841.649 1924.046 133.180"
     },
     {
         "TaskID": "0902_0502_d_00_container_errorofways",
@@ -3571,7 +3406,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0902_0502_d_01_TaskGoToPOITag_abandoned_village_40002",
         "SubTask2": "0902_0502_d_02_container_errorofways_tasks"
     },
@@ -3588,8 +3422,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0502_errorofways_goto_nyharts",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0502_errorofways_goto_nyharts"
     },
     {
         "TaskID": "0902_0502_d_02_container_errorofways_tasks",
@@ -3602,7 +3435,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0902_0502_d_02_01_TaskHaveAndReturnItems_8_SailingCharts_pirate_town_40016",
         "SubTask2": "0902_0502_d_02_02_TaskInteract_0906_CargoSupplies"
     },
@@ -3622,8 +3455,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0502_errorofways_get_killtoken_from_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0502_errorofways_get_killtoken_from_target_at_POI"
     },
     {
         "TaskID": "0902_0502_d_02_02_TaskInteract_0906_CargoSupplies",
@@ -3640,8 +3472,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0502_errorofways_interact_with_IO",
-        "OverrideLocation": "9018.81 1681.30 43.65",
-        "IsHidden": 0
+        "OverrideLocation": "9018.81 1681.30 43.65"
     },
     {
         "TaskID": "0902_0503_d_00_container_abandonedresearch",
@@ -3654,7 +3485,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0902_0503_d_01_container_abandonedresearch_subtask1",
         "SubTask2": "0902_0503_d_02_container_abandonedresearch_subtask2"
     },
@@ -3669,7 +3499,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0902_0503_d_01_01_TaskGoToPOITag_ancient_bridge_40019",
         "SubTask2": "0902_0503_d_01_02_TaskAchievement_GetQuestLorePage_SaircorBridge"
     },
@@ -3686,8 +3516,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0503_abandonedresearch_goto_saircorbridge",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0503_abandonedresearch_goto_saircorbridge"
     },
     {
         "TaskID": "0902_0503_d_01_02_TaskAchievement_GetQuestLorePage_SaircorBridge",
@@ -3702,8 +3531,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0503_abandonedresearch_find_lorepage_at_POI",
-        "OverrideLocation": "9316.423 970.862 59.586",
-        "IsHidden": 0
+        "OverrideLocation": "9316.423 970.862 59.586"
     },
     {
         "TaskID": "0902_0503_d_02_container_abandonedresearch_subtask2",
@@ -3716,7 +3544,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0902_0503_d_02_01_TaskGoToPOITag_ancient_ruins_40020",
         "SubTask2": "0902_0503_d_02_02_TaskAchievement_GetQuestLorePage_Saircor",
         "SubTask3": "0902_0503_d_02_03_TaskHaveAndReturnItems_ClayStatue_ancient_ruins_40020"
@@ -3734,8 +3562,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0503_abandonedresearch_goto_saircor",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0503_abandonedresearch_goto_saircor"
     },
     {
         "TaskID": "0902_0503_d_02_02_TaskAchievement_GetQuestLorePage_Saircor",
@@ -3750,8 +3577,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0503_abandonedresearch_find_lorepage_at_POI2",
-        "OverrideLocation": "9641.779 903.325 84.897",
-        "IsHidden": 0
+        "OverrideLocation": "9641.779 903.325 84.897"
     },
     {
         "TaskID": "0902_0503_d_02_03_TaskHaveAndReturnItems_ClayStatue_ancient_ruins_40020",
@@ -3769,8 +3595,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0503_abandonedresearch_get_killtoken_from_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0503_abandonedresearch_get_killtoken_from_target_at_POI"
     },
     {
         "TaskID": "0902_0601_d_00_container_dispatchtothefront",
@@ -3783,7 +3608,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0902_0601_d_01_TaskGoToPOITag_pirate_fort_40017",
         "SubTask2": "0902_0601_d_02_container_dispatchtothefront_tasks",
         "SubTask3": "0902_0601_d_03_TaskGoToPOITag_corrupted_mine_40014",
@@ -3803,8 +3627,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_goto_coffmans",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_goto_coffmans"
     },
     {
         "TaskID": "0902_0601_d_02_container_dispatchtothefront_tasks",
@@ -3817,7 +3640,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0902_0601_d_02_01_TaskHaveAndReturnItems_8_CaptainsOrders_pirate_fort_40017",
         "SubTask2": "0902_0601_d_02_02_TaskAchievement_GetQuestLorePage_Rigger"
     },
@@ -3837,8 +3660,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_get_killtoken_from_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_get_killtoken_from_target_at_POI"
     },
     {
         "TaskID": "0902_0601_d_02_02_TaskAchievement_GetQuestLorePage_Rigger",
@@ -3853,8 +3675,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0601_dispatchtothefront_collect_lore",
-        "OverrideLocation": "9657.125 1718.861 59.621",
-        "IsHidden": 0
+        "OverrideLocation": "9657.125 1718.861 59.621"
     },
     {
         "TaskID": "0902_0601_d_03_TaskGoToPOITag_corrupted_mine_40014",
@@ -3869,8 +3690,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_goto_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_goto_POI"
     },
     {
         "TaskID": "0902_0601_d_04_container_dispatchtothefront_bloodtracking1",
@@ -3883,7 +3703,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0902_0601_d_04_01_TaskInteract_0905_BloodTracking_A",
         "SubTask2": "0902_0601_d_04_02_TaskInteract_0905_BloodTracking_B",
         "SubTask3": "0902_0601_d_04_03_TaskInteract_0905_BloodTracking_A",
@@ -3904,7 +3724,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0601_dispatchtothefront_search_for_IO",
-        "IsHidden": 0
+        "OverrideLocation": "8543.170 1664.832 173.469"
     },
     {
         "TaskID": "0902_0601_d_04_02_TaskInteract_0905_BloodTracking_B",
@@ -3919,8 +3739,7 @@
         "KillEnemyType": "0905_BloodTracking_B_interact",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO"
     },
     {
         "TaskID": "0902_0601_d_04_03_TaskInteract_0905_BloodTracking_A",
@@ -3935,8 +3754,7 @@
         "KillEnemyType": "0905_BloodTracking_A_interact",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO"
     },
     {
         "TaskID": "0902_0601_d_04_04_TaskInteract_0905_BloodTracking_B",
@@ -3951,8 +3769,7 @@
         "KillEnemyType": "0905_BloodTracking_B_interact",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO"
     },
     {
         "TaskID": "0902_0601_d_04_05_TaskInteract_0905_BloodTracking_C",
@@ -3967,8 +3784,7 @@
         "KillEnemyType": "0905_BloodTracking_C_interact",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO"
     },
     {
         "TaskID": "0902_0601_d_05_container_dispatchtothefront_bloodtracking2",
@@ -3981,7 +3797,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0902_0601_d_05_01_TaskInteract_0905_BloodTracking_B",
         "SubTask2": "0902_0601_d_05_02_TaskInteract_0905_BloodTracking_A",
         "SubTask3": "0902_0601_d_05_03_TaskInteract_0905_BloodTracking_B",
@@ -4002,8 +3818,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO",
-        "OverrideLocation": "8627.409 1513.076 225.227",
-        "IsHidden": 0
+        "OverrideLocation": "8627.409 1513.076 225.227"
     },
     {
         "TaskID": "0902_0601_d_05_02_TaskInteract_0905_BloodTracking_A",
@@ -4018,8 +3833,7 @@
         "KillEnemyType": "0905_BloodTracking_A_interact",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO"
     },
     {
         "TaskID": "0902_0601_d_05_03_TaskInteract_0905_BloodTracking_B",
@@ -4034,8 +3848,7 @@
         "KillEnemyType": "0905_BloodTracking_B_interact",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO"
     },
     {
         "TaskID": "0902_0601_d_05_04_TaskInteract_0905_BloodTracking_A",
@@ -4050,8 +3863,7 @@
         "KillEnemyType": "0905_BloodTracking_A_interact",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_follow_IO"
     },
     {
         "TaskID": "0902_0601_d_05_05_TaskInteract_0905_BloodTracking_B",
@@ -4066,8 +3878,7 @@
         "KillEnemyType": "0905_BloodTracking_B_interact",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_final_IO",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0902_0601_dispatchtothefront_final_IO"
     },
     {
         "TaskID": "0905_0301_d_00_container_evolutioncorruption_p1",
@@ -4080,7 +3891,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0905_0301_d_01_container_evolutioncorruption_p1_Hilltop",
         "SubTask2": "0905_0301_d_02_container_evolutioncorruption_p1_Campbells"
     },
@@ -4095,7 +3905,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0905_0301_d_01_01_TaskGoToPOITag_corrupted_camp_40013",
         "SubTask2": "0905_0301_d_01_02_TaskHaveAndReturnItems_3_CorruptedBlood_corrupted_camp_40013"
     },
@@ -4112,8 +3922,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0301_evolutioncorruption_pt1_goto_hilltop",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0301_evolutioncorruption_pt1_goto_hilltop"
     },
     {
         "TaskID": "0905_0301_d_01_02_TaskHaveAndReturnItems_3_CorruptedBlood_corrupted_camp_40013",
@@ -4131,8 +3940,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0301_evolutioncorruption_pt1_get_killtoken_from_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0301_evolutioncorruption_pt1_get_killtoken_from_target_at_POI"
     },
     {
         "TaskID": "0905_0301_d_02_container_evolutioncorruption_p1_Campbells",
@@ -4145,7 +3953,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0905_0301_d_02_01_TaskGoToPOITag_abandoned_village_40001",
         "SubTask2": "0905_0301_d_02_02_TaskHaveAndReturnItems_6_WitheredFlesh_abandoned_village_40001"
     },
@@ -4162,8 +3970,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0301_evolutioncorruption_pt1_goto_campbells",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0301_evolutioncorruption_pt1_goto_campbells"
     },
     {
         "TaskID": "0905_0301_d_02_02_TaskHaveAndReturnItems_6_WitheredFlesh_abandoned_village_40001",
@@ -4181,8 +3988,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0301_evolutioncorruption_pt1_get_killtoken_from_target2_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0301_evolutioncorruption_pt1_get_killtoken_from_target2_at_POI"
     },
     {
         "TaskID": "0905_0302_d_00_container_theoryoldworld",
@@ -4195,7 +4001,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0905_0302_d_01_GoToPOITag_corrupted_mine_40014",
         "SubTask2": "0905_0302_d_02_container_theoryoldworld_tasks"
     },
@@ -4212,8 +4017,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0302_theoryoldworld_goto_letums",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0302_theoryoldworld_goto_letums"
     },
     {
         "TaskID": "0905_0302_d_02_container_theoryoldworld_tasks",
@@ -4226,7 +4030,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0905_0302_d_02_01_GatherItem_Magnetite_corrupted_mine_40014",
         "SubTask2": "0905_0302_d_02_02_kill_10_Ironslag"
     },
@@ -4247,8 +4051,7 @@
         "InteractTag": "IO_0908_Magnetite",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0302_theoryoldworld_gather_item_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0302_theoryoldworld_gather_item_at_POI"
     },
     {
         "TaskID": "0905_0302_d_02_02_kill_10_Ironslag",
@@ -4264,8 +4067,7 @@
         "KillEnemyType": "Ironslag",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0302_theoryoldworld_kill_ironslag",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0302_theoryoldworld_kill_ironslag"
     },
     {
         "TaskID": "0905_0305_d_00_container_evolutioncorruption_p3",
@@ -4278,7 +4080,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0905_0305_d_01_TaskGoToPOITag_pirate_town_40016",
         "SubTask2": "0905_0305_d_02_TaskHaveAndReturnItems_6_PirateBlood_pirate_town_40016"
     },
@@ -4295,8 +4096,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0305_evolutioncorruption_pt3_goto_nyharts",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0305_evolutioncorruption_pt3_goto_nyharts"
     },
     {
         "TaskID": "0905_0305_d_02_TaskHaveAndReturnItems_6_PirateBlood_pirate_town_40016",
@@ -4314,8 +4114,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0305_evolutioncorruption_pt3_get_killtoken_from_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0305_evolutioncorruption_pt3_get_killtoken_from_target_at_POI"
     },
     {
         "TaskID": "0905_0306_d_00_container_brightazothflame",
@@ -4328,7 +4127,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0905_0306_d_01_TaskGoToPOITag_firstlight8",
         "SubTask2": "0905_0306_d_02_TaskHaveAndReturnItems_8_GuardianCrest_firstlight8",
         "SubTask3": "0905_0306_d_03_TaskGoToPOITag_ancient_lighthouse_40008",
@@ -4348,8 +4146,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0306_brightazothflame_goto_lightscrown",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0306_brightazothflame_goto_lightscrown"
     },
     {
         "TaskID": "0905_0306_d_02_TaskHaveAndReturnItems_8_GuardianCrest_firstlight8",
@@ -4368,8 +4165,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0306_brightazothflame_get_killtoken_from_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0306_brightazothflame_get_killtoken_from_target_at_POI"
     },
     {
         "TaskID": "0905_0306_d_03_TaskGoToPOITag_ancient_lighthouse_40008",
@@ -4384,8 +4180,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0306_brightazothflame_goto_elafry",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0306_brightazothflame_goto_elafry"
     },
     {
         "TaskID": "0905_0306_d_04_TaskHaveAndReturnItems_CrystalPrism_ancient_lighthouse_40008",
@@ -4402,8 +4197,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0306_brightazothflame_get_item_from_container_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0306_brightazothflame_get_item_from_container_at_POI"
     },
     {
         "TaskID": "0905_0307_d_00_container_evolutioncorruption_p4",
@@ -4416,7 +4210,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0905_0307_d_01_TaskGoToPOITag_haunted_village_40012",
         "SubTask2": "0905_0307_d_02_TaskHaveAndReturnItems_5_Ectoplasm_haunted_village_40012"
     },
@@ -4432,8 +4225,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0307_evolutioncorruption_pt4_goto_sleepytallow",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0307_evolutioncorruption_pt4_goto_sleepytallow"
     },
     {
         "TaskID": "0905_0307_d_02_TaskHaveAndReturnItems_5_Ectoplasm_haunted_village_40012",
@@ -4451,8 +4243,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0905_0307_evolutioncorruption_pt4_get_killtoken_from_target_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0905_0307_evolutioncorruption_pt4_get_killtoken_from_target_at_POI"
     },
     {
         "TaskID": "0904_0801_d_00_container_reassuringmagistrate",
@@ -4465,7 +4256,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0904_0801_d_01_transport_npc_note",
         "SubTask2": "0904_0801_d_02_have_npc_note"
     },
@@ -4483,7 +4273,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_0801_d_02_have_npc_note",
@@ -4499,7 +4289,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 1,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0905_0701_d_00_container_artificersgratitude",
@@ -4512,7 +4302,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0905_0701_d_01_transport_npc_note",
         "SubTask2": "0905_0701_d_02_have_npc_note"
     },
@@ -4530,7 +4319,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0905_0701_d_02_have_npc_note",
@@ -4546,7 +4335,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 1,
         "TP_DescriptionTag": "@09_task_transport_generic",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_0901_container_TheHermitFL",
@@ -4559,7 +4348,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "0904_0901_d_03_GrantAchievement_Yonas_FTP",
         "SubTask2": "0904_0901_container_04_travel"
     },
@@ -4577,7 +4365,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0901_d_01_FinishOnboarding",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_0901_d_02_HaveLevel_10",
@@ -4592,7 +4380,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@9900_attainlevel10",
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_0901_d_03_GrantAchievement_Yonas_FTP",
@@ -4607,7 +4395,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "0904_0901_container_04_travel",
@@ -4620,7 +4408,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "0904_0901_TheHermitFL_OptionalFastTravel",
         "SubTask2": "0904_0901_TheHermitFL_GoToPOI"
     },
@@ -4638,8 +4426,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0904_0901_TheHermitEF_optional_FTP",
-        "OverrideLocation": "8384.807 2591.546 52.240",
-        "IsHidden": 0
+        "OverrideLocation": "8384.807 2591.546 52.240"
     },
     {
         "TaskID": "0904_0901_TheHermitFL_GoToPOI",
@@ -4654,8 +4441,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@0904_0901_TheHermitFL_GoToPOI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@0904_0901_TheHermitFL_GoToPOI"
     },
     {
         "TaskID": "FM_0901_container",
@@ -4668,7 +4454,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0901_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -4683,7 +4468,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0901_leg_A_task",
         "SubTask2": "FM_0901_leg_B_task",
         "SubTask3": "FM_0901_leg_C_task"
@@ -4702,8 +4487,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0901_leg_B_task",
@@ -4719,8 +4503,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0901_leg_C_task",
@@ -4736,8 +4519,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0902_container",
@@ -4750,7 +4532,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0902_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -4765,7 +4546,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0902_leg_A_task",
         "SubTask2": "FM_0902_leg_B_task",
         "SubTask3": "FM_0902_leg_C_task"
@@ -4784,8 +4565,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0902_leg_B_task",
@@ -4801,8 +4581,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0902_leg_C_task",
@@ -4818,8 +4597,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0903_container",
@@ -4832,7 +4610,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0903_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -4847,7 +4624,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0903_leg_A_task",
         "SubTask2": "FM_0903_leg_B_task",
         "SubTask3": "FM_0903_leg_C_task"
@@ -4866,8 +4643,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0903_leg_B_task",
@@ -4883,8 +4659,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0903_leg_C_task",
@@ -4900,8 +4675,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0904_container",
@@ -4914,7 +4688,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0904_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -4929,7 +4702,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0904_leg_A_task",
         "SubTask2": "FM_0904_leg_B_task",
         "SubTask3": "FM_0904_leg_C_task"
@@ -4948,8 +4721,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0904_leg_B_task",
@@ -4965,8 +4737,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0904_leg_C_task",
@@ -4982,8 +4753,7 @@
         "KillEnemyType": "Undead",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0905_container",
@@ -4996,7 +4766,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0905_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5011,7 +4780,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0905_leg_A_task",
         "SubTask2": "FM_0905_leg_B_task",
         "SubTask3": "FM_0905_leg_C_task"
@@ -5030,8 +4799,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0905_leg_B_task",
@@ -5047,8 +4815,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0905_leg_C_task",
@@ -5064,8 +4831,7 @@
         "KillEnemyType": "Ghost",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0906_container",
@@ -5078,7 +4844,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0906_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5093,7 +4858,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0906_leg_A_task",
         "SubTask2": "FM_0906_leg_B_task",
         "SubTask3": "FM_0906_leg_C_task"
@@ -5112,8 +4877,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0906_leg_B_task",
@@ -5129,8 +4893,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0906_leg_C_task",
@@ -5146,8 +4909,7 @@
         "KillEnemyType": "Undead",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0907_container",
@@ -5160,7 +4922,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0907_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5175,7 +4936,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0907_leg_A_task",
         "SubTask2": "FM_0907_leg_B_task",
         "SubTask3": "FM_0907_leg_C_task"
@@ -5194,8 +4955,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0907_leg_B_task",
@@ -5211,8 +4971,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0907_leg_C_task",
@@ -5228,8 +4987,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_S_0901_container",
@@ -5242,7 +5000,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0901_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5257,7 +5014,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0901_leg_A_task",
         "SubTask2": "FM_S_0901_leg_B_task",
         "SubTask3": "FM_S_0901_leg_C_task"
@@ -5276,8 +5033,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0901_leg_B_task",
@@ -5293,8 +5049,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0901_leg_C_task",
@@ -5310,8 +5065,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0902_container",
@@ -5324,7 +5078,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0902_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5339,7 +5092,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0902_leg_A_task",
         "SubTask2": "FM_S_0902_leg_B_task",
         "SubTask3": "FM_S_0902_leg_C_task"
@@ -5358,8 +5111,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0902_leg_B_task",
@@ -5375,8 +5127,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0902_leg_C_task",
@@ -5392,8 +5143,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0903_container",
@@ -5406,7 +5156,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0903_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5421,7 +5170,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0903_leg_A_task",
         "SubTask2": "FM_S_0903_leg_B_task",
         "SubTask3": "FM_S_0903_leg_C_task"
@@ -5440,8 +5189,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0903_leg_B_task",
@@ -5457,8 +5205,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0903_leg_C_task",
@@ -5474,8 +5221,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0904_container",
@@ -5488,7 +5234,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0904_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5503,7 +5248,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0904_leg_A_task",
         "SubTask2": "FM_S_0904_leg_B_task",
         "SubTask3": "FM_S_0904_leg_C_task"
@@ -5522,8 +5267,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0904_leg_B_task",
@@ -5539,8 +5283,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0904_leg_C_task",
@@ -5556,8 +5299,7 @@
         "KillEnemyType": "Undead",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0905_container",
@@ -5570,7 +5312,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0905_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5585,7 +5326,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0905_leg_A_task",
         "SubTask2": "FM_S_0905_leg_B_task",
         "SubTask3": "FM_S_0905_leg_C_task"
@@ -5604,8 +5345,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0905_leg_B_task",
@@ -5621,8 +5361,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0905_leg_C_task",
@@ -5638,8 +5377,7 @@
         "KillEnemyType": "Ghost",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0906_container",
@@ -5652,7 +5390,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0906_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5667,7 +5404,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0906_leg_A_task",
         "SubTask2": "FM_S_0906_leg_B_task",
         "SubTask3": "FM_S_0906_leg_C_task"
@@ -5686,8 +5423,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0906_leg_B_task",
@@ -5703,8 +5439,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0906_leg_C_task",
@@ -5720,8 +5455,7 @@
         "KillEnemyType": "Undead",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0907_container",
@@ -5734,7 +5468,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0907_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5749,7 +5482,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0907_leg_A_task",
         "SubTask2": "FM_S_0907_leg_B_task",
         "SubTask3": "FM_S_0907_leg_C_task"
@@ -5768,8 +5501,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0907_leg_B_task",
@@ -5785,8 +5517,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0907_leg_C_task",
@@ -5802,8 +5533,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_S"
     },
     {
         "TaskID": "FM_C_0901_container",
@@ -5816,7 +5546,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0901_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5831,7 +5560,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0901_leg_A_task",
         "SubTask2": "FM_C_0901_leg_B_task",
         "SubTask3": "FM_C_0901_leg_C_task"
@@ -5850,8 +5579,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0901_leg_B_task",
@@ -5867,8 +5595,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0901_leg_C_task",
@@ -5884,8 +5611,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0902_container",
@@ -5898,7 +5624,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0902_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5913,7 +5638,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0902_leg_A_task",
         "SubTask2": "FM_C_0902_leg_B_task",
         "SubTask3": "FM_C_0902_leg_C_task"
@@ -5932,8 +5657,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0902_leg_B_task",
@@ -5949,8 +5673,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0902_leg_C_task",
@@ -5966,8 +5689,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0903_container",
@@ -5980,7 +5702,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0903_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -5995,7 +5716,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0903_leg_A_task",
         "SubTask2": "FM_C_0903_leg_B_task",
         "SubTask3": "FM_C_0903_leg_C_task"
@@ -6014,8 +5735,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0903_leg_B_task",
@@ -6031,8 +5751,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0903_leg_C_task",
@@ -6048,8 +5767,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0904_container",
@@ -6062,7 +5780,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0904_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6077,7 +5794,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0904_leg_A_task",
         "SubTask2": "FM_C_0904_leg_B_task",
         "SubTask3": "FM_C_0904_leg_C_task"
@@ -6096,8 +5813,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0904_leg_B_task",
@@ -6113,8 +5829,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0904_leg_C_task",
@@ -6130,8 +5845,7 @@
         "KillEnemyType": "Undead",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0905_container",
@@ -6144,7 +5858,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0905_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6159,7 +5872,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0905_leg_A_task",
         "SubTask2": "FM_C_0905_leg_B_task",
         "SubTask3": "FM_C_0905_leg_C_task"
@@ -6178,8 +5891,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0905_leg_B_task",
@@ -6195,8 +5907,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0905_leg_C_task",
@@ -6212,8 +5923,7 @@
         "KillEnemyType": "Ghost",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0906_container",
@@ -6226,7 +5936,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0906_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6241,7 +5950,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0906_leg_A_task",
         "SubTask2": "FM_C_0906_leg_B_task",
         "SubTask3": "FM_C_0906_leg_C_task"
@@ -6260,8 +5969,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0906_leg_B_task",
@@ -6277,8 +5985,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0906_leg_C_task",
@@ -6294,8 +6001,7 @@
         "KillEnemyType": "Undead",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0907_container",
@@ -6308,7 +6014,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0907_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6323,7 +6028,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0907_leg_A_task",
         "SubTask2": "FM_C_0907_leg_B_task",
         "SubTask3": "FM_C_0907_leg_C_task"
@@ -6342,8 +6047,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0907_leg_B_task",
@@ -6359,8 +6063,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0907_leg_C_task",
@@ -6376,8 +6079,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI_C"
     },
     {
         "TaskID": "FM_0930_container",
@@ -6390,7 +6092,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0930_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6405,7 +6106,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0930_leg_A_task",
         "SubTask2": "FM_0930_leg_B_task",
         "SubTask3": "FM_0930_leg_C_task"
@@ -6424,8 +6125,7 @@
         "KillEnemyType": "Wolf",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0930_leg_B_task",
@@ -6441,8 +6141,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0930_leg_C_task",
@@ -6458,8 +6157,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0931_container",
@@ -6472,7 +6170,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0931_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6487,7 +6184,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0931_leg_A_task",
         "SubTask2": "FM_0931_leg_B_task",
         "SubTask3": "FM_0931_leg_C_task"
@@ -6506,8 +6203,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0931_leg_B_task",
@@ -6523,8 +6219,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0931_leg_C_task",
@@ -6540,8 +6235,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0932_container",
@@ -6554,7 +6248,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0932_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6569,7 +6262,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0932_leg_A_task",
         "SubTask2": "FM_0932_leg_B_task",
         "SubTask3": "FM_0932_leg_C_task"
@@ -6588,8 +6281,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0932_leg_B_task",
@@ -6605,8 +6297,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0932_leg_C_task",
@@ -6622,8 +6313,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0933_container",
@@ -6636,7 +6326,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0933_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6651,7 +6340,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0933_leg_A_task",
         "SubTask2": "FM_0933_leg_B_task",
         "SubTask3": "FM_0933_leg_C_task"
@@ -6670,8 +6359,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0933_leg_B_task",
@@ -6687,8 +6375,7 @@
         "KillEnemyType": "Withered",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0933_leg_C_task",
@@ -6704,8 +6391,7 @@
         "KillEnemyType": "Wolf",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0934_container",
@@ -6718,7 +6404,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0934_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6733,7 +6418,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0934_leg_A_task",
         "SubTask2": "FM_0934_leg_B_task",
         "SubTask3": "FM_0934_leg_C_task"
@@ -6752,8 +6437,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0934_leg_B_task",
@@ -6769,8 +6453,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0934_leg_C_task",
@@ -6786,8 +6469,7 @@
         "KillEnemyType": "Undead",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0935_container",
@@ -6800,7 +6482,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0935_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6815,7 +6496,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0935_leg_A_task",
         "SubTask2": "FM_0935_leg_B_task",
         "SubTask3": "FM_0935_leg_C_task"
@@ -6834,8 +6515,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0935_leg_B_task",
@@ -6851,8 +6531,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0935_leg_C_task",
@@ -6868,8 +6547,7 @@
         "KillEnemyType": "Undead",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0936_container",
@@ -6882,7 +6560,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0936_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6897,7 +6574,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0936_leg_A_task",
         "SubTask2": "FM_0936_leg_B_task",
         "SubTask3": "FM_0936_leg_C_task"
@@ -6916,8 +6593,7 @@
         "KillEnemyType": "Ancient",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0936_leg_B_task",
@@ -6933,8 +6609,7 @@
         "KillEnemyType": "Corrupted",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0936_leg_C_task",
@@ -6950,8 +6625,7 @@
         "KillEnemyType": "Undead",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI"
     },
     {
         "TaskID": "FM_0960_container",
@@ -6964,7 +6638,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0960_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -6979,7 +6652,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0960_leg_A_task",
         "SubTask2": "FM_0960_leg_B_task",
         "SubTask3": "FM_0960_leg_C_task"
@@ -6998,8 +6671,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0960_leg_B_task",
@@ -7015,8 +6687,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0960_leg_C_task",
@@ -7032,8 +6703,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0961_container",
@@ -7046,7 +6716,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0961_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7061,7 +6730,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0961_leg_A_task",
         "SubTask2": "FM_0961_leg_B_task",
         "SubTask3": "FM_0961_leg_C_task"
@@ -7080,8 +6749,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0961_leg_B_task",
@@ -7097,8 +6765,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0961_leg_C_task",
@@ -7114,8 +6781,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0962_container",
@@ -7128,7 +6794,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0962_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7143,7 +6808,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0962_leg_A_task",
         "SubTask2": "FM_0962_leg_B_task",
         "SubTask3": "FM_0962_leg_C_task"
@@ -7162,8 +6827,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0962_leg_B_task",
@@ -7179,8 +6843,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0962_leg_C_task",
@@ -7196,8 +6859,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0963_container",
@@ -7210,7 +6872,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0963_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7225,7 +6886,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0963_leg_A_task",
         "SubTask2": "FM_0963_leg_B_task",
         "SubTask3": "FM_0963_leg_C_task"
@@ -7244,8 +6905,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0963_leg_B_task",
@@ -7261,8 +6921,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0963_leg_C_task",
@@ -7278,8 +6937,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0964_container",
@@ -7292,7 +6950,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0964_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7307,7 +6964,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0964_leg_A_task",
         "SubTask2": "FM_0964_leg_B_task",
         "SubTask3": "FM_0964_leg_C_task"
@@ -7326,8 +6983,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0964_leg_B_task",
@@ -7343,8 +6999,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0964_leg_C_task",
@@ -7360,8 +7015,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0965_container",
@@ -7374,7 +7028,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0965_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7389,7 +7042,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0965_leg_A_task",
         "SubTask2": "FM_0965_leg_B_task",
         "SubTask3": "FM_0965_leg_C_task"
@@ -7408,8 +7061,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0965_leg_B_task",
@@ -7425,8 +7077,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0965_leg_C_task",
@@ -7442,8 +7093,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0966_container",
@@ -7456,7 +7106,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_0966_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7471,7 +7120,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_0966_leg_A_task",
         "SubTask2": "FM_0966_leg_B_task",
         "SubTask3": "FM_0966_leg_C_task"
@@ -7490,8 +7139,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0966_leg_B_task",
@@ -7507,8 +7155,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_0966_leg_C_task",
@@ -7524,8 +7171,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI"
     },
     {
         "TaskID": "FM_S_0960_container",
@@ -7538,7 +7184,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0960_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7553,7 +7198,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0960_leg_A_task",
         "SubTask2": "FM_S_0960_leg_B_task",
         "SubTask3": "FM_S_0960_leg_C_task"
@@ -7572,8 +7217,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0960_leg_B_task",
@@ -7589,8 +7233,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0960_leg_C_task",
@@ -7606,8 +7249,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0961_container",
@@ -7620,7 +7262,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0961_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7635,7 +7276,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0961_leg_A_task",
         "SubTask2": "FM_S_0961_leg_B_task",
         "SubTask3": "FM_S_0961_leg_C_task"
@@ -7654,8 +7295,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0961_leg_B_task",
@@ -7671,8 +7311,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0961_leg_C_task",
@@ -7688,8 +7327,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0962_container",
@@ -7702,7 +7340,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0962_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7717,7 +7354,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0962_leg_A_task",
         "SubTask2": "FM_S_0962_leg_B_task",
         "SubTask3": "FM_S_0962_leg_C_task"
@@ -7736,8 +7373,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0962_leg_B_task",
@@ -7753,8 +7389,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0962_leg_C_task",
@@ -7770,8 +7405,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0963_container",
@@ -7784,7 +7418,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0963_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7799,7 +7432,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0963_leg_A_task",
         "SubTask2": "FM_S_0963_leg_B_task",
         "SubTask3": "FM_S_0963_leg_C_task"
@@ -7818,8 +7451,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0963_leg_B_task",
@@ -7835,8 +7467,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0963_leg_C_task",
@@ -7852,8 +7483,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0964_container",
@@ -7866,7 +7496,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0964_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7881,7 +7510,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0964_leg_A_task",
         "SubTask2": "FM_S_0964_leg_B_task",
         "SubTask3": "FM_S_0964_leg_C_task"
@@ -7900,8 +7529,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0964_leg_B_task",
@@ -7917,8 +7545,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0964_leg_C_task",
@@ -7934,8 +7561,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0965_container",
@@ -7948,7 +7574,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0965_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -7963,7 +7588,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0965_leg_A_task",
         "SubTask2": "FM_S_0965_leg_B_task",
         "SubTask3": "FM_S_0965_leg_C_task"
@@ -7982,8 +7607,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0965_leg_B_task",
@@ -7999,8 +7623,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0965_leg_C_task",
@@ -8016,8 +7639,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0966_container",
@@ -8030,7 +7652,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_S_0966_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8045,7 +7666,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_S_0966_leg_A_task",
         "SubTask2": "FM_S_0966_leg_B_task",
         "SubTask3": "FM_S_0966_leg_C_task"
@@ -8064,8 +7685,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0966_leg_B_task",
@@ -8081,8 +7701,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_S_0966_leg_C_task",
@@ -8098,8 +7717,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_S"
     },
     {
         "TaskID": "FM_C_0960_container",
@@ -8112,7 +7730,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0960_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8127,7 +7744,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0960_leg_A_task",
         "SubTask2": "FM_C_0960_leg_B_task",
         "SubTask3": "FM_C_0960_leg_C_task"
@@ -8146,8 +7763,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0960_leg_B_task",
@@ -8163,8 +7779,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0960_leg_C_task",
@@ -8180,8 +7795,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0961_container",
@@ -8194,7 +7808,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0961_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8209,7 +7822,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0961_leg_A_task",
         "SubTask2": "FM_C_0961_leg_B_task",
         "SubTask3": "FM_C_0961_leg_C_task"
@@ -8228,8 +7841,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0961_leg_B_task",
@@ -8245,8 +7857,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0961_leg_C_task",
@@ -8262,8 +7873,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0962_container",
@@ -8276,7 +7886,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0962_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8291,7 +7900,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0962_leg_A_task",
         "SubTask2": "FM_C_0962_leg_B_task",
         "SubTask3": "FM_C_0962_leg_C_task"
@@ -8310,8 +7919,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0962_leg_B_task",
@@ -8327,8 +7935,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0962_leg_C_task",
@@ -8344,8 +7951,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0963_container",
@@ -8358,7 +7964,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0963_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8373,7 +7978,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0963_leg_A_task",
         "SubTask2": "FM_C_0963_leg_B_task",
         "SubTask3": "FM_C_0963_leg_C_task"
@@ -8392,8 +7997,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0963_leg_B_task",
@@ -8409,8 +8013,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0963_leg_C_task",
@@ -8426,8 +8029,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0964_container",
@@ -8440,7 +8042,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0964_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8455,7 +8056,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0964_leg_A_task",
         "SubTask2": "FM_C_0964_leg_B_task",
         "SubTask3": "FM_C_0964_leg_C_task"
@@ -8474,8 +8075,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0964_leg_B_task",
@@ -8491,8 +8091,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0964_leg_C_task",
@@ -8508,8 +8107,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0965_container",
@@ -8522,7 +8120,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0965_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8537,7 +8134,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0965_leg_A_task",
         "SubTask2": "FM_C_0965_leg_B_task",
         "SubTask3": "FM_C_0965_leg_C_task"
@@ -8556,8 +8153,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0965_leg_B_task",
@@ -8573,8 +8169,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0965_leg_C_task",
@@ -8590,8 +8185,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0966_container",
@@ -8604,7 +8198,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_C_0966_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8619,7 +8212,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_C_0966_leg_A_task",
         "SubTask2": "FM_C_0966_leg_B_task",
         "SubTask3": "FM_C_0966_leg_C_task"
@@ -8638,8 +8231,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0966_leg_B_task",
@@ -8655,8 +8247,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_C_0966_leg_C_task",
@@ -8672,8 +8263,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_loot_chests_generic_at_POI_C"
     },
     {
         "TaskID": "FM_09_H_01_container",
@@ -8686,7 +8276,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_H_01_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8701,7 +8290,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_H_01_leg_A_task",
         "SubTask2": "FM_09_H_01_leg_B_task",
         "SubTask3": "FM_09_H_01_leg_C_task"
@@ -8721,8 +8310,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI"
     },
     {
         "TaskID": "FM_09_H_01_leg_B_task",
@@ -8740,8 +8328,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI",
-        "OverrideLocation": "8675.24 1228.09 153.07",
-        "IsHidden": 0
+        "OverrideLocation": "8675.24 1228.09 153.07"
     },
     {
         "TaskID": "FM_09_H_01_leg_C_task",
@@ -8759,8 +8346,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI",
-        "OverrideLocation": "8650.26 1299.97 174.1",
-        "IsHidden": 0
+        "OverrideLocation": "8650.26 1299.97 174.1"
     },
     {
         "TaskID": "FM_09_H_02_container",
@@ -8773,7 +8359,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_H_02_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8788,7 +8373,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_H_02_leg_A_task",
         "SubTask2": "FM_09_H_02_leg_B_task",
         "SubTask3": "FM_09_H_02_leg_C_task"
@@ -8808,8 +8393,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI"
     },
     {
         "TaskID": "FM_09_H_02_leg_B_task",
@@ -8827,8 +8411,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI",
-        "OverrideLocation": "8852.92 1199.54 61.96",
-        "IsHidden": 0
+        "OverrideLocation": "8852.92 1199.54 61.96"
     },
     {
         "TaskID": "FM_09_H_02_leg_C_task",
@@ -8845,8 +8428,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI"
     },
     {
         "TaskID": "FM_09_H_03_container",
@@ -8859,7 +8441,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_H_03_tasks_first_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8874,7 +8455,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_H_03_leg_A_task",
         "SubTask2": "FM_09_H_03_leg_B_task",
         "SubTask3": "FM_09_H_03_leg_C_task"
@@ -8894,8 +8475,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI"
     },
     {
         "TaskID": "FM_09_H_03_leg_B_task",
@@ -8912,8 +8492,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI"
     },
     {
         "TaskID": "FM_09_H_03_leg_C_task",
@@ -8930,8 +8509,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI",
-        "IsHidden": 0
+        "TP_DescriptionTag": "@objective_mission_hunt_generic_at_POI"
     },
     {
         "TaskID": "FM_09_PVP_Area1_Syndicate_container",
@@ -8944,7 +8522,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_PVP_Area1_Syndicate_first",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -8960,7 +8537,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_task_pvp",
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area1_Syndicate_task",
         "SubTask2": "M_task_die_reset"
     },
@@ -8978,8 +8555,7 @@
         "Duration": 90,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_task_patrol_timer",
-        "OverrideLocation": "9583.7 1338.1 40.7",
-        "IsHidden": 0
+        "OverrideLocation": "9583.7 1338.1 40.7"
     },
     {
         "TaskID": "FM_09_PVP_Area2_Syndicate_container",
@@ -8992,7 +8568,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_PVP_Area2_Syndicate_first",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -9008,7 +8583,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_task_pvp",
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area2_Syndicate_task",
         "SubTask2": "M_task_die_reset"
     },
@@ -9028,8 +8603,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_poach_wood_at_POI",
-        "OverrideLocation": "9156.5 1130.8 46.9",
-        "IsHidden": 0
+        "OverrideLocation": "9156.5 1130.8 46.9"
     },
     {
         "TaskID": "FM_09_PVP_Area3_Syndicate_container",
@@ -9042,7 +8616,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_PVP_Area3_Syndicate_2_step_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -9058,7 +8631,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_task_pvp",
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area3_Syndicate_first_ordie",
         "SubTask2": "FM_09_PVP_Area3_Syndicate_task_ordie"
     },
@@ -9073,7 +8646,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area3_Syndicate_first",
         "SubTask2": "M_task_die_reset"
     },
@@ -9094,8 +8667,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_archive_step_1_at_POI",
-        "OverrideLocation": "9282.1 1270.8 39.8",
-        "IsHidden": 0
+        "OverrideLocation": "9282.1 1270.8 39.8"
     },
     {
         "TaskID": "FM_09_PVP_Area3_Syndicate_task_ordie",
@@ -9108,7 +8680,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area3_Syndicate_turnin",
         "SubTask2": "M_task_die_reset"
     },
@@ -9123,7 +8695,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area3_Syndicate_task",
         "SubTask2": "FM_09_PVP_Area3_Syndicate_remove"
     },
@@ -9145,8 +8717,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_archive_step_2_at_POI",
-        "OverrideLocation": "9405.9 1061.9 40.3",
-        "IsHidden": 0
+        "OverrideLocation": "9405.9 1061.9 40.3"
     },
     {
         "TaskID": "FM_09_PVP_Area3_Syndicate_remove",
@@ -9160,7 +8731,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "FM_09_PVP_Area1_Marauder_container",
@@ -9173,7 +8744,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_PVP_Area1_Marauder_2_step_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -9189,7 +8759,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_task_pvp",
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area1_Marauder_first_ordie",
         "SubTask2": "FM_09_PVP_Area1_Marauder_task_ordie"
     },
@@ -9204,7 +8774,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area1_Marauder_first",
         "SubTask2": "M_task_die_reset"
     },
@@ -9225,8 +8795,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_espionage_step_1_at_POI",
-        "OverrideLocation": "9583.7 1338.1 40.7",
-        "IsHidden": 0
+        "OverrideLocation": "9583.7 1338.1 40.7"
     },
     {
         "TaskID": "FM_09_PVP_Area1_Marauder_task_ordie",
@@ -9239,7 +8808,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area1_Marauder_turnin",
         "SubTask2": "M_task_die_reset"
     },
@@ -9254,7 +8823,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area1_Marauder_task",
         "SubTask2": "FM_09_PVP_Area1_Marauder_remove"
     },
@@ -9276,8 +8845,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_espionage_step_2_at_POI",
-        "OverrideLocation": "9282.1 1270.8 39.8",
-        "IsHidden": 0
+        "OverrideLocation": "9282.1 1270.8 39.8"
     },
     {
         "TaskID": "FM_09_PVP_Area1_Marauder_remove",
@@ -9291,7 +8859,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "FM_09_PVP_Area3_Marauder_container",
@@ -9304,7 +8872,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_PVP_Area3_Marauder_first",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -9320,7 +8887,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_task_pvp",
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area3_Marauder_task",
         "SubTask2": "M_task_die_reset"
     },
@@ -9339,8 +8906,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_destroy_generic_at_POI",
-        "OverrideLocation": "9554.5 1181.2 53.2",
-        "IsHidden": 0
+        "OverrideLocation": "9554.5 1181.2 53.2"
     },
     {
         "TaskID": "FM_09_PVP_Area2_Marauder_container",
@@ -9353,7 +8919,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_PVP_Area2_Marauder_first",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -9369,7 +8934,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_task_pvp",
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area2_Marauder_task",
         "SubTask2": "M_task_die_reset"
     },
@@ -9387,8 +8952,7 @@
         "Duration": 90,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_task_patrol_timer",
-        "OverrideLocation": "9405.9 1061.9 40.3",
-        "IsHidden": 0
+        "OverrideLocation": "9405.9 1061.9 40.3"
     },
     {
         "TaskID": "FM_09_PVP_Area1_Covenant_container",
@@ -9401,7 +8965,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_PVP_Area1_Covenant_first",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -9417,7 +8980,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_task_pvp",
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area1_Covenant_task",
         "SubTask2": "M_task_die_reset"
     },
@@ -9437,8 +9000,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_poach_flint_at_POI",
-        "OverrideLocation": "8967.7 1313.9 39.8",
-        "IsHidden": 0
+        "OverrideLocation": "8967.7 1313.9 39.8"
     },
     {
         "TaskID": "FM_09_PVP_Area2_Covenant_container",
@@ -9451,7 +9013,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_PVP_Area2_Covenant_2_step_container",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -9467,7 +9028,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_task_pvp",
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area2_Covenant_first_ordie",
         "SubTask2": "FM_09_PVP_Area2_Covenant_task_ordie"
     },
@@ -9482,7 +9043,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area2_Covenant_first",
         "SubTask2": "M_task_die_reset"
     },
@@ -9503,8 +9064,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_circulate_step_1_at_POI",
-        "OverrideLocation": "9405.9 1061.9 40.3",
-        "IsHidden": 0
+        "OverrideLocation": "9405.9 1061.9 40.3"
     },
     {
         "TaskID": "FM_09_PVP_Area2_Covenant_task_ordie",
@@ -9517,7 +9077,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area2_Covenant_turnin",
         "SubTask2": "M_task_die_reset"
     },
@@ -9532,7 +9092,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area2_Covenant_task",
         "SubTask2": "FM_09_PVP_Area2_Covenant_remove"
     },
@@ -9554,8 +9114,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_circulate_step_2_at_POI",
-        "OverrideLocation": "9583.7 1338.1 40.7",
-        "IsHidden": 0
+        "OverrideLocation": "9583.7 1338.1 40.7"
     },
     {
         "TaskID": "FM_09_PVP_Area2_Covenant_remove",
@@ -9569,7 +9128,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 1
+        "IsHidden": "1"
     },
     {
         "TaskID": "FM_09_PVP_Area3_Covenant_container",
@@ -9582,7 +9141,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_PVP_Area3_Covenant_first",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -9598,7 +9156,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_task_pvp",
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_Area3_Covenant_task",
         "SubTask2": "M_task_die_reset"
     },
@@ -9616,8 +9174,7 @@
         "Duration": 90,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_task_patrol_timer",
-        "OverrideLocation": "9335.8 1256 39.5",
-        "IsHidden": 0
+        "OverrideLocation": "9335.8 1256 39.5"
     },
     {
         "TaskID": "FM_09_PVP_PK_Marauder_container",
@@ -9630,7 +9187,6 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
         "SubTask1": "FM_09_PVP_PK_Marauder_first",
         "SubTask2": "M_ReturnToGiver"
     },
@@ -9646,7 +9202,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_task_pvp",
-        "IsHidden": 1,
+        "IsHidden": "1",
         "SubTask1": "FM_09_PVP_PK_Marauder_task",
         "SubTask2": "M_task_die_reset"
     },
@@ -9665,7 +9221,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@objective_mission_kill_generic_at_POI",
-        "OverrideLocation": "9554.5 1181.2 53.2",
-        "IsHidden": 0
+        "OverrideLocation": "9554.5 1181.2 53.2"
     }
 ]

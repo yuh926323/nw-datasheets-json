@@ -336,6 +336,23 @@
 	<string key="ui_engineering_desc">Confeccione armas a distância e móveis para casa.</string>
 	<string key="ui_furnishing">Mobília</string>
 	<string key="ui_wildernesssurvival" comment="wilderness survival is not a trainable skill and is always equal to the character's level, so just tell users it's their character level for simplicity">Personagem</string>
+	<string key="ui_weaponsmithing_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Forjamento de Armas</string>
+	<string key="ui_armoring_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Forjamento de Armaduras</string>
+	<string key="ui_jewelcrafting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Joalheria</string>
+	<string key="ui_arcana_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Arcana</string>
+	<string key="ui_cooking_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Culinária</string>
+	<string key="ui_fishing_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Pesca</string>
+	<string key="ui_furnishing_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Mobília</string>
+	<string key="ui_engineering_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Engenharia</string>
+	<string key="ui_smelting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Fundição</string>
+	<string key="ui_woodworking_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Marcenaria</string>
+	<string key="ui_leatherworking_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Trabalho em Couro</string>
+	<string key="ui_weaving_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Tecelagem</string>
+	<string key="ui_stonecutting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Cantaria</string>
+	<string key="ui_skinning_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Esfolamento</string>
+	<string key="ui_mining_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Mineração</string>
+	<string key="ui_logging_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Extração de Madeira</string>
+	<string key="ui_harvesting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Capacidade do Posto de Colheita</string>
 	<string key="ui_decline">Recusar</string>
 	<string key="ui_name_your_avatar">Nomeie Seu Personagem</string>
 	<string key="ui_portrait_title">Meu Retrato</string>

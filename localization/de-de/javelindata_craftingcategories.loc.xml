@@ -1,4 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="CategoryData_CraftingPatterns">Herstellungsschemas</string>
 	<string key="FoodComponents_GroupName">Zusammengesetzte Zutaten</string>
 	<string key="GemstoneT1_GroupName">Beschädigte Edelsteinbrocken</string>
 	<string key="GemstoneT2_GroupName">Standard-Edelsteinbrocken</string>
@@ -1708,6 +1709,8 @@
 	<string key="TimberT5_GroupName">Bauholz Rang 5</string>
 	<string key="TinctureBlight_GroupName">Fäulnistinkturen</string>
 	<string key="TinctureCorruption_GroupName">Verderbnistinkturen</string>
+	<string key="Tokens_GroupName">Winterkonvergenz-Marken</string>
+	<string key="TokenCreation_GroupName">Markenerstellung</string>
 	<string key="TokenConversion_GroupName">Markenumtausch</string>
 	<string key="ToolHatchet_GroupDesc">Einhändig zu führen. Zum Sammeln von Holz.</string>
 	<string key="ToolHatchet_GroupName">Beil</string>

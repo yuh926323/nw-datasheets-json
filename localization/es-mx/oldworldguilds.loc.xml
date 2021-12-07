@@ -487,5 +487,9 @@
 	<string key="FactionMission_ASSASSINATE_ELITE_NIGHT_desc">Los saqueadores necesitan eliminar a &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; del tablero.\n\nRastréalo en {POITags} y destrúyelo para demostrar tu valor.\n&lt;font color="#eaeaea"&gt;(Élite: el enemigo es nocturno).&lt;/font&gt;</string>
 	<string key="FactionMission_S_ASSASSINATE_ELITE_NIGHT_desc">El sindicato ha identificado a &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; como objetivo a eliminar.\n\nRastréalo en {POITags} y destrúyelo.\n&lt;font color="#eaeaea"&gt;(Élite: el enemigo es nocturno).&lt;/font&gt;</string>
 	<string key="FactionMission_C_ASSASSINATE_ELITE_NIGHT_desc">El pacto ha identificado a &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; para su eliminación.\n\nDemuestra tu devoción rastreándolo en {POITags} y destruyéndolo.\n &lt;font color="#eaeaea"&gt;(Élite: el enemigo es nocturno).&lt;/font&gt;</string>
+	<string key="CMissionAcquireStoneworker" rel_version="Event_WinterConvergence_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de una estación de cantería.</string>
+	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de una estación de carpintería.</string>
+	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de una estación de equipamiento.</string>
+	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Adquiere y entrega &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de una estación de ingeniería.</string>
 </resources>
 

@@ -1,4 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="CategoryData_CraftingPatterns">Padrões de Confecção</string>
 	<string key="FoodComponents_GroupName">Ingredientes de Composto</string>
 	<string key="GemstoneT1_GroupName">Gemas Imperfeitas</string>
 	<string key="GemstoneT2_GroupName">Gemas Regulares</string>
@@ -1708,6 +1709,8 @@
 	<string key="TimberT5_GroupName">Tábua de Escala 5</string>
 	<string key="TinctureBlight_GroupName">Extratos Maculados</string>
 	<string key="TinctureCorruption_GroupName">Extratos de Corrupção</string>
+	<string key="Tokens_GroupName">Tokens da Convergência de Inverno</string>
+	<string key="TokenCreation_GroupName">Criação de Token</string>
 	<string key="TokenConversion_GroupName">Conversão de Token</string>
 	<string key="ToolHatchet_GroupDesc">1 Mão. Coleta madeira.</string>
 	<string key="ToolHatchet_GroupName">Machadinha</string>

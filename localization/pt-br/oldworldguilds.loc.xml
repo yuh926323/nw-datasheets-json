@@ -487,5 +487,9 @@
 	<string key="FactionMission_ASSASSINATE_ELITE_NIGHT_desc">Os Saqueadores precisam que &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; desapareça.\n\nProve sua bravura: encontre seu alvo em {POITags} e destrua-o.\n&lt;font color="#eaeaea"&gt;(Elite - O inimigo é noturno)&lt;/font&gt;</string>
 	<string key="FactionMission_S_ASSASSINATE_ELITE_NIGHT_desc">O Sindicato identificou que &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; é um alvo para eliminação.\n\nProcure-o em {POITags} e destrua-o.\n&lt;font color="#eaeaea"&gt;(Elite - O inimigo é noturno)&lt;/font&gt;</string>
 	<string key="FactionMission_C_ASSASSINATE_ELITE_NIGHT_desc">A Aliança identificou que &lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; precisa desaparecer.\n\nProve sua devoção: encontre seu alvo em {POITags} e destrua-o.\n &lt;font color="#eaeaea"&gt;(Elite - O inimigo é noturno)&lt;/font&gt;</string>
+	<string key="CMissionAcquireStoneworker" rel_version="Event_WinterConvergence_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Estação de Cantaria.</string>
+	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Estação de Marcenaria.</string>
+	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Estação de Alfaiataria.</string>
+	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Adquira e entregue &lt;font color="#eaeaea"&gt;{itemAmount} {itemName}&lt;/font&gt; de uma Estação de Engenharia.</string>
 </resources>
 

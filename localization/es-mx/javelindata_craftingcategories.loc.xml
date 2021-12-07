@@ -1,4 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="CategoryData_CraftingPatterns">Patrones de artesanía</string>
 	<string key="FoodComponents_GroupName">Ingredientes del compuesto</string>
 	<string key="GemstoneT1_GroupName">Gemas imperfectas</string>
 	<string key="GemstoneT2_GroupName">Gemas estándar</string>
@@ -1708,6 +1709,8 @@
 	<string key="TimberT5_GroupName">Madera de construcción de nivel 5</string>
 	<string key="TinctureBlight_GroupName">Tinturas de plaga</string>
 	<string key="TinctureCorruption_GroupName">Tinturas de corrupción</string>
+	<string key="Tokens_GroupName">Tokens de Convergencia invernal</string>
+	<string key="TokenCreation_GroupName">Creación de tokens</string>
 	<string key="TokenConversion_GroupName">Conversión</string>
 	<string key="ToolHatchet_GroupDesc">A una mano. Recolecta madera.</string>
 	<string key="ToolHatchet_GroupName">Hachuela</string>

@@ -175,6 +175,8 @@
 	<string key="ui_p2ptrading_overflow_title">Inventario lleno</string>
 	<string key="ui_p2ptrading_overflow_message">Algunos de los objetos que has recibido no cabían en tu inventario y se han dejado en el suelo.</string>
 	<string key="ui_p2ptrading_inventory_full_warning">Tu inventario está lleno o casi lleno.\nEs posible que no puedas aceptar los objetos entrantes.</string>
+	<string key="ui_failmessage_economylocked">Tu cuenta ha sido restringida, y en este momento no puedes hacer un intercambio.</string>
+	<string key="ui_failmessage_othereconomylocked">Este jugador no puede recibir objetos ni monedas en este momento.</string>
 	<string key="ui_invite_to_group">Invitar al grupo</string>
 	<string key="ui_invite_to_guild">Invitar a la compañía</string>
 	<string key="ui_acceptfriendinvite">Aceptar invitación</string>
@@ -299,6 +301,9 @@
 	<string key="ui_subarmy_joined_company">Se ha unido a tu compañía</string>
 	<string key="ui_subarmy_joined_group">Se ha unido a tu grupo</string>
 	<string key="ui_subarmy_joined_company_and_group">Se ha unido a tu compañía y a tu grupo</string>
+	<string key="ui_subarmy_button_disabled_no_selection">En este momento no hay ningún jugador seleccionado.</string>
+	<string key="ui_subarmy_button_disabled_different_faction_group">El jugador seleccionado debe ser miembro de tu facción para poder unirse a tu grupo JcJ.</string>
+	<string key="ui_subarmy_button_disabled_different_faction_guild">El jugador seleccionado debe ser miembro de tu facción para poder unirse a tu compañía.</string>
 	<string key="ui_waypoint_set_to_ping">Se configuró el marcador para marcar</string>
 	<string key="ui_chat_name_raid">Ejército</string>
 	<string key="ui_chat_name_raid_upper">EJÉRCITO</string>

@@ -114,10 +114,10 @@
 	<string key="ui_affliction_drowning_tooltip">Si te quedas sin aire, te ahogarás y morirás</string>
 	<string key="ui_affliction_blight">resistencia a la plaga</string>
 	<string key="ui_affliction_blight_tooltip">Si te quedas sin resistencia a la plaga, sucumbirás a la infección e infligirás un {[Type_StatusEffectData.Blight.DMGStandard * 100]} % menos de daño, te curarás un {[Type_StatusEffectData.Blight.HealMod * 100]} % menos y perderás un {[Type_StatusEffectData.Blight.HealthModifierPercent * -100]} % de tu salud base cada {[Type_StatusEffectData.Blight.TickRate]} segundos durante {[Afflictions.AfflictionBlight.AfflictedDrainTime]} segundos.</string>
-	<string key="ui_affliction_mutcurse3minor">temporizador de maldición</string>
-	<string key="ui_affliction_mutcurse3minor_tooltip">Temporizador de combustible.</string>
-	<string key="ui_affliction_mutcurse4major">resistencia a retroceso</string>
-	<string key="ui_affliction_mutcurse4major_tooltip">Si te quedas sin resistencia, se creará una zona de silencio. La zona detonará con el tiempo, infligiendo daño a jugadores y criaturas. La resistencia se comparte entre todos los miembros de tu grupo.</string>
+	<string key="ui_affliction_mutcurse3">temporizador de maldición</string>
+	<string key="ui_affliction_mutcurse3_tooltip">Temporizador de combustible.</string>
+	<string key="ui_affliction_mutcurse4">resistencia a retroceso</string>
+	<string key="ui_affliction_mutcurse4_tooltip">Si te quedas sin resistencia, se creará una zona de silencio. La zona detonará con el tiempo, infligiendo daño a jugadores y criaturas. La resistencia se comparte entre todos los miembros de tu grupo.</string>
 	<string key="ui_afflicted_bleeding">herido</string>
 	<string key="ui_afflicted_bleeding_tooltip">Mientras estés herido, recuperarás la vitalidad mucho más lentamente</string>
 	<string key="ui_afflicted_burn">quemado</string>
@@ -138,10 +138,10 @@
 	<string key="ui_afflicted_drowning_tooltip">Has muerto ahogado</string>
 	<string key="ui_afflicted_blight">infecto</string>
 	<string key="ui_afflicted_blight_tooltip">Mientras sufras los efectos de la plaga, infligirás un {[Type_StatusEffectData.Blight.DMGStandard * 100]} % menos de daño, te curarás un {[Type_StatusEffectData.Blight.HealMod * 100]} % menos y perderás un {[Type_StatusEffectData.Blight.HealthModifierPercent * 100]} % de tu salud base cada {[Type_StatusEffectData.Blight.TickRate]} segundos.</string>
-	<string key="ui_afflicted_mutcurse3minor">combustión</string>
-	<string key="ui_afflicted_mutcurse3minor_tooltip">Cuando el contador expire, los dos jugadores con menor salud lanzarán una cadena elemental a los aliados más cercanos.</string>
-	<string key="ui_afflicted_mutcurse4major">maldito</string>
-	<string key="ui_afflicted_mutcurse4major_tooltip">Cuando este contador expire, la zona de silencio detonará.</string>
+	<string key="ui_afflicted_mutcurse3">combustión</string>
+	<string key="ui_afflicted_mutcurse3_tooltip">Cuando el contador expire, los dos jugadores con menor salud lanzarán una cadena elemental a los aliados más cercanos.</string>
+	<string key="ui_afflicted_mutcurse4">maldito</string>
+	<string key="ui_afflicted_mutcurse4_tooltip">Cuando este contador expire, la zona de silencio detonará.</string>
 	<string key="ui_agreement">Al continuar, aceptas las</string>
 	<string key="ui_ahhhhh">¡¡¡AAAAAH!!!</string>
 	<string key="ui_aimsensitivity">Sensibilidad del apuntado</string>
@@ -462,6 +462,8 @@
 	<string key="ui_level_unspent_points_tradeskill">{tradeskillPointsText}</string>
 	<string key="ui_level_unspent_points_both">{attributePointsText} {tradeskillPointsText}</string>
 	<string key="ui_level">Nivel</string>
+	<string key="ui_expertise_level" rel_version="Feature_PostCapTradeSkills">Nivel de pericia</string>
+	<string key="ui_expertise_reward" rel_version="Feature_PostCapTradeSkills">Recompensa de pericia conseguida</string>
 	<string key="ui_light">Luz</string>
 	<string key="ui_lmb">bir</string>
 	<string key="ui_lmbrmb">BIR / BDR</string>
@@ -808,7 +810,7 @@
 	<string key="ui_anti-cheat_desc">Consulta la Información sobre el software antitrampas en el navegador</string>
 	<string key="ui_legalprivacy">Consulta nuestro Aviso de privacidad.</string>
 	<string key="ui_prealphatag">Versión de prueba - CONFIDENCIAL</string>
-	<string key="ui_buildtag">Beta</string>
+	<string key="ui_buildtag">PTR Build</string>
 	<string key="ui_chat_feed">Registro</string>
 	<string key="ui_chat_feed_tooltip">Incluye este canal en el registro</string>
 	<string key="ui_chat_muted_tooltip">Este canal no se mostrará en el registro y sus mensajes no leídos no se añadirán al total en el botón del chat. Puedes ver este canal igualmente usando el selector de canales que hay a la izquierda.</string>
@@ -1436,6 +1438,7 @@
 	<string key="ui_tooltip_read">Leer</string>
 	<string key="ui_tooltip_store">Almacenar</string>
 	<string key="ui_purchase_skins">Comprar diseños</string>
+	<string key="ui_tooltip_upgrade">Mejorar</string>
 	<string key="ui_tooltip_take">Coger</string>
 	<string key="ui_tooltip_split">Dividir</string>
 	<string key="ui_tooltip_weight">Peso: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt;</string>
@@ -1457,6 +1460,10 @@
 	<string key="ui_attach_gem_tooltip">Incrusta una gema tallada de tu inventario.</string>
 	<string key="ui_replace_gem">Reemplazar gema</string>
 	<string key="ui_replace_gem_tooltip">Reemplaza la gema incrustada por otra de tu inventario. La gema actual se perderá.</string>
+	<string key="ui_upgrade_warning_title">Mejorar objeto</string>
+	<string key="ui_upgrade_warning_body">Mejorar tu {itemName} de la puntuación de equipo {baseGearScore} a {targetGearScore} requerirá {itemCount} {upgradeItemName}.\n\n¿Quieres mejorar este objeto?</string>
+	<string key="ui_upgrade_tooltip_enabled">Aplica el objeto {itemName} para aumentar la puntuación de equipo de este objeto.</string>
+	<string key="ui_upgrade_tooltip_disabled">Necesitas más unidades de {itemName} para aumentar la puntuación de equipo de este objeto.</string>
 	<string key="ui_cannot_replace_gem_tooltip">No puedes sustituir esta gema.</string>
 	<string key="ui_no_gems_tooltip">No hay gemas disponibles</string>
 	<string key="ui_gem_select_popup_available">Gemas disponibles</string>
@@ -1852,6 +1859,9 @@
 	<string key="ui_camping_tooltip_tier_3">Campamento (clase 3)\n\nColocar un campamento de clase 3 te permite crear varios objetos de clase 3, sanar a tu personaje y volver a aparecer en el campamento.\n\nPara mejorarlo a clase 4, debes ser de nivel 40 y haber completado la misión «Supervivencia: Observaciones lupinas».</string>
 	<string key="ui_camping_tooltip_tier_4">Campamento (clase 4)\n\nColocar un campamento de clase 4 te permite crear varios objetos de clase 4, sanar a tu personaje y volver a aparecer en el campamento.\n\nPara mejorarlo a clase 5, debes ser de nivel 55 y haber completado la misión «Supervivencia: Luces apagadas».</string>
 	<string key="ui_camping_tooltip_tier_5">Campamento (clase 5)\n\nColocar un campamento de clase 5 te permite crear varios objetos de clase 5, sanar a tu personaje y volver a aparecer en el campamento.</string>
+	<string key="ui_campskins" rel_version="Feature_Camp_Skins">Diseños del campamento</string>
+	<string key="ui_campskin" rel_version="Feature_Camp_Skins">Diseño del campamento</string>
+	<string key="ui_campskin_applied_hint" rel_version="Feature_Camp_Skins">El diseño se aplicará a tu próximo campamento</string>
 	<string key="ui_all_level_milestones">Todas las recompensas por subida de nivel</string>
 	<string key="ui_unlock_token_slot">Ranura de pendiente.</string>
 	<string key="ui_unlock_ring_slot">Ranura de anillo</string>
@@ -1998,14 +2008,14 @@
 	<string key="ui_yes_colored">&lt;font color="#30e5ab"&gt;Sí.&lt;/font&gt;</string>
 	<string key="ui_no_colored">&lt;font color="#ff7171"&gt;No.&lt;/font&gt;</string>
 	<string key="ui_mergewarning_short">&lt;font color="#e2a438"&gt;Fusión de mundo en {timeRemaining}&lt;/font&gt;</string>
-	<string key="ui_mergewarning_long">La población de este mundo se unirá con {worldName} el\n{time}.</string>
+	<string key="ui_mergewarning_long">La población de este mundo se unirá con {worldName} el {time}.</string>
 	<string key="ui_world_message">Mensaje del mundo</string>
 	<string key="ui_mergefaq_question_1">¿Conservaré mi progreso de personaje, mi inventario y mi casa?</string>
 	<string key="ui_mergefaq_question_2">¿Conservará mi compañía los territorios que ha conquistado?</string>
 	<string key="ui_mergefaq_question_3">¿Estaré en la misma compañía?</string>
 	<string key="ui_mergefaq_question_4">¿Mi compañía puede declarar la guerra a otras compañías aún?</string>
 	<string key="ui_mergefaq_answer_1">Las características de tu personaje se conservarán: su nivel, puntos de atributo, puntos de maestría, estatus en el territorio, casa, inventario y almacenamiento del asentamiento.</string>
-	<string key="ui_mergefaq_answer_2">Los territorios del nuevo mundo los conquistarán las compañías de ese mundo. Si tu compañía no pertenece a ese mundo, perderá todos sus territorios y mejoras, pero se le otorgarán 15 000 monedas.</string>
+	<string key="ui_mergefaq_answer_2">Los territorios del nuevo mundo los conquistarán las compañías de ese mundo. Si tu compañía no pertenece a ese mundo, perderá todos sus territorios y mejoras, pero se le otorgarán 50 000 monedas.</string>
 	<string key="ui_mergefaq_answer_3">Los jugadores nunca quedarán separados debido a una unión de mundos. Se conservarán tanto los miembros como el monedero de la compañía.</string>
 	<string key="ui_mergefaq_answer_4">Se avisará a los jugadores con 72 horas de antelación antes de una unión de mundos. Las compañías no pueden declarar guerras durante ese tiempo. Las guerras pendientes se cancelarán y el oro invertido en ellas se devolverá.</string>
 	<string key="ui_mergewarning_title">PRÓXIMA UNIÓN DE MUNDOS</string>
@@ -2018,7 +2028,7 @@
 	<string key="ui_mergecomplete_question_3">¿Sigo estando en la misma compañía?</string>
 	<string key="ui_mergecomplete_question_4">¿Mis ofertas de compra y venta siguen publicadas?</string>
 	<string key="ui_mergecomplete_answer_1">Las características de tu personaje se han conservado: su nivel, puntos de atributo, puntos de maestría, estatus en el territorio, casa, inventario y almacenamiento del asentamiento.</string>
-	<string key="ui_mergecomplete_answer_2">Los territorios del nuevo mundo los conquistarán las compañías de ese mundo. Si tu compañía no pertenece a ese mundo, perderá todos sus territorios y mejoras, pero se le otorgarán 15 000 monedas.</string>
+	<string key="ui_mergecomplete_answer_2">Los territorios del nuevo mundo los conquistarán las compañías de ese mundo. Si tu compañía no pertenece a ese mundo, perderá todos sus territorios y mejoras, pero se le otorgarán 50 000 monedas.</string>
 	<string key="ui_mergecomplete_answer_3">Los jugadores nunca quedarán separados debido a una unión. Se han conservado tanto los miembros como el monedero de la compañía. No se pueden declarar guerras 3 días antes de la unión.</string>
 	<string key="ui_mergecomplete_answer_4">Se te devolverán los objetos que hayas puesto a la venta y conservarás las monedas que hayas ganado mediante ventas parciales. Las monedas gastadas en pagar impuestos o los cargos de publicación no se devolverán.</string>
 	<string key="ui_merge_region">Región</string>

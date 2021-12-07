@@ -88,7 +88,7 @@
 	<string key="tip_overworld_combat_voidGaunlet01-title">Il guanto del Vuoto</string>
 	<string key="tip_overworld_combat_voidGaunlet01-content">I numerosi potenziamenti e depotenziamenti del guanto del Vuoto lo rendono molto efficace nei combattimenti di gruppo.</string>
 	<string key="tip_overworld_company_benefits01-title">Compagnie</string>
-	<string key="tip_overworld_company_benefits01-content">Entra a far parte di una compagnia, combatti insieme ai tuoi amici contro i Corrotti e assedia i territori delle fazioni opposte.</string>
+	<string key="tip_overworld_company_benefits01-content">Entra a far parte di una compagnia e combatti insieme ai tuoi amici contro i Corrotti. In più, assedia i territori delle fazioni opposte.</string>
 	<string key="tip_overworld_company_benefits02-title">Compagnie</string>
 	<string key="tip_overworld_company_benefits02-content">Solo le compagnie possono dichiarare guerra e assediare territori per conquistarli. Quando governa un territorio, la tua compagnia guadagna monete tramite le tasse, riceve sconti sostanziosi sul viaggio veloce e contribuisce al successo di tutta la fazione.</string>
 	<string key="tip_overworld_company_benefits03-title">Compagnie</string>
@@ -428,7 +428,7 @@
 	<string key="tip_war_specific06-title">Guerra</string>
 	<string key="tip_war_specific06-content">I leader di guerra possono tenere premuto [{hint1}] mentre fanno un avviso per renderlo visibile a tutto l'esercito.</string>
 	<string key="tip_invasion_specific01-title">Invasione</string>
-	<string key="tip_invasion_specific01-content">I nemici corrotti attaccheranno il forte a ondate e ogni ondata sarà più forte della precedente.</string>
+	<string key="tip_invasion_specific01-content">L'esercito corrotto attaccherà il forte a ondate e ogni ondata sarà più forte della precedente.</string>
 	<string key="tip_invasion_specific02-title">Invasione</string>
 	<string key="tip_invasion_specific02-content">L'esercito corrotto cercherà di sfondare i cancelli e conquistare il punto di controllo all'interno del forte. Se i giocatori riescono a difendere il punto di rivendicazione, vincono.</string>
 	<string key="tip_invasion_specific03-title">Invasione</string>

@@ -1716,14 +1716,38 @@
 	<string key="ui_poi_keep_40283_description" rel_version="AI_Evil_Knights_P1">Rovine sgretolate, una vita all'osso\nIl velo del santuario sarà presto rimosso</string>
 	<string key="ui_poi_camp_40040" rel_version="AI_Evil_Knights_P1">Accampamento di guerra di Las Torres</string>
 	<string key="ui_poi_camp_40040_description" rel_version="AI_Evil_Knights_P1">Argento scintillante è la lama tagliente\nUn'orma scolpita nella sabbia ardente.</string>
+	<string key="ui_poi_yeti_30144" rel_version="Event_WinterConvergence_Perm">Conca di Hari</string>
+	<string key="ui_poi_yeti_30144_description" rel_version="Event_WinterConvergence_Perm">Punto di riferimento</string>
+	<string key="ui_poi_yeti_30252" rel_version="Event_WinterConvergence_Perm">Santuario della serenità</string>
+	<string key="ui_poi_yeti_30252_description" rel_version="Event_WinterConvergence_Perm">Punto di riferimento</string>
+	<string key="ui_poi_yeti_40041" rel_version="Event_WinterConvergence_Perm">Covo della Corona della luce</string>
+	<string key="ui_poi_yeti_40041_description" rel_version="Event_WinterConvergence_Perm">Punto di riferimento</string>
+	<string key="ui_poi_yeti_40172" rel_version="Event_WinterConvergence_Perm">Caverna della cascata</string>
+	<string key="ui_poi_yeti_40172_description" rel_version="Event_WinterConvergence_Perm">Punto di riferimento</string>
+	<string key="ui_poi_yeti_40173" rel_version="Event_WinterConvergence_Perm">Rifugio di Rames</string>
+	<string key="ui_poi_yeti_40173_description" rel_version="Event_WinterConvergence_Perm">Punto di riferimento</string>
 	<string key="ui_poi_yeti_40346">Grotta di Vallegrigia</string>
 	<string key="ui_poi_yeti_40346_description">Punto di riferimento</string>
 	<string key="ui_poi_yeti_40347">Resistenza del gelo</string>
 	<string key="ui_poi_yeti_40347_description">Punto di riferimento</string>
 	<string key="ui_poi_yeti_40426">Ritiro dei lupi di brina</string>
 	<string key="ui_poi_yeti_40426_description">Punto di riferimento</string>
+	<string key="ui_poi_yeti_40427" rel_version="Event_WinterConvergence_Perm">Rovina dello speleologo</string>
+	<string key="ui_poi_yeti_40427_description" rel_version="Event_WinterConvergence_Perm">Punto di riferimento</string>
+	<string key="ui_poi_yeti_50399" rel_version="Event_WinterConvergence_Perm">Prospettiva blasfema</string>
+	<string key="ui_poi_yeti_50399_description" rel_version="Event_WinterConvergence_Perm">Punto di riferimento</string>
+	<string key="ui_poi_yeti_50424" rel_version="Event_WinterConvergence_Perm">Isolamento di Isvari</string>
+	<string key="ui_poi_yeti_50424_description" rel_version="Event_WinterConvergence_Perm">Punto di riferimento</string>
 	<string key="ui_poi_yeti_60352">Nascondiglio dell'Alto passo</string>
 	<string key="ui_poi_yeti_60352_description">Punto di riferimento</string>
+	<string key="ui_poi_40348_wintervillage" rel_version="Event_WinterConvergence_Temp">Villaggio invernale</string>
+	<string key="ui_poi_40348_wintervillage_description" rel_version="Event_WinterConvergence_Temp">Un villaggio misterioso, innevato e festoso è apparso a Aeternum. Benvenuti alla convergenza invernale!</string>
+	<string key="ui_poi_wintervillage_50151" rel_version="Event_WinterConvergence_Temp">Villaggio invernale</string>
+	<string key="ui_poi_wintervillage_50151_description" rel_version="Event_WinterConvergence_Temp">Un villaggio misterioso, innevato e festoso è apparso a Aeternum. Benvenuti alla convergenza invernale!</string>
+	<string key="ui_poi_50300_wintervillage" rel_version="Event_WinterConvergence_Temp">Villaggio invernale</string>
+	<string key="ui_poi_50300_wintervillage_description" rel_version="Event_WinterConvergence_Temp">Un villaggio misterioso, innevato e festoso è apparso a Aeternum. Benvenuti alla convergenza invernale!</string>
+	<string key="ui_poi_wintervillage_30145" rel_version="Event_WinterConvergence_Temp">Villaggio invernale</string>
+	<string key="ui_poi_wintervillage_30145_description" rel_version="Event_WinterConvergence_Temp">Un villaggio misterioso, innevato e festoso è apparso a Aeternum. Benvenuti alla convergenza invernale!</string>
 	<string key="ui_poi_factionarea_40284">Pascoli di Crinale del corvo</string>
 	<string key="ui_poi_factionarea_40285">Lato occidentale del Lago Meadow</string>
 	<string key="ui_poi_factionarea_40286">Crocevia della fede</string>

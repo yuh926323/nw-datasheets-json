@@ -1,4 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="CategoryData_CraftingPatterns">Patrons de fabrication</string>
 	<string key="FoodComponents_GroupName">Ingrédients composés</string>
 	<string key="GemstoneT1_GroupName">Pierres précieuses impures</string>
 	<string key="GemstoneT2_GroupName">Pierres précieuses standard</string>
@@ -1363,7 +1364,6 @@
 	<string key="ModsUncommon_GroupName">Modificateurs insolites</string>
 	<string key="MoonstoneCut_GroupDesc">Pierres précieuses taillées et polies : pierre de lune. Peuvent être transformées en bijoux pour augmenter la force et la concentration, ou serties sur de l'équipement pour lui conférer les atouts Euphorique et Protection anti-taille.</string>
 	<string key="MoonstoneCut_GroupName">Pierre de lune taillée</string>
-	<string key="Musical_GroupName">Instruments de musique</string>
 	<string key="MusketA_GroupDesc">Une arme à distance qui tire de puissantes cartouches. Idéale pour se battre à distance sans laisser ses cibles approcher. À manier avec précision pour infliger de lourds dégâts.\n\n•Attaque standard : Inflige {[DamageTable.MusketAttack1.DmgCoef * 100]} % de dégâts d'estoc.</string>
 	<string key="MusketA_GroupName">Mousquet</string>
 	<string key="Muskets_GroupName">Mousquets</string>
@@ -1708,6 +1708,8 @@
 	<string key="TimberT5_GroupName">Bois d'œuvre – palier 5</string>
 	<string key="TinctureBlight_GroupName">Teintures mères de dépérissement</string>
 	<string key="TinctureCorruption_GroupName">Teintures mères d'altération</string>
+	<string key="Tokens_GroupName">Marques de la Convergence hivernale</string>
+	<string key="TokenCreation_GroupName">Création de marques</string>
 	<string key="TokenConversion_GroupName">Conversion de jetons</string>
 	<string key="ToolHatchet_GroupDesc">À une main. Pour obtenir du bois.</string>
 	<string key="ToolHatchet_GroupName">Hachette</string>

@@ -114,10 +114,10 @@
 	<string key="ui_affliction_drowning_tooltip">Gdy postaci skończy się powietrze, udusi się</string>
 	<string key="ui_affliction_blight">odporność na zarazę</string>
 	<string key="ui_affliction_blight_tooltip">Jeśli stracisz odporność na zarazę, dopadnie cię zaraza i będziesz zadawać o {[Type_StatusEffectData.Blight.DMGStandard * 100]}% mniej obrażeń, otrzymywać o {[Type_StatusEffectData.Blight.HealMod * 100]}% mniej zdrowia podczas leczenia i tracić {[Type_StatusEffectData.Blight.HealthModifierPercent * -100]}% zdrowia podstawowego co {[Type_StatusEffectData.Blight.TickRate]} s przez {[Afflictions.AfflictionBlight.AfflictedDrainTime]} s.</string>
-	<string key="ui_affliction_mutcurse3minor">licznik klątwy</string>
-	<string key="ui_affliction_mutcurse3minor_tooltip">Licznik wybuchowości.</string>
-	<string key="ui_affliction_mutcurse4major">odporność na rykoszet</string>
-	<string key="ui_affliction_mutcurse4major_tooltip">Jeżeli zabraknie ci odporności, zostanie na ciebie rzucona strefa wyciszenia. Strefa wybuchnie po pewnym czasie, zadając obrażenia zarówno wrogom, jak i innym graczom. Odporność jest współdzielona przez wszystkich członków twojej grupy.</string>
+	<string key="ui_affliction_mutcurse3">licznik klątwy</string>
+	<string key="ui_affliction_mutcurse3_tooltip">Licznik wybuchowości.</string>
+	<string key="ui_affliction_mutcurse4">odporność na rykoszet</string>
+	<string key="ui_affliction_mutcurse4_tooltip">Jeżeli zabraknie ci odporności, zostanie na ciebie rzucona strefa wyciszenia. Wybuchnie ona po pewnym czasie, zadając obrażenia zarówno wrogom, jak i innym graczom. Odporność jest współdzielona przez wszystkich członków twojej grupy.</string>
 	<string key="ui_afflicted_bleeding">zranienie</string>
 	<string key="ui_afflicted_bleeding_tooltip">Zraniona postać znacznie wolniej odzyskuje energię</string>
 	<string key="ui_afflicted_burn">oparzenie</string>
@@ -138,10 +138,10 @@
 	<string key="ui_afflicted_drowning_tooltip">Postać utopiła się</string>
 	<string key="ui_afflicted_blight">zaraza</string>
 	<string key="ui_afflicted_blight_tooltip">Gdy dopadnie cię zaraza, będziesz zadawać o {[Type_StatusEffectData.Blight.DMGStandard * 100]}% mniej obrażeń, otrzymywać o {[Type_StatusEffectData.Blight.HealMod * 100]}% mniej zdrowia podczas leczenia i tracić {[Type_StatusEffectData.Blight.HealthModifierPercent * 100]}% zdrowia podstawowego co {[Type_StatusEffectData.Blight.TickRate]} s.</string>
-	<string key="ui_afflicted_mutcurse3minor">wybuchowość</string>
-	<string key="ui_afflicted_mutcurse3minor_tooltip">Po upływie czasu dwóch graczy z najniższym zdrowiem wyzwoli łańcuch żywiołów, zaczynający się od nich i przechodzący na innych sojuszników.</string>
-	<string key="ui_afflicted_mutcurse4major">"Przeklęta?"</string>
-	<string key="ui_afflicted_mutcurse4major_tooltip">Po upływie czasu strefa wyciszenia wybuchnie.</string>
+	<string key="ui_afflicted_mutcurse3">wybuchowość</string>
+	<string key="ui_afflicted_mutcurse3_tooltip">Po upływie czasu dwóch graczy z najniższym zdrowiem wyzwoli łańcuch żywiołów, zaczynający się od nich i przechodzący na innych sojuszników.</string>
+	<string key="ui_afflicted_mutcurse4">"Przeklęta?"</string>
+	<string key="ui_afflicted_mutcurse4_tooltip">Po upływie czasu strefa wyciszenia wybuchnie.</string>
 	<string key="ui_agreement">Kontynuując, akceptujesz poniższe warunki:</string>
 	<string key="ui_ahhhhh">Aaaaa!!!</string>
 	<string key="ui_aimsensitivity">Czułość celowania</string>
@@ -462,6 +462,8 @@
 	<string key="ui_level_unspent_points_tradeskill">{tradeskillPointsText}</string>
 	<string key="ui_level_unspent_points_both">{attributePointsText} {tradeskillPointsText}</string>
 	<string key="ui_level">Poziom</string>
+	<string key="ui_expertise_level" rel_version="Feature_PostCapTradeSkills">Poziom biegłości</string>
+	<string key="ui_expertise_reward" rel_version="Feature_PostCapTradeSkills">Zdobyto nagrodę za biegłość</string>
 	<string key="ui_light">Lekki</string>
 	<string key="ui_lmb">lpm</string>
 	<string key="ui_lmbrmb">LPM / PPM</string>
@@ -808,7 +810,7 @@
 	<string key="ui_anti-cheat_desc">Wyświetl w oknie przeglądarki informacje na temat oprogramowania zwalczającego oszustwa</string>
 	<string key="ui_legalprivacy">Proszę przeczytać oświadczenie o prywatności</string>
 	<string key="ui_prealphatag">Build testowy — POUFNY</string>
-	<string key="ui_buildtag">Beta</string>
+	<string key="ui_buildtag">PTR Build</string>
 	<string key="ui_chat_feed">Tablica</string>
 	<string key="ui_chat_feed_tooltip">Dodaje ten kanał do tablicy</string>
 	<string key="ui_chat_muted_tooltip">Ten kanał nie będzie wyświetlany na tablicy, a nieprzeczytane wiadomości nie będą pokazywane na ikonie czatu. Wciąż można będzie wyświetlać kanał za pomocą ikony wyboru kanału po lewej.</string>
@@ -1436,6 +1438,7 @@
 	<string key="ui_tooltip_read">Przeczytaj</string>
 	<string key="ui_tooltip_store">Przechowaj</string>
 	<string key="ui_purchase_skins">Kup skórki</string>
+	<string key="ui_tooltip_upgrade">Ulepszenie</string>
 	<string key="ui_tooltip_take">Weź</string>
 	<string key="ui_tooltip_split">Rozdziel</string>
 	<string key="ui_tooltip_weight">Waga: &lt;font face="lyshineui/fonts/Nimbus_Bold.font" color="#ffffff"&gt;{value}&lt;/font&gt;</string>
@@ -1457,6 +1460,10 @@
 	<string key="ui_attach_gem_tooltip">Osadź szlifowany klejnot ze swojego ekwipunku.</string>
 	<string key="ui_replace_gem">Zamień klejnot</string>
 	<string key="ui_replace_gem_tooltip">Zamień obecnie osadzony klejnot na inny klejnot z twojego ekwipunku. Obecnie używany klejnot zostanie utracony.</string>
+	<string key="ui_upgrade_warning_title">Ulepszenie przedmiotu</string>
+	<string key="ui_upgrade_warning_body">Do ulepszenia przedmiotu: {itemName} z {baseGearScore} do {targetGearScore} pkt wyposażenia potrzeba: {itemCount} x {upgradeItemName}.\n\nCzy chcesz ulepszyć ten przedmiot?</string>
+	<string key="ui_upgrade_tooltip_enabled">Zastosuj: {itemName}, by zwiększyć liczbę punktów wyposażenia tego przedmiotu.</string>
+	<string key="ui_upgrade_tooltip_disabled">Do zwiększenia liczby punktów wyposażenia tego przedmiotu potrzeba więcej: {itemName}.</string>
 	<string key="ui_cannot_replace_gem_tooltip">Nie można zamienić tego klejnotu.</string>
 	<string key="ui_no_gems_tooltip">Brak dostępnych klejnotów</string>
 	<string key="ui_gem_select_popup_available">Dostępne klejnoty</string>
@@ -1631,7 +1638,7 @@
 	<string key="ui_resource_quantity">{resourceName} {qtyHave} / {qtyNeeded}</string>
 	<string key="ui_escapemenu_proceed_to_new_world">Pomiń samouczek</string>
 	<string key="ui_proceed_to_new_world_popup_title">Pomiń samouczek</string>
-	<string key="ui_proceed_to_new_world_popup_message">Czy na pewno chcesz pominąć samouczek?\nWszystkie monety, przedmioty oraz całe doświadczenie przepadną.</string>
+	<string key="ui_proceed_to_new_world_popup_message">Czy na pewno chcesz pominąć samouczek?\nWszystkie monety i przedmioty oraz całe doświadczenie przepadną.</string>
 	<string key="ui_additional_items">+{count} dodatkowych przedmiotów</string>
 	<string key="ui_retest">Testuj ponownie</string>
 	<string key="ui_details">Szczegóły</string>
@@ -1852,6 +1859,9 @@
 	<string key="ui_camping_tooltip_tier_3">Obóz klasy 3\n\nW obozie klasy 3 możesz wytwarzać różne przedmioty klasy 3, leczyć postać i odradzać się.\n\nBy ulepszyć obóz do klasy 4, musisz mieć postać na 40. poziomie i ukończyć zadanie "Traper: Wilcze obserwacje".</string>
 	<string key="ui_camping_tooltip_tier_4">Obóz klasy 4\n\nW obozie klasy 4 możesz wytwarzać różne przedmioty klasy 4, leczyć postać i odradzać się.\n\nBy ulepszyć obóz do klasy 5, musisz mieć postać na 55. poziomie i ukończyć zadanie "Traper: Gasnące światła".</string>
 	<string key="ui_camping_tooltip_tier_5">Obóz klasy 5\n\nW obozie klasy 5 możesz wytwarzać różne przedmioty klasy 5, leczyć postać i odradzać się.</string>
+	<string key="ui_campskins" rel_version="Feature_Camp_Skins">Skórki obozu</string>
+	<string key="ui_campskin" rel_version="Feature_Camp_Skins">Skórka obozu</string>
+	<string key="ui_campskin_applied_hint" rel_version="Feature_Camp_Skins">Skórka zostanie zastosowana dla twojego następnego obozu.</string>
 	<string key="ui_all_level_milestones">Wszystkie nagrody za awans</string>
 	<string key="ui_unlock_token_slot">Miejsce na kolczyk</string>
 	<string key="ui_unlock_ring_slot">Miejsce na pierścień</string>
@@ -1998,14 +2008,14 @@
 	<string key="ui_yes_colored">&lt;font color="#30e5ab"&gt;Tak.&lt;/font&gt;</string>
 	<string key="ui_no_colored">&lt;font color="#ff7171"&gt;Nie.&lt;/font&gt;</string>
 	<string key="ui_mergewarning_short">&lt;font color="#e2a438"&gt;Łączenie światów za {timeRemaining}&lt;/font&gt;</string>
-	<string key="ui_mergewarning_long">Populacja tego świata zostanie połączona z: {worldName} o:\n{time}.</string>
+	<string key="ui_mergewarning_long">Populacja tego świata zostanie połączona z: {worldName} o: {time}.</string>
 	<string key="ui_world_message">Komunikat świata</string>
 	<string key="ui_mergefaq_question_1">Czy zachowam swoją postać, ekwipunek i dom?</string>
 	<string key="ui_mergefaq_question_2">Czy moja kompania zachowa przejęte terytoria?</string>
 	<string key="ui_mergefaq_question_3">Czy zachowam swoją kompanię?</string>
 	<string key="ui_mergefaq_question_4">Czy moja kompania wciąż będzie mogła wypowiadać wojnę innym kompaniom?</string>
 	<string key="ui_mergefaq_answer_1">Poziom twojej postaci, punkty cech, punkty biegłości, ranga terytorium, dom, ekwipunek i magazyn osady zostaną zachowane.</string>
-	<string key="ui_mergefaq_answer_2">Terytoria w nowym świecie zostaną przejęte przez kompanie z tamtego świata. Jeśli twoja kompania nie należy do nowego świata, stracisz wszystkie terytoria i ulepszenia. W zamian twoja kompania otrzyma 15 000 monet.</string>
+	<string key="ui_mergefaq_answer_2">Terytoria w nowym świecie zostaną przejęte przez kompanie z tamtego świata. Jeśli twoja kompania nie należy do nowego świata, stracisz wszystkie terytoria i ulepszenia. W zamian twoja kompania otrzyma 50 000 monet.</string>
 	<string key="ui_mergefaq_answer_3">Gracze nie zostaną rozdzieleni z powodu połączenia światów. Członkostwo w kompanii oraz jej portfel zostaną zachowane.</string>
 	<string key="ui_mergefaq_answer_4">Gracze otrzymają powiadomienie na 72 godzin przed połączeniem światów. W tym czasie kompanie nie będę mogły wypowiadać sobie wojen. Oczekujące wojny zostaną anulowane, a złoto wydane na wypowiedzenie wojny zostanie zwrócone.</string>
 	<string key="ui_mergewarning_title">WKRÓTCE NASTĄPI POŁĄCZENIE ŚWIATÓW</string>
@@ -2018,7 +2028,7 @@
 	<string key="ui_mergecomplete_question_3">Czy moja kompania została zachowana?</string>
 	<string key="ui_mergecomplete_question_4">Czy moje oferty kupna/sprzedaży pozostały aktywne?</string>
 	<string key="ui_mergecomplete_answer_1">Poziom twojej postaci, punkty cech, punkty biegłości, ranga terytorium, dom, ekwipunek i magazyn osady zostały zachowane.</string>
-	<string key="ui_mergecomplete_answer_2">Terytoria w nowym świecie zostaną przejęte przez kompanie z tamtego świata. Jeśli twoja kompania nie należy do nowego świata, stracisz wszystkie terytoria i ulepszenia. W zamian twoja kompania otrzyma 15 000 monet.</string>
+	<string key="ui_mergecomplete_answer_2">Terytoria w nowym świecie zostaną przejęte przez kompanie z tamtego świata. Jeśli twoja kompania nie należy do nowego świata, stracisz wszystkie terytoria i ulepszenia. W zamian twoja kompania otrzyma 50 000 monet.</string>
 	<string key="ui_mergecomplete_answer_3">Gracze nie zostaną rozdzieleni z powodu połączenia światów. Członkostwo w kompanii oraz jej portfel zostały zachowane. Nie można wypowiedzieć wojny na 3 dni przed datą połączenia.</string>
 	<string key="ui_mergecomplete_answer_4">Przedmioty wystawione na sprzedaż wrócą do ciebie, zachowasz również pieniądze zarobione na częściowych sprzedażach. Monety wydane na zapłacenie podatków lub prowizji za wystawienie nie zostaną zwrócone.</string>
 	<string key="ui_merge_region">Region</string>
@@ -2239,7 +2249,7 @@
 	<string key="ui_Enable_Viewport_Scale">Dynamiczne skalowanie rozdzielczości</string>
 	<string key="ui_Enable_Viewport_Scale_desc">Gdy włączone, dostosowuje automatycznie rozdzielczość wewnątrz gry by utrzymac ilość FPS.</string>
 	<string key="ui_gathering_disabled">Zbieranie jest obecnie niemożliwe</string>
-	<string key="ui_linktochat_disabled">Link do czatu jest aktualnie nieaktywny.</string>
+	<string key="ui_linktochat_disabled">Link do czatu jest teraz nieaktywny</string>
 	<string key="ui_autopinObjectivesMain">Automatycznie przypinaj zadania główne</string>
 	<string key="ui_autopinobjectivesMain_desc">Automatycznie przypina do interfejsu zadania z wątku głównego po tym, jak je przyjmiesz</string>
 	<string key="ui_autopinObjectivesSide">Automatycznie przypinaj zadania poboczne</string>
@@ -2256,7 +2266,7 @@
 	<string key="ui_number_range">{lowNumber}–{highNumber}</string>
 	<string key="ui_recommended_level_range">Zalecany poziom: {lowNumber}–{highNumber}</string>
 	<string key="ui_cannot_trade_currency_blocked">Możesz handlować walutą dopiero po osiągnięciu {level}. poziomu, a twoje konto musi być starsze niż {hoursNeeded} godz.</string>
-	<string key="ui_cannot_chat_global_blocked">Możesz rozmawiać na tym kanale dopiero kiedy twoje konto będzie starsze niż {hoursNeeded} godz.</string>
+	<string key="ui_cannot_chat_global_blocked">Nie możesz rozmawiać na tym kanale, dopóki twoje konto nie będzie starsze niż {hoursNeeded} godz.</string>
 	<string key="ui_complete_quests_to_unlock">Ukończ zadania w osadzie, by odblokować</string>
 </resources>
 

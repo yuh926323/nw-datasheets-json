@@ -487,5 +487,9 @@
 	<string key="FactionMission_ASSASSINATE_ELITE_NIGHT_desc">&lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; – maruderzy chcą pozbyć się tego celu.\n\nDowiedź swej odwagi – wytrop cel w: {POITags} i się go pozbądź.\n&lt;font color="#eaeaea"&gt;(elitarny – wróg grasuje nocą)&lt;/font&gt;</string>
 	<string key="FactionMission_S_ASSASSINATE_ELITE_NIGHT_desc">&lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; – syndykat zidentyfikował cel, którego należy się pozbyć.\n\nWytrop cel w: {POITags} i się go pozbądź.\n&lt;font color="#eaeaea"&gt;(elitarny – wróg grasuje nocą)&lt;/font&gt;</string>
 	<string key="FactionMission_C_ASSASSINATE_ELITE_NIGHT_desc">&lt;font color="#eaeaea"&gt;{enemyName}&lt;/font&gt; – przymierze zidentyfikowało groźny cel, którego należy się pozbyć.\n\nDowiedź swego oddania – wytrop cel w: {POITags} i się go pozbądź.\n&lt;font color="#eaeaea"&gt;(elitarny – wróg grasuje nocą)&lt;/font&gt;</string>
+	<string key="CMissionAcquireStoneworker" rel_version="Event_WinterConvergence_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stanowiska obróbki kamienia.</string>
+	<string key="CMissionAcquireWoodWorker" rel_version="Event_WinterConvergence_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stanowiska obróbki drewna.</string>
+	<string key="CMissionAcquireOutfitter" rel_version="Event_WinterConvergence_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stanowiska krawieckiego.</string>
+	<string key="CMissionAcquireEngineer" rel_version="Event_WinterConvergence_Temp">Zdobądź i dostarcz: &lt;font color="#eaeaea"&gt;{itemName} ({itemAmount})&lt;/font&gt; ze stanowiska inżynierskiego.</string>
 </resources>
 

@@ -279,7 +279,7 @@
 	<string key="ui_navmenu_progression">PERSONNAGE</string>
 	<string key="ui_bio">Biographie</string>
 	<string key="ui_attributes">Caractéristiques</string>
-	<string key="ui_trade_skills">Métier</string>
+	<string key="ui_trade_skills">Métiers</string>
 	<string key="ui_blacksmithing">Fabrication d'armes</string>
 	<string key="ui_estimated_time">Temps estimé</string>
 	<string key="ui_queue_soon">&lt; 1 minute</string>
@@ -336,6 +336,23 @@
 	<string key="ui_engineering_desc">Permet de fabriquer des armes à distance, ainsi que des meubles.</string>
 	<string key="ui_furnishing">Ameublement</string>
 	<string key="ui_wildernesssurvival" comment="wilderness survival is not a trainable skill and is always equal to the character's level, so just tell users it's their character level for simplicity">Personnage</string>
+	<string key="ui_weaponsmithing_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Weaponsmithing Post Cap</string>
+	<string key="ui_armoring_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Armoring Post Cap</string>
+	<string key="ui_jewelcrafting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Jewelcrafting Post Cap</string>
+	<string key="ui_arcana_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Arcana Post Cap</string>
+	<string key="ui_cooking_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Cooking Post Cap</string>
+	<string key="ui_fishing_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Fishing Post Cap</string>
+	<string key="ui_furnishing_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Furnishing Post Cap</string>
+	<string key="ui_engineering_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Engineering Post Cap</string>
+	<string key="ui_smelting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Smelting Post Cap</string>
+	<string key="ui_woodworking_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Woodworking Post Cap</string>
+	<string key="ui_leatherworking_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Leatherworking Post Cap</string>
+	<string key="ui_weaving_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Weaving Post Cap</string>
+	<string key="ui_stonecutting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Stonecutting Post Cap</string>
+	<string key="ui_skinning_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Skinning Post Cap</string>
+	<string key="ui_mining_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Mining Post Cap</string>
+	<string key="ui_logging_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Logging Post Cap</string>
+	<string key="ui_harvesting_postcap" comment="This isn't player-facing, and doesn't need translation" rel_version="Feature_PostCapTradeSkills">Harvesting Post Cap</string>
 	<string key="ui_decline">Refuser</string>
 	<string key="ui_name_your_avatar">Nommez votre personnage</string>
 	<string key="ui_portrait_title">Mon portrait</string>

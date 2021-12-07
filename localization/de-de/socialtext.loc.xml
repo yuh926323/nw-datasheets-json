@@ -175,6 +175,8 @@
 	<string key="ui_p2ptrading_overflow_title">Inventar voll</string>
 	<string key="ui_p2ptrading_overflow_message">Einige erhaltene Gegenstände passen nicht mehr in dein Inventar und wurden auf dem Boden abgelegt.</string>
 	<string key="ui_p2ptrading_inventory_full_warning">Dein Inventar ist (fast) voll.\nMöglicherweise können keine weiteren Gegenstände aufgenommen werden.</string>
+	<string key="ui_failmessage_economylocked">Dein Konto wurde eingeschränkt und du kannst zum gegenwärtigen Zeitpunkt keinen Handel treiben.</string>
+	<string key="ui_failmessage_othereconomylocked">Dieser Spieler kann gegenwärtig keine Taler oder Gegenstände erhalten.</string>
 	<string key="ui_invite_to_group">In Gruppe einladen</string>
 	<string key="ui_invite_to_guild">In Kompanie einladen</string>
 	<string key="ui_acceptfriendinvite">Einladung annehmen</string>
@@ -299,6 +301,9 @@
 	<string key="ui_subarmy_joined_company">Deiner Kompanie beigetreten</string>
 	<string key="ui_subarmy_joined_group">Deiner Gruppe beigetreten</string>
 	<string key="ui_subarmy_joined_company_and_group">Deiner Kompanie und Gruppe beigetreten</string>
+	<string key="ui_subarmy_button_disabled_no_selection">Es wurde kein Spieler ausgewählt.</string>
+	<string key="ui_subarmy_button_disabled_different_faction_group">Der ausgewählte Spieler muss Mitglied deiner Fraktion sein, um deiner PvP-Gruppe beizutreten.</string>
+	<string key="ui_subarmy_button_disabled_different_faction_guild">Der ausgewählte Spieler muss Mitglied deiner Fraktion sein, um deiner Kompanie beizutreten.</string>
 	<string key="ui_waypoint_set_to_ping">Wegpunktping eingerichtet</string>
 	<string key="ui_chat_name_raid">Armee</string>
 	<string key="ui_chat_name_raid_upper">ARMEE</string>

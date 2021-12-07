@@ -385,7 +385,7 @@
 	<string key="Lynx_DisplayName">Lince</string>
 	<string key="Primal_Lion_DisplayName">Leone primordiale</string>
 	<string key="Primal_Lion_Cub_DisplayName">Cucciolo giovane</string>
-	<string key="CorruptedNodule_DisplayName">Nodulo di Corruzione</string>
+	<string key="CorruptedNodule_DisplayName">Distruggi il nodulo di Corruzione</string>
 	<string key="MalignNode_DisplayName">Filone maligno</string>
 	<string key="1125_SongoftheSea_DisplayName">Scorta dei pirati</string>
 	<string key="1126_AncientDevice_DisplayName">Congegno antico</string>
@@ -670,11 +670,21 @@
 	<string key="0202_0101_Inquisitor_DisplayName">Cassa degli attrezzi da inquisitore</string>
 	<string key="DungeonShatterMtn_LockCellar_DisplayName">Inserisci la chiave del sotterraneo</string>
 	<string key="DungeonShatterMtn_MemoryFragment_DisplayName">Frammento di ricordo</string>
+	<string key="WinterConv_SettlementTree_T1_DisplayName" rel_version="Event_WinterConvergence_Temp">Mucchio di doni abbandonati</string>
+	<string key="WinterConv_SettlementTree_T2_DisplayName" rel_version="Event_WinterConvergence_Temp">Mucchio di doni magnifici</string>
+	<string key="WinterConv_SettlementTree_T3_DisplayName" rel_version="Event_WinterConvergence_Temp">Mucchio di doni pregiati</string>
+	<string key="WinterConv_Gleamite_Chunk_DisplayName" rel_version="Event_WinterConvergence_Temp">Blocco di brillantite</string>
+	<string key="WinterConv_Gleamite_Shard_DisplayName" rel_version="Event_WinterConvergence_Temp">Brillantite</string>
+	<string key="WinterConv_Village_GiftBag_DisplayName" rel_version="Event_WinterConvergence_Temp">Sacco di regali abbondante</string>
+	<string key="LostPresent00_DisplayName" rel_version="Event_WinterConvergence_Temp">Regalo perduto</string>
+	<string key="LostPresent01_DisplayName" rel_version="Event_WinterConvergence_Temp">Regalo perduto</string>
 	<string key="FM_PVP_War_Camp_Loot_Box_DisplayName">Forziere dell'accampamento di guerra</string>
 	<string key="1130_ArcaneFocus1_DisplayName">Concentrazione arcana</string>
 	<string key="1130_ArcaneFocus2_DisplayName">Concentrazione arcana</string>
 	<string key="1130_ArcaneFocus3_DisplayName">Concentrazione arcana</string>
 	<string key="1130_ArcaneFocus4_DisplayName">Concentrazione arcana</string>
+	<string key="0726_BookOfIsabella_DisplayName">Libro di Isabella</string>
 	<string key="1130_CursedAxe_DisplayName">Inizia il rituale</string>
+	<string key="Dynasty_Gong_DisplayName">Gong della dinastia</string>
 </resources>
 

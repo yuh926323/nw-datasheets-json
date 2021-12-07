@@ -1,4 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="CategoryData_CraftingPatterns">Schemi di produzione</string>
 	<string key="FoodComponents_GroupName">Ingredienti composti</string>
 	<string key="GemstoneT1_GroupName">Pietre preziose imperfette</string>
 	<string key="GemstoneT2_GroupName">Pietre preziose standard</string>
@@ -1708,6 +1709,8 @@
 	<string key="TimberT5_GroupName">Tavole di legno livello 5</string>
 	<string key="TinctureBlight_GroupName">Tinture anti-logoramento</string>
 	<string key="TinctureCorruption_GroupName">Tinture anti-corruzione</string>
+	<string key="Tokens_GroupName">Gettoni della Convergenza invernale</string>
+	<string key="TokenCreation_GroupName">Creazione gettoni</string>
 	<string key="TokenConversion_GroupName">Conversione gettoni</string>
 	<string key="ToolHatchet_GroupDesc">A 1 mano. Utile per raccogliere legno</string>
 	<string key="ToolHatchet_GroupName">Accetta</string>

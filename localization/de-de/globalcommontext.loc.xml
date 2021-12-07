@@ -462,6 +462,8 @@
 	<string key="ui_level_unspent_points_tradeskill">{tradeskillPointsText}</string>
 	<string key="ui_level_unspent_points_both">{attributePointsText} {tradeskillPointsText}</string>
 	<string key="ui_level">Stufe</string>
+	<string key="ui_expertise_level" rel_version="Feature_PostCapTradeSkills">Kompetenzstufe</string>
+	<string key="ui_expertise_reward" rel_version="Feature_PostCapTradeSkills">Kompetenzbelohnung erhalten</string>
 	<string key="ui_light">Licht</string>
 	<string key="ui_lmb">LMT</string>
 	<string key="ui_lmbrmb">LMT/RMT</string>
@@ -808,7 +810,7 @@
 	<string key="ui_anti-cheat_desc">Anti-Cheat-Software-Mitteilung in einem Browserfenster anzeigen</string>
 	<string key="ui_legalprivacy">Bitte beachte unsere Datenschutzrichtlinien</string>
 	<string key="ui_prealphatag">Test-Build (VERTRAULICH)</string>
-	<string key="ui_buildtag">Beta</string>
+	<string key="ui_buildtag">PTR Build</string>
 	<string key="ui_chat_feed">Feed</string>
 	<string key="ui_chat_feed_tooltip">Fügt den Kanal in deine Benachrichtigungen ein.</string>
 	<string key="ui_chat_muted_tooltip">Der Kanal wird nicht in den Benachrichtigungen angezeigt und ungelesene Nachrichten werden nicht zur Gesamtanzahl ungelesener Nachrichten auf dem Chat-Symbol hinzugefügt. Du kannst den Kanal weiterhin betrachten, indem du ihn über die Kanalauswahl links aufrufst.</string>
@@ -1857,6 +1859,9 @@
 	<string key="ui_camping_tooltip_tier_3">Zeltlager (Rang 3)\n\nDie Errichtung eines Rang-3-Zeltlagers ermöglicht dir die Herstellung verschiedener Rang-3-Gegenstände, die Heilung deines Charakters und das Respawnen im Zeltlager.\n\nUm dein Zeltlager auf Rang 4 aufrüsten zu können, musst du Stufe 40 erreicht und die Aufgabe "Überlebenskünstler: Wolfsbeobachtungen" abgeschlossen haben.</string>
 	<string key="ui_camping_tooltip_tier_4">Zeltlager (Rang 4)\n\nDie Errichtung eines Rang-4-Zeltlagers ermöglicht dir die Herstellung verschiedener Rang-4-Gegenstände, die Heilung deines Charakters und das Respawnen im Zeltlager.\n\nUm dein Zeltlager auf Rang 5 aufrüsten zu können, musst du Stufe 55 erreicht und die Aufgabe "Überlebenskünstler: Verblassendes Licht" erreicht haben.</string>
 	<string key="ui_camping_tooltip_tier_5">Zeltlager (Rang 5)\n\nDie Errichtung eines Rang-5-Zeltlagers ermöglicht dir die Herstellung verschiedener Rang-5-Gegenstände, die Heilung deines Charakters und das Respawnen im Zeltlager.</string>
+	<string key="ui_campskins" rel_version="Feature_Camp_Skins">Zeltlager-Skins</string>
+	<string key="ui_campskin" rel_version="Feature_Camp_Skins">Zeltlager-Skin</string>
+	<string key="ui_campskin_applied_hint" rel_version="Feature_Camp_Skins">Skin wird auf dein nächstes Zeltlager angewendet.</string>
 	<string key="ui_all_level_milestones">Alle Stufenbelohnungen</string>
 	<string key="ui_unlock_token_slot">Ohrringplatz</string>
 	<string key="ui_unlock_ring_slot">Ring-Slot</string>
@@ -2003,14 +2008,14 @@
 	<string key="ui_yes_colored">&lt;font color="#30e5ab"&gt;Ja.&lt;/font&gt;</string>
 	<string key="ui_no_colored">&lt;font color="#ff7171"&gt;Nein.&lt;/font&gt;</string>
 	<string key="ui_mergewarning_short">&lt;font color="#e2a438"&gt;Weltenzusammenführung in {timeRemaining}&lt;/font&gt;</string>
-	<string key="ui_mergewarning_long">Die Bevölkerung dieser Welt wird mit {worldName} zusammengeführt. Datum:\n{time}.</string>
+	<string key="ui_mergewarning_long">Die Bevölkerung dieser Welt wird mit {worldName} zusammengeführt. Datum: {time}.</string>
 	<string key="ui_world_message">Weltnachricht</string>
 	<string key="ui_mergefaq_question_1">Behalte ich meinen Charakterfortschritt, mein Inventar und mein Haus?</string>
 	<string key="ui_mergefaq_question_2">Behält meine Kompanie ihre beanspruchten Gebiete?</string>
 	<string key="ui_mergefaq_question_3">Behalte ich meine Kompanie?</string>
 	<string key="ui_mergefaq_question_4">Kann meine Kompanie weiterhin einen Krieg gegen andere Kompanien erklären?</string>
 	<string key="ui_mergefaq_answer_1">Du behältst deine Charakterstufe, Attributspunkte, Meisterschaftspunkte, deinen Gebietsruf, dein Haus, dein Inventar und deinen Siedlungsspeicher.</string>
-	<string key="ui_mergefaq_answer_2">Gebiete in der neuen Welt werden von den Kompanien dieser Welt beansprucht. Ist deine Kompanie nicht von dieser Welt, verlierst du sämtliche Gebiete und Verbesserungen und deine Kompanie erhält 15.000 Taler.</string>
+	<string key="ui_mergefaq_answer_2">Gebiete in der neuen Welt werden von den Kompanien dieser Welt beansprucht. Ist deine Kompanie nicht von dieser Welt, verlierst du sämtliche Gebiete und Verbesserungen und deine Kompanie erhält 50.000 Taler.</string>
 	<string key="ui_mergefaq_answer_3">Die Spieler werden bei einer Weltenzusammenführung nicht voneinander getrennt und die Kompaniemitgliedschaft sowie die Geldbörse bleiben erhalten.</string>
 	<string key="ui_mergefaq_answer_4">Spieler werden 72 Stunden vor einer Weltenzusammenführung darüber benachrichtigt. Während dieser Zeit können Kompanien keinen Krieg erklären. Ausstehende Kriege werden abgebrochen und das für die Kriegserklärung ausgegebene Gold wird vollständig erstattet.</string>
 	<string key="ui_mergewarning_title">BALDIGE WELTENZUSAMMENFÜHRUNG</string>
@@ -2023,7 +2028,7 @@
 	<string key="ui_mergecomplete_question_3">Habe ich meine Kompanie behalten?</string>
 	<string key="ui_mergecomplete_question_4">Sind meine Kauf-/Verkaufsaufträge noch ausgeschrieben?</string>
 	<string key="ui_mergecomplete_answer_1">Du hast deine Charakterstufe, Attributspunkte, Meisterschaftspunkte, deinen Gebietsruf, dein Haus, dein Inventar und deinen Siedlungsspeicher behalten.</string>
-	<string key="ui_mergecomplete_answer_2">Gebiete in der neuen Welt werden von den Kompanien dieser Welt beansprucht. Ist deine Kompanie nicht von dieser Welt, verlierst du sämtliche Gebiete und Verbesserungen und deine Kompanie erhält 15.000 Taler.</string>
+	<string key="ui_mergecomplete_answer_2">Gebiete in der neuen Welt werden von den Kompanien dieser Welt beansprucht. Ist deine Kompanie nicht von dieser Welt, verlierst du sämtliche Gebiete und Verbesserungen und deine Kompanie erhält 50.000 Taler.</string>
 	<string key="ui_mergecomplete_answer_3">Die Spieler werden bei einer Zusammenführung nicht voneinander getrennt und die Kompaniemitgliedschaft sowie die Geldbörse sind weiter vorhanden. 3 Tage vor der Zusammenführung können keine Kriege mehr erklärt werden.</string>
 	<string key="ui_mergecomplete_answer_4">Du erhältst deine zum Verkauf angebotenen Gegenstände zurück und behältst das Geld für Teilverkäufe. Gezahlte Taler für Steuern oder Angebotsgebühren werden nicht erstattet.</string>
 	<string key="ui_merge_region">Region</string>

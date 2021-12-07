@@ -1,4 +1,5 @@
 <resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="CategoryData_CraftingPatterns">Wzory rzemieślnicze</string>
 	<string key="FoodComponents_GroupName">Składniki złożone</string>
 	<string key="GemstoneT1_GroupName">Klejnoty ze skazą</string>
 	<string key="GemstoneT2_GroupName">Zwykłe klejnoty</string>
@@ -1708,6 +1709,8 @@
 	<string key="TimberT5_GroupName">Surowiec drzewny klasy 5</string>
 	<string key="TinctureBlight_GroupName">Nalewki zarazy</string>
 	<string key="TinctureCorruption_GroupName">Nalewki skażenia</string>
+	<string key="Tokens_GroupName">Żetony Zimowej Konwergencji</string>
+	<string key="TokenCreation_GroupName">Tworzenie żetonów</string>
 	<string key="TokenConversion_GroupName">Konwersja żetonów</string>
 	<string key="ToolHatchet_GroupDesc">1-ręczna. Do ścinania drzew.</string>
 	<string key="ToolHatchet_GroupName">Siekierki</string>

@@ -22,7 +22,7 @@
 	<string key="tip_overworld_azoth_crafting01-title">Azoth</string>
 	<string key="tip_overworld_azoth_crafting01-content">[Placeholder]</string>
 	<string key="tip_overworld_azoth_acquireFrom01-title">Viaje rápido</string>
-	<string key="tip_overworld_azoth_acquireFrom01-content">Las fuentes más fiables para conseguir azoth son completar misiones y cerrar grietas de corrupción.</string>
+	<string key="tip_overworld_azoth_acquireFrom01-content">Las fuentes más fiables para conseguir Azoth son completar misiones y cerrar grietas de corrupción.</string>
 	<string key="tip_overworld_azoth_acquireFrom02-title">Viaje rápido</string>
 	<string key="tip_overworld_azoth_acquireFrom02-content">No es habitual conseguir azoth derrotando enemigos, pero puedes aumentar tus posibilidades con ciertas ventajas de objeto.</string>
 	<string key="tip_overworld_camping_resting01-title">Campamento</string>
@@ -88,7 +88,7 @@
 	<string key="tip_overworld_combat_voidGaunlet01-title">La manopla de vacío</string>
 	<string key="tip_overworld_combat_voidGaunlet01-content">Los numerosos potenciadores y estados negativos de la manopla de vacío la hacen ser muy efectiva en combates en grupo.</string>
 	<string key="tip_overworld_company_benefits01-title">Compañías</string>
-	<string key="tip_overworld_company_benefits01-content">Únete a una compañía y lucha junto a tus amigos contra los corruptos y asedia los territorios de la facción rival.</string>
+	<string key="tip_overworld_company_benefits01-content">Únete a una compañía y lucha junto a tus amigos contra los corruptos. Además, asedia los territorios de la facción rival.</string>
 	<string key="tip_overworld_company_benefits02-title">Compañías</string>
 	<string key="tip_overworld_company_benefits02-content">Solo las compañías pueden declarar la guerra y asediar territorios para conquistarlos. Cuando tu compañía gobierna un territorio, gana dinero mediante los impuestos y el viaje rápido resulta mucho más barato, lo que contribuye al éxito de toda tu facción.</string>
 	<string key="tip_overworld_company_benefits03-title">Compañías</string>
@@ -428,7 +428,7 @@
 	<string key="tip_war_specific06-title">Guerra</string>
 	<string key="tip_war_specific06-content">Los líderes de guerra pueden mantener pulsado [{hint1}] mientras colocan un aviso para que todo el ejército lo vea.</string>
 	<string key="tip_invasion_specific01-title">Invasión</string>
-	<string key="tip_invasion_specific01-content">Los enemigos corruptos atacarán el fuerte por oleadas, cada una más intensa que la anterior.</string>
+	<string key="tip_invasion_specific01-content">El ejército de los corruptos atacará el fuerte por oleadas, cada una más intensa que la anterior.</string>
 	<string key="tip_invasion_specific02-title">Invasión</string>
 	<string key="tip_invasion_specific02-content">El ejército corrupto intentará derribar las puertas y hacerse con el punto de control del fuerte. Si los jugadores consiguen defender el punto de conquista durante la invasión, la victoria será suya.</string>
 	<string key="tip_invasion_specific03-title">Invasión</string>

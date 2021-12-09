@@ -4194,7 +4194,7 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "90-110"
+        "Item1": "1"
     },
     {
         "LootTableID": "SpringStagDroppings_Probs",
@@ -7371,6 +7371,28 @@
         "Item5": "101000"
     },
     {
+        "LootTableID": "TerrorTurkey",
+        "AND/OR": "OR",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "MassiveTurkeyLegT5"
+    },
+    {
+        "LootTableID": "TerrorTurkey_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "TerrorTurkey_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 1,
+        "Item1": "0"
+    },
+    {
         "LootTableID": "FarmPig",
         "AND/OR": "AND",
         "HWMMult": 0,
@@ -9112,24 +9134,21 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "WoodT4",
-        "Item2": "AlchemyLifeT1"
+        "Item1": "WoodT4"
     },
     {
         "LootTableID": "Elk_Elemental_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "47-63",
-        "Item2": "50-70"
+        "Item1": "3-5"
     },
     {
         "LootTableID": "Elk_Elemental_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 10000,
-        "Item1": "0",
-        "Item2": "0"
+        "Item1": "0"
     },
     {
         "LootTableID": "Wolf_Elemental_Wood",
@@ -9137,24 +9156,21 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "WoodT4",
-        "Item2": "AlchemyLifeT1"
+        "Item1": "WoodT4"
     },
     {
         "LootTableID": "Wolf_Elemental_Wood_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "47-63",
-        "Item2": "50-70"
+        "Item1": "1-3"
     },
     {
         "LootTableID": "Wolf_Elemental_Wood_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 10000,
-        "Item1": "0",
-        "Item2": "0"
+        "Item1": "0"
     },
     {
         "LootTableID": "Wolf_Elemental_Ice",
@@ -9162,24 +9178,21 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "OreT4",
-        "Item2": "AlchemyWaterT1"
+        "Item1": "OreT4"
     },
     {
         "LootTableID": "Wolf_Elemental_Ice_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "47-63",
-        "Item2": "50-70"
+        "Item1": "1-3"
     },
     {
         "LootTableID": "Wolf_Elemental_Ice_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 10000,
-        "Item1": "0",
-        "Item2": "0"
+        "Item1": "0"
     },
     {
         "LootTableID": "Bear_Elemental_Stone",
@@ -9187,24 +9200,21 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "StoneT4",
-        "Item2": "AlchemyEarthT1"
+        "Item1": "StoneT4"
     },
     {
         "LootTableID": "Bear_Elemental_Stone_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "47-63",
-        "Item2": "90-110"
+        "Item1": "5-7"
     },
     {
         "LootTableID": "Bear_Elemental_Stone_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 10000,
-        "Item1": "0",
-        "Item2": "0"
+        "Item1": "0"
     },
     {
         "LootTableID": "Settlement_Honey",

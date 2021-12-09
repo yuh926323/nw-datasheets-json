@@ -2885,5 +2885,14 @@
         "Description": "Partial Ban",
         "IsConsumable": false,
         "RewardType": "Misc"
+    },
+    {
+        "UniqueTagID": "EntitlementTitle_TurkeyTerror",
+        "EntitlementIndex": 508,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "PlayerTitle",
+        "Reward(s)": "PlayerTitle_TurkeyTerror",
+        "SourceType": "Store"
     }
 ]

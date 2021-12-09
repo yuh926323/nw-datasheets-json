@@ -2431,5 +2431,16 @@
         "AchievementId": "TerritoryPermanentOwner15",
         "RequiredCategoricalProgressionLevel": 0,
         "RequiredPlayerLevel": 0
+    },
+    {
+        "TitleID": "PlayerTitle_TurkeyTerror",
+        "TitleType": "Account",
+        "UIDisplayCategory": "Special_Achievements",
+        "TitleMale": "@ui_playertitle_special_TurkeyTerror",
+        "TitleFemale": "@ui_playertitle_special_TurkeyTerror_SHE",
+        "TitleNeutral": "@ui_playertitle_special_TurkeyTerror_THEY",
+        "Description": "@ui_playertitle_TurkeyTerror_description",
+        "RequiredCategoricalProgressionLevel": 0,
+        "RequiredPlayerLevel": 0
     }
 ]

@@ -30,6 +30,21 @@
         "CooldownDuration": 0
     },
     {
+        "ConsumableID": "MassiveTurkeyLegT5",
+        "AddStatusEffects": "EatRawFood",
+        "StatusEffectMod": 1,
+        "DurationOverrides": 0,
+        "MinDurationModifier": 0,
+        "MaxDurationModifier": 0,
+        "DurationScaleFactor": 0,
+        "MinPotencyModifier": 0,
+        "MaxPotencyModifier": 0,
+        "PotencyScaleFactor": 0,
+        "UseCount": 0,
+        "MannequinTag": "Eat",
+        "CooldownDuration": 0
+    },
+    {
         "ConsumableID": "CactusFleshT1",
         "AddStatusEffects": "EatRawFood",
         "StatusEffectMod": 1,
@@ -6206,6 +6221,22 @@
     {
         "ConsumableID": "FoodFOCT5",
         "AddStatusEffects": "FoodFOCT5+FoodRecoveryT5",
+        "StatusEffectMod": 0,
+        "DurationOverrides": 0,
+        "MinDurationModifier": 0,
+        "MaxDurationModifier": 0,
+        "DurationScaleFactor": 0,
+        "MinPotencyModifier": 0,
+        "MaxPotencyModifier": 0,
+        "PotencyScaleFactor": 0,
+        "RemoveStatusEffectCategories": "Attributes+Recovery",
+        "UseCount": 0,
+        "MannequinTag": "Eat",
+        "CooldownDuration": 0
+    },
+    {
+        "ConsumableID": "FoodCONLUCT5",
+        "AddStatusEffects": "FoodCONLUCT5+FoodRecoveryT5",
         "StatusEffectMod": 0,
         "DurationOverrides": 0,
         "MinDurationModifier": 0,

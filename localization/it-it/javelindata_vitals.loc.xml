@@ -3008,7 +3008,6 @@
 	<string key="Ghost_Shipwrecked_Named_DG_Windsward_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">McKenzie il pazzo</string>
 	<string key="Ghost_Shipwrecked_VitalsName" comment="BASE" speaker="Vitals Sheet">Spettro annegato</string>
 	<string key="Ghost_Starved_08QP07_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Spettro della carestia del canto celeste</string>
-	<string key="Ghost_Starved_10WS07_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Spirito grondante</string>
 	<string key="Ghost_Starved_13WF08a_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Spettro della carestia di Borgomorto</string>
 	<string key="Ghost_Starved_22_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Fantasma insaziabile</string>
 	<string key="Ghost_Starved_22_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Fantasma famelico</string>
@@ -4132,11 +4131,19 @@
 	<string key="Swamp_Fiend_VitalsName" comment="BASE" speaker="Vitals Sheet">Demone della palude</string>
 	<string key="Target_Dummy_Armored_VitalsName" comment="BASE" speaker="Vitals Sheet">Manichino-bersaglio corazzato</string>
 	<string key="Target_Dummy_Boss_VitalsName" comment="BASE" speaker="Vitals Sheet">Capo Hurley</string>
+	<string key="Target_Dummy_Boss5_VitalsName" comment="BASE" speaker="Vitals Sheet">Capo Smol</string>
+	<string key="Target_Dummy_Boss10_VitalsName" comment="BASE" speaker="Vitals Sheet">Capo Hall</string>
+	<string key="Target_Dummy_Boss25_VitalsName" comment="BASE" speaker="Vitals Sheet">Capo Gee</string>
+	<string key="Target_Dummy_Boss35_VitalsName" comment="BASE" speaker="Vitals Sheet">Capo Calcidipugni</string>
+	<string key="Target_Dummy_Boss45_VitalsName" comment="BASE" speaker="Vitals Sheet">Capo Pugnidicalci</string>
+	<string key="Target_Dummy_Boss55_VitalsName" comment="BASE" speaker="Vitals Sheet">Capo Chrocco Cava</string>
 	<string key="Target_Dummy_OneMillion_VitalsName" comment="BASE" speaker="Vitals Sheet">Manichino-bersaglio 1 milione di salute</string>
 	<string key="Target_Dummy_VitalsName" comment="BASE" speaker="Vitals Sheet">Manichino-bersaglio</string>
 	<string key="Target_Dummy_CC_VitalsName" comment="BASE" speaker="Vitals Sheet">Manichino-bersaglio controllo di gruppo</string>
 	<string key="Target_Dummy_GRIT_VitalsName" comment="BASE" speaker="Vitals Sheet">Manichino-bersaglio GRINTA</string>
 	<string key="Target_Dummy_Patrol_VitalsName" comment="BASE" speaker="Vitals Sheet">Manichino-bersaglio di pattuglia</string>
+	<string key="Target_Dummy_Light_Attack_VitalsName" comment="BASE" speaker="Vitals Sheet">Manichino-bersaglio attacco leggero</string>
+	<string key="Target_Dummy_Heavy_Attack_VitalsName" comment="BASE" speaker="Vitals Sheet">Manichino-bersaglio attacco pesante</string>
 	<string key="Tendril_Corruption_03GC03_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Viticcio scellerato</string>
 	<string key="Tendril_Corruption_04NW06b_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Viticcio della corruzione</string>
 	<string key="Tendril_Corruption_08QP02_VitalsName" comment="BASE" speaker="Vitals Sheet">Viticcio della corruzione</string>
@@ -5388,7 +5395,7 @@
 	<string key="VC_Bison_Strange" comment="BASE" speaker="VitalsCategory Sheet">Strano bisonte</string>
 	<string key="VC_Bison_Strange_05WC01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Bisonte delle acque basse</string>
 	<string key="VC_Bison_Strange_05WC04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Bisonte della gola</string>
-	<string key="VC_Bison_Strange_07SM01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Bisonte sconvolto</string>
+	<string key="VC_Bison_Strange_07SM01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Bisonte infranto</string>
 	<string key="VC_Bison_Strange_07SM05a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Bisonte infranto</string>
 	<string key="VC_Bison_Strange_11MD01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Bisonte del cordoglio</string>
 	<string key="VC_Bison_Strange_15EC01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Bisonte di Passoruvido</string>
@@ -5730,7 +5737,7 @@
 	<string key="VC_Corruption_Entity_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Abominio dell'abisso</string>
 	<string key="VC_Corruption_Heavy" comment="BASE" speaker="VitalsCategory Sheet">Guardaspalle della corruzione</string>
 	<string key="VC_Corruption_Heavy_03GC03_ELITE" comment="ELITE Level Variant" speaker="Vitals Sheet">Vedetta scellerata</string>
-	<string key="VC_Corruption_Heavy_07SM02_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Caposquadra del giacimento bruciato</string>
+	<string key="VC_Corruption_Heavy_07SM02_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Guardia delle provviste del giacimento bruciato</string>
 	<string key="VC_Corruption_Heavy_07SM06" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Centurione di Myrkgard</string>
 	<string key="VC_Corruption_Heavy_07SM06_DARKNESS" comment="Darkness" speaker="VitalsCategory Sheet">Guardia della porta di Myrkgard</string>
 	<string key="VC_Corruption_Heavy_07SM06_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Centurione di Myrkgard</string>
@@ -5894,6 +5901,7 @@
 	<string key="VC_damned_1h_swordsman_m-f_58" comment="Mission Target Display Name" speaker="VitalsCategory">Mercenario corrotto</string>
 	<string key="VC_Damned_1H_Swordsman_M-F_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Mercenario di Brividale</string>
 	<string key="VC_Damned_1H_Swordsman_M-F_MSQ_35" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Maestro duellante spregevole</string>
+	<string key="VC_Damned_2H_Spearman_M-F" comment="ELITE Level Variant" speaker="Vitals Sheet">Lanciere corrotto</string>
 	<string key="VC_Damned_2H_Spearman_M-F_03GC03_ELITE" comment="ELITE Level Variant" speaker="Vitals Sheet">Lanciere scellerato</string>
 	<string key="VC_Damned_2H_Spearman_M-F_07SM02b_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Esecutore del giacimento bruciato</string>
 	<string key="VC_Damned_2H_Spearman_M-F_07SM06a_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Decapitatore di Myrkgard</string>
@@ -6050,6 +6058,7 @@
 	<string key="VC_Damned_GreatAxeman_M-F_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Razziatrice corrotta Silas</string>
 	<string key="VC_Damned_Greataxeman_M-F_Named_FR_Mar_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Razziatrice corrotta Silas</string>
 	<string key="VC_Damned_GreatHammer_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Mastro fabbro McCoy</string>
+	<string key="VC_Damned_Grunt" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Abominio corrotto</string>
 	<string key="VC_Damned_Grunt_07SM05b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Assalitore di Illurmin</string>
 	<string key="VC_Damned_Grunt_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Soldato semplice di Brividale</string>
 	<string key="VC_Damned_Hound_03GC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Levriero di punta</string>
@@ -7109,7 +7118,7 @@
 	<string key="VC_Dynasty_Spearman_Named_08QP02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Dimethicone</string>
 	<string key="VC_Dynasty_Spearman_Named_08QP03" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Capitano Lu Ten</string>
 	<string key="VC_Dynasty_Spearman_Named_08QP07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Cedral</string>
-	<string key="VC_Dynasty_Spearman_Named_08QP08" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Morgolf</string>
+	<string key="VC_Dynasty_Spearman_Named_08QP08" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Morgolf il padrone del serraglio</string>
 	<string key="VC_Dynasty_Spearman_Named_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lanciere Chiu</string>
 	<string key="VC_Dynasty_Summoner_03GC03_ELITE" comment="ELITE Level Variant" speaker="Vitals Sheet">Emissario scellerato</string>
 	<string key="VC_Dynasty_Summoner_08QP01a" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Evocatore della carovana</string>
@@ -7311,7 +7320,7 @@
 	<string key="VC_Elk_Stag_Corrupted_07SM05a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cervo fendiguerra</string>
 	<string key="VC_Elk_Stag_Corrupted_07SM08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cervo fendiguerra</string>
 	<string key="VC_Elk_Stag_Strange_03GC04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cervo infetto</string>
-	<string key="VC_Elk_Stag_Strange_07SM03" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cervo sconvolto</string>
+	<string key="VC_Elk_Stag_Strange_07SM03" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cervo infranto</string>
 	<string key="VC_Elk_Stag_Strange_07SM07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cervo infranto</string>
 	<string key="VC_Elk_Stag_Strange_07SM08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cervo infranto</string>
 	<string key="VC_Elk_Stag_Strange_47" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Cervo infetto</string>
@@ -7523,7 +7532,6 @@
 	<string key="VC_Ghost_Starved_05WC07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Spettro della carestia di Legnobianco</string>
 	<string key="VC_Ghost_Starved_08QP07" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Spettro della carestia del canto celeste</string>
 	<string key="VC_Ghost_Starved_09FL10" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Spettro della carestia di Falco nero</string>
-	<string key="VC_Ghost_Starved_10WS07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Spirito grondante</string>
 	<string key="VC_Ghost_Starved_11MD00d" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Spettro della carestia dell'Alto passo</string>
 	<string key="VC_Ghost_Starved_13WF" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Spettro della carestia della Palude del tessitore</string>
 	<string key="VC_Ghost_Starved_13WF01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Spettro della carestia turbato</string>
@@ -7921,7 +7929,7 @@
 	<string key="VC_Rabbit_Spotted_05WC04" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Coniglio della gola</string>
 	<string key="VC_Rabbit_Spotted_05WC07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Coniglio delle Foreste verdeggianti</string>
 	<string key="VC_Rabbit_Spotted_05WC09" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Coniglio della penisola</string>
-	<string key="VC_Rabbit_Spotted_07SM09" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Coniglio sconvolto</string>
+	<string key="VC_Rabbit_Spotted_07SM09" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Coniglio infranto</string>
 	<string key="VC_Rabbit_Spotted_11MD01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lepre alluvionata</string>
 	<string key="VC_Rabbit_Spotted_11MD06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Coniglio di Radura tempestosa</string>
 	<string key="VC_Rabbit_Spotted_12MB02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Coniglio di Altura divina</string>
@@ -8585,7 +8593,7 @@
 	<string key="VC_Skeleton_Club_39" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Esecutore dei Guardiani antichi</string>
 	<string key="VC_Skeleton_Club_40" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Esecutore dei Guardiani antichi</string>
 	<string key="VC_Skeleton_Club_41" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Esecutore di avanguardia</string>
-	<string key="VC_Skeleton_Club_42" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Esecutore coscienzioso</string>
+	<string key="VC_Skeleton_Club_42" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Esecutore obbediente</string>
 	<string key="VC_Skeleton_Club_43" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Esecutore dei Guardiani antichi</string>
 	<string key="VC_Skeleton_Club_44" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Esecutore dei Guardiani antichi</string>
 	<string key="VC_Skeleton_Club_45" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Esecutore dei Guardiani antichi</string>
@@ -10161,7 +10169,7 @@
 	<string key="VC_Wolf_Timber_04NW07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lupo di mezzanotte</string>
 	<string key="VC_Wolf_Timber_06SW05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lupo del calamaio</string>
 	<string key="VC_Wolf_Timber_06SW10" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lupo di Grenville</string>
-	<string key="VC_Wolf_Timber_07SM01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lupo sconvolto</string>
+	<string key="VC_Wolf_Timber_07SM01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lupo infranto</string>
 	<string key="VC_Wolf_Timber_0903_0201_WaveEventEasy" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Guardiano della Tana dell'urlatore</string>
 	<string key="VC_Wolf_Timber_09FL02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lupo urlatore</string>
 	<string key="VC_Wolf_Timber_11MD06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lupo del cordoglio</string>
@@ -10651,5 +10659,33 @@
 	<string key="Yeti_Named_14AC18_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Juna</string>
 	<string key="Yeti_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Guerriero d'inverno</string>
 	<string key="Yonas_MSQ_VitalsName" comment="MSQ" speaker="Vitals Sheet">Yonas il corrotto</string>
+	<string key="VC_Ghost_Shipwrecked_RE1" comment="Mission Target Display Name" speaker="Vitals Category">Bambino etereo</string>
+	<string key="VC_Ghost_Shipwrecked_RE2" comment="Mission Target Display Name" speaker="Vitals Category">Madre vendicativa</string>
+	<string key="VC_Ghost_Shipwrecked_RE1_Named" comment="Mission Target Display Name" speaker="Vitals Category">Buster l'immortale</string>
+	<string key="VC_Ghost_Shipwrecked_RE2_Named" comment="Mission Target Display Name" speaker="Vitals Category">Sicilia l'immortale</string>
+	<string key="VC_Ghost_Shipwrecked_RE3_Named" comment="Mission Target Display Name" speaker="Vitals Category">Frederic l'immortale</string>
+	<string key="VC_Undead_GraveDigger_RE1" comment="Mission Target Display Name" speaker="Vitals Category">Padre in lutto</string>
+	<string key="Ghost_Shipwrecked_RE1_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Bambino etereo</string>
+	<string key="Ghost_Shipwrecked_RE2_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Madre vendicativa</string>
+	<string key="Ghost_Shipwrecked_RE1_Named_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Buster l'immortale</string>
+	<string key="Ghost_Shipwrecked_RE2_Named_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Sicilia l'immortale</string>
+	<string key="Ghost_Shipwrecked_RE3_Named_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Frederic l'immortale</string>
+	<string key="Undead_GraveDigger_RE1_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Padre in lutto</string>
+	<string key="VC_Undead_GraveDigger_RE2" comment="Mission Target Display Name" speaker="Vitals Category">Frederic il vile</string>
+	<string key="VC_Undead_Hunter_RE1" comment="Mission Target Display Name" speaker="Vitals Category">Sicilia la glaciale</string>
+	<string key="VC_Undead_Bloated_Corpse_RE1" comment="Mission Target Display Name" speaker="Vitals Category">Buster il maledetto</string>
+	<string key="Undead_GraveDigger_RE2_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Frederic il vile</string>
+	<string key="Undead_Hunter_RE1_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Sicilia la glaciale</string>
+	<string key="Undead_Bloated_Corpse_RE1_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Buster il maledetto</string>
+	<string key="VC_Damned_Hound_Named_MD_Digby" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Cane di Digby</string>
+	<string key="VC_Damned_Villager_Hammer_Named_Digby" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Banda di Digby</string>
+	<string key="VC_Damned_Rifleman_MD_Named_Digby" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Digby Stockburn</string>
+	<string key="Damned_Hound_Named_MD_Digby_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Cane di Digby</string>
+	<string key="Damned_Villager_Hammer_Named_Digby_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Banda di Digby</string>
+	<string key="Damned_Rifleman_MD_Named_Digby_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Digby Stockburn</string>
+	<string key="Damned_Rifleman_MD_Named_Coy_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Esecutori di Coy</string>
+	<string key="VC_Damned_Rifleman_MD_Named_Coy" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Esecutori di Coy</string>
+	<string key="Damned_Cultist_GC_1132_Named_Coy_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Stonefirth Coy</string>
+	<string key="VC_Damned_Cultist_GC_1132_Coy" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Stonefirth Coy</string>
 </resources>
 

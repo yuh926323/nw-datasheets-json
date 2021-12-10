@@ -393,6 +393,9 @@
 	<string key="1124_VistaPoint2_DisplayName">Punto de visión</string>
 	<string key="1124_VistaPoint3_DisplayName">Punto de visión</string>
 	<string key="1124_VistaPoint4_DisplayName">Punto de visión</string>
+	<string key="1132_GrampasGun_DisplayName">Forja del abuelo</string>
+	<string key="1132_Digby_DisplayName">¡Golpe!</string>
+	<string key="1132_Shootout_DisplayName">Retiro de Evasiva</string>
 	<string key="Truffle_DisplayName">Trufa deliciosa</string>
 	<string key="0402_GruelBarrel">Barril de engrudo</string>
 	<string key="SurvivalistQuest_AlphaLure_interact">Esencia de tierra tenue</string>
@@ -420,6 +423,9 @@
 	<string key="0825_CookingSupplies_DisplayName">Conseguir suministros</string>
 	<string key="0826_TigerCage_DisplayName">Abrir jaula</string>
 	<string key="0828_Heirlooms_DisplayName">Conseguir reliquia familiar</string>
+	<string key="0831_DryadsEyePlant_DisplayName">Recoger lágrimas de dríade</string>
+	<string key="0831_BruteCannonSchematic_DisplayName">Diagrama de cañón bruto</string>
+	<string key="0831_DiscardedArmorPile_DisplayName">Buscar pila de armaduras</string>
 	<string key="06_SpectralShrine">Santuario espectral</string>
 	<string key="FishingHotspotBroad_DisplayName">Zona de pesca (conocida)</string>
 	<string key="FishingHotspotRare_DisplayName">Zona de pesca (apartada)</string>

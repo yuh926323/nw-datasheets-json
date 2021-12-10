@@ -393,6 +393,9 @@
 	<string key="1124_VistaPoint2_DisplayName">Punkt widokowy</string>
 	<string key="1124_VistaPoint3_DisplayName">Punkt widokowy</string>
 	<string key="1124_VistaPoint4_DisplayName">Punkt widokowy</string>
+	<string key="1132_GrampasGun_DisplayName">Kuźnia dziadka</string>
+	<string key="1132_Digby_DisplayName">Stuk!</string>
+	<string key="1132_Shootout_DisplayName">Kryjówka Coya</string>
 	<string key="Truffle_DisplayName">Pyszna trufla</string>
 	<string key="0402_GruelBarrel">Beczka z kleikiem</string>
 	<string key="SurvivalistQuest_AlphaLure_interact">Ziemia nasycona słabym zapachem</string>
@@ -420,6 +423,9 @@
 	<string key="0825_CookingSupplies_DisplayName">Zabierz zapasy</string>
 	<string key="0826_TigerCage_DisplayName">Otwórz klatkę</string>
 	<string key="0828_Heirlooms_DisplayName">Zabierz pamiątkę rodzinną</string>
+	<string key="0831_DryadsEyePlant_DisplayName">Zdobądź łzy driady</string>
+	<string key="0831_BruteCannonSchematic_DisplayName">Schemat działa brutala</string>
+	<string key="0831_DiscardedArmorPile_DisplayName">Przeszukaj stertę pancerzy</string>
 	<string key="06_SpectralShrine">Widmowy relikwiarz</string>
 	<string key="FishingHotspotBroad_DisplayName">Łowisko (pospolite)</string>
 	<string key="FishingHotspotRare_DisplayName">Łowisko (rzadkie)</string>

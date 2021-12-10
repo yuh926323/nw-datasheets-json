@@ -1510,6 +1510,8 @@
 	<string key="ui_poi_devworld_cave_description">Una grotta che generava lupi con problemi di scala.</string>
 	<string key="ui_poi_devworld_spawns">Generazioni sviluppatori</string>
 	<string key="ui_poi_devworld_spawns_description">Alcune dimostrazioni della tecnologia di generazione.</string>
+	<string key="ui_poi_devworld_dummies">Area manichini-bersaglio sviluppatori</string>
+	<string key="ui_poi_devworld_dummies_description">Un'area di prova con vari manichini-bersaglio.</string>
 	<string key="ui_poi_fish_hotspot_broad">Punto di pesca ampio</string>
 	<string key="ui_poi_fish_hotspot_broad_description">I pesci stanno saltando fuori dall'acqua!</string>
 	<string key="ui_poi_fish_hotspot_rare">Punto di pesca raro</string>
@@ -1704,6 +1706,10 @@
 	<string key="ui_poi_spiritshrine_01_30251_description">Santuario dello spirito</string>
 	<string key="ui_poi_spiritshrine_02_30314">Santuario degli innamorati</string>
 	<string key="ui_poi_spiritshrine_02_30314_description">Santuario dello spirito</string>
+	<string key="ui_poi_spiritshrine_20208">Santuario imperiale</string>
+	<string key="ui_poi_spiritshrine_20208_description">Santuario dello spirito</string>
+	<string key="ui_poi_spiritshrine_20209">@ui_poi_spiritshrine_20209</string>
+	<string key="ui_poi_spiritshrine_20209_description">Santuario dello spirito</string>
 	<string key="ui_poi_vikingshipwreck_40039">Vigrid</string>
 	<string key="ui_poi_vikingshipwreck_40039_description">Navi dal nord, e con loro, i fantasmi del loro equipaggio maledetto.</string>
 	<string key="ui_poi_Tauros_06SW09">Tauros</string>

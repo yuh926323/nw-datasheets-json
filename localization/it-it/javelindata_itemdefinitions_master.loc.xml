@@ -8,6 +8,7 @@
 	<string key="GypsumYellow_MasterName">Gesso topazio</string>
 	<string key="GypsumOrange_MasterName">Gesso citirino</string>
 	<string key="GypsumPurple_MasterName">Gesso ametista</string>
+	<string key="GypsumWhite_MasterName"/>
 	<string key="GypsumOrb_MasterName">Sfera di gesso</string>
 	<string key="GypsumRed_Description">Un minerale tenero e facile da scolpire. Si può lavorare per produrre una sfera di gesso in una fornace per gesso.</string>
 	<string key="GypsumBlue_Description">Un minerale tenero e facile da scolpire. Si può lavorare per produrre una sfera di gesso in una fornace per gesso.</string>
@@ -16,6 +17,7 @@
 	<string key="GypsumYellow_Description">Un minerale tenero e facile da scolpire. Si può lavorare per produrre una sfera di gesso in una fornace per gesso.</string>
 	<string key="GypsumOrange_Description">Un minerale tenero e facile da scolpire. Si può lavorare per produrre una sfera di gesso in una fornace per gesso.</string>
 	<string key="GypsumPurple_Description">Un minerale tenero e facile da scolpire. Si può lavorare per produrre una sfera di gesso in una fornace per gesso.</string>
+	<string key="GypsumWhite_Description">Un minerale tenero e facile da scolpire. Si può lavorare per produrre una sfera di gesso in una fornace per gesso.</string>
 	<string key="GypsumOrb_Description">Una sfera liscia di gesso. Si può scolpire per produrre un calco per oggetti presso una fornace per gesso.</string>
 	<string key="CastGypsum_Head_MasterName">Calco di gesso per copricapo</string>
 	<string key="CastGypsum_Chest_MasterName">Calco di gesso per equipaggiamento per il torso</string>
@@ -57,8 +59,8 @@
 	<string key="CastGypsum_Shield_Description">Un calco di gesso per scudo. Spaccalo per vedere cosa c'è all'interno!</string>
 	<string key="CastGypsum_Spear_Description">Un calco di gesso per lancia. Spaccalo per vedere cosa c'è all'interno!</string>
 	<string key="CastGypsum_Ring_Description">Un calco di gesso per anello. Spaccalo per vedere cosa c'è all'interno!</string>
-	<string key="CastGypsum_Amulet_Description">Un calco di gesso per amuleto. Spaccalo per vedere cosa c'è all'interno!</string>
-	<string key="CastGypsum_Earring_Description">Un calco di gesso per orecchino. Spaccalo per vedere cosa c'è all'interno!</string>
+	<string key="CastGypsum_Amulet_Description"> Spaccalo per vedere cosa c'è all'interno!</string>
+	<string key="CastGypsum_Earring_Description"> Spaccalo per vedere cosa c'è all'interno!</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_Description" comment="NA-Basic">Uno schema che ti insegna a fabbricare un mobile. Recupera lo schema per imparare la ricetta.</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_MasterName" comment="NA-Basic">Schema: Armadietto basso da speziale</string>
 	<string key="Schematic_House_HousingItem_Appr_Winecask_Indoor_Description" comment="NA-Basic">Uno schema che ti insegna a fabbricare un mobile. Recupera lo schema per imparare la ricetta.</string>
@@ -1453,6 +1455,14 @@
 	<string key="1128_Sword_Description">La sua lama è robusta e crudelmente affilata.</string>
 	<string key="1130_SensouNoKo">Sensou no Ko</string>
 	<string key="1130_SensouNoKo_Description">La sfavillante lama di quest'arma brilla di malvagità. I motivi oleosi sulla lama sembrano tratteggiare i contorni di migliaia di volti, tormentati e urlanti.</string>
+	<string key="1132_Peacemaker">"Pacificatore", lo schioppo del nonno</string>
+	<string key="1132_Peacemaker_Description">La celebre soluzione dei Gingham ai problemi della frontiera.</string>
+	<string key="1132_Stock">Calcio dello schioppo del nonno</string>
+	<string key="1132_Stock_Description">Levigato dall'età e dall'utilizzo, segnato da bruciature di polvere da sparo.</string>
+	<string key="1132_Mechanism">Meccanismo dello schioppo del nonno</string>
+	<string key="1132_Mechanism_Description">Ben oliato, semplice ma molto efficace.</string>
+	<string key="1132_Barrel">Canna dello schioppo del nonno</string>
+	<string key="1132_Barrel_Description">Una canna liscia e svasata, vecchia ma ben tenuta.</string>
 	<string key="1130_SensouNoKo2">Sensou no Ko</string>
 	<string key="1130_SensouNoKo2_Description">La sua malefica lama è crudelmente affilata. Impugnare questo capolavoro ti fa sentire forte.</string>
 	<string key="1201_0104_ShipsFlag_Description">Una bandiera strappata da un relitto abbandonato. [Oggetto della missione]</string>
@@ -6087,8 +6097,8 @@
 	<string key="2hGreataxe_DemiseoftheFaeT4_MasterName">Scomparsa delle fate</string>
 	<string key="2hGreataxe_DiamondsEdgeGreataxeT4_Description">"Costosa."</string>
 	<string key="2hGreataxe_DiamondsEdgeGreataxeT4_MasterName">Ascia grande taglio di diamante</string>
-	<string key="2hGreataxe_DleihsofSeniabT5_Description">"Aicsa'tseuq eggetorp Seniab lad elam."</string>
-	<string key="2hGreataxe_DleihsofSeniabT5_MasterName">Oducs id Seniab</string>
+	<string key="2hGreataxe_DleihsofSeniabT5_Description">"Elam lad SeniaB eggetorp Aicsa'tseuQ."</string>
+	<string key="2hGreataxe_DleihsofSeniabT5_MasterName">SeniaB id OducS</string>
 	<string key="2hGreataxe_Dr.IllanovsCleaverT5_Description">"Per prima cosa dividiamo i soggetti in due. Poi li cuciamo insieme."</string>
 	<string key="2hGreataxe_Dr.IllanovsCleaverT5_MasterName">Mannaia del dottor Ilianov</string>
 	<string key="2hGreataxe_DreadweaverT3_Description">"Ora mi temi?"</string>
@@ -9841,7 +9851,7 @@
 	<string key="2hWarhammerWavebornT5_MasterName">Martello da guerra nato dall'onda</string>
 	<string key="2hWarhammerWraithHunterT4_Description">"Spettri. Apparizioni. Demoni. Li eliminerò, qualsiasi forma assumano."</string>
 	<string key="2hWarhammerWraithHunterT4_MasterName">Martello da guerra del cacciatore di spettri</string>
-	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">Schema: Ascia grande imbevuta</string>
+	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">Porta questo schema in una fucina per produrre un oggetto con punteggio attrezzatura 600 dall'aspetto inconfondibile.</string>
 	<string key="2Sealed_DocumentsBrightwood_Description">Oggetto della guerra tra fazioni</string>
 	<string key="2Sealed_DocumentsBrightwood_Mastername">Documenti sigillati di Boscobrillante</string>
 	<string key="2Secret_OrdersBrightwood_Description">Oggetto della guerra tra fazioni</string>
@@ -10480,239 +10490,239 @@
 	<string key="ArrowT3_MasterName">Freccia di acciaio</string>
 	<string key="ArrowT4_MasterName">Freccia di metallo stellare</string>
 	<string key="ArrowT5_MasterName">Freccia di oricalco</string>
-	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Pettorale di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Pettorale di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Pettorale di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Pettorale di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Pettorale di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Pettorale di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Pettorale di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Pettorale di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Pettorale di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Pettorale di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Pettorale di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Pettorale di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Pettorale di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Pettorale di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Pettorale di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Pettorale di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Pettorale di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Pettorale di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Pettorale di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Pettorale di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Stivali di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Stivali di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Stivali di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Stivali di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stivali di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Stivali di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Stivali di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Stivali di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Stivali di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stivali di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Stivali di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Stivali di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Stivali di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Stivali di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stivali di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Stivali di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Stivali di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Stivali di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Stivali di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stivali di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Impugnature di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Impugnature di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Impugnature di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Impugnature di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Impugnature di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Impugnature di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Impugnature di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Impugnature di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Impugnature di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Impugnature di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Impugnature di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Impugnature di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Impugnature di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Impugnature di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Impugnature di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Impugnature di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Impugnature di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Impugnature di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Impugnature di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Impugnature di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Palchi di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Palchi di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Palchi di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Palchi di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Palchi di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Palchi di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Palchi di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Palchi di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Palchi di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Palchi di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Palchi di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Palchi di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Palchi di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Palchi di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Palchi di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Palchi di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Palchi di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Palchi di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Palchi di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Palchi di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Schinieri di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Schinieri di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Schinieri di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Schinieri di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Schinieri di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Schinieri di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Schinieri di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Schinieri di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Schinieri di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Schinieri di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Schinieri di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Schinieri di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Schinieri di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Schinieri di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Schinieri di quercia del reggente</string>
-	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Schinieri di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Schinieri di quercia del reggente.</string>
+	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare gli Schinieri di quercia del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano gli Schinieri di quercia del reggente. </string>
 	<string key="Artifact_WCArmorHeavyLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Schinieri di quercia del reggente</string>
-	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Tunica floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Tunica floreale del reggente.</string>
+	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Tunica floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Tunica floreale del reggente. </string>
 	<string key="Artifact_WCArmorLightChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Tunica floreale del reggente</string>
-	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Tunica floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Tunica floreale del reggente.</string>
+	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Tunica floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Tunica floreale del reggente. </string>
 	<string key="Artifact_WCArmorLightChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Tunica floreale del reggente</string>
-	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Tunica floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Tunica floreale del reggente.</string>
+	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Tunica floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Tunica floreale del reggente. </string>
 	<string key="Artifact_WCArmorLightChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Tunica floreale del reggente</string>
-	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Tunica floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Tunica floreale del reggente.</string>
+	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Tunica floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Tunica floreale del reggente. </string>
 	<string key="Artifact_WCArmorLightChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Tunica floreale del reggente</string>
-	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Mocassini floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Mocassini floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Mocassini floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Mocassini floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Mocassini floreali del reggente</string>
-	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Mocassini floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Mocassini floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Mocassini floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Mocassini floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Mocassini floreali del reggente</string>
-	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Mocassini floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Mocassini floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Mocassini floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Mocassini floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Mocassini floreali del reggente</string>
-	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Mocassini floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Mocassini floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Mocassini floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Mocassini floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Mocassini floreali del reggente</string>
-	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Guanti floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Guanti floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Guanti floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Guanti floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Guanti floreali del reggente</string>
-	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Guanti floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Guanti floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Guanti floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Guanti floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Guanti floreali del reggente</string>
-	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Guanti floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Guanti floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Guanti floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Guanti floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Guanti floreali del reggente</string>
-	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Guanti floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Guanti floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Guanti floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Guanti floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Guanti floreali del reggente</string>
-	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Corona floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Corona floreale del reggente.</string>
+	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Corona floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Corona floreale del reggente. </string>
 	<string key="Artifact_WCArmorLightHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Corona floreale del reggente</string>
-	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Corona floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Corona floreale del reggente.</string>
+	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Corona floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Corona floreale del reggente. </string>
 	<string key="Artifact_WCArmorLightHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Corona floreale del reggente</string>
-	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Corona floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Corona floreale del reggente.</string>
+	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Corona floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Corona floreale del reggente. </string>
 	<string key="Artifact_WCArmorLightHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Corona floreale del reggente</string>
-	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Corona floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Corona floreale del reggente.</string>
+	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Corona floreale del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Corona floreale del reggente. </string>
 	<string key="Artifact_WCArmorLightHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Corona floreale del reggente</string>
-	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Pantaloni floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Pantaloni floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Pantaloni floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Pantaloni floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Pantaloni floreali del reggente</string>
-	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Pantaloni floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Pantaloni floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Pantaloni floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Pantaloni floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Pantaloni floreali del reggente</string>
-	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Pantaloni floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Pantaloni floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Pantaloni floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Pantaloni floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Pantaloni floreali del reggente</string>
-	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Pantaloni floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Pantaloni floreali del reggente.</string>
+	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare i Pantaloni floreali del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano i Pantaloni floreali del reggente. </string>
 	<string key="Artifact_WCArmorLightLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Pantaloni floreali del reggente</string>
-	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Veste di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Veste di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Veste di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Veste di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Veste di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Veste di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Veste di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Veste di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Veste di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Veste di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Veste di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Veste di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Veste di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Veste di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Veste di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Veste di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Veste di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Veste di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea la Veste di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Veste di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Calzature di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Calzature di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Calzature di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Calzature di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Calzature di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Calzature di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Calzature di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Calzature di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Calzature di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Calzature di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Calzature di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Calzature di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Calzature di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Calzature di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Calzature di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Calzature di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Calzature di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Calzature di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Calzature di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Calzature di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Manopole di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Manopole di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Manopole di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Manopole di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Manopole di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Manopole di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Manopole di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Manopole di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Manopole di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Manopole di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Manopole di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Manopole di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Manopole di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Manopole di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Manopole di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Manopole di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Manopole di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Manopole di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Manopole di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Manopole di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Copricapo di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Copricapo di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Copricapo di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Copricapo di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Copricapo di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Copricapo di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Copricapo di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Copricapo di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Copricapo di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Copricapo di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Copricapo di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Copricapo di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Copricapo di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Copricapo di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Copricapo di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Copricapo di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Copricapo di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Copricapo di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si crea il Copricapo di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Copricapo di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Brache di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Brache di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Brache di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Brache di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Brache di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Brache di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Brache di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Brache di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Brache di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Brache di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Brache di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Brache di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Brache di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Brache di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Brache di agrifoglio del reggente</string>
-	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Brache di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Brache di agrifoglio del reggente.</string>
+	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare le Brache di agrifoglio del reggente presso l'apposita postazione di produzione. Viene consumato quando si creano le Brache di agrifoglio del reggente. </string>
 	<string key="Artifact_WCArmorMediumLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Brache di agrifoglio del reggente</string>
-	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Furia della tormenta presso l'apposita postazione di produzione. Viene consumato quando si crea la Furia della tormenta.</string>
+	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Furia della tormenta presso l'apposita postazione di produzione. Viene consumato quando si crea la Furia della tormenta. </string>
 	<string key="Artifact_WCWeaponBowT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Furia della tormenta</string>
-	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Furia della tormenta presso l'apposita postazione di produzione. Viene consumato quando si crea la Furia della tormenta.</string>
+	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Furia della tormenta presso l'apposita postazione di produzione. Viene consumato quando si crea la Furia della tormenta. </string>
 	<string key="Artifact_WCWeaponBowT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Furia della tormenta</string>
-	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Furia della tormenta presso l'apposita postazione di produzione. Viene consumato quando si crea la Furia della tormenta.</string>
+	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Furia della tormenta presso l'apposita postazione di produzione. Viene consumato quando si crea la Furia della tormenta. </string>
 	<string key="Artifact_WCWeaponBowT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Furia della tormenta</string>
-	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Furia della tormenta presso l'apposita postazione di produzione. Viene consumato quando si crea la Furia della tormenta.</string>
+	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Furia della tormenta presso l'apposita postazione di produzione. Viene consumato quando si crea la Furia della tormenta. </string>
 	<string key="Artifact_WCWeaponBowT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Furia della tormenta</string>
-	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Guanto cristallino presso l'apposita postazione di produzione. Viene consumato quando si crea il Guanto cristallino.</string>
+	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Guanto cristallino presso l'apposita postazione di produzione. Viene consumato quando si crea il Guanto cristallino. </string>
 	<string key="Artifact_WCWeaponGauntletIceT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Guanto cristallino</string>
-	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Guanto cristallino presso l'apposita postazione di produzione. Viene consumato quando si crea il Guanto cristallino.</string>
+	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Guanto cristallino presso l'apposita postazione di produzione. Viene consumato quando si crea il Guanto cristallino. </string>
 	<string key="Artifact_WCWeaponGauntletIceT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Guanto cristallino</string>
-	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Guanto cristallino presso l'apposita postazione di produzione. Viene consumato quando si crea il Guanto cristallino.</string>
+	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Guanto cristallino presso l'apposita postazione di produzione. Viene consumato quando si crea il Guanto cristallino. </string>
 	<string key="Artifact_WCWeaponGauntletIceT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Guanto cristallino</string>
-	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Guanto cristallino presso l'apposita postazione di produzione. Viene consumato quando si crea il Guanto cristallino.</string>
+	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Guanto cristallino presso l'apposita postazione di produzione. Viene consumato quando si crea il Guanto cristallino. </string>
 	<string key="Artifact_WCWeaponGauntletIceT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Guanto cristallino</string>
-	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Ombra amara presso l'apposita postazione di produzione. Viene consumato quando si crea l'Ombra amara.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Ombra amara presso l'apposita postazione di produzione. Viene consumato quando si crea l'Ombra amara. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Ombra amara</string>
-	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Ombra amara presso l'apposita postazione di produzione. Viene consumato quando si crea l'Ombra amara.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Ombra amara presso l'apposita postazione di produzione. Viene consumato quando si crea l'Ombra amara. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Ombra amara</string>
-	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Ombra amara presso l'apposita postazione di produzione. Viene consumato quando si crea l'Ombra amara.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Ombra amara presso l'apposita postazione di produzione. Viene consumato quando si crea l'Ombra amara. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Ombra amara</string>
-	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Ombra amara presso l'apposita postazione di produzione. Viene consumato quando si crea l'Ombra amara.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Ombra amara presso l'apposita postazione di produzione. Viene consumato quando si crea l'Ombra amara. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Ombra amara</string>
-	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Mannaia del gelo perenne presso l'apposita postazione di produzione. Viene consumato quando si crea la Mannaia del gelo perenne.</string>
+	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Mannaia del gelo perenne presso l'apposita postazione di produzione. Viene consumato quando si crea la Mannaia del gelo perenne. </string>
 	<string key="Artifact_WCWeaponGreatAxeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Mannaia del gelo perenne</string>
-	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Mannaia del gelo perenne presso l'apposita postazione di produzione. Viene consumato quando si crea la Mannaia del gelo perenne.</string>
+	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Mannaia del gelo perenne presso l'apposita postazione di produzione. Viene consumato quando si crea la Mannaia del gelo perenne. </string>
 	<string key="Artifact_WCWeaponGreatAxeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Mannaia del gelo perenne</string>
-	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Mannaia del gelo perenne presso l'apposita postazione di produzione. Viene consumato quando si crea la Mannaia del gelo perenne.</string>
+	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Mannaia del gelo perenne presso l'apposita postazione di produzione. Viene consumato quando si crea la Mannaia del gelo perenne. </string>
 	<string key="Artifact_WCWeaponGreatAxeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Mannaia del gelo perenne</string>
-	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Mannaia del gelo perenne presso l'apposita postazione di produzione. Viene consumato quando si crea la Mannaia del gelo perenne.</string>
+	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Mannaia del gelo perenne presso l'apposita postazione di produzione. Viene consumato quando si crea la Mannaia del gelo perenne. </string>
 	<string key="Artifact_WCWeaponGreatAxeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Mannaia del gelo perenne</string>
-	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Scheggia ghiacciata presso l'apposita postazione di produzione. Viene consumato quando si crea la Scheggia ghiacciata.</string>
+	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Scheggia ghiacciata presso l'apposita postazione di produzione. Viene consumato quando si crea la Scheggia ghiacciata. </string>
 	<string key="Artifact_WCWeaponHatchetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Scheggia ghiacciata</string>
-	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Scheggia ghiacciata presso l'apposita postazione di produzione. Viene consumato quando si crea la Scheggia ghiacciata.</string>
+	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Scheggia ghiacciata presso l'apposita postazione di produzione. Viene consumato quando si crea la Scheggia ghiacciata. </string>
 	<string key="Artifact_WCWeaponHatchetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Scheggia ghiacciata</string>
-	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Scheggia ghiacciata presso l'apposita postazione di produzione. Viene consumato quando si crea la Scheggia ghiacciata.</string>
+	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Scheggia ghiacciata presso l'apposita postazione di produzione. Viene consumato quando si crea la Scheggia ghiacciata. </string>
 	<string key="Artifact_WCWeaponHatchetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Scheggia ghiacciata</string>
-	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Scheggia ghiacciata presso l'apposita postazione di produzione. Viene consumato quando si crea la Scheggia ghiacciata.</string>
+	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Scheggia ghiacciata presso l'apposita postazione di produzione. Viene consumato quando si crea la Scheggia ghiacciata. </string>
 	<string key="Artifact_WCWeaponHatchetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Scheggia ghiacciata</string>
-	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Egida del ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Egida del ghiaccio.</string>
+	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Egida del ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Egida del ghiaccio. </string>
 	<string key="Artifact_WCWeaponKShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Egida del ghiaccio</string>
-	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Egida del ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Egida del ghiaccio.</string>
+	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Egida del ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Egida del ghiaccio. </string>
 	<string key="Artifact_WCWeaponKShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Egida del ghiaccio</string>
-	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Egida del ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Egida del ghiaccio.</string>
+	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Egida del ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Egida del ghiaccio. </string>
 	<string key="Artifact_WCWeaponKShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Egida del ghiaccio</string>
-	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Canna del gelo presso l'apposita postazione di produzione. Viene consumato quando si crea la Canna del gelo.</string>
+	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Canna del gelo presso l'apposita postazione di produzione. Viene consumato quando si crea la Canna del gelo. </string>
 	<string key="Artifact_WCWeaponMusketT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Canna del gelo</string>
-	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Canna del gelo presso l'apposita postazione di produzione. Viene consumato quando si crea la Canna del gelo.</string>
+	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Canna del gelo presso l'apposita postazione di produzione. Viene consumato quando si crea la Canna del gelo. </string>
 	<string key="Artifact_WCWeaponMusketT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Canna del gelo</string>
-	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Canna del gelo presso l'apposita postazione di produzione. Viene consumato quando si crea la Canna del gelo.</string>
+	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Canna del gelo presso l'apposita postazione di produzione. Viene consumato quando si crea la Canna del gelo. </string>
 	<string key="Artifact_WCWeaponMusketT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Canna del gelo</string>
-	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Canna del gelo presso l'apposita postazione di produzione. Viene consumato quando si crea la Canna del gelo.</string>
+	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Canna del gelo presso l'apposita postazione di produzione. Viene consumato quando si crea la Canna del gelo. </string>
 	<string key="Artifact_WCWeaponMusketT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Canna del gelo</string>
-	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Punta dell'iceberg presso l'apposita postazione di produzione. Viene consumato quando si crea la Punta dell'iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Punta dell'iceberg presso l'apposita postazione di produzione. Viene consumato quando si crea la Punta dell'iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Punta dell'iceberg</string>
-	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Punta dell'iceberg presso l'apposita postazione di produzione. Viene consumato quando si crea la Punta dell'iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Punta dell'iceberg presso l'apposita postazione di produzione. Viene consumato quando si crea la Punta dell'iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Punta dell'iceberg</string>
-	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Punta dell'iceberg presso l'apposita postazione di produzione. Viene consumato quando si crea la Punta dell'iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Punta dell'iceberg presso l'apposita postazione di produzione. Viene consumato quando si crea la Punta dell'iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Punta dell'iceberg</string>
-	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Punta dell'iceberg presso l'apposita postazione di produzione. Viene consumato quando si crea la Punta dell'iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Punta dell'iceberg presso l'apposita postazione di produzione. Viene consumato quando si crea la Punta dell'iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Punta dell'iceberg</string>
-	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Baluardo glaciale presso l'apposita postazione di produzione. Viene consumato quando si crea il Baluardo glaciale.</string>
+	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Baluardo glaciale presso l'apposita postazione di produzione. Viene consumato quando si crea il Baluardo glaciale. </string>
 	<string key="Artifact_WCWeaponRShieldT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Baluardo glaciale</string>
-	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Baluardo glaciale presso l'apposita postazione di produzione. Viene consumato quando si crea il Baluardo glaciale.</string>
+	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Baluardo glaciale presso l'apposita postazione di produzione. Viene consumato quando si crea il Baluardo glaciale. </string>
 	<string key="Artifact_WCWeaponRShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Baluardo glaciale</string>
-	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Baluardo glaciale presso l'apposita postazione di produzione. Viene consumato quando si crea il Baluardo glaciale.</string>
+	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Baluardo glaciale presso l'apposita postazione di produzione. Viene consumato quando si crea il Baluardo glaciale. </string>
 	<string key="Artifact_WCWeaponRShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Baluardo glaciale</string>
-	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Baluardo glaciale presso l'apposita postazione di produzione. Viene consumato quando si crea il Baluardo glaciale.</string>
+	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Baluardo glaciale presso l'apposita postazione di produzione. Viene consumato quando si crea il Baluardo glaciale. </string>
 	<string key="Artifact_WCWeaponRShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Baluardo glaciale</string>
-	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Ghiacciolo presso l'apposita postazione di produzione. Viene consumato quando si crea il Ghiacciolo.</string>
+	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Ghiacciolo presso l'apposita postazione di produzione. Viene consumato quando si crea il Ghiacciolo. </string>
 	<string key="artifact_wcweaponspeart2_mastername" rel_version="Event_WinterConvergence_Perm">Schema: Ghiacciolo</string>
-	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Ghiacciolo presso l'apposita postazione di produzione. Viene consumato quando si crea il Ghiacciolo.</string>
+	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Ghiacciolo presso l'apposita postazione di produzione. Viene consumato quando si crea il Ghiacciolo. </string>
 	<string key="artifact_wcweaponspeart3_mastername" rel_version="Event_WinterConvergence_Perm">Schema: Ghiacciolo</string>
-	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Ghiacciolo presso l'apposita postazione di produzione. Viene consumato quando si crea il Ghiacciolo.</string>
+	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Ghiacciolo presso l'apposita postazione di produzione. Viene consumato quando si crea il Ghiacciolo. </string>
 	<string key="artifact_wcweaponspeart4_mastername" rel_version="Event_WinterConvergence_Perm">Schema: Ghiacciolo</string>
-	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Ghiacciolo presso l'apposita postazione di produzione. Viene consumato quando si crea il Ghiacciolo.</string>
+	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Ghiacciolo presso l'apposita postazione di produzione. Viene consumato quando si crea il Ghiacciolo. </string>
 	<string key="artifact_wcweaponspeart5_mastername" rel_version="Event_WinterConvergence_Perm">Schema: Ghiacciolo</string>
-	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Neve sfrigolante presso l'apposita postazione di produzione. Viene consumato quando si crea la Neve sfrigolante.</string>
+	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Neve sfrigolante presso l'apposita postazione di produzione. Viene consumato quando si crea la Neve sfrigolante. </string>
 	<string key="Artifact_WCWeaponStaffFireT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Neve sfrigolante</string>
-	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Neve sfrigolante presso l'apposita postazione di produzione. Viene consumato quando si crea la Neve sfrigolante.</string>
+	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Neve sfrigolante presso l'apposita postazione di produzione. Viene consumato quando si crea la Neve sfrigolante. </string>
 	<string key="Artifact_WCWeaponStaffFireT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Neve sfrigolante</string>
-	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Neve sfrigolante presso l'apposita postazione di produzione. Viene consumato quando si crea la Neve sfrigolante.</string>
+	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Neve sfrigolante presso l'apposita postazione di produzione. Viene consumato quando si crea la Neve sfrigolante. </string>
 	<string key="Artifact_WCWeaponStaffFireT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Neve sfrigolante</string>
-	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Neve sfrigolante presso l'apposita postazione di produzione. Viene consumato quando si crea la Neve sfrigolante.</string>
+	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Neve sfrigolante presso l'apposita postazione di produzione. Viene consumato quando si crea la Neve sfrigolante. </string>
 	<string key="Artifact_WCWeaponStaffFireT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Neve sfrigolante</string>
-	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Cura del freddo presso l'apposita postazione di produzione. Viene consumato quando si crea la Cura del freddo.</string>
+	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Cura del freddo presso l'apposita postazione di produzione. Viene consumato quando si crea la Cura del freddo. </string>
 	<string key="Artifact_WCWeaponStaffLifeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Cura del freddo</string>
-	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Cura del freddo presso l'apposita postazione di produzione. Viene consumato quando si crea la Cura del freddo.</string>
+	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Cura del freddo presso l'apposita postazione di produzione. Viene consumato quando si crea la Cura del freddo. </string>
 	<string key="Artifact_WCWeaponStaffLifeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Cura del freddo</string>
-	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Cura del freddo presso l'apposita postazione di produzione. Viene consumato quando si crea la Cura del freddo.</string>
+	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Cura del freddo presso l'apposita postazione di produzione. Viene consumato quando si crea la Cura del freddo. </string>
 	<string key="Artifact_WCWeaponStaffLifeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Cura del freddo</string>
-	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Cura del freddo presso l'apposita postazione di produzione. Viene consumato quando si crea la Cura del freddo.</string>
+	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Cura del freddo presso l'apposita postazione di produzione. Viene consumato quando si crea la Cura del freddo. </string>
 	<string key="Artifact_WCWeaponStaffLifeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Cura del freddo</string>
-	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Esplosione di ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Esplosione di ghiaccio.</string>
+	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Esplosione di ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Esplosione di ghiaccio. </string>
 	<string key="Artifact_WCWeaponSwordT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Esplosione di ghiaccio</string>
-	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Esplosione di ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Esplosione di ghiaccio.</string>
+	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Esplosione di ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Esplosione di ghiaccio. </string>
 	<string key="Artifact_WCWeaponSwordT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Esplosione di ghiaccio</string>
-	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Esplosione di ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Esplosione di ghiaccio.</string>
+	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Esplosione di ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Esplosione di ghiaccio. </string>
 	<string key="Artifact_WCWeaponSwordT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Esplosione di ghiaccio</string>
-	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Esplosione di ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Esplosione di ghiaccio.</string>
+	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare l'Esplosione di ghiaccio presso l'apposita postazione di produzione. Viene consumato quando si crea l'Esplosione di ghiaccio. </string>
 	<string key="Artifact_WCWeaponSwordT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Esplosione di ghiaccio</string>
-	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Slitta festiva presso l'apposita postazione di produzione. Viene consumato quando si crea la Slitta festiva.</string>
+	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Slitta festiva presso l'apposita postazione di produzione. Viene consumato quando si crea la Slitta festiva. </string>
 	<string key="Artifact_WCWeaponTShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Slitta festiva</string>
-	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Slitta festiva presso l'apposita postazione di produzione. Viene consumato quando si crea la Slitta festiva.</string>
+	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare la Slitta festiva presso l'apposita postazione di produzione. Viene consumato quando si crea la Slitta festiva. </string>
 	<string key="Artifact_WCWeaponTShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Slitta festiva</string>
-	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Martello da guerra dell'inverno presso l'apposita postazione di produzione. Viene consumato quando si crea il Martello da guerra dell'inverno.</string>
+	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Martello da guerra dell'inverno presso l'apposita postazione di produzione. Viene consumato quando si crea il Martello da guerra dell'inverno. </string>
 	<string key="Artifact_WCWeaponWarHammerT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Martello da guerra dell'inverno</string>
-	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Martello da guerra dell'inverno presso l'apposita postazione di produzione. Viene consumato quando si crea il Martello da guerra dell'inverno.</string>
+	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Martello da guerra dell'inverno presso l'apposita postazione di produzione. Viene consumato quando si crea il Martello da guerra dell'inverno. </string>
 	<string key="Artifact_WCWeaponWarHammerT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Martello da guerra dell'inverno</string>
-	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Martello da guerra dell'inverno presso l'apposita postazione di produzione. Viene consumato quando si crea il Martello da guerra dell'inverno.</string>
+	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Martello da guerra dell'inverno presso l'apposita postazione di produzione. Viene consumato quando si crea il Martello da guerra dell'inverno. </string>
 	<string key="Artifact_WCWeaponWarHammerT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Martello da guerra dell'inverno</string>
-	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Martello da guerra dell'inverno presso l'apposita postazione di produzione. Viene consumato quando si crea il Martello da guerra dell'inverno.</string>
+	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Questo schema viene utilizzato per creare il Martello da guerra dell'inverno presso l'apposita postazione di produzione. Viene consumato quando si crea il Martello da guerra dell'inverno. </string>
 	<string key="Artifact_WCWeaponWarHammerT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Martello da guerra dell'inverno</string>
 	<string key="Artificer_Crucibles_Description">Crogioli da Inventore</string>
 	<string key="Artificer_Crucibles_MasterName">Crogioli da Inventore</string>
@@ -11835,8 +11845,8 @@
 	<string key="ClothingHead_SkinnerT5_MasterName">Cappello da scuoiatore</string>
 	<string key="clothinghead_smeltert5_description">Mostra di avere stile anche quando lavori nella fucina.</string>
 	<string key="clothinghead_smeltert5_mastername">Copricapo da fonditore</string>
-	<string key="clothinghead_stonecuttert5_description">Perfetto per tenere la polvere di roccia lontana dai capelli... o dal cranio.</string>
-	<string key="clothinghead_stonecuttert5_mastername">Cappello da tagliapietre</string>
+	<string key="clothinghead_stonecuttert5_description">Perfetti per tenere i tuoi occhi al sicuro dalla polvere di roccia.</string>
+	<string key="clothinghead_stonecuttert5_mastername">Occhiali da tagliapietre</string>
 	<string key="ClothingHead_TannerT3_Description">Abbigliamento indossato solitamente dai conciatori mentre lavorano alla propria vasca da concia.</string>
 	<string key="ClothingHead_TannerT3_MasterName">Cappello da conciatore</string>
 	<string key="ClothingHead_TannerT4_Description">Abbigliamento indossato solitamente dai conciatori mentre lavorano alla propria vasca da concia.</string>
@@ -15122,7 +15132,7 @@
 	<string key="FoodFOCT4_Description">Aumenta la Concentrazione di {[Type_StatusEffectData.FoodFOCT4.MODFocus]} per {[Type_StatusEffectData.FoodFOCT4.BaseDuration / 60]} minuti. Durante questi effetti, recuperi lentamente salute.</string>
 	<string key="FoodFOCT4_MasterName">Pasticcio di tacchino</string>
 	<string key="FoodFOCT5_Description">Aumenta la Concentrazione di {[Type_StatusEffectData.FoodFOCT5.MODFocus]} per {[Type_StatusEffectData.FoodFOCT5.BaseDuration / 60]} minuti. Durante questi effetti, recuperi lentamente salute.</string>
-	<string key="FoodFOCT5_MasterName">Mandje Mandje abbrustolito con succotash di mais</string>
+	<string key="FoodFOCT5_MasterName">Barbus della lava affumicato con succotash di mais</string>
 	<string key="FoodHarvesterT1_Description">Aumenta la tua fortuna durante la raccolta delle messi di {[Type_StatusEffectData.FoodHarvesterT1.ROLharvesting]} punti per {[Type_StatusEffectData.FoodHarvesterT1.BaseDuration / 60]} minuti. Durante questi effetti, recuperi lentamente salute.</string>
 	<string key="FoodHarvesterT1_MasterName">Mais cotto</string>
 	<string key="FoodHarvesterT2_Description">Aumenta la tua fortuna durante la raccolta delle messi di {[Type_StatusEffectData.FoodHarvesterT2.ROLharvesting]} punti per {[Type_StatusEffectData.FoodHarvesterT2.BaseDuration / 60]} minuti. Durante questi effetti, recuperi lentamente salute.</string>
@@ -15348,7 +15358,7 @@
 	<string key="GateWarCampT1_MasterName">Porta dell'accampamento di guerra livello 1</string>
 	<string key="GateWarCampT2_MasterName">Porta dell'accampamento di guerra livello 2</string>
 	<string key="GateWarCampT3_MasterName">Porta dell'accampamento di guerra livello 3</string>
-	<string key="gearscore">PUNTEGGIO ATTREZZATURA</string>
+	<string key="gearscore">PUNTEG. ATTREZZATURA</string>
 	<string key="GemPouchT1_Description">Un borsello usato per trasportare varie gemme. Recuperalo per ottenere da 1 a 3 gemme.</string>
 	<string key="GemPouchT1_Mastername">Borsello per gemme</string>
 	<string key="GemSocketPinsT1_Description">I piccoli e intricati perni utilizzati per incastonare una gemma.</string>
@@ -18439,7 +18449,7 @@
 	<string key="ItemPattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Arco da driade</string>
 	<string key="ItemPattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Bastone infuocato da driade</string>
 	<string key="ItemPattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Accetta da driade</string>
-	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Magia del ghiaccio da driade</string>
+	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Scudo a goccia da driade</string>
 	<string key="ItemPattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Bastone della vita da driade</string>
 	<string key="ItemPattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Moschetto da driade</string>
@@ -18456,7 +18466,7 @@
 	<string key="ItemPattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Arco del tombarolo</string>
 	<string key="ItemPattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Bastone infuocato del tombarolo</string>
 	<string key="ItemPattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Accetta del tombarolo</string>
-	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Magia del ghiaccio del tombarolo</string>
+	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Bastone della vita del tombarolo</string>
 	<string key="ItemPattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Moschetto del tombarolo</string>
 	<string key="ItemPattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Stocco del tombarolo</string>
@@ -18494,7 +18504,7 @@
 	<string key="ItemPattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Arco imbevuto</string>
 	<string key="ItemPattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Bastone infuocato imbevuto</string>
 	<string key="ItemPattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Accetta imbevuta</string>
-	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Magia del ghiaccio imbevuta</string>
+	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Guanto di ghiaccio imbevuto</string>
 	<string key="ItemPattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Bastone della vita imbevuto</string>
 	<string key="ItemPattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Moschetto imbevuto</string>
 	<string key="ItemPattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Stocco imbevuto</string>
@@ -23811,10 +23821,10 @@
 	<string key="Omega_Box_Armor_Ranger_Description">Una cassa contenente equipaggiamento per armature omega incentrato sulla statistica DES dei ranger.</string>
 	<string key="Omega_Box_Armor_Ranger_Heavy_Description">Una cassa contenente armature per ranger pesanti.</string>
 	<string key="Omega_Box_Armor_Ranger_Heavy_MasterName">Cassa di armature omega (ranger pesante)</string>
-	<string key="Omega_Box_Armor_Ranger_Light_Description">Una cassa contenente armature per ranger leggeri.</string>
+	<string key="Omega_Box_Armor_Ranger_Light_Description">Una cassa contenente armature per ranger leggere.</string>
 	<string key="Omega_Box_Armor_Ranger_Light_MasterName">Cassa di armature omega (ranger leggero)</string>
 	<string key="Omega_Box_Armor_Ranger_MasterName">Cassa di armature omega (ranger)</string>
-	<string key="Omega_Box_Armor_Ranger_Medium_Description">Una cassa contenente armature per ranger medi.</string>
+	<string key="Omega_Box_Armor_Ranger_Medium_Description">Una cassa contenente armature per ranger medie.</string>
 	<string key="Omega_Box_Armor_Ranger_Medium_MasterName">Cassa di armature omega (ranger medio)</string>
 	<string key="Omega_Box_Armor_Ranger_PVP_Description">Una cassa contenente armature PvP incentrate sulla statistica DES.</string>
 	<string key="Omega_Box_Armor_Ranger_PVP_Heavy_Description">Una cassa contenente armature pesanti PvP incentrate sulla statistica DES.</string>
@@ -23831,10 +23841,10 @@
 	<string key="Omega_Box_Armor_Sage_Description">Una cassa contenente equipaggiamento per armature omega incentrato sulla statistica CONC dei saggi.</string>
 	<string key="Omega_Box_Armor_Sage_Heavy_Description">Una cassa contenente armature per saggi pesanti.</string>
 	<string key="Omega_Box_Armor_Sage_Heavy_MasterName">Cassa di armature omega (saggio pesante)</string>
-	<string key="Omega_Box_Armor_Sage_Light_Description">Una cassa contenente armature per saggi leggeri.</string>
+	<string key="Omega_Box_Armor_Sage_Light_Description">Una cassa contenente armature per saggi leggere.</string>
 	<string key="Omega_Box_Armor_Sage_Light_MasterName">Cassa di armature omega (saggio leggero)</string>
 	<string key="Omega_Box_Armor_Sage_MasterName">Cassa di armature omega (saggio)</string>
-	<string key="Omega_Box_Armor_Sage_Medium_Description">Una cassa contenente armature per saggi medi.</string>
+	<string key="Omega_Box_Armor_Sage_Medium_Description">Una cassa contenente armature per saggi medie.</string>
 	<string key="Omega_Box_Armor_Sage_Medium_MasterName">Cassa di armature omega (saggio medio)</string>
 	<string key="Omega_Box_Armor_Sage_PVP_Description">Una cassa contenente armature PvP incentrate sulla statistica CONC.</string>
 	<string key="Omega_Box_Armor_Sage_PVP_Heavy_Description">Una cassa contenente armature pesanti PvP incentrate sulla statistica CONC.</string>
@@ -23851,10 +23861,10 @@
 	<string key="Omega_Box_Armor_Scholar_Description">Una cassa contenente equipaggiamento per armature omega incentrato sulla statistica INT degli studiosi.</string>
 	<string key="Omega_Box_Armor_Scholar_Heavy_Description">Una cassa contenente armature per studiosi pesanti.</string>
 	<string key="Omega_Box_Armor_Scholar_Heavy_MasterName">Cassa di armature omega (studioso pesante)</string>
-	<string key="Omega_Box_Armor_Scholar_Light_Description">Una cassa contenente armature per studiosi leggeri.</string>
+	<string key="Omega_Box_Armor_Scholar_Light_Description">Una cassa contenente armature per studiosi leggere.</string>
 	<string key="Omega_Box_Armor_Scholar_Light_MasterName">Cassa di armature omega (studioso leggero)</string>
 	<string key="Omega_Box_Armor_Scholar_MasterName">Cassa di armature omega (studioso)</string>
-	<string key="Omega_Box_Armor_Scholar_Medium_Description">Una cassa contenente armature per studiosi medi.</string>
+	<string key="Omega_Box_Armor_Scholar_Medium_Description">Una cassa contenente armature per studiosi medie.</string>
 	<string key="Omega_Box_Armor_Scholar_Medium_MasterName">Cassa di armature omega (studioso medio)</string>
 	<string key="Omega_Box_Armor_Scholar_PVP_Description">Una cassa contenente armature PvP incentrate sulla statistica INT.</string>
 	<string key="Omega_Box_Armor_Scholar_PVP_Heavy_Description">Una cassa contenente armature pesanti PvP incentrate sulla statistica INT.</string>
@@ -23891,10 +23901,10 @@
 	<string key="Omega_Box_Armor_Soldier_Description">Una cassa contenente equipaggiamento per armature omega incentrato sulla statistica FOR dei soldati.</string>
 	<string key="Omega_Box_Armor_Soldier_Heavy_Description">Una cassa contenente armature per soldati pesanti.</string>
 	<string key="Omega_Box_Armor_Soldier_Heavy_MasterName">Cassa di armature omega (soldato pesante)</string>
-	<string key="Omega_Box_Armor_Soldier_Light_Description">Una cassa contenente armature per soldati leggeri.</string>
+	<string key="Omega_Box_Armor_Soldier_Light_Description">Una cassa contenente armature per soldati leggere.</string>
 	<string key="Omega_Box_Armor_Soldier_Light_MasterName">Cassa di armature omega (soldato leggero)</string>
 	<string key="Omega_Box_Armor_Soldier_MasterName">Cassa di armature omega (soldato)</string>
-	<string key="Omega_Box_Armor_Soldier_Medium_Description">Una cassa contenente armature per soldati medi.</string>
+	<string key="Omega_Box_Armor_Soldier_Medium_Description">Una cassa contenente armature per soldati medie.</string>
 	<string key="Omega_Box_Armor_Soldier_Medium_MasterName">Cassa di armature omega (soldato medio)</string>
 	<string key="Omega_Box_Armor_Soldier_PVP_Description">Una cassa contenente armature PvP incentrate sulla statistica FOR.</string>
 	<string key="Omega_Box_Armor_Soldier_PVP_Heavy_Description">Una cassa contenente armature pesanti PvP incentrate sulla statistica FOR.</string>
@@ -24111,7 +24121,7 @@
 	<string key="Pattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Schema: Arco da driade</string>
 	<string key="Pattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Schema: Bastone infuocato da driade</string>
 	<string key="Pattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Schema: Accetta da driade</string>
-	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: Magia del ghiaccio da driade</string>
+	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: </string>
 	<string key="Pattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Schema: Scudo a goccia da driade</string>
 	<string key="Pattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Schema: Bastone della vita da driade</string>
 	<string key="Pattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Schema: Moschetto da driade</string>
@@ -24128,7 +24138,7 @@
 	<string key="Pattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Schema: Arco del tombarolo</string>
 	<string key="Pattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Schema: Bastone infuocato del tombarolo</string>
 	<string key="Pattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Schema: Accetta del tombarolo</string>
-	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: Magia del ghiaccio del tombarolo</string>
+	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: </string>
 	<string key="Pattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Schema: Bastone della vita del tombarolo</string>
 	<string key="Pattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Schema: Moschetto del tombarolo</string>
 	<string key="Pattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Schema: Stocco del tombarolo</string>
@@ -24166,7 +24176,7 @@
 	<string key="Pattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Schema: Arco imbevuto</string>
 	<string key="Pattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Schema: Bastone infuocato imbevuto</string>
 	<string key="Pattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Schema: Accetta imbevuta</string>
-	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: Magia del ghiaccio imbevuta</string>
+	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: Guanto di ghiaccio imbevuto</string>
 	<string key="Pattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Schema: Bastone della vita imbevuto</string>
 	<string key="Pattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Schema: Moschetto imbevuto</string>
 	<string key="Pattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Schema: Stocco imbevuto</string>
@@ -24188,9 +24198,9 @@
 	<string key="Pattern_TempleGuards_Gauntlets" rel_version="Event_WinterConvergence_Perm">Schema: Guanti da guardia del tempio</string>
 	<string key="Pattern_TempleGuards_Helm" rel_version="Event_WinterConvergence_Perm">Schema: Elmo da guardia del tempio</string>
 	<string key="Pattern_TempleGuards_Legguards" rel_version="Event_WinterConvergence_Perm">Schema: Gambali da guardia del tempio</string>
-	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm">Porta questo schema in un deposito arcano per produrre un oggetto con punteggio attrezzatura 600 dall'aspetto inconfondibile.</string>
+	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternForge_Desc">Porta questo schema in una fucina per produrre un oggetto con punteggio attrezzatura 600 dall'aspetto inconfondibile.</string>
-	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm">Porta questo schema in una postazione di accessoristica per produrre un oggetto con punteggio attrezzatura 600 dall'aspetto inconfondibile.</string>
+	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternWorkbench_Desc" rel_version="Event_WinterConvergence_Perm">Posiziona questo schema su un banco da lavoro per produrre un oggetto con punteggio attrezzatura 600 dall'aspetto inconfondibile.</string>
 	<string key="PearlCutT1_Description">Utile nella creazione di gioielli. Incastonabile nell'armatura per aumentarne il potere.</string>
 	<string key="pearlcutt1_mastername">Perla tagliata imperfetta</string>
@@ -27923,7 +27933,7 @@
 	<string key="Shard_Rapier_MasterName">Scheggia di stocco senza tempo</string>
 	<string key="Shard_Rapier_Description">Questa risorsa può essere utilizzata in una fucina per produrre uno stocco con un attributo specifico.</string>
 	<string key="Shard_Hatchet_MasterName">Scheggia di accetta senza tempo</string>
-	<string key="Shard_Hatchet_Description">Questa risorsa può essere utilizzata in un laboratorio per produrre un'accetta con un attributo specifico.</string>
+	<string key="Shard_Hatchet_Description"/>
 	<string key="Shard_Bow_MasterName">Scheggia di arco senza tempo</string>
 	<string key="Shard_Bow_Description">Questa risorsa può essere utilizzata in un laboratorio per produrre un arco con un attributo specifico.</string>
 	<string key="Shard_Musket_MasterName">Scheggia di moschetto senza tempo</string>
@@ -27943,7 +27953,7 @@
 	<string key="Shard_Shield_Tower_MasterName">Scheggia di scudo a torre senza tempo</string>
 	<string key="Shard_Shield_Tower_Description">Questa risorsa può essere utilizzata in una fucina per produrre uno scudo a torre con un attributo specifico.</string>
 	<string key="Shard_Spear_MasterName">Scheggia di lancia senza tempo</string>
-	<string key="Shard_Spear_Description">Questa risorsa può essere utilizzata in un laboratorio per produrre una lancia con un attributo specifico.</string>
+	<string key="Shard_Spear_Description"/>
 	<string key="Shard_Ring_MasterName">Scheggia di anello senza tempo</string>
 	<string key="Shard_Ring_Description">Questa risorsa può essere utilizzata in una fucina per produrre un anello con un attributo specifico.</string>
 	<string key="Shard_Amulet_MasterName">Scheggia di amuleto senza tempo</string>
@@ -27957,5 +27967,17 @@
 	<string key="EarringDropT5_MasterName">Vecchio orecchino</string>
 	<string key="RingDropT5_MasterName">Vecchio anello</string>
 	<string key="AmuletDropT5_MasterName">Vecchio amuleto</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_MasterName" rel_version="Twitch_EpicStory_Skins">Giacca di Nynaeve</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_Description" rel_version="Twitch_EpicStory_Skins">Ascolta i venti, perché portano la vera saggezza.</string>
+	<string key="Skin_Chest_WoT_RedScarf_MasterName" rel_version="Twitch_EpicStory_Skins">Mantello dell'Ajah Rossa</string>
+	<string key="Skin_Chest_WoT_RedScarf_Description" rel_version="Twitch_EpicStory_Skins">Questo colore funge da avvertimento contro i malintenzionati.</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_MasterName" rel_version="Twitch_EpicStory_Skins">Figli della Luce</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_Description" rel_version="Twitch_EpicStory_Skins">A volte delle vesti eburnee mascherano abilmente le vere intenzioni di chi le indossa.</string>
+	<string key="Skin_Chest_WoT_BrownCloak_MasterName" rel_version="Twitch_EpicStory_Skins">Mantello di Egwene</string>
+	<string key="Skin_Chest_WoT_BrownCloak_Description" rel_version="Twitch_EpicStory_Skins">Solo i più dotati possono percorrere la via della magia.</string>
+	<string key="Skin_Rapier_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Lama di Tam</string>
+	<string key="Skin_Rapier_WoT_Description" rel_version="Twitch_EpicStory_Skins">Tanto bella quanto letale, è l'arma perfetta dei guardiani.</string>
+	<string key="Skin_Longsword_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Lama della Progenie dell'Ombra</string>
+	<string key="Skin_Longsword_WoT_Description" rel_version="Twitch_EpicStory_Skins">Il temibile artiglio di un terribile signore oscuro.</string>
 </resources>
 

@@ -115,7 +115,7 @@
 	<string key="ui_release_date">Data premiery</string>
 	<string key="ui_price">Cena</string>
 	<string key="store_tree_splitter_name">Powalacz Drzew</string>
-	<string key="store_tree_splitter_description">"Nawet najpotężniejsze drzewo nie oprze się twojemu toporowi". Zestaw skórek odzieżowych</string>
+	<string key="store_tree_splitter_description">"Nawet najpotężniejsze drzewo nie oprze się twojemu toporowi". Zestaw skórek ubioru</string>
 	<string key="ui_leaves_store" rel_version="Feature_MTX">Opuszcza sklep:</string>
 	<string key="ui_discount_end" rel_version="Feature_MTX">Koniec zniżki:</string>
 	<string key="ui_show_available">Pokaż tylko dostępne</string>
@@ -574,5 +574,6 @@
 	<string key="reward_type_Apparelskin_Set" rel_version="New_World_Launch">Zestaw skórek ubioru</string>
 	<string key="reward_type_Toolskin_Set" rel_version="New_World_Launch">Zestaw skórek narzędzi</string>
 	<string key="reward_type_Housing_Set" rel_version="New_World_Launch">Pakiet dekoracji do domu</string>
+	<string key="ui_crestforeground_212" rel_version="Twitch_EpicStory_Skins">Uroboros</string>
 </resources>
 

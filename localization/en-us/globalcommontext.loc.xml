@@ -2171,6 +2171,7 @@
 	<string key="ui_notificationaccept">Accept Notification</string>
 	<string key="ui_notificationdecline">Decline Notification</string>
 	<string key="ui_banneraccept">Accept Banner</string>
+	<string key="ui_togglepopupoption">Toggle Popup Option</string>
 	<string key="ui_dialogue">Dialogue</string>
 	<string key="ui_dialogueoption1">Option #1</string>
 	<string key="ui_dialogueoption2">Option #2</string>

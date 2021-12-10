@@ -968,7 +968,7 @@
 	<string key="ui_poi_crater_mysticbridge_50367_description">Boa parte da ponte, erguida acima das árvores imponentes, foi consertada.</string>
 	<string key="ui_poi_crater_mysticbridge_50369_description">Marco</string>
 	<string key="ui_poi_crater_mysticbridge_description">Marco</string>
-	<string key="ui_poi_crater_mysticbridgetower_50368_description">Aicnêlovleam a iacer, Nedé od Euqsob od ohlepse on.</string>
+	<string key="ui_poi_crater_mysticbridgetower_50368_description">Aicnêlovelam a iacer, Nedé od Euqsob od ohlepse on.</string>
 	<string key="ui_poi_crater_mysticbridgetower_description">Marco</string>
 	<string key="ui_poi_crater_mysticfen_50317_description">Quem vê o verde luxuriante pode se enganar e crer que o Mosto Vesical é uma clareira tranquila, mas a repulsiva Mácula mancha cada folha e raiz.</string>
 	<string key="ui_poi_crater_mysticfen_description">Marco</string>
@@ -1510,6 +1510,8 @@
 	<string key="ui_poi_devworld_cave_description">Uma caverna que gera lobos em escala.</string>
 	<string key="ui_poi_devworld_spawns">Gerações do Mundo dos Desenvolvedores</string>
 	<string key="ui_poi_devworld_spawns_description">Algumas demonstrações de tecnologia de geração.</string>
+	<string key="ui_poi_devworld_dummies">Área de Boneco-Alvo do Mundo dos Desenvolvedores</string>
+	<string key="ui_poi_devworld_dummies_description">Uma área de testes com vários bonecos-alvo.</string>
 	<string key="ui_poi_fish_hotspot_broad">Local de Pesca Amplo</string>
 	<string key="ui_poi_fish_hotspot_broad_description">Os peixes estão saltando para fora da água!</string>
 	<string key="ui_poi_fish_hotspot_rare">Local de Pesca Raro</string>
@@ -1704,6 +1706,10 @@
 	<string key="ui_poi_spiritshrine_01_30251_description">Santuário Espiritual</string>
 	<string key="ui_poi_spiritshrine_02_30314">Santuário do Amante</string>
 	<string key="ui_poi_spiritshrine_02_30314_description">Santuário Espiritual</string>
+	<string key="ui_poi_spiritshrine_20208">Santuário Imperial</string>
+	<string key="ui_poi_spiritshrine_20208_description">Santuário Espiritual</string>
+	<string key="ui_poi_spiritshrine_20209">@ui_poi_spiritshrine_20209</string>
+	<string key="ui_poi_spiritshrine_20209_description">Santuário Espiritual</string>
 	<string key="ui_poi_vikingshipwreck_40039">Vigrid</string>
 	<string key="ui_poi_vikingshipwreck_40039_description">Navios do norte e, com eles, os fantasmas de sua tripulação amaldiçoada.</string>
 	<string key="ui_poi_Tauros_06SW09">Tauros</string>

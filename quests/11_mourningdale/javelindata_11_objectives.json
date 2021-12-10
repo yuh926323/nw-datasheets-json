@@ -320,7 +320,7 @@
     {
         "ObjectiveID": "1126_0102_TheLastMystery",
         "Type": "Journey",
-        "DifficultyLevel": 49,
+        "DifficultyLevel": 47,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -344,7 +344,7 @@
     {
         "ObjectiveID": "1126_0102_Atoast",
         "Type": "Journey",
-        "DifficultyLevel": 49,
+        "DifficultyLevel": 47,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -368,7 +368,7 @@
     {
         "ObjectiveID": "1126_0103_AmateurAdventurer",
         "Type": "Journey",
-        "DifficultyLevel": 50,
+        "DifficultyLevel": 47,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -415,7 +415,7 @@
     {
         "ObjectiveID": "1128_0101_VillageChampion",
         "Type": "Journey",
-        "DifficultyLevel": 49,
+        "DifficultyLevel": 48,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -462,7 +462,7 @@
     {
         "ObjectiveID": "1127_0102_MakinBacon",
         "Type": "Journey",
-        "DifficultyLevel": 49,
+        "DifficultyLevel": 48,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -509,7 +509,7 @@
     {
         "ObjectiveID": "1129_0102_JaansenintheNorth",
         "Type": "Journey",
-        "DifficultyLevel": 50,
+        "DifficultyLevel": 48,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -581,7 +581,7 @@
     {
         "ObjectiveID": "1110_0101_GreetTheNewcomers",
         "Type": "Journey",
-        "DifficultyLevel": 50,
+        "DifficultyLevel": 48,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -605,7 +605,7 @@
     {
         "ObjectiveID": "1110_0101_GreetTheNewcomers2",
         "Type": "Journey",
-        "DifficultyLevel": 50,
+        "DifficultyLevel": 48,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -629,7 +629,7 @@
     {
         "ObjectiveID": "1124_PierreGoHome",
         "Type": "Journey",
-        "DifficultyLevel": 50,
+        "DifficultyLevel": 47,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,

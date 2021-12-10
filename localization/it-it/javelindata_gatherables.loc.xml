@@ -393,6 +393,9 @@
 	<string key="1124_VistaPoint2_DisplayName">Punto di osservazione</string>
 	<string key="1124_VistaPoint3_DisplayName">Punto di osservazione</string>
 	<string key="1124_VistaPoint4_DisplayName">Punto di osservazione</string>
+	<string key="1132_GrampasGun_DisplayName">Fucina del nonno</string>
+	<string key="1132_Digby_DisplayName">Toc toc!</string>
+	<string key="1132_Shootout_DisplayName">Rifugio di Coy</string>
 	<string key="Truffle_DisplayName">Tartufo delizioso</string>
 	<string key="0402_GruelBarrel">Barile di minestra</string>
 	<string key="SurvivalistQuest_AlphaLure_interact">Debole essenza di terra</string>
@@ -420,6 +423,9 @@
 	<string key="0825_CookingSupplies_DisplayName">Raccogli provviste</string>
 	<string key="0826_TigerCage_DisplayName">Apri la gabbia</string>
 	<string key="0828_Heirlooms_DisplayName">Raccogli cimelio</string>
+	<string key="0831_DryadsEyePlant_DisplayName">Raccogli lacrime della driade</string>
+	<string key="0831_BruteCannonSchematic_DisplayName">Schema per cannone del bruto</string>
+	<string key="0831_DiscardedArmorPile_DisplayName">Cerca nel cumulo di armature</string>
 	<string key="06_SpectralShrine">Santuario spettrale</string>
 	<string key="FishingHotspotBroad_DisplayName">Punto di pesca (ampio)</string>
 	<string key="FishingHotspotRare_DisplayName">Punto di pesca (raro)</string>

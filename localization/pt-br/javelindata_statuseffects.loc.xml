@@ -449,6 +449,7 @@
 	<string key="AI_Slime_Buff_DisplayName">Gosmento</string>
 	<string key="AI_Slime_Slow_DisplayName">Grudento</string>
 	<string key="AI_Slime_Slow_Tooltip">Velocidade de movimento reduzida em {[Type_StatusEffectData.AI_Slime_Slow.MoveSpeedMod * -100]}%.</string>
+	<string key="AI_SpiderBite_Tooltip">Envenenado por {[Type_StatusEffectData.AI_SpiderBite.HealthModifierDamageBased * -100]}% de dano Natural base a cada {[Type_StatusEffectData.AI_SpiderBite.TickRate]} s com duração de {[Type_StatusEffectData.AI_SpiderBite.BaseDuration]} s.</string>
 	<string key="AI_PoisonOnHit_Buff_DisplayName">Peçonhento</string>
 	<string key="AI_PoisonOnHit_Damage_DisplayName">Envenenado</string>
 	<string key="AI_PoisonOnHit_Damage_Tooltip">Envenenado por {[Type_StatusEffectData.AI_PoisonOnHit_Damage.HealthModifierDamageBased * -100]}% de dano Natural base a cada {[Type_StatusEffectData.AI_PoisonOnHit_Damage.TickRate]} s com duração de {[Type_StatusEffectData.AI_PoisonOnHit_Damage.BaseDuration]} s.</string>
@@ -467,7 +468,7 @@
 	<string key="AI_Bleed_9_DisplayName">Sangramento</string>
 	<string key="AI_Bleed_9_Tooltip">Hemorragia de {[Type_StatusEffectData.AI_Bleed_9.HealthModifierDamageBased * -100]}% de Dano Físico base + {[Type_StatusEffectData.AI_Bleed_9.HealthModifierPercent * -100]}% da saúde base a cada {[Type_StatusEffectData.AI_Bleed_9.TickRate]} s com duração de {[Type_StatusEffectData.AI_Bleed_9.BaseDuration]} s.</string>
 	<string key="AI_Burn_9_DisplayName">Ardente</string>
-	<string key="AI_Burn_9_Tooltip">Queimando por {[Type_StatusEffectData.AI_Burn_9.HealthModifierDamageBased * -100]}% de dano Flamejante base + {[Type_StatusEffectData.AI_Burn_9.HealthModifierPercent * -100]}% da saúde base a cada {[Type_StatusEffectData.AI_Burn_9.TickRate]} s com duração de {[Type_StatusEffectData.AI_Burn_9.BaseDuration]} s.</string>
+	<string key="AI_Burn_9_Tooltip">Queima por {[Type_StatusEffectData.AI_Burn_9.HealthModifierDamageBased * -100]}% de Dano Flamejante base a cada {[Type_StatusEffectData.AI_Burn_9.TickRate]} s durante {[Type_StatusEffectData.AI_Burn_9.BaseDuration]} s.</string>
 	<string key="AI_Thorpe_Burn_DisplayName">Queimadura Umbrosa</string>
 	<string key="AI_Thorpe_Burn_Tooltip">Queimando por {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierDamageBased * -100]}% de dano Flamejante base + {[Type_StatusEffectData.AI_Thorpe_Burn.HealthModifierPercent * -100]}% da saúde base a cada {[Type_StatusEffectData.AI_Thorpe_Burn.TickRate]} s com duração de {[Type_StatusEffectData.AI_Thorpe_Burn.BaseDuration]} s.</string>
 	<string key="AI_Thorpe_FTUE_Burn_DisplayName">Queimadura</string>
@@ -972,6 +973,7 @@
 	<string key="Status_Spear_Skewer_Bleed_DisplayName">Espetar</string>
 	<string key="Status_Spear_Skewer_Bleed_Description">{[Type_StatusEffectData.Spear_Skewer_Bleed.HealthModifierDamageBased * -100]}% de Hemorragia a cada {[Type_StatusEffectData.Spear_Skewer_Bleed.TickRate]} s durante {[Type_StatusEffectData.Spear_Skewer_Bleed.BaseDuration]} s.</string>
 	<string key="Status_Spear_Skewer_Bleed_Upgrade_Description">{[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.HealthModifierDamageBased * -100]}% de Hemorragia a cada {[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.TickRate]} s durante {[Type_StatusEffectData.Spear_Skewer_Bleed_Upgrade.BaseDuration]} s.</string>
+	<string key="Status_Spear_Skewer_EmpowerOnCrit_Description">Dano aumentado em {[Type_StatusEffectData.Spear_Skewer_EmpowerOnCrit.DMGStandard * 100]}%.</string>
 	<string key="Status_Spear_Perforate_Rend_DisplayName">Perfurar</string>
 	<string key="Status_Spear_Perforate_Rend_Description">Você sofre {[Type_StatusEffectData.Spear_Perforate_Rend.ABSThrust * -100]}% de dano aumentado de todas as origens por {[Type_StatusEffectData.Spear_Perforate_Rend.BaseDuration]} segundos.</string>
 	<string key="Status_Spear_Perforate_Rend_Upgrade_DisplayName">Perfurar</string>
@@ -1123,8 +1125,8 @@
 	<string key="Hatchet_SocialDist_SlowBuff_Description">Sua velocidade de movimento é reduzida em {[Type_StatusEffectData.Hatchet_SocialDist_SlowBuff.MoveSpeedMod * -100]}%.</string>
 	<string key="Hatchet_3AtkFortify_Description">O dano recebido é reduzido em {[Type_StatusEffectData.Hatchet_Pass_Fortify3Atk.ABSStandard * 100]}%.</string>
 	<string key="InfectedThrow_Disease_DisplayName">Enfermidade de Arremesso Infectado</string>
-	<string key="InfectedThrow_Disease_Description">A eficiência de cura é reduzida em {[Type_StatusEffectData.Hatchet_Infected_DiseaseWeak.HealMod * -100]}% e o dano causado é reduzido em {[Type_StatusEffectData.Hatchet_Infected_DiseaseWeak.DMGStandard * -100]}.</string>
-	<string key="WarHammer_ArmorBreaker_Rend_Description">O dano recebido aumenta em {[Type_StatusEffectData.WarHammer_ArmorBreaker_Rend.ABSStandard * 100]}%.</string>
+	<string key="InfectedThrow_Disease_Description">A eficiência de cura é reduzida em {[Type_StatusEffectData.Hatchet_Infected_DiseaseWeak.HealMod * -100]}% e o dano causado é reduzido em {[Type_StatusEffectData.Hatchet_Infected_DiseaseWeak.DMGStandard * -100]}%.</string>
+	<string key="WarHammer_ArmorBreaker_Rend_Description">O dano recebido aumenta em {[Type_StatusEffectData.WarHammer_ArmorBreaker_Rend.ABSStandard * -100]}%.</string>
 	<string key="WarHammer_Gavel_Haste_Description">Sua velocidade de movimento aumenta em {[Type_StatusEffectData.WarHammer_Gavel_Haste.MoveSpeedMod * 100]}%.</string>
 	<string key="WarHammer_HasteOnDebuff_Description">Sua velocidade de movimento aumenta em {[Type_StatusEffectData.WarHammer_Pass_Haste.MoveSpeedMod * 100]}%.</string>
 	<string key="WarHammer_WreckingBall_Forify_Description">O dano recebido é reduzido em {[Type_StatusEffectData.WarHammer_WreckingBall_Fortify.ABSStandard * 100]}%.</string>

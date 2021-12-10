@@ -222,5 +222,6 @@
 	<string key="crafting_filter_placeholder">Nach Name filtern ...</string>
 	<string key="crafting_category_select_title">{type} AUSWÄHLEN</string>
 	<string key="crafting_discount_base">Grundgebühr</string>
+	<string key="ui_crafting_resource_origin_message">Hinweis: Verwendete Rohstoffe werden erst deinem Inventar und dann dem Siedlungslager entnommen.</string>
 </resources>
 

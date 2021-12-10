@@ -1673,7 +1673,7 @@
 	<string key="PerkID_Weapon_DmgBasic_Name">Enchanted</string>
 	<string key="PerkID_Weapon_DmgBasic_Description">Light and Heavy attacks deal {[GlobalAbilityTable.Global_Weapon_DmgBasic.BaseDamage * 100 * {perkMultiplier}]}% more damage.</string>
 	<string key="PerkID_WeaponMelee_DmgBack_Name">Rogue</string>
-	<string key="PerkID_WeaponMelee_DmgBack_Description">+{[GlobalAbilityTable.Global_WeaponMelee_DmgBack.CritDamage * 100 * {perkMultiplier}]}% more backstab damage.</string>
+	<string key="PerkID_WeaponMelee_DmgBack_Description">+{[GlobalAbilityTable.Global_WeaponMelee_DmgBack.HitFromBehindDamage * 100 * {perkMultiplier}]}% more backstab damage.</string>
 	<string key="PerkID_Weapon_CritChance_Name">Keen</string>
 	<string key="PerkID_Weapon_CritChance_Description">+{[GlobalAbilityTable.Global_Weapon_CritChance.CritChance * 100 * {perkMultiplier}]}% critical chance.</string>
 	<string key="PerkID_WeaponLife_HealOutgoing_Name">Blessed</string>
@@ -1797,7 +1797,7 @@
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_DMG_Name" rel_version="MorePerksV1">Trenchant Strikes</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_DMG_Description" rel_version="MorePerksV1">Fully charged heavy attacks deal {[GlobalAbilityTable.Global_Weapon_Melee_ChargedHeavy_DMG.BaseDamage * 100 * {perkMultiplier}]}% additional damage.</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Crit_Name" rel_version="MorePerksV1">Trenchant Crits</string>
-	<string key="PerkID_Weapon_Melee_ChargedHeavy_Crit_Description" rel_version="MorePerksV1">Fully charged heavy attacks deal {[GlobalAbilityTable.Global_Weapon_Melee_ChargedHeavy_Crit.BaseDamage * 100 * {perkMultiplier}]}% additional Crit damage.</string>
+	<string key="PerkID_Weapon_Melee_ChargedHeavy_Crit_Description" rel_version="MorePerksV1">Fully charged heavy attacks deal {[GlobalAbilityTable.Global_Weapon_Melee_ChargedHeavy_Crit.CritDamage * 100 * {perkMultiplier}]}% additional Crit damage.</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Rend_Name" rel_version="MorePerksV1">Trenchant Rend</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Rend_Description" rel_version="MorePerksV1">Fully charged heavy attacks apply rend for {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.BaseDuration]}s, reducing target's absorption by {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.ABSStandard * -100 * {perkMultiplier}]}%. ({[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend_Timer.BaseDuration]}s cooldown)</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Heal_Name" rel_version="MorePerksV1">Trenchant Recovery</string>

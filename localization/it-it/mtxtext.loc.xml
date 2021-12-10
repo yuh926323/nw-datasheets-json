@@ -71,7 +71,7 @@
 	<string key="ui_twitch_item" rel_version="Feature_MTX">Twitch</string>
 	<string key="ui_prime_gaming_item" rel_version="Feature_MTX">Prime Gaming</string>
 	<string key="ui_pre_order_item" rel_version="Feature_MTX">Preordina</string>
-	<string key="ui_mtx_disclaimer" rel_version="Feature_MTX">Questo oggetto è un oggetto per tutto l'account (può essere utilizzato su uno qualsiasi dei tuoi personaggi).</string>
+	<string key="ui_mtx_disclaimer" rel_version="Feature_MTX">Questo oggetto sarà disponibile per tutto l'account (può essere utilizzato su uno qualsiasi dei tuoi personaggi).</string>
 	<string key="ui_emote_description_default" rel_version="Feature_MTX">Questa emote non ha alcuna descrizione. Aggiungila!</string>
 	<string key="ui_crest_emblem_description_default" rel_version="Feature_MTX">Stemma emblema.</string>
 	<string key="ui_crest_color_description_default" rel_version="Feature_MTX">Colore dell'emblema.</string>
@@ -87,7 +87,7 @@
 	<string key="ui_item_restrictions_dyes" rel_version="Feature_MTX">Le &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;tinte&lt;/font&gt; possono essere applicate soltanto alla tua armatura. Se l'armatura viene scambiata o venduta, la tinta sarà rimossa e non restituita. Non si possono applicare tinte sulle skin.</string>
 	<string key="ui_item_restrictions_camp_skins" rel_version="Feature_Camp_Skins">Per usare le &lt;font face="lyshineui/fonts/nimbus_bold_italic.font" &gt;skin per l'accampamento&lt;/font&gt; devi aver sbloccato l'accampamento.</string>
 	<string key="ui_non_returnable" rel_version="Feature_MTX">Oggetto non rimborsabile.</string>
-	<string key="ui_order_history_dec" rel_version="Feature_MTX">Mostra i 10 sblocchi più recenti nel negozio.</string>
+	<string key="ui_order_history_dec" rel_version="Feature_MTX">Mostra gli ultimi 10 oggetti sbloccati nel negozio.</string>
 	<string key="ui_expand_bundle" rel_version="Feature_MTX">Pacchetto (fai clic per espandere)</string>
 	<string key="ui_collapse_bundle" rel_version="Feature_MTX">Pacchetto (fai clic per chiudere)</string>
 	<string key="ui_type_none" rel_version="Feature_MTX">Nessun tipo di dati</string>
@@ -150,7 +150,7 @@
 	<string key="smolderingscarlet_dye_name" rel_version="Dye_SmolderingScarlet">Scarlatto ardente</string>
 	<string key="runic_jackal_name" rel_version="Apparel_RunicJackal">Sciacallo runico</string>
 	<string key="crescent_fang_name" rel_version="Weapon_CrescentFang">Zanna a falce</string>
-	<string key="arm_flex_name" rel_version="New_World_Launch">Mostra i muscoli del braccio</string>
+	<string key="arm_flex_name" rel_version="New_World_Launch">Flessione muscoli del braccio</string>
 	<string key="sublimebone_dye_name" rel_version="MTX_October_Skins">Osso sublime</string>
 	<string key="greengrass_dye_name" rel_version="Entitlements_December">Erba verde</string>
 	<string key="Icon_Crest_Pack_Merriment_name" rel_version="New_World_Launch">Pacchetto emblema dell'allegria</string>
@@ -360,7 +360,7 @@
 	<string key="Apparel_Monster_Mummy_description" rel_version="New_World_Launch">"Non puzza molto per essere una reliquia ammuffita e conservata al chiuso per migliaia di anni."</string>
 	<string key="Apparel_Monster_Skeleton_name" rel_version="New_World_Launch">Cavaliere scheletrico</string>
 	<string key="Apparel_Monster_Skeleton_description" rel_version="New_World_Launch">Sinistro e sepolcrale, comanda eserciti di ossa.</string>
-	<string key="Emote_Whistle_name" rel_version="Emote_Whistle">Fischiare</string>
+	<string key="Emote_Whistle_name" rel_version="Emote_Whistle">Fischio</string>
 	<string key="Emote_Whistle_description" rel_version="Emote_Whistle">"Per chiamare cani, assistenti o entrambi."</string>
 	<string key="Weapon_Golden_Colt_name" rel_version="RoyalCourtSkins">Puledro d'oro</string>
 	<string key="Weapon_Golden_Colt_description" rel_version="RoyalCourtSkins">"Colpisce con la forza di un cavallo da guerra al galoppo... e in fiamme."</string>
@@ -574,5 +574,6 @@
 	<string key="reward_type_Apparelskin_Set" rel_version="New_World_Launch">Set di skin per vestiario</string>
 	<string key="reward_type_Toolskin_Set" rel_version="New_World_Launch">Set di skin per strumenti</string>
 	<string key="reward_type_Housing_Set" rel_version="New_World_Launch">Set mobilio per la casa</string>
+	<string key="ui_crestforeground_212" rel_version="Twitch_EpicStory_Skins">Uroboro</string>
 </resources>
 

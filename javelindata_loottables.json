@@ -12496,7 +12496,7 @@
         "Item6": "[LBID]DungeonResources",
         "Item7": "[LTID]AzothRoll",
         "Item8": "[LTID]VoidEssence",
-        "Item9": "[LBID]Shards"
+        "Item9": "[LBID]ChestShards"
     },
     {
         "LootTableID": "ChestLootElite_Qty",
@@ -12526,7 +12526,7 @@
         "Item6": "37000",
         "Item7": "92000",
         "Item8": "0",
-        "Item9": "95000"
+        "Item9": "98000"
     },
     {
         "LootTableID": "ChestLootEliteGemRoll",
@@ -15901,7 +15901,7 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 100000,
-        "Item1": "75000"
+        "Item1": "25000"
     },
     {
         "LootTableID": "GypsumBlue",
@@ -15948,6 +15948,28 @@
         "GSBonus": 0,
         "MaxRoll": 100000,
         "Item1": "20000"
+    },
+    {
+        "LootTableID": "GypsumGreenTable",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "GypsumGreen"
+    },
+    {
+        "LootTableID": "GypsumGreenTable_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "GypsumGreenTable_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0"
     },
     {
         "LootTableID": "CreatureLootCommonGearLeveled",
@@ -16445,7 +16467,7 @@
         "Item6": "[LTID]CreatureLootDungeonBossRestlessShores01",
         "Item7": "[LTID]GypsumBlue",
         "Item8": "[LBID]DungeonBossGear",
-        "Item9": "[LBID]Shards"
+        "Item9": "[LBID]BossShards"
     },
     {
         "LootTableID": "CreatureLootDungeonBoss_Qty",
@@ -17298,26 +17320,54 @@
         "Item1": "0"
     },
     {
+        "LootTableID": "WCGoldLockboxT1",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "IngotPreciousT1"
+    },
+    {
+        "LootTableID": "WCGoldLockboxT1_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "WCGoldLockboxT1_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0"
+    },
+    {
         "LootTableID": "HastilyWrappedPresent",
         "AND/OR": "AND",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "WCToken"
+        "Item1": "WCToken",
+        "Item2": "WCGoldLockboxT1",
+        "Item3": "[LBID]WCPatterns"
     },
     {
         "LootTableID": "HastilyWrappedPresent_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1"
     },
     {
         "LootTableID": "HastilyWrappedPresent_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 100000,
-        "Item1": "1"
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "99000"
     },
     {
         "LootTableID": "BeautifullyWrappedPresent",
@@ -17326,7 +17376,9 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "WCToken",
-        "Item2": "WCPToken"
+        "Item2": "WCPToken",
+        "Item3": "WCGoldLockboxT1",
+        "Item4": "[LBID]WCPatterns"
     },
     {
         "LootTableID": "BeautifullyWrappedPresent_Qty",
@@ -17334,15 +17386,19 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "3",
-        "Item2": "1"
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
     },
     {
         "LootTableID": "BeautifullyWrappedPresent_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 100000,
-        "Item1": "1",
-        "Item2": "95000"
+        "Item1": "0",
+        "Item2": "95000",
+        "Item3": "0",
+        "Item4": "98000"
     },
     {
         "LootTableID": "ExquisitelyWrappedPresent",
@@ -17351,7 +17407,9 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "WCToken",
-        "Item2": "WCPToken"
+        "Item2": "WCPToken",
+        "Item3": "WCGoldLockboxT1",
+        "Item4": "[LBID]WCPatterns"
     },
     {
         "LootTableID": "ExquisitelyWrappedPresent_Qty",
@@ -17359,15 +17417,19 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "5",
-        "Item2": "1"
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
     },
     {
         "LootTableID": "ExquisitelyWrappedPresent_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 100000,
-        "Item1": "1",
-        "Item2": "90000"
+        "Item1": "0",
+        "Item2": "90000",
+        "Item3": "0",
+        "Item4": "96000"
     },
     {
         "LootTableID": "ItemCastHead",
@@ -17858,24 +17920,22 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1",
+        "Item5": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapArcanaT1_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "2",
+        "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "1-2",
+        "Item5": "1"
     },
     {
         "LootTableID": "PostCapArcanaT1_Probs",
@@ -17886,8 +17946,7 @@
         "Item2": "0",
         "Item3": "0",
         "Item4": "0",
-        "Item5": "50000",
-        "Item6": "75000"
+        "Item5": "75000"
     },
     {
         "LootTableID": "PostCapArcanaT2",
@@ -17895,24 +17954,22 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1",
+        "Item5": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapArcanaT2_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "3",
+        "Item1": "2",
         "Item2": "2",
-        "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item3": "1",
+        "Item4": "2-3",
+        "Item5": "1"
     },
     {
         "LootTableID": "PostCapArcanaT2_Probs",
@@ -17923,8 +17980,7 @@
         "Item2": "0",
         "Item3": "0",
         "Item4": "0",
-        "Item5": "50000",
-        "Item6": "50000"
+        "Item5": "50000"
     },
     {
         "LootTableID": "PostCapArcanaT3",
@@ -17932,28 +17988,26 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1",
-        "Item8": "[LBID]PostCapPatterns"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1",
+        "Item6": "[LBID]PostCapPatterns",
+        "Item7": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapArcanaT3_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "4",
+        "Item1": "3",
         "Item2": "3",
-        "Item3": "3",
+        "Item3": "2",
         "Item4": "1",
-        "Item5": "2",
+        "Item5": "3-5",
         "Item6": "1",
-        "Item7": "1",
-        "Item8": "1"
+        "Item7": "1"
     },
     {
         "LootTableID": "PostCapArcanaT3_Probs",
@@ -17963,11 +18017,10 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "25000",
-        "Item6": "0",
-        "Item7": "0",
-        "Item8": "99000"
+        "Item4": "75000",
+        "Item5": "0",
+        "Item6": "99000",
+        "Item7": "0"
     },
     {
         "LootTableID": "PostCapArmoringT1",
@@ -17975,12 +18028,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1",
+        "Item5": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapArmoringT1_Qty",
@@ -17990,9 +18042,8 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "1-2",
+        "Item5": "1"
     },
     {
         "LootTableID": "PostCapArmoringT1_Probs",
@@ -18003,8 +18054,7 @@
         "Item2": "0",
         "Item3": "0",
         "Item4": "0",
-        "Item5": "50000",
-        "Item6": "75000"
+        "Item5": "75000"
     },
     {
         "LootTableID": "PostCapArmoringT2",
@@ -18012,12 +18062,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1",
+        "Item5": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapArmoringT2_Qty",
@@ -18026,10 +18075,9 @@
         "MaxRoll": 0,
         "Item1": "2",
         "Item2": "2",
-        "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item3": "1",
+        "Item4": "2-3",
+        "Item5": "1"
     },
     {
         "LootTableID": "PostCapArmoringT2_Probs",
@@ -18040,8 +18088,7 @@
         "Item2": "0",
         "Item3": "0",
         "Item4": "0",
-        "Item5": "50000",
-        "Item6": "50000"
+        "Item5": "50000"
     },
     {
         "LootTableID": "PostCapArmoringT3",
@@ -18049,14 +18096,13 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1",
-        "Item8": "[LBID]PostCapPatterns"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1",
+        "Item6": "[LBID]PostCapPatterns",
+        "Item7": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapArmoringT3_Qty",
@@ -18065,12 +18111,11 @@
         "MaxRoll": 0,
         "Item1": "3",
         "Item2": "3",
-        "Item3": "3",
+        "Item3": "2",
         "Item4": "1",
-        "Item5": "2",
+        "Item5": "3-5",
         "Item6": "1",
-        "Item7": "1",
-        "Item8": "1"
+        "Item7": "1"
     },
     {
         "LootTableID": "PostCapArmoringT3_Probs",
@@ -18080,11 +18125,10 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "25000",
-        "Item6": "0",
-        "Item7": "0",
-        "Item8": "99000"
+        "Item4": "75000",
+        "Item5": "0",
+        "Item6": "99000",
+        "Item7": "0"
     },
     {
         "LootTableID": "PostCapCookingT1",
@@ -18092,12 +18136,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapCookingT1_Qty",
@@ -18105,11 +18147,9 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "1",
-        "Item2": "1",
-        "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item2": "2",
+        "Item3": "1",
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapCookingT1_Probs",
@@ -18119,9 +18159,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapCookingT2",
@@ -18129,12 +18167,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapCookingT2_Qty",
@@ -18142,11 +18178,9 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "2",
-        "Item2": "2",
-        "Item3": "4",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item2": "4",
+        "Item3": "1",
+        "Item4": "2-3"
     },
     {
         "LootTableID": "PostCapCookingT2_Probs",
@@ -18156,9 +18190,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapCookingT3",
@@ -18166,13 +18198,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapCookingT3_Qty",
@@ -18180,12 +18210,10 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "3",
-        "Item2": "3",
-        "Item3": "6",
+        "Item2": "6",
+        "Item3": "2",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapCookingT3_Probs",
@@ -18195,10 +18223,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "25000",
-        "Item6": "0",
-        "Item7": "0"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapEngineeringT1",
@@ -18206,12 +18232,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1",
+        "Item5": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapEngineeringT1_Qty",
@@ -18221,9 +18246,8 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "1-2",
+        "Item5": "1"
     },
     {
         "LootTableID": "PostCapEngineeringT1_Probs",
@@ -18234,8 +18258,7 @@
         "Item2": "0",
         "Item3": "0",
         "Item4": "0",
-        "Item5": "50000",
-        "Item6": "75000"
+        "Item5": "75000"
     },
     {
         "LootTableID": "PostCapEngineeringT2",
@@ -18243,12 +18266,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1",
+        "Item5": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapEngineeringT2_Qty",
@@ -18257,10 +18279,9 @@
         "MaxRoll": 0,
         "Item1": "2",
         "Item2": "2",
-        "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item3": "1",
+        "Item4": "2-3",
+        "Item5": "1"
     },
     {
         "LootTableID": "PostCapEngineeringT2_Probs",
@@ -18271,8 +18292,7 @@
         "Item2": "0",
         "Item3": "0",
         "Item4": "0",
-        "Item5": "50000",
-        "Item6": "50000"
+        "Item5": "50000"
     },
     {
         "LootTableID": "PostCapEngineeringT3",
@@ -18280,14 +18300,13 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1",
-        "Item8": "[LBID]PostCapPatterns"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1",
+        "Item6": "[LBID]PostCapPatterns",
+        "Item7": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapEngineeringT3_Qty",
@@ -18296,12 +18315,11 @@
         "MaxRoll": 0,
         "Item1": "3",
         "Item2": "3",
-        "Item3": "3",
+        "Item3": "2",
         "Item4": "1",
-        "Item5": "2",
+        "Item5": "3-5",
         "Item6": "1",
-        "Item7": "1",
-        "Item8": "1"
+        "Item7": "1"
     },
     {
         "LootTableID": "PostCapEngineeringT3_Probs",
@@ -18311,11 +18329,10 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "25000",
-        "Item6": "0",
-        "Item7": "0",
-        "Item8": "99000"
+        "Item4": "75000",
+        "Item5": "0",
+        "Item6": "99000",
+        "Item7": "0"
     },
     {
         "LootTableID": "PostCapFishingT1",
@@ -18323,11 +18340,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapFishingT1_Qty",
@@ -18337,8 +18353,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapFishingT1_Probs",
@@ -18348,8 +18363,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapFishingT2",
@@ -18357,12 +18371,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapFishingT2_Qty",
@@ -18371,10 +18383,8 @@
         "MaxRoll": 0,
         "Item1": "2",
         "Item2": "2",
-        "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item3": "1",
+        "Item4": "2-3"
     },
     {
         "LootTableID": "PostCapFishingT2_Probs",
@@ -18384,9 +18394,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "0",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapFishingT3",
@@ -18394,13 +18402,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapFishingT3_Qty",
@@ -18409,11 +18415,9 @@
         "MaxRoll": 0,
         "Item1": "3",
         "Item2": "3",
-        "Item3": "3",
+        "Item3": "2",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapFishingT3_Probs",
@@ -18423,10 +18427,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "0",
-        "Item6": "0",
-        "Item7": "0"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapFurnishingT1",
@@ -18434,11 +18436,9 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapFurnishingT1_Qty",
@@ -18447,9 +18447,7 @@
         "MaxRoll": 0,
         "Item1": "1",
         "Item2": "1",
-        "Item3": "1",
-        "Item4": "1",
-        "Item5": "1"
+        "Item3": "1-2"
     },
     {
         "LootTableID": "PostCapFurnishingT1_Probs",
@@ -18458,9 +18456,7 @@
         "MaxRoll": 100000,
         "Item1": "0",
         "Item2": "0",
-        "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000"
+        "Item3": "0"
     },
     {
         "LootTableID": "PostCapFurnishingT2",
@@ -18468,13 +18464,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapFurnishingItems",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapFurnishingItems",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapFurnishingT2_Qty",
@@ -18483,11 +18477,9 @@
         "MaxRoll": 0,
         "Item1": "2",
         "Item2": "2",
-        "Item3": "2",
+        "Item3": "1",
         "Item4": "1",
-        "Item5": "1",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "1"
     },
     {
         "LootTableID": "PostCapFurnishingT2_Probs",
@@ -18498,9 +18490,7 @@
         "Item2": "0",
         "Item3": "0",
         "Item4": "0",
-        "Item5": "0",
-        "Item6": "0",
-        "Item7": "50000"
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapFurnishingT3",
@@ -18508,14 +18498,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "[LBID]PostCapFurnishingItems",
-        "Item8": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapFurnishingT3_Qty",
@@ -18524,12 +18511,9 @@
         "MaxRoll": 0,
         "Item1": "3",
         "Item2": "3",
-        "Item3": "3",
-        "Item4": "1",
-        "Item5": "2",
-        "Item6": "1-2",
-        "Item7": "1",
-        "Item8": "1"
+        "Item3": "2",
+        "Item4": "1-2",
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapFurnishingT3_Probs",
@@ -18539,11 +18523,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "0",
-        "Item6": "0",
-        "Item7": "75000",
-        "Item8": "0"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapHarvestingT1",
@@ -18551,11 +18532,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapHarvestingT1_Qty",
@@ -18565,8 +18545,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapHarvestingT1_Probs",
@@ -18576,8 +18555,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapHarvestingT2",
@@ -18585,12 +18563,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapHarvestingT2_Qty",
@@ -18600,9 +18576,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "2-3"
     },
     {
         "LootTableID": "PostCapHarvestingT2_Probs",
@@ -18612,9 +18586,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "0",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapHarvestingT3",
@@ -18622,13 +18594,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapHarvestingT3_Qty",
@@ -18639,9 +18609,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapHarvestingT3_Probs",
@@ -18651,10 +18619,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "0",
-        "Item6": "0",
-        "Item7": "0"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapJewelcraftingT1",
@@ -18662,12 +18628,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapJewelcraftingT1_Qty",
@@ -18677,9 +18641,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapJewelcraftingT1_Probs",
@@ -18689,9 +18651,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapJewelcraftingT2",
@@ -18699,12 +18659,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapJewelcraftingT2_Qty",
@@ -18713,10 +18671,8 @@
         "MaxRoll": 0,
         "Item1": "2",
         "Item2": "2",
-        "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item3": "1",
+        "Item4": "2-3"
     },
     {
         "LootTableID": "PostCapJewelcraftingT2_Probs",
@@ -18726,9 +18682,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapJewelcraftingT3",
@@ -18736,13 +18690,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapJewelcraftingT3_Qty",
@@ -18751,11 +18703,9 @@
         "MaxRoll": 0,
         "Item1": "3",
         "Item2": "3",
-        "Item3": "3",
+        "Item3": "2",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapJewelcraftingT3_Probs",
@@ -18765,10 +18715,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "25000",
-        "Item6": "0",
-        "Item7": "0"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapLeatherworkingT1",
@@ -18776,11 +18724,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapLeatherworkingT1_Qty",
@@ -18790,8 +18737,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapLeatherworkingT1_Probs",
@@ -18801,8 +18747,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapLeatherworkingT2",
@@ -18810,12 +18755,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapLeatherworkingT2_Qty",
@@ -18825,9 +18768,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapLeatherworkingT2_Probs",
@@ -18837,9 +18778,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapLeatherworkingT3",
@@ -18847,13 +18786,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapLeatherworkingT3_Qty",
@@ -18864,9 +18801,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapLeatherworkingT3_Probs",
@@ -18876,10 +18811,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000",
-        "Item6": "0",
-        "Item7": "0"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapLoggingT1",
@@ -18887,11 +18820,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapLoggingT1_Qty",
@@ -18901,8 +18833,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapLoggingT1_Probs",
@@ -18912,8 +18843,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapLoggingT2",
@@ -18921,12 +18851,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapLoggingT2_Qty",
@@ -18936,9 +18864,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "2-3"
     },
     {
         "LootTableID": "PostCapLoggingT2_Probs",
@@ -18948,9 +18874,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapLoggingT3",
@@ -18958,13 +18882,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapLoggingT3_Qty",
@@ -18975,9 +18897,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapLoggingT3_Probs",
@@ -18987,10 +18907,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000",
-        "Item6": "0",
-        "Item7": "0"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapMiningT1",
@@ -18998,11 +18916,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapMiningT1_Qty",
@@ -19012,8 +18929,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapMiningT1_Probs",
@@ -19023,8 +18939,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapMiningT2",
@@ -19032,12 +18947,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapMiningT2_Qty",
@@ -19047,9 +18960,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "2-3"
     },
     {
         "LootTableID": "PostCapMiningT2_Probs",
@@ -19059,9 +18970,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapMiningT3",
@@ -19069,13 +18978,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapMiningT3_Qty",
@@ -19086,9 +18993,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapMiningT3_Probs",
@@ -19098,10 +19003,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000",
-        "Item6": "0",
-        "Item7": "0"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapSkinningT1",
@@ -19109,12 +19012,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapSkinningT1_Qty",
@@ -19124,9 +19025,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapSkinningT1_Probs",
@@ -19136,9 +19035,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000",
-        "Item6": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapSkinningT2",
@@ -19146,12 +19043,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapSkinningT2_Qty",
@@ -19161,9 +19056,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "2-3"
     },
     {
         "LootTableID": "PostCapSkinningT2_Probs",
@@ -19173,9 +19066,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapSkinningT3",
@@ -19183,13 +19074,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapSkinningT3_Qty",
@@ -19200,9 +19089,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapSkinningT3_Probs",
@@ -19212,10 +19099,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "75000",
-        "Item6": "0",
-        "Item7": "50000"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapSmeltingT1",
@@ -19223,12 +19108,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapSmeltingT1_Qty",
@@ -19238,9 +19121,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapSmeltingT1_Probs",
@@ -19250,9 +19131,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapSmeltingT2",
@@ -19260,12 +19139,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapSmeltingT2_Qty",
@@ -19275,9 +19152,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "2-3"
     },
     {
         "LootTableID": "PostCapSmeltingT2_Probs",
@@ -19287,9 +19162,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapSmeltingT3",
@@ -19297,13 +19170,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapSmeltingT3_Qty",
@@ -19314,9 +19185,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapSmeltingT3_Probs",
@@ -19326,10 +19195,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "25000",
-        "Item6": "0",
-        "Item7": "0"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapStonecuttingT1",
@@ -19337,12 +19204,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapStonecuttingT1_Qty",
@@ -19352,9 +19217,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapStonecuttingT1_Probs",
@@ -19364,9 +19227,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapStonecuttingT2",
@@ -19374,12 +19235,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapStonecuttingT2_Qty",
@@ -19389,9 +19248,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "2-3"
     },
     {
         "LootTableID": "PostCapStonecuttingT2_Probs",
@@ -19401,9 +19258,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapStonecuttingT3",
@@ -19411,13 +19266,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapStonecuttingT3_Qty",
@@ -19428,9 +19281,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapStonecuttingT3_Probs",
@@ -19440,10 +19291,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "25000",
-        "Item6": "0",
-        "Item7": "0"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapWeaponsmithingT1",
@@ -19451,12 +19300,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1",
+        "Item5": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapWeaponsmithingT1_Qty",
@@ -19466,9 +19314,8 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "1-2",
+        "Item5": "1"
     },
     {
         "LootTableID": "PostCapWeaponsmithingT1_Probs",
@@ -19479,8 +19326,7 @@
         "Item2": "0",
         "Item3": "0",
         "Item4": "0",
-        "Item5": "50000",
-        "Item6": "75000"
+        "Item5": "75000"
     },
     {
         "LootTableID": "PostCapWeaponsmithingT2",
@@ -19488,12 +19334,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1",
+        "Item5": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapWeaponsmithingT2_Qty",
@@ -19502,10 +19347,9 @@
         "MaxRoll": 0,
         "Item1": "2",
         "Item2": "2",
-        "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item3": "1",
+        "Item4": "2-3",
+        "Item5": "1"
     },
     {
         "LootTableID": "PostCapWeaponsmithingT2_Probs",
@@ -19516,8 +19360,7 @@
         "Item2": "0",
         "Item3": "0",
         "Item4": "0",
-        "Item5": "50000",
-        "Item6": "50000"
+        "Item5": "50000"
     },
     {
         "LootTableID": "PostCapWeaponsmithingT3",
@@ -19525,14 +19368,13 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1",
-        "Item8": "[LBID]PostCapPatterns"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1",
+        "Item6": "[LBID]PostCapPatterns",
+        "Item7": "[LBID]PostCapShards"
     },
     {
         "LootTableID": "PostCapWeaponsmithingT3_Qty",
@@ -19541,12 +19383,11 @@
         "MaxRoll": 0,
         "Item1": "3",
         "Item2": "3",
-        "Item3": "3",
+        "Item3": "2",
         "Item4": "1",
-        "Item5": "2",
+        "Item5": "3-5",
         "Item6": "1",
-        "Item7": "1",
-        "Item8": "1"
+        "Item7": "1"
     },
     {
         "LootTableID": "PostCapWeaponsmithingT3_Probs",
@@ -19556,11 +19397,10 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "25000",
-        "Item6": "0",
-        "Item7": "0",
-        "Item8": "99000"
+        "Item4": "75000",
+        "Item5": "0",
+        "Item6": "99000",
+        "Item7": "0"
     },
     {
         "LootTableID": "PostCapWeavingT1",
@@ -19568,12 +19408,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapWeavingT1_Qty",
@@ -19583,9 +19421,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapWeavingT1_Probs",
@@ -19595,9 +19431,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapWeavingT2",
@@ -19605,12 +19439,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapWeavingT2_Qty",
@@ -19620,9 +19452,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "2-3"
     },
     {
         "LootTableID": "PostCapWeavingT2_Probs",
@@ -19632,9 +19462,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapWeavingT3",
@@ -19642,13 +19470,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapWeavingT3_Qty",
@@ -19659,9 +19485,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapWeavingT3_Probs",
@@ -19672,9 +19496,7 @@
         "Item2": "0",
         "Item3": "0",
         "Item4": "0",
-        "Item5": "25000",
-        "Item6": "0",
-        "Item7": "0"
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapWoodworkingT1",
@@ -19682,12 +19504,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapWoodworkingT1_Qty",
@@ -19697,9 +19517,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapWoodworkingT1_Probs",
@@ -19709,9 +19527,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "75000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapWoodworkingT2",
@@ -19719,12 +19535,10 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapWoodworkingT2_Qty",
@@ -19734,9 +19548,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "1",
-        "Item5": "1",
-        "Item6": "1"
+        "Item4": "2-3"
     },
     {
         "LootTableID": "PostCapWoodworkingT2_Probs",
@@ -19746,9 +19558,7 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "50000",
-        "Item6": "50000"
+        "Item4": "0"
     },
     {
         "LootTableID": "PostCapWoodworkingT3",
@@ -19756,13 +19566,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]PostCapAttributeItems",
-        "Item2": "[LBID]PostCapPerkItems",
-        "Item3": "[LBID]PostCapIngredients",
-        "Item4": "[LTID]PostCapGypsum",
-        "Item5": "[LBID]PostCapResources",
-        "Item6": "[LBID]PostCapRecipes",
-        "Item7": "AzureVialT1"
+        "Item1": "[LBID]PostCapPerkItems",
+        "Item2": "[LBID]PostCapIngredients",
+        "Item3": "[LBID]PostCapResources",
+        "Item4": "[LBID]PostCapRecipes",
+        "Item5": "AzureVialT1"
     },
     {
         "LootTableID": "PostCapWoodworkingT3_Qty",
@@ -19773,9 +19581,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "2",
-        "Item6": "1",
-        "Item7": "1"
+        "Item5": "3-5"
     },
     {
         "LootTableID": "PostCapWoodworkingT3_Probs",
@@ -19785,10 +19591,8 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
-        "Item5": "25000",
-        "Item6": "0",
-        "Item7": "0"
+        "Item4": "75000",
+        "Item5": "0"
     },
     {
         "LootTableID": "PostCapGypsum",
@@ -19813,14 +19617,38 @@
         "Item1": "0"
     },
     {
+        "LootTableID": "OutpostRushReward",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "OutpostRushRewardL60",
+        "Item2": "GypsumRed"
+    },
+    {
+        "LootTableID": "OutpostRushReward_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1"
+    },
+    {
+        "LootTableID": "OutpostRushReward_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "0"
+    },
+    {
         "LootTableID": "OutpostRushRewardChest",
         "AND/OR": "AND",
         "HWMMult": 10,
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "[LTID]OutpostRushRewardChestRoll",
-        "Item2": "[LTID]OutpostRushGearRoll",
-        "Item3": "[LTID]ORGypsum"
+        "Item2": "[LTID]OutpostRushGearRoll"
     },
     {
         "LootTableID": "OutpostRushRewardChest_Qty",
@@ -19828,8 +19656,7 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "3",
-        "Item2": "1",
-        "Item3": "1"
+        "Item2": "1"
     },
     {
         "LootTableID": "OutpostRushRewardChest_Probs",
@@ -19837,30 +19664,7 @@
         "GSBonus": 0,
         "MaxRoll": 100000,
         "Item1": "0",
-        "Item2": "97250",
-        "Item3": "0"
-    },
-    {
-        "LootTableID": "ORGypsum",
-        "AND/OR": "AND",
-        "HWMMult": 10,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "[LBID]GypsumDrops"
-    },
-    {
-        "LootTableID": "ORGypsum_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "1"
-    },
-    {
-        "LootTableID": "ORGypsum_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 100000,
-        "Item1": "0"
+        "Item2": "97250"
     },
     {
         "LootTableID": "OutpostRushGearRoll",
@@ -22802,21 +22606,24 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]DarknessMinor1Containers60"
+        "Item1": "[LBID]DarknessMinor1Containers60",
+        "Item2": "GypsumPurple"
     },
     {
         "LootTableID": "DarknessMinor1EventLoot60_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "DarknessMinor1EventLoot60_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "0"
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "50000"
     },
     {
         "LootTableID": "DarknessMinor2EventLoot60",
@@ -22824,21 +22631,24 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]DarknessMinor2Containers60"
+        "Item1": "[LBID]DarknessMinor2Containers60",
+        "Item2": "GypsumPurple"
     },
     {
         "LootTableID": "DarknessMinor2EventLoot60_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "DarknessMinor2EventLoot60_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "0"
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "50000"
     },
     {
         "LootTableID": "DarknessMajor1EventLoot60",
@@ -22846,21 +22656,24 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]DarknessMajor1Containers60"
+        "Item1": "[LBID]DarknessMajor1Containers60",
+        "Item2": "GypsumPurple"
     },
     {
         "LootTableID": "DarknessMajor1EventLoot60_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "DarknessMajor1EventLoot60_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "0"
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "DarknessMajor2EventLoot60",
@@ -22868,21 +22681,24 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]DarknessMajor2Containers60"
+        "Item1": "[LBID]DarknessMajor2Containers60",
+        "Item2": "GypsumPurple"
     },
     {
         "LootTableID": "DarknessMajor2EventLoot60_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "DarknessMajor2EventLoot60_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "0"
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "DarknessMajor2EventLoot65",
@@ -22890,21 +22706,24 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]DarknessMajor2Containers65"
+        "Item1": "[LBID]DarknessMajor2Containers65",
+        "Item2": "GypsumPurple"
     },
     {
         "LootTableID": "DarknessMajor2EventLoot65_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "DarknessMajor2EventLoot65_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "0"
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "DarknessFragments",
@@ -23704,113 +23523,128 @@
     },
     {
         "LootTableID": "AwardCorruptedEvent",
-        "AND/OR": "OR",
+        "AND/OR": "AND",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]CorruptedContainers"
+        "Item1": "[LBID]CorruptedContainers",
+        "Item2": "GypsumOrange"
     },
     {
         "LootTableID": "AwardCorruptedEvent_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "AwardCorruptedEvent_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "AwardAncientEvent",
-        "AND/OR": "OR",
+        "AND/OR": "AND",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]AncientContainers"
+        "Item1": "[LBID]AncientContainers",
+        "Item2": "GypsumOrange"
     },
     {
         "LootTableID": "AwardAncientEvent_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "AwardAncientEvent_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "AwardLostEvent",
-        "AND/OR": "OR",
+        "AND/OR": "AND",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]LostContainers"
+        "Item1": "[LBID]LostContainers",
+        "Item2": "GypsumOrange"
     },
     {
         "LootTableID": "AwardLostEvent_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "AwardLostEvent_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "AwardAngryEarthEvent",
-        "AND/OR": "OR",
+        "AND/OR": "AND",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]AngryEarthContainers"
+        "Item1": "[LBID]AngryEarthContainers",
+        "Item2": "GypsumOrange"
     },
     {
         "LootTableID": "AwardAngryEarthEvent_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "AwardAngryEarthEvent_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "AwardSwampBeastEvent",
-        "AND/OR": "OR",
+        "AND/OR": "AND",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]SwampBeastContainers"
+        "Item1": "[LBID]SwampBeastContainers",
+        "Item2": "GypsumOrange"
     },
     {
         "LootTableID": "AwardSwampBeastEvent_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "AwardSwampBeastEvent_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "WarEvent",
@@ -30004,69 +29838,101 @@
     },
     {
         "LootTableID": "WinterConv_Settlement_Tree_T1",
-        "AND/OR": "OR",
+        "AND/OR": "AND",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "WCContainer_HastilyWrappedPresent"
+        "Item1": "WCContainer_HastilyWrappedPresent",
+        "Item2": "[LTID]GypsumWhiteTable"
     },
     {
         "LootTableID": "WinterConv_Settlement_Tree_T1_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "WinterConv_Settlement_Tree_T1_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "WinterConv_Settlement_Tree_T2",
-        "AND/OR": "OR",
+        "AND/OR": "AND",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "WCContainer_BeautifullyWrappedPresent"
+        "Item1": "WCContainer_BeautifullyWrappedPresent",
+        "Item2": "[LTID]GypsumWhiteTable"
     },
     {
         "LootTableID": "WinterConv_Settlement_Tree_T2_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "WinterConv_Settlement_Tree_T2_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "WinterConv_Settlement_Tree_T3",
-        "AND/OR": "OR",
+        "AND/OR": "AND",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "WCContainer_ExquisitelyWrappedPresent"
+        "Item1": "WCContainer_ExquisitelyWrappedPresent",
+        "Item2": "[LTID]GypsumWhiteTable"
     },
     {
         "LootTableID": "WinterConv_Settlement_Tree_T3_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "WinterConv_Settlement_Tree_T3_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
+    },
+    {
+        "LootTableID": "GypsumWhiteTable",
+        "AND/OR": "AND",
+        "Conditions": "Level",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "GypsumWhite"
+    },
+    {
+        "LootTableID": "GypsumWhiteTable_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "GypsumWhiteTable_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "60"
     },
     {
         "LootTableID": "WinterConv_Village_GiftBag",

@@ -6,7 +6,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapArcanaT1",
         "SubReward2": "RewardPostCapArcanaT2",
-        "Reward": "RewardPostCapArcanaT3"
+        "Reward": "RewardPostCapArcanaT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Armoring_PostCap",
@@ -15,7 +18,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapArmoringT1",
         "SubReward2": "RewardPostCapArmoringT2",
-        "Reward": "RewardPostCapArmoringT3"
+        "Reward": "RewardPostCapArmoringT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Cooking_PostCap",
@@ -24,7 +30,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapCookingT1",
         "SubReward2": "RewardPostCapCookingT2",
-        "Reward": "RewardPostCapCookingT3"
+        "Reward": "RewardPostCapCookingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Engineering_PostCap",
@@ -33,7 +42,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapEngineeringT1",
         "SubReward2": "RewardPostCapEngineeringT2",
-        "Reward": "RewardPostCapEngineeringT3"
+        "Reward": "RewardPostCapEngineeringT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Fishing_PostCap",
@@ -42,7 +54,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapFishingT1",
         "SubReward2": "RewardPostCapFishingT2",
-        "Reward": "RewardPostCapFishingT3"
+        "Reward": "RewardPostCapFishingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Furnishing_PostCap",
@@ -51,7 +66,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapFurnishingT1",
         "SubReward2": "RewardPostCapFurnishingT2",
-        "Reward": "RewardPostCapFurnishingT3"
+        "Reward": "RewardPostCapFurnishingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Harvesting_PostCap",
@@ -60,7 +78,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapHarvestingT1",
         "SubReward2": "RewardPostCapHarvestingT2",
-        "Reward": "RewardPostCapHarvestingT3"
+        "Reward": "RewardPostCapHarvestingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Jewelcrafting_PostCap",
@@ -69,7 +90,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapJewelcraftingT1",
         "SubReward2": "RewardPostCapJewelcraftingT2",
-        "Reward": "RewardPostCapJewelcraftingT3"
+        "Reward": "RewardPostCapJewelcraftingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Leatherworking_PostCap",
@@ -78,7 +102,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapLeatherworkingT1",
         "SubReward2": "RewardPostCapLeatherworkingT2",
-        "Reward": "RewardPostCapLeatherworkingT3"
+        "Reward": "RewardPostCapLeatherworkingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Logging_PostCap",
@@ -87,7 +114,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapLoggingT1",
         "SubReward2": "RewardPostCapLoggingT2",
-        "Reward": "RewardPostCapLoggingT3"
+        "Reward": "RewardPostCapLoggingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Mining_PostCap",
@@ -96,7 +126,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapMiningT1",
         "SubReward2": "RewardPostCapMiningT2",
-        "Reward": "RewardPostCapMiningT3"
+        "Reward": "RewardPostCapMiningT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Skinning_PostCap",
@@ -105,7 +138,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapSkinningT1",
         "SubReward2": "RewardPostCapSkinningT2",
-        "Reward": "RewardPostCapSkinningT3"
+        "Reward": "RewardPostCapSkinningT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Smelting_PostCap",
@@ -114,7 +150,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapSmeltingT1",
         "SubReward2": "RewardPostCapSmeltingT2",
-        "Reward": "RewardPostCapSmeltingT3"
+        "Reward": "RewardPostCapSmeltingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Stonecutting_PostCap",
@@ -123,7 +162,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapStonecuttingT1",
         "SubReward2": "RewardPostCapStonecuttingT2",
-        "Reward": "RewardPostCapStonecuttingT3"
+        "Reward": "RewardPostCapStonecuttingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Weaponsmithing_PostCap",
@@ -132,7 +174,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapWeaponsmithingT1",
         "SubReward2": "RewardPostCapWeaponsmithingT2",
-        "Reward": "RewardPostCapWeaponsmithingT3"
+        "Reward": "RewardPostCapWeaponsmithingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Weaving_PostCap",
@@ -141,7 +186,10 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapWeavingT1",
         "SubReward2": "RewardPostCapWeavingT2",
-        "Reward": "RewardPostCapWeavingT3"
+        "Reward": "RewardPostCapWeavingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     },
     {
         "TradeSkillType": "Woodworking_PostCap",
@@ -150,6 +198,9 @@
         "SubRewardPerc2": 0.6600000262260437,
         "SubReward1": "RewardPostCapWoodworkingT1",
         "SubReward2": "RewardPostCapWoodworkingT2",
-        "Reward": "RewardPostCapWoodworkingT3"
+        "Reward": "RewardPostCapWoodworkingT3",
+        "GameEvent1": "GypsumGreenEvent",
+        "GameEvent2": "GypsumGreenEvent",
+        "GameEvent": "GypsumGreenEvent"
     }
 ]

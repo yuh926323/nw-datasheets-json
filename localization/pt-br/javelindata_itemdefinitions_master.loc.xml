@@ -8,6 +8,7 @@
 	<string key="GypsumYellow_MasterName">Gipsita de Topázio</string>
 	<string key="GypsumOrange_MasterName">Gipsita de Citrino</string>
 	<string key="GypsumPurple_MasterName">Gipsita de Ametista</string>
+	<string key="GypsumWhite_MasterName"/>
 	<string key="GypsumOrb_MasterName">Orbe de Gipsita</string>
 	<string key="GypsumRed_Description">Um mineral macio, fácil de esculpir. Refine em um Forno de Gipsita para transformar em um Orbe de Gipsita.</string>
 	<string key="GypsumBlue_Description">Um mineral macio, fácil de esculpir. Refine em um Forno de Gipsita para transformar em um Orbe de Gipsita.</string>
@@ -16,6 +17,7 @@
 	<string key="GypsumYellow_Description">Um mineral macio, fácil de esculpir. Refine em um Forno de Gipsita para transformar em um Orbe de Gipsita.</string>
 	<string key="GypsumOrange_Description">Um mineral macio, fácil de esculpir. Refine em um Forno de Gipsita para transformar em um Orbe de Gipsita.</string>
 	<string key="GypsumPurple_Description">Um mineral macio, fácil de esculpir. Refine em um Forno de Gipsita para transformar em um Orbe de Gipsita.</string>
+	<string key="GypsumWhite_Description">Um mineral macio, fácil de esculpir. Refine em um Forno de Gipsita para transformar em um Orbe de Gipsita.</string>
 	<string key="GypsumOrb_Description">Um orbe liso de Gipsita. Use para esculpir um Molde de Item em um Forno de Gipsita.</string>
 	<string key="CastGypsum_Head_MasterName">Molde de Gipsita para Proteção de Cabeça</string>
 	<string key="CastGypsum_Chest_MasterName">Molde de Gipsita para Peitoral</string>
@@ -57,8 +59,8 @@
 	<string key="CastGypsum_Shield_Description">Um Escudo feito de Gipsita. Quebre-o para ver o que tem dentro!</string>
 	<string key="CastGypsum_Spear_Description">Uma Lança feita de Gipsita. Quebre-o para ver o que tem dentro!</string>
 	<string key="CastGypsum_Ring_Description">Um Anel feito de Gipsita. Quebre-o para ver o que tem dentro!</string>
-	<string key="CastGypsum_Amulet_Description">Um Amuleto feito de Gipsita. Quebre-o para ver o que tem dentro!</string>
-	<string key="CastGypsum_Earring_Description">Um Brinco feito de Gipsita. Quebre-o para ver o que tem dentro!</string>
+	<string key="CastGypsum_Amulet_Description"> Quebre-o para ver o que tem dentro!</string>
+	<string key="CastGypsum_Earring_Description"> Quebre-o para ver o que tem dentro!</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_Description" comment="NA-Basic">Um diagrama que ensina como confeccionar uma peça de mobília. Sucateie-o para aprender a receita.</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_MasterName" comment="NA-Basic">Diagrama: Gaveteiro Apotecário Baixo</string>
 	<string key="Schematic_House_HousingItem_Appr_Winecask_Indoor_Description" comment="NA-Basic">Um diagrama que ensina como confeccionar uma peça de mobília. Sucateie-o para aprender a receita.</string>
@@ -1453,6 +1455,14 @@
 	<string key="1128_Sword_Description">Uma lâmina robusta, cruelmente afiada.</string>
 	<string key="1130_SensouNoKo">Sensou no Ko</string>
 	<string key="1130_SensouNoKo_Description">O fio reluzente desta arma brilha com perversidade. Os padrões oleosos da lâmina revelam o que parece ser milhares de rostos, gritando em agonia.</string>
+	<string key="1132_Peacemaker">Bacamarte do Vovô, o “Pacificador”</string>
+	<string key="1132_Peacemaker_Description">A famosa solução da família Gingham para problemas de fronteira.</string>
+	<string key="1132_Stock">Coronha do Bacamarte do Vovô</string>
+	<string key="1132_Stock_Description">Suave com o tempo e o uso, com marcas de queimaduras de pólvora.</string>
+	<string key="1132_Mechanism">Mecanismo do Bacamarte do Vovô</string>
+	<string key="1132_Mechanism_Description">Simples, oleado e altamente eficaz.</string>
+	<string key="1132_Barrel">Cano do Bacamarte do Vovô</string>
+	<string key="1132_Barrel_Description">Um cano largo e liso, antigo, mas bem-cuidado.</string>
 	<string key="1130_SensouNoKo2">Sensou no Ko</string>
 	<string key="1130_SensouNoKo2_Description">Esta lâmina doentia é cruelmente afiada. Você se sente forte ao levantar a obra-prima.</string>
 	<string key="1201_0104_ShipsFlag_Description">Uma bandeira rasgada de um naufrágio esquecido [Item de Missão]</string>
@@ -9841,7 +9851,7 @@
 	<string key="2hWarhammerWavebornT5_MasterName">Martelo de Guerra Nascido na Onda</string>
 	<string key="2hWarhammerWraithHunterT4_Description">“Espectros. Aparições. Demônios. Vou exterminar todos, seja qual for a forma deles.”</string>
 	<string key="2hWarhammerWraithHunterT4_MasterName">Martelo de Guerra de Caçador de Espectros</string>
-	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">Padrão: Machadão Encharcado</string>
+	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">Leve este padrão para uma forja para confeccionar um item com uma pontuação de equipamento de 600 e uma aparência única.</string>
 	<string key="2Sealed_DocumentsBrightwood_Description">Item de Guerra de Facções</string>
 	<string key="2Sealed_DocumentsBrightwood_Mastername">Documentos Selados de Bosque Reluzente</string>
 	<string key="2Secret_OrdersBrightwood_Description">Item de Guerra de Facções</string>
@@ -10480,239 +10490,239 @@
 	<string key="ArrowT3_MasterName">Flecha de Aço</string>
 	<string key="ArrowT4_MasterName">Flecha de Estelaço</string>
 	<string key="ArrowT5_MasterName">Flecha de Oricalco</string>
-	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Couraça de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação da Couraça de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Couraça de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação da Couraça de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Couraça de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Couraça de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação da Couraça de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Couraça de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação da Couraça de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Couraça de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Couraça de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação da Couraça de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Couraça de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação da Couraça de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Couraça de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Couraça de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação da Couraça de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Couraça de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação da Couraça de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Couraça de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Botas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Botas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Botas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Botas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Botas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Botas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Botas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Botas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Botas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Botas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Botas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Botas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Botas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Botas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Botas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Botas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Botas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Botas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Botas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Botas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Guantes de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação dos Guantes de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Guantes de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação dos Guantes de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Guantes de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Guantes de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação dos Guantes de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Guantes de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação dos Guantes de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Guantes de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Guantes de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação dos Guantes de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Guantes de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação dos Guantes de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Guantes de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Guantes de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação dos Guantes de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Guantes de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação dos Guantes de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Guantes de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Galhadas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Galhadas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Galhadas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Galhadas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Galhadas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Galhadas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Galhadas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Galhadas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Galhadas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Galhadas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Galhadas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Galhadas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Galhadas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Galhadas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Galhadas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Galhadas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Galhadas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Galhadas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Galhadas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Galhadas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Grevas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Grevas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Grevas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Grevas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Grevas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Grevas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Grevas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Grevas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Grevas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Grevas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Grevas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Grevas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Grevas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Grevas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Grevas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Grevas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Grevas de Regente de Carvalho.</string>
+	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Grevas de Regente de Carvalho na estação de confecção adequada. Ele é consumido no processo de criação das Grevas de Regente de Carvalho. </string>
 	<string key="Artifact_WCArmorHeavyLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Grevas de Regente de Carvalho</string>
-	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Túnica de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Túnica de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Túnica de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Túnica de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Túnica de Regente Floral</string>
-	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Túnica de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Túnica de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Túnica de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Túnica de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Túnica de Regente Floral</string>
-	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Túnica de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Túnica de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Túnica de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Túnica de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Túnica de Regente Floral</string>
-	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Túnica de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Túnica de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Túnica de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Túnica de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Túnica de Regente Floral</string>
-	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mocassins de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação dos Mocassins de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mocassins de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação dos Mocassins de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Mocassins de Regente Floral</string>
-	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mocassins de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação dos Mocassins de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mocassins de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação dos Mocassins de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Mocassins de Regente Floral</string>
-	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mocassins de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação dos Mocassins de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mocassins de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação dos Mocassins de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Mocassins de Regente Floral</string>
-	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mocassins de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação dos Mocassins de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mocassins de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação dos Mocassins de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Mocassins de Regente Floral</string>
-	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Luvas de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Luvas de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Luvas de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Luvas de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Luvas de Regente Floral</string>
-	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Luvas de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Luvas de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Luvas de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Luvas de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Luvas de Regente Floral</string>
-	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Luvas de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Luvas de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Luvas de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Luvas de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Luvas de Regente Floral</string>
-	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Luvas de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Luvas de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Luvas de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Luvas de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Luvas de Regente Floral</string>
-	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Coroa de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Coroa de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Coroa de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Coroa de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Coroa de Regente Floral</string>
-	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Coroa de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Coroa de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Coroa de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Coroa de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Coroa de Regente Floral</string>
-	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Coroa de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Coroa de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Coroa de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Coroa de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Coroa de Regente Floral</string>
-	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Coroa de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Coroa de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Coroa de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação da Coroa de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Coroa de Regente Floral</string>
-	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Calças de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Calças de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Calças de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Calças de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Calças de Regente Floral</string>
-	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Calças de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Calças de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Calças de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Calças de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Calças de Regente Floral</string>
-	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Calças de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Calças de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Calças de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Calças de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Calças de Regente Floral</string>
-	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Calças de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Calças de Regente Floral.</string>
+	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Calças de Regente Floral na estação de confecção adequada. Ele é consumido no processo de criação das Calças de Regente Floral. </string>
 	<string key="Artifact_WCArmorLightLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Calças de Regente Floral</string>
-	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Robe de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Robe de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Robe de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Robe de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Robe de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Robe de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Robe de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Robe de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Robe de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Robe de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Robe de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Robe de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Robe de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Robe de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Robe de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Robe de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Robe de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Robe de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Robe de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Robe de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Calçado de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Calçado de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Calçado de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Calçado de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Calçado de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Calçado de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Calçado de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Calçado de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Calçado de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Calçado de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Calçado de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Calçado de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Calçado de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Calçado de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Calçado de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Calçado de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Calçado de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Calçado de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Calçado de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Calçado de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mitenes de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação dos Mitenes de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mitenes de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação dos Mitenes de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Mitenes de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mitenes de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação dos Mitenes de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mitenes de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação dos Mitenes de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Mitenes de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mitenes de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação dos Mitenes de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mitenes de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação dos Mitenes de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Mitenes de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mitenes de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação dos Mitenes de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar os Mitenes de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação dos Mitenes de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Mitenes de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bacinete de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Bacinete de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bacinete de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Bacinete de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Bacinete de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bacinete de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Bacinete de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bacinete de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Bacinete de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Bacinete de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bacinete de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Bacinete de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bacinete de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Bacinete de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Bacinete de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bacinete de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Bacinete de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bacinete de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação do Bacinete de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Bacinete de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Perneiras de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação das Perneiras de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Perneiras de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação das Perneiras de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Perneiras de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Perneiras de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação das Perneiras de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Perneiras de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação das Perneiras de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Perneiras de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Perneiras de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação das Perneiras de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Perneiras de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação das Perneiras de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Perneiras de Regente de Ílex</string>
-	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Perneiras de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação das Perneiras de Regente de Ílex.</string>
+	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar as Perneiras de Regente de Ílex na estação de confecção adequada. Ele é consumido no processo de criação das Perneiras de Regente de Ílex. </string>
 	<string key="Artifact_WCArmorMediumLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Perneiras de Regente de Ílex</string>
-	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Fúria da Nevasca na estação de confecção adequada. Ele é consumido no processo de criação da Fúria da Nevasca.</string>
+	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Fúria da Nevasca na estação de confecção adequada. Ele é consumido no processo de criação da Fúria da Nevasca. </string>
 	<string key="Artifact_WCWeaponBowT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Fúria da Nevasca</string>
-	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Fúria da Nevasca na estação de confecção adequada. Ele é consumido no processo de criação da Fúria da Nevasca.</string>
+	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Fúria da Nevasca na estação de confecção adequada. Ele é consumido no processo de criação da Fúria da Nevasca. </string>
 	<string key="Artifact_WCWeaponBowT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Fúria da Nevasca</string>
-	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Fúria da Nevasca na estação de confecção adequada. Ele é consumido no processo de criação da Fúria da Nevasca.</string>
+	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Fúria da Nevasca na estação de confecção adequada. Ele é consumido no processo de criação da Fúria da Nevasca. </string>
 	<string key="Artifact_WCWeaponBowT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Fúria da Nevasca</string>
-	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Fúria da Nevasca na estação de confecção adequada. Ele é consumido no processo de criação da Fúria da Nevasca.</string>
+	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Fúria da Nevasca na estação de confecção adequada. Ele é consumido no processo de criação da Fúria da Nevasca. </string>
 	<string key="Artifact_WCWeaponBowT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Fúria da Nevasca</string>
-	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Manopla Cristalina na estação de confecção adequada. Ele é consumido no processo de criação da Manopla Cristalina.</string>
+	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Manopla Cristalina na estação de confecção adequada. Ele é consumido no processo de criação da Manopla Cristalina. </string>
 	<string key="Artifact_WCWeaponGauntletIceT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Manopla Cristalina</string>
-	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Manopla Cristalina na estação de confecção adequada. Ele é consumido no processo de criação da Manopla Cristalina.</string>
+	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Manopla Cristalina na estação de confecção adequada. Ele é consumido no processo de criação da Manopla Cristalina. </string>
 	<string key="Artifact_WCWeaponGauntletIceT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Manopla Cristalina</string>
-	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Manopla Cristalina na estação de confecção adequada. Ele é consumido no processo de criação da Manopla Cristalina.</string>
+	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Manopla Cristalina na estação de confecção adequada. Ele é consumido no processo de criação da Manopla Cristalina. </string>
 	<string key="Artifact_WCWeaponGauntletIceT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Manopla Cristalina</string>
-	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Manopla Cristalina na estação de confecção adequada. Ele é consumido no processo de criação da Manopla Cristalina.</string>
+	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Manopla Cristalina na estação de confecção adequada. Ele é consumido no processo de criação da Manopla Cristalina. </string>
 	<string key="Artifact_WCWeaponGauntletIceT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Manopla Cristalina</string>
-	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Sombra Amarga na estação de confecção adequada. Ele é consumido no processo de criação da Sombra Amarga.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Sombra Amarga na estação de confecção adequada. Ele é consumido no processo de criação da Sombra Amarga. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Sombra Amarga</string>
-	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Sombra Amarga na estação de confecção adequada. Ele é consumido no processo de criação da Sombra Amarga.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Sombra Amarga na estação de confecção adequada. Ele é consumido no processo de criação da Sombra Amarga. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Sombra Amarga</string>
-	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Sombra Amarga na estação de confecção adequada. Ele é consumido no processo de criação da Sombra Amarga.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Sombra Amarga na estação de confecção adequada. Ele é consumido no processo de criação da Sombra Amarga. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Sombra Amarga</string>
-	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Sombra Amarga na estação de confecção adequada. Ele é consumido no processo de criação da Sombra Amarga.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Sombra Amarga na estação de confecção adequada. Ele é consumido no processo de criação da Sombra Amarga. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Sombra Amarga</string>
-	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cutelo de Frio Eterno na estação de confecção adequada. Ele é consumido no processo de criação do Cutelo de Frio Eterno.</string>
+	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cutelo de Frio Eterno na estação de confecção adequada. Ele é consumido no processo de criação do Cutelo de Frio Eterno. </string>
 	<string key="Artifact_WCWeaponGreatAxeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cutelo de Frio Eterno</string>
-	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cutelo de Frio Eterno na estação de confecção adequada. Ele é consumido no processo de criação do Cutelo de Frio Eterno.</string>
+	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cutelo de Frio Eterno na estação de confecção adequada. Ele é consumido no processo de criação do Cutelo de Frio Eterno. </string>
 	<string key="Artifact_WCWeaponGreatAxeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cutelo de Frio Eterno</string>
-	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cutelo de Frio Eterno na estação de confecção adequada. Ele é consumido no processo de criação do Cutelo de Frio Eterno.</string>
+	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cutelo de Frio Eterno na estação de confecção adequada. Ele é consumido no processo de criação do Cutelo de Frio Eterno. </string>
 	<string key="Artifact_WCWeaponGreatAxeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cutelo de Frio Eterno</string>
-	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cutelo de Frio Eterno na estação de confecção adequada. Ele é consumido no processo de criação do Cutelo de Frio Eterno.</string>
+	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cutelo de Frio Eterno na estação de confecção adequada. Ele é consumido no processo de criação do Cutelo de Frio Eterno. </string>
 	<string key="Artifact_WCWeaponGreatAxeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cutelo de Frio Eterno</string>
-	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Lasca Congelada na estação de confecção adequada. Ele é consumido no processo de criação da Lasca Congelada.</string>
+	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Lasca Congelada na estação de confecção adequada. Ele é consumido no processo de criação da Lasca Congelada. </string>
 	<string key="Artifact_WCWeaponHatchetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Lasca Congelada</string>
-	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Lasca Congelada na estação de confecção adequada. Ele é consumido no processo de criação da Lasca Congelada.</string>
+	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Lasca Congelada na estação de confecção adequada. Ele é consumido no processo de criação da Lasca Congelada. </string>
 	<string key="Artifact_WCWeaponHatchetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Lasca Congelada</string>
-	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Lasca Congelada na estação de confecção adequada. Ele é consumido no processo de criação da Lasca Congelada.</string>
+	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Lasca Congelada na estação de confecção adequada. Ele é consumido no processo de criação da Lasca Congelada. </string>
 	<string key="Artifact_WCWeaponHatchetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Lasca Congelada</string>
-	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Lasca Congelada na estação de confecção adequada. Ele é consumido no processo de criação da Lasca Congelada.</string>
+	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Lasca Congelada na estação de confecção adequada. Ele é consumido no processo de criação da Lasca Congelada. </string>
 	<string key="Artifact_WCWeaponHatchetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Lasca Congelada</string>
-	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Égide do Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Égide do Gelo.</string>
+	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Égide do Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Égide do Gelo. </string>
 	<string key="Artifact_WCWeaponKShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Égide do Gelo</string>
-	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Égide do Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Égide do Gelo.</string>
+	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Égide do Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Égide do Gelo. </string>
 	<string key="Artifact_WCWeaponKShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Égide do Gelo</string>
-	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Égide do Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Égide do Gelo.</string>
+	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Égide do Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Égide do Gelo. </string>
 	<string key="Artifact_WCWeaponKShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Égide do Gelo</string>
-	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cano Gelado na estação de confecção adequada. Ele é consumido no processo de criação do Cano Gelado.</string>
+	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cano Gelado na estação de confecção adequada. Ele é consumido no processo de criação do Cano Gelado. </string>
 	<string key="Artifact_WCWeaponMusketT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cano Gelado</string>
-	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cano Gelado na estação de confecção adequada. Ele é consumido no processo de criação do Cano Gelado.</string>
+	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cano Gelado na estação de confecção adequada. Ele é consumido no processo de criação do Cano Gelado. </string>
 	<string key="Artifact_WCWeaponMusketT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cano Gelado</string>
-	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cano Gelado na estação de confecção adequada. Ele é consumido no processo de criação do Cano Gelado.</string>
+	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cano Gelado na estação de confecção adequada. Ele é consumido no processo de criação do Cano Gelado. </string>
 	<string key="Artifact_WCWeaponMusketT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cano Gelado</string>
-	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cano Gelado na estação de confecção adequada. Ele é consumido no processo de criação do Cano Gelado.</string>
+	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Cano Gelado na estação de confecção adequada. Ele é consumido no processo de criação do Cano Gelado. </string>
 	<string key="Artifact_WCWeaponMusketT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cano Gelado</string>
-	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Ponta do Iceberg na estação de confecção adequada. Ele é consumido no processo de criação da Ponta do Iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Ponta do Iceberg na estação de confecção adequada. Ele é consumido no processo de criação da Ponta do Iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Ponta do Iceberg</string>
-	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Ponta do Iceberg na estação de confecção adequada. Ele é consumido no processo de criação da Ponta do Iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Ponta do Iceberg na estação de confecção adequada. Ele é consumido no processo de criação da Ponta do Iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Ponta do Iceberg</string>
-	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Ponta do Iceberg na estação de confecção adequada. Ele é consumido no processo de criação da Ponta do Iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Ponta do Iceberg na estação de confecção adequada. Ele é consumido no processo de criação da Ponta do Iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Ponta do Iceberg</string>
-	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Ponta do Iceberg na estação de confecção adequada. Ele é consumido no processo de criação da Ponta do Iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Ponta do Iceberg na estação de confecção adequada. Ele é consumido no processo de criação da Ponta do Iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Ponta do Iceberg</string>
-	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bastião Frígido na estação de confecção adequada. Ele é consumido no processo de criação do Bastião Frígido.</string>
+	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bastião Frígido na estação de confecção adequada. Ele é consumido no processo de criação do Bastião Frígido. </string>
 	<string key="Artifact_WCWeaponRShieldT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Bastião Frígido</string>
-	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bastião Frígido na estação de confecção adequada. Ele é consumido no processo de criação do Bastião Frígido.</string>
+	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bastião Frígido na estação de confecção adequada. Ele é consumido no processo de criação do Bastião Frígido. </string>
 	<string key="Artifact_WCWeaponRShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Bastião Frígido</string>
-	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bastião Frígido na estação de confecção adequada. Ele é consumido no processo de criação do Bastião Frígido.</string>
+	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bastião Frígido na estação de confecção adequada. Ele é consumido no processo de criação do Bastião Frígido. </string>
 	<string key="Artifact_WCWeaponRShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Bastião Frígido</string>
-	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bastião Frígido na estação de confecção adequada. Ele é consumido no processo de criação do Bastião Frígido.</string>
+	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Bastião Frígido na estação de confecção adequada. Ele é consumido no processo de criação do Bastião Frígido. </string>
 	<string key="Artifact_WCWeaponRShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Bastião Frígido</string>
-	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Pingente de Gelo na estação de confecção adequada. Ele é consumido no processo de criação do Pingente de Gelo.</string>
+	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Pingente de Gelo na estação de confecção adequada. Ele é consumido no processo de criação do Pingente de Gelo. </string>
 	<string key="artifact_wcweaponspeart2_mastername" rel_version="Event_WinterConvergence_Perm">Padrão: Pingente de Gelo</string>
-	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Pingente de Gelo na estação de confecção adequada. Ele é consumido no processo de criação do Pingente de Gelo.</string>
+	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Pingente de Gelo na estação de confecção adequada. Ele é consumido no processo de criação do Pingente de Gelo. </string>
 	<string key="artifact_wcweaponspeart3_mastername" rel_version="Event_WinterConvergence_Perm">Padrão: Pingente de Gelo</string>
-	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Pingente de Gelo na estação de confecção adequada. Ele é consumido no processo de criação do Pingente de Gelo.</string>
+	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Pingente de Gelo na estação de confecção adequada. Ele é consumido no processo de criação do Pingente de Gelo. </string>
 	<string key="artifact_wcweaponspeart4_mastername" rel_version="Event_WinterConvergence_Perm">Padrão: Pingente de Gelo</string>
-	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Pingente de Gelo na estação de confecção adequada. Ele é consumido no processo de criação do Pingente de Gelo.</string>
+	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Pingente de Gelo na estação de confecção adequada. Ele é consumido no processo de criação do Pingente de Gelo. </string>
 	<string key="artifact_wcweaponspeart5_mastername" rel_version="Event_WinterConvergence_Perm">Padrão: Pingente de Gelo</string>
-	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Neve Chamuscante na estação de confecção adequada. Ele é consumido no processo de criação da Neve Chamuscante.</string>
+	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Neve Chamuscante na estação de confecção adequada. Ele é consumido no processo de criação da Neve Chamuscante. </string>
 	<string key="Artifact_WCWeaponStaffFireT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Neve Chamuscante</string>
-	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Neve Chamuscante na estação de confecção adequada. Ele é consumido no processo de criação da Neve Chamuscante.</string>
+	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Neve Chamuscante na estação de confecção adequada. Ele é consumido no processo de criação da Neve Chamuscante. </string>
 	<string key="Artifact_WCWeaponStaffFireT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Neve Chamuscante</string>
-	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Neve Chamuscante na estação de confecção adequada. Ele é consumido no processo de criação da Neve Chamuscante.</string>
+	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Neve Chamuscante na estação de confecção adequada. Ele é consumido no processo de criação da Neve Chamuscante. </string>
 	<string key="Artifact_WCWeaponStaffFireT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Neve Chamuscante</string>
-	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Neve Chamuscante na estação de confecção adequada. Ele é consumido no processo de criação da Neve Chamuscante.</string>
+	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Neve Chamuscante na estação de confecção adequada. Ele é consumido no processo de criação da Neve Chamuscante. </string>
 	<string key="Artifact_WCWeaponStaffFireT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Neve Chamuscante</string>
-	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Cura do Frio na estação de confecção adequada. Ele é consumido no processo de criação da Cura do Frio.</string>
+	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Cura do Frio na estação de confecção adequada. Ele é consumido no processo de criação da Cura do Frio. </string>
 	<string key="Artifact_WCWeaponStaffLifeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cura do Frio</string>
-	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Cura do Frio na estação de confecção adequada. Ele é consumido no processo de criação da Cura do Frio.</string>
+	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Cura do Frio na estação de confecção adequada. Ele é consumido no processo de criação da Cura do Frio. </string>
 	<string key="Artifact_WCWeaponStaffLifeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cura do Frio</string>
-	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Cura do Frio na estação de confecção adequada. Ele é consumido no processo de criação da Cura do Frio.</string>
+	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Cura do Frio na estação de confecção adequada. Ele é consumido no processo de criação da Cura do Frio. </string>
 	<string key="Artifact_WCWeaponStaffLifeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cura do Frio</string>
-	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Cura do Frio na estação de confecção adequada. Ele é consumido no processo de criação da Cura do Frio.</string>
+	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Cura do Frio na estação de confecção adequada. Ele é consumido no processo de criação da Cura do Frio. </string>
 	<string key="Artifact_WCWeaponStaffLifeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Cura do Frio</string>
-	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Explosão de Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Explosão de Gelo.</string>
+	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Explosão de Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Explosão de Gelo. </string>
 	<string key="Artifact_WCWeaponSwordT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Explosão de Gelo</string>
-	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Explosão de Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Explosão de Gelo.</string>
+	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Explosão de Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Explosão de Gelo. </string>
 	<string key="Artifact_WCWeaponSwordT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Explosão de Gelo</string>
-	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Explosão de Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Explosão de Gelo.</string>
+	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Explosão de Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Explosão de Gelo. </string>
 	<string key="Artifact_WCWeaponSwordT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Explosão de Gelo</string>
-	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Explosão de Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Explosão de Gelo.</string>
+	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar a Explosão de Gelo na estação de confecção adequada. Ele é consumido no processo de criação da Explosão de Gelo. </string>
 	<string key="Artifact_WCWeaponSwordT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Explosão de Gelo</string>
-	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Trenó Festivo na estação de confecção adequada. Ele é consumido no processo de criação do Trenó Festivo.</string>
+	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Trenó Festivo na estação de confecção adequada. Ele é consumido no processo de criação do Trenó Festivo. </string>
 	<string key="Artifact_WCWeaponTShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Trenó Festivo</string>
-	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Trenó Festivo na estação de confecção adequada. Ele é consumido no processo de criação do Trenó Festivo.</string>
+	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Trenó Festivo na estação de confecção adequada. Ele é consumido no processo de criação do Trenó Festivo. </string>
 	<string key="Artifact_WCWeaponTShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Trenó Festivo</string>
-	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Martelo de Guerra do Inverno na estação de confecção adequada. Ele é consumido no processo de criação do Martelo de Guerra do Inverno.</string>
+	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Martelo de Guerra do Inverno na estação de confecção adequada. Ele é consumido no processo de criação do Martelo de Guerra do Inverno. </string>
 	<string key="Artifact_WCWeaponWarHammerT2_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Martelo de Guerra do Inverno</string>
-	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Martelo de Guerra do Inverno na estação de confecção adequada. Ele é consumido no processo de criação do Martelo de Guerra do Inverno.</string>
+	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Martelo de Guerra do Inverno na estação de confecção adequada. Ele é consumido no processo de criação do Martelo de Guerra do Inverno. </string>
 	<string key="Artifact_WCWeaponWarHammerT3_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Martelo de Guerra do Inverno</string>
-	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Martelo de Guerra do Inverno na estação de confecção adequada. Ele é consumido no processo de criação do Martelo de Guerra do Inverno.</string>
+	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Martelo de Guerra do Inverno na estação de confecção adequada. Ele é consumido no processo de criação do Martelo de Guerra do Inverno. </string>
 	<string key="Artifact_WCWeaponWarHammerT4_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Martelo de Guerra do Inverno</string>
-	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Martelo de Guerra do Inverno na estação de confecção adequada. Ele é consumido no processo de criação do Martelo de Guerra do Inverno.</string>
+	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Este padrão é usado para criar o Martelo de Guerra do Inverno na estação de confecção adequada. Ele é consumido no processo de criação do Martelo de Guerra do Inverno. </string>
 	<string key="Artifact_WCWeaponWarHammerT5_MasterName" rel_version="Event_WinterConvergence_Perm">Padrão: Martelo de Guerra do Inverno</string>
 	<string key="Artificer_Crucibles_Description">Cadinhos do Artífice</string>
 	<string key="Artificer_Crucibles_MasterName">Cadinhos do Artífice</string>
@@ -15122,7 +15132,7 @@
 	<string key="FoodFOCT4_Description">Aumenta o Foco em {[Type_StatusEffectData.FoodFOCT4.MODFocus]} por {[Type_StatusEffectData.FoodFOCT4.BaseDuration / 60]} minutos. Você recupera saúde lentamente enquanto está sob esses efeitos.</string>
 	<string key="FoodFOCT4_MasterName">Empadão de Peru</string>
 	<string key="FoodFOCT5_Description">Aumenta o Foco em {[Type_StatusEffectData.FoodFOCT5.MODFocus]} por {[Type_StatusEffectData.FoodFOCT5.BaseDuration / 60]} minutos. Você recupera saúde lentamente enquanto está sob esses efeitos.</string>
-	<string key="FoodFOCT5_MasterName">Mandje Mandje Escurecido com Succotash de Milho</string>
+	<string key="FoodFOCT5_MasterName">Barbo de Lava Escurecido com Succotash de Milho</string>
 	<string key="FoodHarvesterT1_Description">Aumenta sua Sorte na colheita em {[Type_StatusEffectData.FoodHarvesterT1.ROLharvesting]} pontos por {[Type_StatusEffectData.FoodHarvesterT1.BaseDuration / 60]} minutos. Você recupera saúde lentamente enquanto está sob esses efeitos.</string>
 	<string key="FoodHarvesterT1_MasterName">Milho Cozido</string>
 	<string key="FoodHarvesterT2_Description">Aumenta sua Sorte na colheita em {[Type_StatusEffectData.FoodHarvesterT2.ROLharvesting]} pontos por {[Type_StatusEffectData.FoodHarvesterT2.BaseDuration / 60]} minutos. Você recupera saúde lentamente enquanto está sob esses efeitos.</string>
@@ -18439,7 +18449,7 @@
 	<string key="ItemPattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Arco do Dríade</string>
 	<string key="ItemPattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Bastão Flamejante do Dríade</string>
 	<string key="ItemPattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Machadinha do Dríade</string>
-	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Magia de Gelo do Dríade</string>
+	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Escudo Ogival do Dríade</string>
 	<string key="ItemPattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Bastão Vital do Dríade</string>
 	<string key="ItemPattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Mosquete do Dríade</string>
@@ -18456,7 +18466,7 @@
 	<string key="ItemPattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Arco do Ladrão de Túmulos</string>
 	<string key="ItemPattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Bastão Flamejante do Ladrão de Túmulos</string>
 	<string key="ItemPattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Machadinha do Ladrão de Túmulos</string>
-	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Magia de Gelo do Ladrão de Túmulos</string>
+	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Bastão Vital do Ladrão de Túmulos</string>
 	<string key="ItemPattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Mosquete do Ladrão de Túmulos</string>
 	<string key="ItemPattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Rapieira do Ladrão de Túmulos</string>
@@ -18494,7 +18504,7 @@
 	<string key="ItemPattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Arco Encharcado</string>
 	<string key="ItemPattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Bastão Flamejante Encharcado</string>
 	<string key="ItemPattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Machadinha Encharcada</string>
-	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Magia de Gelo Encharcada</string>
+	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Manopla de Gelo Encharcada</string>
 	<string key="ItemPattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Bastão Vital Encharcado</string>
 	<string key="ItemPattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Mosquete Encharcado</string>
 	<string key="ItemPattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Rapieira Encharcada</string>
@@ -24111,7 +24121,7 @@
 	<string key="Pattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Padrão: Arco do Dríade</string>
 	<string key="Pattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Padrão: Bastão Flamejante do Dríade</string>
 	<string key="Pattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Padrão: Machadinha do Dríade</string>
-	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Padrão: Magia de Gelo do Dríade</string>
+	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Padrão: </string>
 	<string key="Pattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Padrão: Escudo Ogival do Dríade</string>
 	<string key="Pattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Padrão: Bastão Vital do Dríade</string>
 	<string key="Pattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Padrão: Mosquete do Dríade</string>
@@ -24128,7 +24138,7 @@
 	<string key="Pattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Padrão: Arco do Ladrão de Túmulos</string>
 	<string key="Pattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Padrão: Bastão Flamejante do Ladrão de Túmulos</string>
 	<string key="Pattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Padrão: Machadinha do Ladrão de Túmulos</string>
-	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Padrão: Magia de Gelo do Ladrão de Túmulos</string>
+	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Padrão: </string>
 	<string key="Pattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Padrão: Bastão Vital do Ladrão de Túmulos</string>
 	<string key="Pattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Padrão: Mosquete do Ladrão de Túmulos</string>
 	<string key="Pattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Padrão: Rapieira do Ladrão de Túmulos</string>
@@ -24166,7 +24176,7 @@
 	<string key="Pattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Padrão: Arco Encharcado</string>
 	<string key="Pattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Padrão: Bastão Flamejante Encharcado</string>
 	<string key="Pattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Padrão: Machadinha Encharcada</string>
-	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Padrão: Magia de Gelo Encharcada</string>
+	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Padrão: Manopla de Gelo Encharcada</string>
 	<string key="Pattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Padrão: Bastão Vital Encharcado</string>
 	<string key="Pattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Padrão: Mosquete Encharcado</string>
 	<string key="Pattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Padrão: Rapieira Encharcada</string>
@@ -24188,9 +24198,9 @@
 	<string key="Pattern_TempleGuards_Gauntlets" rel_version="Event_WinterConvergence_Perm">Padrão: Manoplas do Guarda do Templo</string>
 	<string key="Pattern_TempleGuards_Helm" rel_version="Event_WinterConvergence_Perm">Padrão: Elmo do Guarda do Templo</string>
 	<string key="Pattern_TempleGuards_Legguards" rel_version="Event_WinterConvergence_Perm">Padrão: Guarda-pernas do Guarda do Templo</string>
-	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm">Leve este padrão para um repositório arcano para confeccionar um item com uma pontuação de equipamento de 600 e uma aparência única.</string>
+	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternForge_Desc">Leve este padrão para uma forja para confeccionar um item com uma pontuação de equipamento de 600 e uma aparência única.</string>
-	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm">Leve este padrão para uma estação de alfaiataria para confeccionar um item com uma pontuação de equipamento de 600 e uma aparência única.</string>
+	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternWorkbench_Desc" rel_version="Event_WinterConvergence_Perm">Leve este padrão para uma bancada de trabalho para confeccionar um item com uma pontuação de equipamento de 600 e uma aparência única.</string>
 	<string key="PearlCutT1_Description">Usada em Joalheria. Também pode ser fixada em armaduras para aumentar o poder.</string>
 	<string key="pearlcutt1_mastername">Pérola Cortada Imperfeita</string>
@@ -27923,7 +27933,7 @@
 	<string key="Shard_Rapier_MasterName">Fragmento de Rapieira Atemporal</string>
 	<string key="Shard_Rapier_Description">Este recurso pode ser usado em uma forja para confeccionar uma rapieira com um atributo específico.</string>
 	<string key="Shard_Hatchet_MasterName">Fragmento de Machadinha Atemporal</string>
-	<string key="Shard_Hatchet_Description">Este recurso pode ser usado em uma oficina para confeccionar uma machadinha com um atributo específico.</string>
+	<string key="Shard_Hatchet_Description"/>
 	<string key="Shard_Bow_MasterName">Fragmento de Arco Atemporal</string>
 	<string key="Shard_Bow_Description">Este recurso pode ser usado em uma oficina para confeccionar um arco com um atributo específico.</string>
 	<string key="Shard_Musket_MasterName">Fragmento de Mosquete Atemporal</string>
@@ -27943,7 +27953,7 @@
 	<string key="Shard_Shield_Tower_MasterName">Fragmento de Escudo Torre Atemporal</string>
 	<string key="Shard_Shield_Tower_Description">Este recurso pode ser usado em uma forja para confeccionar um escudo torre com um atributo específico.</string>
 	<string key="Shard_Spear_MasterName">Fragmento de Lança Atemporal</string>
-	<string key="Shard_Spear_Description">Este recurso pode ser usado em uma oficina para confeccionar uma lança com um atributo específico.</string>
+	<string key="Shard_Spear_Description"/>
 	<string key="Shard_Ring_MasterName">Fragmento de Anel Atemporal</string>
 	<string key="Shard_Ring_Description">Este recurso pode ser usado em uma estação de alfaiataria para confeccionar um anel com um atributo específico.</string>
 	<string key="Shard_Amulet_MasterName">Fragmento de Amuleto Atemporal</string>
@@ -27957,5 +27967,17 @@
 	<string key="EarringDropT5_MasterName">Brinco Velho</string>
 	<string key="RingDropT5_MasterName">Anel Velho</string>
 	<string key="AmuletDropT5_MasterName">Amuleto Velho</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_MasterName" rel_version="Twitch_EpicStory_Skins">Casaco de Nynaeve</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_Description" rel_version="Twitch_EpicStory_Skins">Ouça os ventos, pois eles carregam a verdadeira sabedoria.</string>
+	<string key="Skin_Chest_WoT_RedScarf_MasterName" rel_version="Twitch_EpicStory_Skins">Manto de Ajah Vermelho</string>
+	<string key="Skin_Chest_WoT_RedScarf_Description" rel_version="Twitch_EpicStory_Skins">Esta cor serve como um aviso para aqueles que procuram causar o mal.</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_MasterName" rel_version="Twitch_EpicStory_Skins">Filhos da Luz</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_Description" rel_version="Twitch_EpicStory_Skins">Os robes de marfim às vezes podem ocultar as intenções de quem os veste.</string>
+	<string key="Skin_Chest_WoT_BrownCloak_MasterName" rel_version="Twitch_EpicStory_Skins">Túnica de Egwene</string>
+	<string key="Skin_Chest_WoT_BrownCloak_Description" rel_version="Twitch_EpicStory_Skins">Apenas os talentosos podem seguir o caminho da magia.</string>
+	<string key="Skin_Rapier_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Lâmina de Tam</string>
+	<string key="Skin_Rapier_WoT_Description" rel_version="Twitch_EpicStory_Skins">Tão linda quanto é mortal, a arma de um verdadeiro guardião.</string>
+	<string key="Skin_Longsword_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Lâmina das Sombras</string>
+	<string key="Skin_Longsword_WoT_Description" rel_version="Twitch_EpicStory_Skins">A temível garra de um terrível lorde das trevas.</string>
 </resources>
 

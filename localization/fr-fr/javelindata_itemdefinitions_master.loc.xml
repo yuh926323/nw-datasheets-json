@@ -8,14 +8,16 @@
 	<string key="GypsumYellow_MasterName">Gypse de topaze</string>
 	<string key="GypsumOrange_MasterName">Gypse de citrine</string>
 	<string key="GypsumPurple_MasterName">Gypse d'améthyste</string>
+	<string key="GypsumWhite_MasterName"/>
 	<string key="GypsumOrb_MasterName">Orbe de gypse</string>
-	<string key="GypsumRed_Description">Un minerai malléable et facilement sculptable. Transformez-le en orbe de gypse dans un four à gypse.</string>
-	<string key="GypsumBlue_Description">A soft, easily sculptable mineral. Refine this into a Gypsum Orb at a Gypsum Kiln.</string>
-	<string key="GypsumGreen_Description">A soft, easily sculptable mineral. Refine this into a Gypsum Orb at a Gypsum Kiln.</string>
-	<string key="GypsumBlack_Description">A soft, easily sculptable mineral. Refine this into a Gypsum Orb at a Gypsum Kiln.</string>
-	<string key="GypsumYellow_Description">A soft, easily sculptable mineral. Refine this into a Gypsum Orb at a Gypsum Kiln.</string>
-	<string key="GypsumOrange_Description">A soft, easily sculptable mineral. Refine this into a Gypsum Orb at a Gypsum Kiln.</string>
-	<string key="GypsumPurple_Description">A soft, easily sculptable mineral. Refine this into a Gypsum Orb at a Gypsum Kiln.</string>
+	<string key="GypsumRed_Description">Un minerai malléable et facilement sculptable. Transformez-le en orbe de gypse dans un four à gypses.</string>
+	<string key="GypsumBlue_Description">Un minerai malléable et facilement sculptable. Transformez-le en orbe de gypse dans un four à gypses.</string>
+	<string key="GypsumGreen_Description">Un minerai malléable et facilement sculptable. Transformez-le en orbe de gypse dans un four à gypses.</string>
+	<string key="GypsumBlack_Description">Un minerai malléable et facilement sculptable. Transformez-le en orbe de gypse dans un four à gypses.</string>
+	<string key="GypsumYellow_Description">Un minerai malléable et facilement sculptable. Transformez-le en orbe de gypse dans un four à gypses.</string>
+	<string key="GypsumOrange_Description">Un minerai malléable et facilement sculptable. Transformez-le en orbe de gypse dans un four à gypses.</string>
+	<string key="GypsumPurple_Description">Un minerai malléable et facilement sculptable. Transformez-le en orbe de gypse dans un four à gypses.</string>
+	<string key="GypsumWhite_Description">Un minerai malléable et facilement sculptable. Transformez-le en orbe de gypse dans un four à gypses.</string>
 	<string key="GypsumOrb_Description">Un orbe lisse de gypse. Sculptez-le en un moule en gypse dans un four à gypses.</string>
 	<string key="CastGypsum_Head_MasterName">Moule de coiffe en gypse</string>
 	<string key="CastGypsum_Chest_MasterName">Moule de haut en gypse</string>
@@ -39,26 +41,26 @@
 	<string key="CastGypsum_Amulet_MasterName">Moule d'amulette en gypse</string>
 	<string key="CastGypsum_Earring_MasterName">Moule de boucle d'oreille en gypse</string>
 	<string key="CastGypsum_Head_Description">Un moule de coiffe fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
-	<string key="CastGypsum_Chest_Description">Un moule de haut fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Hands_Description">Un moule de gants fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Legs_Description">Un moule de jambes fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Feet_Description">Un moule de souliers fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Sword_Description">Un moule d'épée fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_GreatAxe_Description">Un moule de hache double fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_WarHammer_Description">Un moule de marteau d'armes fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Rapier_Description">Un moule de rapière fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Hatchet_Description">Un moule de hachette fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Bow_Description">Un moule d'arc fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Musket_Description">Un moule de mousquet fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_LifeStaff_Description">Un moule de bâton de vie fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_FireStaff_Description">Un moule de bâton de feu fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_IceGauntlet_Description">Un moule de gantelets de glace fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_VoidGauntlet_Description">Un moule de gantelets du néant fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Shield_Description">Un moule de bouclier fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Spear_Description">Un moule de lance fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Ring_Description">Un moule d'anneau fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Amulet_Description">Un moule d'amulette fait de gypse. Crack it open to see what's inside!</string>
-	<string key="CastGypsum_Earring_Description">Un moule de boucle d'oreille fait de gypse. Crack it open to see what's inside!</string>
+	<string key="CastGypsum_Chest_Description">Un moule de haut fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Hands_Description">Un moule de gants fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Legs_Description">Un moule de jambes fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Feet_Description">Un moule de souliers fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Sword_Description">Un moule d'épée fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_GreatAxe_Description">Un moule de hache double fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_WarHammer_Description">Un moule de marteau d'armes fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Rapier_Description">Un moule de rapière fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Hatchet_Description">Un moule de hachette fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Bow_Description">Un moule d'arc fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Musket_Description">Un moule de mousquet fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_LifeStaff_Description">Un moule de bâton de vie fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_FireStaff_Description">Un moule de bâton de feu fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_IceGauntlet_Description">Un moule de gantelets de glace fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_VoidGauntlet_Description">Un moule de gantelets du néant fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Shield_Description">Un moule de bouclier fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Spear_Description">Un moule de lance fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Ring_Description">Un moule d'anneau fait de gypse. Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Amulet_Description"> Ouvrez-le pour voir ce qu'il contient !</string>
+	<string key="CastGypsum_Earring_Description"> Ouvrez-le pour voir ce qu'il contient !</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_Description" comment="NA-Basic">Un plan vous permettant d'apprendre à fabriquer une pièce d'ameublement. Recyclez le plan pour apprendre la formule.</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_MasterName" comment="NA-Basic">Plan : Commode d'apothicaire basse</string>
 	<string key="Schematic_House_HousingItem_Appr_Winecask_Indoor_Description" comment="NA-Basic">Un plan vous permettant d'apprendre à fabriquer une pièce d'ameublement. Recyclez le plan pour apprendre la formule.</string>
@@ -1453,6 +1455,14 @@
 	<string key="1128_Sword_Description">Une épée robuste, au tranchant cruel.</string>
 	<string key="1130_SensouNoKo">Sensou no ko</string>
 	<string key="1130_SensouNoKo_Description">Le tranchant étincelant de cette arme émet une lueur malveillante. Des motifs huileux sur la lame révèlent ce qui semble être des milliers de visages hurlant de tourment.</string>
+	<string key="1132_Peacemaker">Le « Pacificateur » : tromblon de grand-père</string>
+	<string key="1132_Peacemaker_Description">La célèbre solution aux problèmes de frontière de la famille Gingham.</string>
+	<string key="1132_Stock">Crosse du tromblon de grand-père</string>
+	<string key="1132_Stock_Description">Patiné par l'âge et l'utilisation, grêlé par les brûlures de poudre.</string>
+	<string key="1132_Mechanism">Mécanisme du tromblon de grand-père</string>
+	<string key="1132_Mechanism_Description">Parfaitement huilé. Simple, mais efficace.</string>
+	<string key="1132_Barrel">Canon du tromblon de grand-père</string>
+	<string key="1132_Barrel_Description">Un canon lisse et évasé. Vieux, mais bien entretenu.</string>
 	<string key="1130_SensouNoKo2">Sensou no ko</string>
 	<string key="1130_SensouNoKo2_Description">Cette lame funeste est cruellement tranchante. Quand vous soulevez cette œuvre d'art, vous sentez la force jaillir en vous.</string>
 	<string key="1201_0104_ShipsFlag_Description">Un pavillon arraché à une épave abandonnée [Objet de mission]</string>
@@ -9841,7 +9851,7 @@
 	<string key="2hWarhammerWavebornT5_MasterName">Marteau d'armes de reflux</string>
 	<string key="2hWarhammerWraithHunterT4_Description">« Spectres, apparitions, goules... Quelle que soit leur forme, je les exterminerai. »</string>
 	<string key="2hWarhammerWraithHunterT4_MasterName">Marteau d'armes de chasseur de spectres</string>
-	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">Plan : Hache double trempée</string>
+	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">Apportez ce plan à une forge pour fabriquer un objet à l'aspect unique avec un score d'équipement de 600.</string>
 	<string key="2Sealed_DocumentsBrightwood_Description">Objet de guerre de factions.</string>
 	<string key="2Sealed_DocumentsBrightwood_Mastername">Documents scellés de Boisclair</string>
 	<string key="2Secret_OrdersBrightwood_Description">Objet de guerre de factions.</string>
@@ -10480,239 +10490,239 @@
 	<string key="ArrowT3_MasterName">Flèche en acier</string>
 	<string key="ArrowT4_MasterName">Flèche en métal stellaire</string>
 	<string key="ArrowT5_MasterName">Flèche en orichalque</string>
-	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un plastron de régence sylvestre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du plastron de régence sylvestre.</string>
+	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un plastron de régence sylvestre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du plastron de régence sylvestre. </string>
 	<string key="Artifact_WCArmorHeavyChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Plastron de régence sylvestre</string>
-	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un plastron de régence sylvestre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du plastron de régence sylvestre.</string>
+	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un plastron de régence sylvestre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du plastron de régence sylvestre. </string>
 	<string key="Artifact_WCArmorHeavyChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Plastron de régence sylvestre</string>
-	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un plastron de régence sylvestre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du plastron de régence sylvestre.</string>
+	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un plastron de régence sylvestre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du plastron de régence sylvestre. </string>
 	<string key="Artifact_WCArmorHeavyChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Plastron de régence sylvestre</string>
-	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un plastron de régence sylvestre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du plastron de régence sylvestre.</string>
+	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un plastron de régence sylvestre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du plastron de régence sylvestre. </string>
 	<string key="Artifact_WCArmorHeavyChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Plastron de régence sylvestre</string>
-	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bottes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bottes de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bottes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bottes de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Bottes de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bottes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bottes de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bottes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bottes de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Bottes de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bottes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bottes de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bottes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bottes de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Bottes de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bottes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bottes de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bottes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bottes de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Bottes de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des poignes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des poignes de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des poignes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des poignes de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Poignes de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des poignes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des poignes de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des poignes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des poignes de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Poignes de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des poignes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des poignes de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des poignes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des poignes de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Poignes de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des poignes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des poignes de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des poignes de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des poignes de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Poignes de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bois de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bois de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bois de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bois de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Bois de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bois de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bois de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bois de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bois de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Bois de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bois de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bois de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bois de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bois de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Bois de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bois de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bois de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des bois de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des bois de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Bois de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des jambières de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des jambières de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des jambières de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des jambières de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Jambières de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des jambières de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des jambières de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des jambières de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des jambières de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Jambières de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des jambières de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des jambières de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des jambières de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des jambières de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Jambières de régence sylvestres</string>
-	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des jambières de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des jambières de régence sylvestres.</string>
+	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des jambières de régence sylvestres au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des jambières de régence sylvestres. </string>
 	<string key="Artifact_WCArmorHeavyLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Jambières de régence sylvestres</string>
-	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une tunique de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la tunique de régence fleurie.</string>
+	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une tunique de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la tunique de régence fleurie. </string>
 	<string key="Artifact_WCArmorLightChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Tunique de régence fleurie</string>
-	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une tunique de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la tunique de régence fleurie.</string>
+	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une tunique de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la tunique de régence fleurie. </string>
 	<string key="Artifact_WCArmorLightChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Tunique de régence fleurie</string>
-	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une tunique de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la tunique de régence fleurie.</string>
+	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une tunique de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la tunique de régence fleurie. </string>
 	<string key="Artifact_WCArmorLightChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Tunique de régence fleurie</string>
-	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une tunique de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la tunique de régence fleurie.</string>
+	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une tunique de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la tunique de régence fleurie. </string>
 	<string key="Artifact_WCArmorLightChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Tunique de régence fleurie</string>
-	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mocassins de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mocassins de régence fleuris.</string>
+	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mocassins de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mocassins de régence fleuris. </string>
 	<string key="Artifact_WCArmorLightFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Mocassins de régence fleuris</string>
-	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mocassins de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mocassins de régence fleuris.</string>
+	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mocassins de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mocassins de régence fleuris. </string>
 	<string key="Artifact_WCArmorLightFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Mocassins de régence fleuris</string>
-	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mocassins de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mocassins de régence fleuris.</string>
+	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mocassins de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mocassins de régence fleuris. </string>
 	<string key="Artifact_WCArmorLightFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Mocassins de régence fleuris</string>
-	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mocassins de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mocassins de régence fleuris.</string>
+	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mocassins de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mocassins de régence fleuris. </string>
 	<string key="Artifact_WCArmorLightFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Mocassins de régence fleuris</string>
-	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gants de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gants de régence fleuris.</string>
+	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gants de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gants de régence fleuris. </string>
 	<string key="Artifact_WCArmorLightHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Gants de régence fleuris</string>
-	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gants de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gants de régence fleuris.</string>
+	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gants de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gants de régence fleuris. </string>
 	<string key="Artifact_WCArmorLightHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Gants de régence fleuris</string>
-	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gants de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gants de régence fleuris.</string>
+	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gants de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gants de régence fleuris. </string>
 	<string key="Artifact_WCArmorLightHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Gants de régence fleuris</string>
-	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gants de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gants de régence fleuris.</string>
+	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gants de régence fleuris au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gants de régence fleuris. </string>
 	<string key="Artifact_WCArmorLightHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Gants de régence fleuris</string>
-	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une couronne de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la couronne de régence fleurie.</string>
+	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une couronne de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la couronne de régence fleurie. </string>
 	<string key="Artifact_WCArmorLightHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Couronne de régence fleurie</string>
-	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une couronne de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la couronne de régence fleurie.</string>
+	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une couronne de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la couronne de régence fleurie. </string>
 	<string key="Artifact_WCArmorLightHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Couronne de régence fleurie</string>
-	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une couronne de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la couronne de régence fleurie.</string>
+	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une couronne de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la couronne de régence fleurie. </string>
 	<string key="Artifact_WCArmorLightHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Couronne de régence fleurie</string>
-	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une couronne de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la couronne de régence fleurie.</string>
+	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une couronne de régence fleurie au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la couronne de régence fleurie. </string>
 	<string key="Artifact_WCArmorLightHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Couronne de régence fleurie</string>
-	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un pantalon de régence fleuri au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du pantalon de régence fleuri.</string>
+	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un pantalon de régence fleuri au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du pantalon de régence fleuri. </string>
 	<string key="Artifact_WCArmorLightLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Pantalon de régence fleuri</string>
-	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un pantalon de régence fleuri au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du pantalon de régence fleuri.</string>
+	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un pantalon de régence fleuri au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du pantalon de régence fleuri. </string>
 	<string key="Artifact_WCArmorLightLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Pantalon de régence fleuri</string>
-	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un pantalon de régence fleuri au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du pantalon de régence fleuri.</string>
+	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un pantalon de régence fleuri au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du pantalon de régence fleuri. </string>
 	<string key="Artifact_WCArmorLightLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Pantalon de régence fleuri</string>
-	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un pantalon de régence fleuri au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du pantalon de régence fleuri.</string>
+	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un pantalon de régence fleuri au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du pantalon de régence fleuri. </string>
 	<string key="Artifact_WCArmorLightLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Pantalon de régence fleuri</string>
-	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une robe de régence épineuse au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la robe de régence épineuse.</string>
+	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une robe de régence épineuse au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la robe de régence épineuse. </string>
 	<string key="Artifact_WCArmorMediumChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Robe de régence épineuse</string>
-	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une robe de régence épineuse au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la robe de régence épineuse.</string>
+	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une robe de régence épineuse au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la robe de régence épineuse. </string>
 	<string key="Artifact_WCArmorMediumChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Robe de régence épineuse</string>
-	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une robe de régence épineuse au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la robe de régence épineuse.</string>
+	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une robe de régence épineuse au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la robe de régence épineuse. </string>
 	<string key="Artifact_WCArmorMediumChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Robe de régence épineuse</string>
-	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une robe de régence épineuse au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la robe de régence épineuse.</string>
+	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une robe de régence épineuse au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de la robe de régence épineuse. </string>
 	<string key="Artifact_WCArmorMediumChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Robe de régence épineuse</string>
-	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des souliers de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des souliers de régence épineux.</string>
+	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des souliers de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des souliers de régence épineux. </string>
 	<string key="Artifact_WCArmorMediumFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Souliers de régence épineux</string>
-	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des souliers de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des souliers de régence épineux.</string>
+	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des souliers de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des souliers de régence épineux. </string>
 	<string key="Artifact_WCArmorMediumFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Souliers de régence épineux</string>
-	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des souliers de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des souliers de régence épineux.</string>
+	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des souliers de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des souliers de régence épineux. </string>
 	<string key="Artifact_WCArmorMediumFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Souliers de régence épineux</string>
-	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des souliers de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des souliers de régence épineux.</string>
+	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des souliers de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des souliers de régence épineux. </string>
 	<string key="Artifact_WCArmorMediumFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Souliers de régence épineux</string>
-	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mitaines de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mitaines de régence épineuses.</string>
+	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mitaines de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mitaines de régence épineuses. </string>
 	<string key="Artifact_WCArmorMediumHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Mitaines de régence épineuses</string>
-	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mitaines de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mitaines de régence épineuses.</string>
+	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mitaines de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mitaines de régence épineuses. </string>
 	<string key="Artifact_WCArmorMediumHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Mitaines de régence épineuses</string>
-	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mitaines de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mitaines de régence épineuses.</string>
+	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mitaines de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mitaines de régence épineuses. </string>
 	<string key="Artifact_WCArmorMediumHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Mitaines de régence épineuses</string>
-	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mitaines de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mitaines de régence épineuses.</string>
+	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des mitaines de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des mitaines de régence épineuses. </string>
 	<string key="Artifact_WCArmorMediumHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Mitaines de régence épineuses</string>
-	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un couvre-chef de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du couvre-chef de régence épineux.</string>
+	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un couvre-chef de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du couvre-chef de régence épineux. </string>
 	<string key="Artifact_WCArmorMediumHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Couvre-chef de régence épineux</string>
-	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un couvre-chef de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du couvre-chef de régence épineux.</string>
+	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un couvre-chef de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du couvre-chef de régence épineux. </string>
 	<string key="Artifact_WCArmorMediumHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Couvre-chef de régence épineux</string>
-	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un couvre-chef de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du couvre-chef de régence épineux.</string>
+	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un couvre-chef de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du couvre-chef de régence épineux. </string>
 	<string key="Artifact_WCArmorMediumHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Couvre-chef de régence épineux</string>
-	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un couvre-chef de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du couvre-chef de régence épineux.</string>
+	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un couvre-chef de régence épineux au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du couvre-chef de régence épineux. </string>
 	<string key="Artifact_WCArmorMediumHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Couvre-chef de régence épineux</string>
-	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des chausses de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des chausses de régence épineuses.</string>
+	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des chausses de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des chausses de régence épineuses. </string>
 	<string key="Artifact_WCArmorMediumLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Chausses de régence épineuses</string>
-	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des chausses de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des chausses de régence épineuses.</string>
+	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des chausses de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des chausses de régence épineuses. </string>
 	<string key="Artifact_WCArmorMediumLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Chausses de régence épineuses</string>
-	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des chausses de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des chausses de régence épineuses.</string>
+	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des chausses de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des chausses de régence épineuses. </string>
 	<string key="Artifact_WCArmorMediumLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Chausses de régence épineuses</string>
-	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des chausses de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des chausses de régence épineuses.</string>
+	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des chausses de régence épineuses au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des chausses de régence épineuses. </string>
 	<string key="Artifact_WCArmorMediumLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Chausses de régence épineuses</string>
-	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Fureur du blizzard au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Fureur du blizzard.</string>
+	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Fureur du blizzard au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Fureur du blizzard. </string>
 	<string key="Artifact_WCWeaponBowT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Fureur du blizzard</string>
-	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Fureur du blizzard au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Fureur du blizzard.</string>
+	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Fureur du blizzard au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Fureur du blizzard. </string>
 	<string key="Artifact_WCWeaponBowT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Fureur du blizzard</string>
-	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Fureur du blizzard au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Fureur du blizzard.</string>
+	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Fureur du blizzard au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Fureur du blizzard. </string>
 	<string key="Artifact_WCWeaponBowT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Fureur du blizzard</string>
-	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Fureur du blizzard au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Fureur du blizzard.</string>
+	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Fureur du blizzard au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Fureur du blizzard. </string>
 	<string key="Artifact_WCWeaponBowT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Fureur du blizzard</string>
-	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gantelets cristallins au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gantelets cristallins.</string>
+	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gantelets cristallins au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gantelets cristallins. </string>
 	<string key="Artifact_WCWeaponGauntletIceT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Gantelets cristallins</string>
-	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gantelets cristallins au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gantelets cristallins.</string>
+	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gantelets cristallins au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gantelets cristallins. </string>
 	<string key="Artifact_WCWeaponGauntletIceT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Gantelets cristallins</string>
-	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gantelets cristallins au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gantelets cristallins.</string>
+	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gantelets cristallins au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gantelets cristallins. </string>
 	<string key="Artifact_WCWeaponGauntletIceT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Gantelets cristallins</string>
-	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gantelets cristallins au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gantelets cristallins.</string>
+	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer des gantelets cristallins au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication des gantelets cristallins. </string>
 	<string key="Artifact_WCWeaponGauntletIceT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Gantelets cristallins</string>
-	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Ombre amère au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Ombre amère.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Ombre amère au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Ombre amère. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Ombre amère</string>
-	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Ombre amère au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Ombre amère.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Ombre amère au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Ombre amère. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Ombre amère</string>
-	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Ombre amère au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Ombre amère.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Ombre amère au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Ombre amère. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Ombre amère</string>
-	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Ombre amère au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Ombre amère.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Ombre amère au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Ombre amère. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Ombre amère</string>
-	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un fendoir de givre éternel au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du fendoir de givre éternel.</string>
+	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un fendoir de givre éternel au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du fendoir de givre éternel. </string>
 	<string key="Artifact_WCWeaponGreatAxeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Fendoir de givre éternel</string>
-	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un fendoir de givre éternel au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du fendoir de givre éternel.</string>
+	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un fendoir de givre éternel au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du fendoir de givre éternel. </string>
 	<string key="Artifact_WCWeaponGreatAxeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Fendoir de givre éternel</string>
-	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un fendoir de givre éternel au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du fendoir de givre éternel.</string>
+	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un fendoir de givre éternel au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du fendoir de givre éternel. </string>
 	<string key="Artifact_WCWeaponGreatAxeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Fendoir de givre éternel</string>
-	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un fendoir de givre éternel au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du fendoir de givre éternel.</string>
+	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un fendoir de givre éternel au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du fendoir de givre éternel. </string>
 	<string key="Artifact_WCWeaponGreatAxeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Fendoir de givre éternel</string>
-	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat gelé au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat gelé.</string>
+	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat gelé au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat gelé. </string>
 	<string key="Artifact_WCWeaponHatchetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Éclat gelé</string>
-	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat gelé au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat gelé.</string>
+	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat gelé au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat gelé. </string>
 	<string key="Artifact_WCWeaponHatchetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Éclat gelé</string>
-	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat gelé au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat gelé.</string>
+	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat gelé au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat gelé. </string>
 	<string key="Artifact_WCWeaponHatchetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Éclat gelé</string>
-	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat gelé au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat gelé.</string>
+	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat gelé au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat gelé. </string>
 	<string key="Artifact_WCWeaponHatchetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Éclat gelé</string>
-	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une égide de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de l'égide de glace.</string>
+	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une égide de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de l'égide de glace. </string>
 	<string key="Artifact_WCWeaponKShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Égide de glace</string>
-	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une égide de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de l'égide de glace.</string>
+	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une égide de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de l'égide de glace. </string>
 	<string key="Artifact_WCWeaponKShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Égide de glace</string>
-	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une égide de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de l'égide de glace.</string>
+	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer une égide de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de l'égide de glace. </string>
 	<string key="Artifact_WCWeaponKShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Égide de glace</string>
-	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Canon de givre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Canon de givre.</string>
+	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Canon de givre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Canon de givre. </string>
 	<string key="Artifact_WCWeaponMusketT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Canon de givre</string>
-	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Canon de givre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Canon de givre.</string>
+	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Canon de givre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Canon de givre. </string>
 	<string key="Artifact_WCWeaponMusketT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Canon de givre</string>
-	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Canon de givre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Canon de givre.</string>
+	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Canon de givre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Canon de givre. </string>
 	<string key="Artifact_WCWeaponMusketT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Canon de givre</string>
-	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Canon de givre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Canon de givre.</string>
+	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Canon de givre au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Canon de givre. </string>
 	<string key="Artifact_WCWeaponMusketT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Canon de givre</string>
-	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Pointe de l'iceberg au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Pointe de l'iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Pointe de l'iceberg au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Pointe de l'iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Pointe de l'iceberg</string>
-	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Pointe de l'iceberg au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Pointe de l'iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Pointe de l'iceberg au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Pointe de l'iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Pointe de l'iceberg</string>
-	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Pointe de l'iceberg au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Pointe de l'iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Pointe de l'iceberg au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Pointe de l'iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Pointe de l'iceberg</string>
-	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Pointe de l'iceberg au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Pointe de l'iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Pointe de l'iceberg au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Pointe de l'iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Pointe de l'iceberg</string>
-	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un rempart glacial au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du rempart glacial.</string>
+	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un rempart glacial au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du rempart glacial. </string>
 	<string key="Artifact_WCWeaponRShieldT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Rempart glacial</string>
-	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un rempart glacial au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du rempart glacial.</string>
+	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un rempart glacial au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du rempart glacial. </string>
 	<string key="Artifact_WCWeaponRShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Rempart glacial</string>
-	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un rempart glacial au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du rempart glacial.</string>
+	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un rempart glacial au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du rempart glacial. </string>
 	<string key="Artifact_WCWeaponRShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Rempart glacial</string>
-	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un rempart glacial au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du rempart glacial.</string>
+	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un rempart glacial au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du rempart glacial. </string>
 	<string key="Artifact_WCWeaponRShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Rempart glacial</string>
-	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Stalactite au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Stalactite.</string>
+	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Stalactite au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Stalactite. </string>
 	<string key="artifact_wcweaponspeart2_mastername" rel_version="Event_WinterConvergence_Perm">Plan : Stalactite</string>
-	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Stalactite au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Stalactite.</string>
+	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Stalactite au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Stalactite. </string>
 	<string key="artifact_wcweaponspeart3_mastername" rel_version="Event_WinterConvergence_Perm">Plan : Stalactite</string>
-	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Stalactite au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Stalactite.</string>
+	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Stalactite au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Stalactite. </string>
 	<string key="artifact_wcweaponspeart4_mastername" rel_version="Event_WinterConvergence_Perm">Plan : Stalactite</string>
-	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Stalactite au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Stalactite.</string>
+	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Stalactite au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Stalactite. </string>
 	<string key="artifact_wcweaponspeart5_mastername" rel_version="Event_WinterConvergence_Perm">Plan : Stalactite</string>
-	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Neige brûlante au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Neige brûlante.</string>
+	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Neige brûlante au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Neige brûlante. </string>
 	<string key="Artifact_WCWeaponStaffFireT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Neige brûlante</string>
-	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Neige brûlante au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Neige brûlante.</string>
+	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Neige brûlante au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Neige brûlante. </string>
 	<string key="Artifact_WCWeaponStaffFireT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Neige brûlante</string>
-	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Neige brûlante au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Neige brûlante.</string>
+	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Neige brûlante au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Neige brûlante. </string>
 	<string key="Artifact_WCWeaponStaffFireT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Neige brûlante</string>
-	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Neige brûlante au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Neige brûlante.</string>
+	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Neige brûlante au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Neige brûlante. </string>
 	<string key="Artifact_WCWeaponStaffFireT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Neige brûlante</string>
-	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Remède hivernal au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Remède hivernal.</string>
+	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Remède hivernal au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Remède hivernal. </string>
 	<string key="Artifact_WCWeaponStaffLifeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Remède hivernal</string>
-	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Remède hivernal au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Remède hivernal.</string>
+	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Remède hivernal au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Remède hivernal. </string>
 	<string key="Artifact_WCWeaponStaffLifeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Remède hivernal</string>
-	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Remède hivernal au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Remède hivernal.</string>
+	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Remède hivernal au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Remède hivernal. </string>
 	<string key="Artifact_WCWeaponStaffLifeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Remède hivernal</string>
-	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Remède hivernal au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Remède hivernal.</string>
+	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Remède hivernal au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication de Remède hivernal. </string>
 	<string key="Artifact_WCWeaponStaffLifeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Remède hivernal</string>
-	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat de glace.</string>
+	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat de glace. </string>
 	<string key="Artifact_WCWeaponSwordT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Éclat de glace</string>
-	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat de glace.</string>
+	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat de glace. </string>
 	<string key="Artifact_WCWeaponSwordT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Éclat de glace</string>
-	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat de glace.</string>
+	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat de glace. </string>
 	<string key="Artifact_WCWeaponSwordT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Éclat de glace</string>
-	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat de glace.</string>
+	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer Éclat de glace au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication d'Éclat de glace. </string>
 	<string key="Artifact_WCWeaponSwordT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Éclat de glace</string>
-	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un traîneau festif au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du traîneau festif.</string>
+	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un traîneau festif au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du traîneau festif. </string>
 	<string key="Artifact_WCWeaponTShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Traîneau festif</string>
-	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un traîneau festif au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du traîneau festif.</string>
+	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un traîneau festif au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du traîneau festif. </string>
 	<string key="Artifact_WCWeaponTShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Traîneau festif</string>
-	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un marteau d'armes de l'hiver au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du marteau d'armes de l'hiver.</string>
+	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un marteau d'armes de l'hiver au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du marteau d'armes de l'hiver. </string>
 	<string key="Artifact_WCWeaponWarHammerT2_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Marteau d'armes de l'hiver</string>
-	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un marteau d'armes de l'hiver au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du marteau d'armes de l'hiver.</string>
+	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un marteau d'armes de l'hiver au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du marteau d'armes de l'hiver. </string>
 	<string key="Artifact_WCWeaponWarHammerT3_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Marteau d'armes de l'hiver</string>
-	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un marteau d'armes de l'hiver au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du marteau d'armes de l'hiver.</string>
+	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un marteau d'armes de l'hiver au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du marteau d'armes de l'hiver. </string>
 	<string key="Artifact_WCWeaponWarHammerT4_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Marteau d'armes de l'hiver</string>
-	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un marteau d'armes de l'hiver au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du marteau d'armes de l'hiver.</string>
+	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Ce plan est utilisé pour créer un marteau d'armes de l'hiver au poste de fabrication approprié. Il est utilisé comme ressource au cours du processus de fabrication du marteau d'armes de l'hiver. </string>
 	<string key="Artifact_WCWeaponWarHammerT5_MasterName" rel_version="Event_WinterConvergence_Perm">Plan : Marteau d'armes de l'hiver</string>
 	<string key="Artificer_Crucibles_Description">Creusets d'artisan.</string>
 	<string key="Artificer_Crucibles_MasterName">Creusets d'artisan</string>
@@ -15122,7 +15132,7 @@
 	<string key="FoodFOCT4_Description">Augmente la concentration de {[Type_StatusEffectData.FoodFOCT4.MODFocus]} pendant {[Type_StatusEffectData.FoodFOCT4.BaseDuration / 60]} minutes. Votre santé se régénère lentement pendant la durée de l'effet.</string>
 	<string key="FoodFOCT4_MasterName">Tourte à la dinde</string>
 	<string key="FoodFOCT5_Description">Augmente la concentration de {[Type_StatusEffectData.FoodFOCT5.MODFocus]} pendant {[Type_StatusEffectData.FoodFOCT5.BaseDuration / 60]} minutes. Votre santé se régénère lentement pendant la durée de l'effet.</string>
-	<string key="FoodFOCT5_MasterName">Mandje Mandje noirci sur succotash</string>
+	<string key="FoodFOCT5_MasterName">Barbeau de lave noirci sur son lit de succotash</string>
 	<string key="FoodHarvesterT1_Description">Augmente votre chance lors de la récolte de {[Type_StatusEffectData.FoodHarvesterT1.ROLharvesting]} points pendant {[Type_StatusEffectData.FoodHarvesterT1.BaseDuration / 60]} minutes. Votre santé se régénère lentement pendant la durée de l'effet.</string>
 	<string key="FoodHarvesterT1_MasterName">Maïs cuisiné</string>
 	<string key="FoodHarvesterT2_Description">Augmente votre chance lors de la récolte de {[Type_StatusEffectData.FoodHarvesterT2.ROLharvesting]} points pendant {[Type_StatusEffectData.FoodHarvesterT2.BaseDuration / 60]} minutes. Votre santé se régénère lentement pendant la durée de l'effet.</string>
@@ -15438,7 +15448,7 @@
 	<string key="GunpowderT2_Description">Sert à la fabrication de munitions d'armes à feu.</string>
 	<string key="GunpowderT2_MasterName">Poudre à canon</string>
 	<string key="KilnT5_Description">Transformez des gypses ici.</string>
-	<string key="KilnT5_MasterName">Four à gypses de palier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
+	<string key="KilnT5_MasterName">Four à gypses de palier &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;5&lt;/font&gt;</string>
 	<string key="HalibutVisceraT1_Description">Les entrailles d'un flétan.</string>
 	<string key="HalibutVisceraT1_MasterName">Viscères de flétan</string>
 	<string key="HamHockT1_Description">Un jarret bien gras, prêt à être rôti.</string>
@@ -18439,7 +18449,7 @@
 	<string key="ItemPattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Arc de dryade</string>
 	<string key="ItemPattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Bâton de feu de dryade</string>
 	<string key="ItemPattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Hachette de dryade</string>
-	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Gantelets de glace de dryade</string>
+	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Bouclier normand de dryade</string>
 	<string key="ItemPattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Bâton de vie de dryade</string>
 	<string key="ItemPattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Mousquet de dryade</string>
@@ -18456,7 +18466,7 @@
 	<string key="ItemPattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Arc de pilleur de tombes</string>
 	<string key="ItemPattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Bâton de feu de pilleur de tombes</string>
 	<string key="ItemPattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Hachette de pilleur de tombes</string>
-	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Gantelets de glace de pilleur de tombes</string>
+	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Bâton de vie de pilleur de tombes</string>
 	<string key="ItemPattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Mousquet de pilleur de tombes</string>
 	<string key="ItemPattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Rapière de pilleur de tombes</string>
@@ -18494,7 +18504,7 @@
 	<string key="ItemPattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Arc trempé</string>
 	<string key="ItemPattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Bâton de feu trempé</string>
 	<string key="ItemPattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Hachette trempée</string>
-	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Magie de glace trempée</string>
+	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Gantelets de glace trempés</string>
 	<string key="ItemPattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Bâton de vie trempé</string>
 	<string key="ItemPattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Mousquet trempé</string>
 	<string key="ItemPattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Rapière trempée</string>
@@ -24111,7 +24121,7 @@
 	<string key="Pattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Plan : Arc de dryade</string>
 	<string key="Pattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Plan : Bâton de feu de dryade</string>
 	<string key="Pattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Plan : Hachette de dryade</string>
-	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Plan : Gantelets de glace de dryade</string>
+	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Plan : </string>
 	<string key="Pattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Plan : Bouclier normand de dryade</string>
 	<string key="Pattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Plan : Bâton de vie de dryade</string>
 	<string key="Pattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Plan : Mousquet de dryade</string>
@@ -24128,7 +24138,7 @@
 	<string key="Pattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Plan : Arc de pilleur de tombes</string>
 	<string key="Pattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Plan : Bâton de feu de pilleur de tombes</string>
 	<string key="Pattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Plan : Hachette de pilleur de tombes</string>
-	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Plan : Gantelets de glace de pilleur de tombes</string>
+	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Plan : </string>
 	<string key="Pattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Plan : Bâton de vie de pilleur de tombes</string>
 	<string key="Pattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Plan : Mousquet de pilleur de tombes</string>
 	<string key="Pattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Plan : Rapière de pilleur de tombes</string>
@@ -24166,7 +24176,7 @@
 	<string key="Pattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Plan : Arc trempé</string>
 	<string key="Pattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Plan : Bâton de feu trempé</string>
 	<string key="Pattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Plan : Hachette trempée</string>
-	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Plan : Magie de glace trempée</string>
+	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Plan : Gantelets de glace trempés</string>
 	<string key="Pattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Plan : Bâton de vie trempé</string>
 	<string key="Pattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Plan : Mousquet trempé</string>
 	<string key="Pattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Plan : Rapière trempée</string>
@@ -24188,9 +24198,9 @@
 	<string key="Pattern_TempleGuards_Gauntlets" rel_version="Event_WinterConvergence_Perm">Plan : Gantelets de garde du temple</string>
 	<string key="Pattern_TempleGuards_Helm" rel_version="Event_WinterConvergence_Perm">Plan : Casque de garde du temple</string>
 	<string key="Pattern_TempleGuards_Legguards" rel_version="Event_WinterConvergence_Perm">Plan : Protège-jambes de garde du temple</string>
-	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm">Apportez ce plan à une réserve dédiée aux arts obscurs pour fabriquer un objet à l'aspect unique avec un score d'équipement de 600.</string>
+	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternForge_Desc">Apportez ce plan à une forge pour fabriquer un objet à l'aspect unique avec un score d'équipement de 600.</string>
-	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm">Apportez ce plan à un poste d'équipement pour fabriquer un objet à l'aspect unique avec un score d'équipement de 600.</string>
+	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternWorkbench_Desc" rel_version="Event_WinterConvergence_Perm">Apportez ce plan à un établi pour fabriquer un objet à l'aspect unique avec un score d'équipement de 600.</string>
 	<string key="PearlCutT1_Description">Sert à la joaillerie. Peut aussi se sertir dans une armure pour en accroître la puissance.</string>
 	<string key="pearlcutt1_mastername">Perle impure taillée</string>
@@ -26188,7 +26198,7 @@
 	<string key="Skin_AnglesDemon_WarHammer_Description" rel_version="New_World_Launch">« Laissez un châtiment maudit dans votre sillage. »</string>
 	<string key="Skin_AnglesDemon_WarHammer_MasterName" rel_version="New_World_Launch">Colère du destructeur</string>
 	<string key="skin_bow_holiday_dec21_description" rel_version="Weapon_Bow_Winter_MTX">Décorez votre proie de flèches festives et mettez un peu de magie dans vos effusions de sang.</string>
-	<string key="skin_bow_holiday_dec21_mastername" rel_version="Weapon_Bow_Winter_MTX">Arc de gui</string>
+	<string key="skin_bow_holiday_dec21_mastername" rel_version="Weapon_Bow_Winter_MTX">Arc orné de gui</string>
 	<string key="Skin_Bow_RobinHood_Description" rel_version="New_World_Launch">« Fendre une flèche en deux est une chose, fendre un ennemi en est une autre. »</string>
 	<string key="Skin_Bow_RobinHood_MasterName" rel_version="New_World_Launch">Arc de Robin des bois</string>
 	<string key="skin_bow_royalcourt_description" rel_version="Weapon_Bow_RoyalCourt">Une flèche décochée d'un arc fait d'or et d'émeraudes magnifiques blesse les ego aussi bien que les corps.</string>
@@ -26235,7 +26245,7 @@
 	<string key="skin_feet_fisherman_achv_mastername" rel_version="Apparel_Fisherman_Achv">Bottes en caoutchouc de pêcheur expert</string>
 	<string key="Skin_Feet_RobinHood_Description" rel_version="Apparel_Robin_Hood">« Une dernière chose avant que vous ne partiez... votre bourse. »</string>
 	<string key="Skin_Feet_RobinHood_MasterName" rel_version="Apparel_Robin_Hood">Chaussures Robin des bois</string>
-	<string key="Skin_Feet_SorcererHunterVar2_Description" rel_version="Apparel_SorcerorHunter_Wild">Cloaked in red and gold, the specter of the grave seeks hearts to collect.</string>
+	<string key="Skin_Feet_SorcererHunterVar2_Description" rel_version="Apparel_SorcerorHunter_Wild">Enveloppé de rouge et d'or, le spectre de la tombe est à la recherche de cœurs pour sa collection.</string>
 	<string key="Skin_Feet_SorcererHunterVar2_MasterName" rel_version="Apparel_SorcerorHunter_Wild">Semelles de l'appel de la mort</string>
 	<string key="Skin_Feet_SpecialCorruptedVar1_Description" rel_version="New_World_Launch">Fabriquée dans les forges en fusion de la grande Faille, cette incarnation de la haine s'élève, dorée et scintillante.</string>
 	<string key="Skin_Feet_SpecialCorruptedVar1_MasterName" rel_version="New_World_Launch">Bottes de colère dorées</string>
@@ -26269,7 +26279,7 @@
 	<string key="skin_hands_fisherman_achv_mastername" rel_version="Apparel_Fisherman_Achv">Gants de pêcheur expert</string>
 	<string key="Skin_Hands_RobinHood_Description" rel_version="Apparel_Robin_Hood">« Une dernière chose avant que vous ne partiez... votre bourse. »</string>
 	<string key="Skin_Hands_RobinHood_MasterName" rel_version="Apparel_Robin_Hood">Gants Robin des bois</string>
-	<string key="Skin_Hands_SorcererHunterVar2_Description" rel_version="Apparel_SorcerorHunter_Wild">Cloaked in red and gold, the specter of the grave seeks hearts to collect.</string>
+	<string key="Skin_Hands_SorcererHunterVar2_Description" rel_version="Apparel_SorcerorHunter_Wild">Enveloppé de rouge et d'or, le spectre de la tombe est à la recherche de cœurs pour sa collection.</string>
 	<string key="Skin_Hands_SorcererHunterVar2_MasterName" rel_version="Apparel_SorcerorHunter_Wild">Étreinte de l'appel de la mort</string>
 	<string key="Skin_Hands_SpecialCorruptedVar1_Description" rel_version="New_World_Launch">Fabriquée dans les forges en fusion de la grande Faille, cette incarnation de la haine s'élève, dorée et scintillante.</string>
 	<string key="Skin_Hands_SpecialCorruptedVar1_MasterName" rel_version="New_World_Launch">Gants de colère dorés</string>
@@ -26303,7 +26313,7 @@
 	<string key="Skin_Head_HideHelmet_MasterName">Coiffe en peau</string>
 	<string key="Skin_Head_RobinHood_Description" rel_version="Apparel_Robin_Hood">« Une dernière chose avant que vous ne partiez... votre bourse. »</string>
 	<string key="Skin_Head_RobinHood_MasterName" rel_version="Apparel_Robin_Hood">Casque Robin des bois</string>
-	<string key="Skin_Head_SorcererHunterVar2_Description" rel_version="Apparel_SorcerorHunter_Wild">Cloaked in red and gold, the specter of the grave seeks hearts to collect.</string>
+	<string key="Skin_Head_SorcererHunterVar2_Description" rel_version="Apparel_SorcerorHunter_Wild">Enveloppé de rouge et d'or, le spectre de la tombe est à la recherche de cœurs pour sa collection.</string>
 	<string key="Skin_Head_SorcererHunterVar2_MasterName" rel_version="Apparel_SorcerorHunter_Wild">Masque de l'appel de la mort</string>
 	<string key="Skin_Head_SpecialCorruptedVar1_Description" rel_version="New_World_Launch">Fabriquée dans les forges en fusion de la grande Faille, cette incarnation de la haine s'élève, dorée et scintillante.</string>
 	<string key="Skin_Head_SpecialCorruptedVar1_MasterName" rel_version="New_World_Launch">Casque de colère doré</string>
@@ -26381,7 +26391,7 @@
 	<string key="skin_legs_fisherman_achv_mastername" rel_version="Apparel_Fisherman_Achv">Pantalon de pêcheur expert</string>
 	<string key="skin_Legs_RobinHood_Description" rel_version="Apparel_Robin_Hood">« Une dernière chose avant que vous ne partiez... votre bourse. »</string>
 	<string key="Skin_Legs_RobinHood_MasterName" rel_version="Apparel_Robin_Hood">Pantalon Robin des bois</string>
-	<string key="Skin_Legs_SorcererHunterVar2_Description" rel_version="Apparel_SorcerorHunter_Wild">Cloaked in red and gold, the specter of the grave seeks hearts to collect.</string>
+	<string key="Skin_Legs_SorcererHunterVar2_Description" rel_version="Apparel_SorcerorHunter_Wild">Enveloppé de rouge et d'or, le spectre de la tombe est à la recherche de cœurs pour sa collection.</string>
 	<string key="Skin_Legs_SorcererHunterVar2_MasterName" rel_version="Apparel_SorcerorHunter_Wild">Pantalon de l'appel de la mort</string>
 	<string key="Skin_Legs_SpecialCorruptedVar1_Description" rel_version="New_World_Launch">Fabriquée dans les forges en fusion de la grande Faille, cette incarnation de la haine s'élève, dorée et scintillante.</string>
 	<string key="Skin_Legs_SpecialCorruptedVar1_MasterName" rel_version="New_World_Launch">Jambières de colère dorées</string>
@@ -27923,7 +27933,7 @@
 	<string key="Shard_Rapier_MasterName">Éclat de rapière intemporel</string>
 	<string key="Shard_Rapier_Description">Cette ressource peut être utilisée à une forge pour fabriquer une rapière disposant d'une caractéristique spécifique.</string>
 	<string key="Shard_Hatchet_MasterName">Éclat de hachette intemporel</string>
-	<string key="Shard_Hatchet_Description">Cette ressource peut être utilisée à un atelier pour fabriquer une hachette disposant d'une caractéristique spécifique.</string>
+	<string key="Shard_Hatchet_Description"/>
 	<string key="Shard_Bow_MasterName">Éclat d'arc intemporel</string>
 	<string key="Shard_Bow_Description">Cette ressource peut être utilisée à un atelier pour fabriquer un arc disposant d'une caractéristique spécifique.</string>
 	<string key="Shard_Musket_MasterName">Éclat de mousquet intemporel</string>
@@ -27943,7 +27953,7 @@
 	<string key="Shard_Shield_Tower_MasterName">Éclat de pavois intemporel</string>
 	<string key="Shard_Shield_Tower_Description">Cette ressource peut être utilisée à une forge pour fabriquer un pavois disposant d'une caractéristique spécifique.</string>
 	<string key="Shard_Spear_MasterName">Éclat de lance intemporel</string>
-	<string key="Shard_Spear_Description">Cette ressource peut être utilisée à un atelier pour fabriquer une lance disposant d'une caractéristique spécifique.</string>
+	<string key="Shard_Spear_Description"/>
 	<string key="Shard_Ring_MasterName">Éclat d'anneau intemporel</string>
 	<string key="Shard_Ring_Description">Cette ressource peut être utilisée à un poste d'équipement pour fabriquer un anneau disposant d'une caractéristique spécifique.</string>
 	<string key="Shard_Amulet_MasterName">Éclat d'amulette intemporel</string>
@@ -27957,5 +27967,17 @@
 	<string key="EarringDropT5_MasterName">Vieille boucle d'oreille</string>
 	<string key="RingDropT5_MasterName">Vieil anneau</string>
 	<string key="AmuletDropT5_MasterName">Vieille amulette</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_MasterName" rel_version="Twitch_EpicStory_Skins">Manteau de Nynaeve</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_Description" rel_version="Twitch_EpicStory_Skins">Écoutez le vent, car lui seul porte la véritable sagesse.</string>
+	<string key="Skin_Chest_WoT_RedScarf_MasterName" rel_version="Twitch_EpicStory_Skins">Cape de l'Ajah rouge</string>
+	<string key="Skin_Chest_WoT_RedScarf_Description" rel_version="Twitch_EpicStory_Skins">Cette couleur sert d'avertissement à ceux qui chercheraient à faire le mal.</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_MasterName" rel_version="Twitch_EpicStory_Skins">Enfants de la Lumière</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_Description" rel_version="Twitch_EpicStory_Skins">Une robe d'ivoire peut parfois cacher les véritables intentions de la personne qui la porte.</string>
+	<string key="Skin_Chest_WoT_BrownCloak_MasterName" rel_version="Twitch_EpicStory_Skins">Manteau d'Egwene</string>
+	<string key="Skin_Chest_WoT_BrownCloak_Description" rel_version="Twitch_EpicStory_Skins">Seuls les plus doués peuvent emprunter la voie de la magie.</string>
+	<string key="Skin_Rapier_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Lame de Tam</string>
+	<string key="Skin_Rapier_WoT_Description" rel_version="Twitch_EpicStory_Skins">Aussi belle que mortelle, c'est l'arme d'un véritable gardien.</string>
+	<string key="Skin_Longsword_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Lame d'engeance de l'Ombre</string>
+	<string key="Skin_Longsword_WoT_Description" rel_version="Twitch_EpicStory_Skins">La griffe redoutable d'un terrible seigneur des ténèbres.</string>
 </resources>
 

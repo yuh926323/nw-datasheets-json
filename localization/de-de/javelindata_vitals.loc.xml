@@ -3008,7 +3008,6 @@
 	<string key="Ghost_Shipwrecked_Named_DG_Windsward_00_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Irrer McKenzie</string>
 	<string key="Ghost_Shipwrecked_VitalsName" comment="BASE" speaker="Vitals Sheet">Ertrunkenes Gespenst</string>
 	<string key="Ghost_Starved_08QP07_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Himmelssang-Hungergeist</string>
-	<string key="Ghost_Starved_10WS07_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Schlammgeist</string>
 	<string key="Ghost_Starved_13WF08a_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Periheim-Hungergeist</string>
 	<string key="Ghost_Starved_22_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Ausgehungerter Geist</string>
 	<string key="Ghost_Starved_22_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Verhungerter Geist</string>
@@ -4132,11 +4131,19 @@
 	<string key="Swamp_Fiend_VitalsName" comment="BASE" speaker="Vitals Sheet">Sumpfunhold</string>
 	<string key="Target_Dummy_Armored_VitalsName" comment="BASE" speaker="Vitals Sheet">Gepanzerte Übungsattrappe</string>
 	<string key="Target_Dummy_Boss_VitalsName" comment="BASE" speaker="Vitals Sheet">Boss Hurley</string>
+	<string key="Target_Dummy_Boss5_VitalsName" comment="BASE" speaker="Vitals Sheet">Boss Smol</string>
+	<string key="Target_Dummy_Boss10_VitalsName" comment="BASE" speaker="Vitals Sheet">Boss Hall</string>
+	<string key="Target_Dummy_Boss25_VitalsName" comment="BASE" speaker="Vitals Sheet">Boss Gee</string>
+	<string key="Target_Dummy_Boss35_VitalsName" comment="BASE" speaker="Vitals Sheet">Boss Schlagtreter</string>
+	<string key="Target_Dummy_Boss45_VitalsName" comment="BASE" speaker="Vitals Sheet">Boss Trittschläger</string>
+	<string key="Target_Dummy_Boss55_VitalsName" comment="BASE" speaker="Vitals Sheet">Boss Krustian Steinbruch</string>
 	<string key="Target_Dummy_OneMillion_VitalsName" comment="BASE" speaker="Vitals Sheet">Übungsattrappe mit 1 Mio. GES</string>
 	<string key="Target_Dummy_VitalsName" comment="BASE" speaker="Vitals Sheet">Übungsattrappe</string>
 	<string key="Target_Dummy_CC_VitalsName" comment="BASE" speaker="Vitals Sheet">Gruppenkontrolle-Übungsattrappe</string>
 	<string key="Target_Dummy_GRIT_VitalsName" comment="BASE" speaker="Vitals Sheet">Mut-Übungsattrappe</string>
 	<string key="Target_Dummy_Patrol_VitalsName" comment="BASE" speaker="Vitals Sheet">Patrouillierende Übungsattrappe</string>
+	<string key="Target_Dummy_Light_Attack_VitalsName" comment="BASE" speaker="Vitals Sheet">Leichter Angriff - Übungsattrappe</string>
+	<string key="Target_Dummy_Heavy_Attack_VitalsName" comment="BASE" speaker="Vitals Sheet">Schwerer Angriff - Übungsattrappe</string>
 	<string key="Tendril_Corruption_03GC03_ELITE_VitalsName" comment="ELITE Level Variant" speaker="Vitals Sheet">Entweihter Tendril</string>
 	<string key="Tendril_Corruption_04NW06b_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ranke der Verderbnis</string>
 	<string key="Tendril_Corruption_08QP02_VitalsName" comment="BASE" speaker="Vitals Sheet">Ranke der Verderbnis</string>
@@ -4215,8 +4222,8 @@
 	<string key="Turkey_10WS02_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Sierra-Federvieh</string>
 	<string key="Turkey_10WS03_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Sierra-Federvieh</string>
 	<string key="Turkey_11_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Truthahn</string>
-	<string key="Turkey_11MD01_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Klagendes Fohlen</string>
-	<string key="Turkey_11MD02_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Klagendes Fohlen</string>
+	<string key="Turkey_11MD01_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Klagen-Truthahn</string>
+	<string key="Turkey_11MD02_VitalsName" comment="Mission Target Display Name" speaker="Vitals Sheet">Klagen-Truthahn</string>
 	<string key="Turkey_12_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Truthahn</string>
 	<string key="Turkey_13_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Truthahn</string>
 	<string key="Turkey_14_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Truthahn</string>
@@ -5730,7 +5737,7 @@
 	<string key="VC_Corruption_Entity_Named_00" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Tiefengruben-Abscheulichkeit</string>
 	<string key="VC_Corruption_Heavy" comment="BASE" speaker="VitalsCategory Sheet">Verderbter Grobian</string>
 	<string key="VC_Corruption_Heavy_03GC03_ELITE" comment="ELITE Level Variant" speaker="Vitals Sheet">Entweihte Schildwache</string>
-	<string key="VC_Corruption_Heavy_07SM02_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Brandader-Zuchtmeister</string>
+	<string key="VC_Corruption_Heavy_07SM02_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Brandader-Vorratswache</string>
 	<string key="VC_Corruption_Heavy_07SM06" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Düsterheim-Zenturio</string>
 	<string key="VC_Corruption_Heavy_07SM06_DARKNESS" comment="Darkness" speaker="VitalsCategory Sheet">Düsterheim-Torwache</string>
 	<string key="VC_Corruption_Heavy_07SM06_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Düsterheim-Zenturio</string>
@@ -5894,6 +5901,7 @@
 	<string key="VC_damned_1h_swordsman_m-f_58" comment="Mission Target Display Name" speaker="VitalsCategory">Verderbter Söldner</string>
 	<string key="VC_Damned_1H_Swordsman_M-F_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Schärenklingen-Söldner</string>
 	<string key="VC_Damned_1H_Swordsman_M-F_MSQ_35" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Faulfutter-Duellant</string>
+	<string key="VC_Damned_2H_Spearman_M-F" comment="ELITE Level Variant" speaker="Vitals Sheet">Verderbter Lanzenträger</string>
 	<string key="VC_Damned_2H_Spearman_M-F_03GC03_ELITE" comment="ELITE Level Variant" speaker="Vitals Sheet">Entweihter Lanzenträger</string>
 	<string key="VC_Damned_2H_Spearman_M-F_07SM02b_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Brandader-Vollstrecker</string>
 	<string key="VC_Damned_2H_Spearman_M-F_07SM06a_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Düsterheim-Schädelgreifer</string>
@@ -6050,6 +6058,7 @@
 	<string key="VC_Damned_GreatAxeman_M-F_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Verderbter Zerstörer Silas</string>
 	<string key="VC_Damned_Greataxeman_M-F_Named_FR_Mar_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Verderbter Zerstörer Silas</string>
 	<string key="VC_Damned_GreatHammer_Named_01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Meisterschmied McCoy</string>
+	<string key="VC_Damned_Grunt" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Verderbte Abscheulichkeit</string>
 	<string key="VC_Damned_Grunt_07SM05b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Illurmin-Lauerer</string>
 	<string key="VC_Damned_Grunt_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Schärenklingen-Schläger</string>
 	<string key="VC_Damned_Hound_03GC06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Frontwacht-Wachhund</string>
@@ -7109,7 +7118,7 @@
 	<string key="VC_Dynasty_Spearman_Named_08QP02" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Dimethicon</string>
 	<string key="VC_Dynasty_Spearman_Named_08QP03" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Kapitän Lu Ten</string>
 	<string key="VC_Dynasty_Spearman_Named_08QP07" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Cedral</string>
-	<string key="VC_Dynasty_Spearman_Named_08QP08" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Morgolf</string>
+	<string key="VC_Dynasty_Spearman_Named_08QP08" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Zuchtmeister Morgolf</string>
 	<string key="VC_Dynasty_Spearman_Named_DG_Ebonscale_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Lanzenträger Chiu</string>
 	<string key="VC_Dynasty_Summoner_03GC03_ELITE" comment="ELITE Level Variant" speaker="Vitals Sheet">Entweihter Gesandter</string>
 	<string key="VC_Dynasty_Summoner_08QP01a" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Karawanenbeschwörer</string>
@@ -7523,7 +7532,6 @@
 	<string key="VC_Ghost_Starved_05WC07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Bleichholz-Hungergeist</string>
 	<string key="VC_Ghost_Starved_08QP07" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Himmelssang-Hungergeist</string>
 	<string key="VC_Ghost_Starved_09FL10" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Ebenholzfalken-Hungergeist</string>
-	<string key="VC_Ghost_Starved_10WS07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Schlammgeist</string>
 	<string key="VC_Ghost_Starved_11MD00d" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Seelied-Hungergeist</string>
 	<string key="VC_Ghost_Starved_13WF" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Webermoor-Hungergeist</string>
 	<string key="VC_Ghost_Starved_13WF01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Schuft-Hungergeist</string>
@@ -7719,7 +7727,7 @@
 	<string key="VC_Mallory" comment="BASE" speaker="VitalsCategory Sheet">Mallory</string>
 	<string key="VC_malocchio" comment="Mission Target Display Name" speaker="VitalsCategory">Malocchio</string>
 	<string key="VC_Marooned" comment="BASE" speaker="VitalsCategory Sheet">Abseits</string>
-	<string key="VC_Mindstruck" comment="BASE" speaker="VitalsCategory Sheet">Erstaunt</string>
+	<string key="VC_Mindstruck" comment="BASE" speaker="VitalsCategory Sheet">Erstaunte</string>
 	<string key="VC_Minnow" comment="BASE" speaker="VitalsCategory Sheet">Bitterfisch</string>
 	<string key="VC_Mireblaze" comment="BASE" speaker="VitalsCategory Sheet">Sumpffeuer</string>
 	<string key="VC_Miststride" comment="BASE" speaker="VitalsCategory Sheet">Nebelschritt</string>
@@ -8989,10 +8997,10 @@
 	<string key="VC_Turkey_10WS02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Sierra-Federvieh</string>
 	<string key="VC_Turkey_10WS03" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Sierra-Federvieh</string>
 	<string key="VC_Turkey_11" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Wilder Truthahn</string>
-	<string key="VC_Turkey_11MD01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Klagendes Fohlen</string>
-	<string key="VC_Turkey_11MD02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Klagendes Fohlen</string>
+	<string key="VC_Turkey_11MD01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Klagen-Truthahn</string>
+	<string key="VC_Turkey_11MD02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Klagen-Truthahn</string>
 	<string key="VC_Turkey_11MD07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Widderkopf-Federvieh</string>
-	<string key="VC_Turkey_11MD10" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Klagendes Fohlen</string>
+	<string key="VC_Turkey_11MD10" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Klagen-Truthahn</string>
 	<string key="VC_Turkey_12" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Wilder Truthahn</string>
 	<string key="VC_Turkey_12MB01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">"Aufstieg der Korsaren"-Truthahn</string>
 	<string key="VC_Turkey_12MB02" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Himmelfahrt-Truthahn</string>
@@ -10651,5 +10659,33 @@
 	<string key="Yeti_Named_14AC18_VitalsName" comment="Named Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Juna</string>
 	<string key="Yeti_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet" rel_version="Event_WinterConvergence_Perm">Der Winterkrieger</string>
 	<string key="Yonas_MSQ_VitalsName" comment="MSQ" speaker="Vitals Sheet">Yonas der Verderbte</string>
+	<string key="VC_Ghost_Shipwrecked_RE1" comment="Mission Target Display Name" speaker="Vitals Category">Ätherisches Kind</string>
+	<string key="VC_Ghost_Shipwrecked_RE2" comment="Mission Target Display Name" speaker="Vitals Category">Rachsüchtige Mutter</string>
+	<string key="VC_Ghost_Shipwrecked_RE1_Named" comment="Mission Target Display Name" speaker="Vitals Category">Buster der Untote</string>
+	<string key="VC_Ghost_Shipwrecked_RE2_Named" comment="Mission Target Display Name" speaker="Vitals Category">Sicilia die Untote</string>
+	<string key="VC_Ghost_Shipwrecked_RE3_Named" comment="Mission Target Display Name" speaker="Vitals Category">Frederic der Untote</string>
+	<string key="VC_Undead_GraveDigger_RE1" comment="Mission Target Display Name" speaker="Vitals Category">Klagender Vater</string>
+	<string key="Ghost_Shipwrecked_RE1_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Ätherisches Kind</string>
+	<string key="Ghost_Shipwrecked_RE2_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Rachsüchtige Mutter</string>
+	<string key="Ghost_Shipwrecked_RE1_Named_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Buster der Untote</string>
+	<string key="Ghost_Shipwrecked_RE2_Named_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Sicilia die Untote</string>
+	<string key="Ghost_Shipwrecked_RE3_Named_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Frederic der Untote</string>
+	<string key="Undead_GraveDigger_RE1_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Klagender Vater</string>
+	<string key="VC_Undead_GraveDigger_RE2" comment="Mission Target Display Name" speaker="Vitals Category">Frederic der Abscheuliche</string>
+	<string key="VC_Undead_Hunter_RE1" comment="Mission Target Display Name" speaker="Vitals Category">Sicilia die Eiskalte</string>
+	<string key="VC_Undead_Bloated_Corpse_RE1" comment="Mission Target Display Name" speaker="Vitals Category">Buster der Aufgequollene</string>
+	<string key="Undead_GraveDigger_RE2_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Frederic der Abscheuliche</string>
+	<string key="Undead_Hunter_RE1_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Sicilia die Eiskalte</string>
+	<string key="Undead_Bloated_Corpse_RE1_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Buster der Aufgequollene</string>
+	<string key="VC_Damned_Hound_Named_MD_Digby" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Digbys Hund</string>
+	<string key="VC_Damned_Villager_Hammer_Named_Digby" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Digby-Bande</string>
+	<string key="VC_Damned_Rifleman_MD_Named_Digby" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Digby Stockburn</string>
+	<string key="Damned_Hound_Named_MD_Digby_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Digbys Hund</string>
+	<string key="Damned_Villager_Hammer_Named_Digby_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Digby-Bande</string>
+	<string key="Damned_Rifleman_MD_Named_Digby_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Digby Stockburn</string>
+	<string key="Damned_Rifleman_MD_Named_Coy_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Coys Vollstrecker</string>
+	<string key="VC_Damned_Rifleman_MD_Named_Coy" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Coys Vollstrecker</string>
+	<string key="Damned_Cultist_GC_1132_Named_Coy_VitalsName" comment="Generic Level Variant" speaker="Vitals Sheet">Stonefirth Coy</string>
+	<string key="VC_Damned_Cultist_GC_1132_Coy" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Stonefirth Coy</string>
 </resources>
 

@@ -8,6 +8,7 @@
 	<string key="GypsumYellow_MasterName">Topas-Gips</string>
 	<string key="GypsumOrange_MasterName">Zitrin-Gips</string>
 	<string key="GypsumPurple_MasterName">Amethyst-Gips</string>
+	<string key="GypsumWhite_MasterName"/>
 	<string key="GypsumOrb_MasterName">Gipskugel</string>
 	<string key="GypsumRed_Description">Ein weiches, leicht formbares Mineral. Veredle dies im Gips-Ofen zu einer Gipskugel.</string>
 	<string key="GypsumBlue_Description">Ein weiches, leicht formbares Mineral. Veredle dies im Gips-Ofen zu einer Gipskugel.</string>
@@ -16,6 +17,7 @@
 	<string key="GypsumYellow_Description">Ein weiches, leicht formbares Mineral. Veredle dies im Gips-Ofen zu einer Gipskugel.</string>
 	<string key="GypsumOrange_Description">Ein weiches, leicht formbares Mineral. Veredle dies im Gips-Ofen zu einer Gipskugel.</string>
 	<string key="GypsumPurple_Description">Ein weiches, leicht formbares Mineral. Veredle dies im Gips-Ofen zu einer Gipskugel.</string>
+	<string key="GypsumWhite_Description">Ein weiches, leicht formbares Mineral. Veredle dies im Gips-Ofen zu einer Gipskugel.</string>
 	<string key="GypsumOrb_Description">Eine glatte Kugel aus Gips. Forme daraus an einem Gips-Ofen einen Gegenstandsabguss.</string>
 	<string key="CastGypsum_Head_MasterName">Gipsabguss: Kopfbedeckung</string>
 	<string key="CastGypsum_Chest_MasterName">Gipsabguss: Brustpanzer</string>
@@ -46,7 +48,7 @@
 	<string key="CastGypsum_Sword_Description">Ein Gipsabguss für ein Schwert. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
 	<string key="CastGypsum_GreatAxe_Description">Ein Gipsabguss für eine Streitaxt. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
 	<string key="CastGypsum_WarHammer_Description">Ein Gipsabguss für einen Kriegshammer. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
-	<string key="CastGypsum_Rapier_Description">Ein Gipsabguss für einen Rapier. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
+	<string key="CastGypsum_Rapier_Description">Ein Gipsabguss für ein Rapier. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
 	<string key="CastGypsum_Hatchet_Description">Ein Gipsabguss für ein Beil. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
 	<string key="CastGypsum_Bow_Description">Ein Gipsabguss für einen Bogen. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
 	<string key="CastGypsum_Musket_Description">Ein Gipsabguss für eine Muskete. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
@@ -57,8 +59,8 @@
 	<string key="CastGypsum_Shield_Description">Ein Gipsabguss für einen Schild. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
 	<string key="CastGypsum_Spear_Description">Ein Gipsabguss für einen Speer. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
 	<string key="CastGypsum_Ring_Description">Ein Gipsabguss für einen Ring. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
-	<string key="CastGypsum_Amulet_Description">Ein Gipsabguss für ein Amulett. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
-	<string key="CastGypsum_Earring_Description">Ein Gipsabguss für einen Ohrring. Brich den Abguss auf und finde heraus, was drinnen ist.</string>
+	<string key="CastGypsum_Amulet_Description"> Brich den Abguss auf und finde heraus, was drinnen ist.</string>
+	<string key="CastGypsum_Earring_Description"> Brich den Abguss auf und finde heraus, was drinnen ist.</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_Description" comment="NA-Basic">Ein Bauplan, anhand dessen du ein Möbelstück herstellen kannst. Zerlege den Bauplan, um ihn zu erlernen.</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_MasterName" comment="NA-Basic">Bauplan: Niedriger Apothekerschrank</string>
 	<string key="Schematic_House_HousingItem_Appr_Winecask_Indoor_Description" comment="NA-Basic">Ein Bauplan, anhand dessen du ein Möbelstück herstellen kannst. Zerlege den Bauplan, um ihn zu erlernen.</string>
@@ -152,11 +154,11 @@
 	<string key="Schematic_House_HousingItem_Settler_Bookcase02_D_Description" comment="Set-01-Settler">Ein Bauplan, anhand dessen du ein Möbelstück herstellen kannst. Zerlege den Bauplan, um ihn zu erlernen.</string>
 	<string key="Schematic_House_HousingItem_Settler_Bookcase02_D_MasterName" comment="Set-01-Settler">Bauplan: Großes Mahagoni-Bücherregal</string>
 	<string key="Schematic_House_HousingItem_Settler_Cabinet01_B_Description" comment="Set-01-Settler">Ein Bauplan, anhand dessen du ein Möbelstück herstellen kannst. Zerlege den Bauplan, um ihn zu erlernen.</string>
-	<string key="Schematic_House_HousingItem_Settler_Cabinet01_B_MasterName" comment="Set-01-Settler">Bauplan: Ahorn-Schubladentruhe</string>
+	<string key="Schematic_House_HousingItem_Settler_Cabinet01_B_MasterName" comment="Set-01-Settler">Bauplan: Ahorn-Beischrank</string>
 	<string key="Schematic_House_HousingItem_Settler_Cabinet01_C_Description" comment="Set-01-Settler">Ein Bauplan, anhand dessen du ein Möbelstück herstellen kannst. Zerlege den Bauplan, um ihn zu erlernen.</string>
-	<string key="Schematic_House_HousingItem_Settler_Cabinet01_C_MasterName" comment="Set-01-Settler">Bauplan: Eichen-Schubladentruhe</string>
+	<string key="Schematic_House_HousingItem_Settler_Cabinet01_C_MasterName" comment="Set-01-Settler">Bauplan: Eichen-Beischrank</string>
 	<string key="Schematic_House_HousingItem_Settler_Cabinet01_D_Description" comment="Set-01-Settler">Ein Bauplan, anhand dessen du ein Möbelstück herstellen kannst. Zerlege den Bauplan, um ihn zu erlernen.</string>
-	<string key="Schematic_House_HousingItem_Settler_Cabinet01_D_MasterName" comment="Set-01-Settler">Bauplan: Mahagoni-Schubladentruhe</string>
+	<string key="Schematic_House_HousingItem_Settler_Cabinet01_D_MasterName" comment="Set-01-Settler">Bauplan: Mahagoni-Beischrank</string>
 	<string key="Schematic_House_HousingItem_Settler_Cabinet02_B_Description" comment="Set-01-Settler">Ein Bauplan, anhand dessen du ein Möbelstück herstellen kannst. Zerlege den Bauplan, um ihn zu erlernen.</string>
 	<string key="Schematic_House_HousingItem_Settler_Cabinet02_B_MasterName" comment="Set-01-Settler">Bauplan: Ahorn-Schrank</string>
 	<string key="Schematic_House_HousingItem_Settler_Cabinet02_C_Description" comment="Set-01-Settler">Ein Bauplan, anhand dessen du ein Möbelstück herstellen kannst. Zerlege den Bauplan, um ihn zu erlernen.</string>
@@ -1453,6 +1455,14 @@
 	<string key="1128_Sword_Description">Eine stabile und grausam scharfe Klinge.</string>
 	<string key="1130_SensouNoKo">Sensou no Ko</string>
 	<string key="1130_SensouNoKo_Description">Die breite Klinge dieser Waffe schimmert vor Niedertracht. Ölige Muster auf der Schneide geben etwas preis, das an Tausende Gesichter erinnert, die vor Qualen schreien.</string>
+	<string key="1132_Peacemaker">Großvaters Donnerbüchse "Friedensstifter"</string>
+	<string key="1132_Peacemaker_Description">Die berühmte Lösung für Grenzprobleme der Gingham-Familie.</string>
+	<string key="1132_Stock">Großvaters Donnerbüchsenschaft</string>
+	<string key="1132_Stock_Description">Im Laufe der Zeit und durch den Gebrauch geglättet und voller Pulverbrandmale.</string>
+	<string key="1132_Mechanism">Großvaters Donnerbüchsenmechanismus</string>
+	<string key="1132_Mechanism_Description">Gut geölt, unkompliziert, aber äußerst effektiv.</string>
+	<string key="1132_Barrel">Großvaters Donnerbüchsenlauf</string>
+	<string key="1132_Barrel_Description">Ein gewölbter Glattlauf. Alt, aber gut gepflegt.</string>
 	<string key="1130_SensouNoKo2">Sensou no Ko</string>
 	<string key="1130_SensouNoKo2_Description">Diese böse Klinge ist geradezu grausam scharf. Dieses Meisterwerk zu führen, erfüllt dich mit einem Gefühl von Stärke.</string>
 	<string key="1201_0104_ShipsFlag_Description">Eine Flagge von einem verlassenen Wrack. [Missionsgegenstand]</string>
@@ -3389,7 +3399,7 @@
 	<string key="1hRapier_AncientYardstickT2_MasterName">Maßstab der Ahnen</string>
 	<string key="1hRapier_ArchaicRapierT3_Description">Eine Belohnung von Antiquarin Pajitnova für die Beschaffung des Antiquariatsmonokels.</string>
 	<string key="1hRapier_ArchaicRapierT3_MasterName">Altertümliches Rapier</string>
-	<string key="1hRapier_ArchmagesSteelWandT4_Description">"Der Erzmagier verzauberte seinen Rapier mit solcher Magie, dass er zu einem lebendigen Fokus für arkane Energien wurde."</string>
+	<string key="1hRapier_ArchmagesSteelWandT4_Description">"Der Erzmagier verzauberte sein Rapier mit solcher Magie, dass es zu einem lebendigen Fokus für arkane Energien wurde."</string>
 	<string key="1hRapier_ArchmagesSteelWandT4_MasterName">Stahlstab des Erzmagiers</string>
 	<string key="1hRapier_AssassinationBladeT5_Description">"Mir ist es gleich, ob ich Königen oder Königinnen das Licht ausknipse. Solange Münzen in meinem Geldbeutel klingeln, töte ich jeden."</string>
 	<string key="1hRapier_AssassinationBladeT5_MasterName">Meuchelmörderklinge</string>
@@ -3407,8 +3417,8 @@
 	<string key="1hRapier_BladeofaThousandCutsT5_MasterName">Klinge der tausend Schnitte</string>
 	<string key="1hRapier_BladeoftheLostDuelistT3_Description">"Zu Lebzeiten war er so mutig, dass ihn nur wenige herausfordern konnten. Dasselbe Schicksal muss er nun im Totenreich erdulden."</string>
 	<string key="1hRapier_BladeoftheLostDuelistT3_MasterName">Klinge eines vergessenen Duellant</string>
-	<string key="1hRapier_BlazingRapierT4_Description">"Wenn der Rapier aus der Scheide gezogen wird, entflammt seine Klinge."</string>
-	<string key="1hRapier_BlazingRapierT4_MasterName">Lodernder Rapier</string>
+	<string key="1hRapier_BlazingRapierT4_Description">"Wenn das Rapier aus der Scheide gezogen wird, entflammt seine Klinge."</string>
+	<string key="1hRapier_BlazingRapierT4_MasterName">Loderndes Rapier</string>
 	<string key="1hRapier_BlightprickT5_Description">"Ein einziger Tropfen Fäulnis bringt jeden um."</string>
 	<string key="1hRapier_BlightprickT5_MasterName">Fäulnispicker</string>
 	<string key="1hRapier_BloodfeastT5_Description">"Trinke das Blut deiner Feinde."</string>
@@ -3424,18 +3434,18 @@
 	<string key="1hRapier_CherishedMemoryT4_Description">"Egal, was zwischen uns vorfallen wird, ich werde dich immer als liebenswerte Person in Erinnerung behalten."</string>
 	<string key="1hRapier_CherishedMemoryT4_MasterName">Glückliche Erinnerungen</string>
 	<string key="1hRapier_ClothAdornedRapierT2_Description">"Seidenfäden wehen am Griff des Rapiers. Diese wunderschöne Waffe ist so elegant wie tödlich."</string>
-	<string key="1hRapier_ClothAdornedRapierT2_MasterName">Stoffverzierter Rapier</string>
-	<string key="1hRapier_CoalescedVoidRapierT5_Description">"Der Rapier scheint ein lebendiges Wesen zu sein, das aus gefestigter Unheilsenergie besteht."</string>
-	<string key="1hRapier_CoalescedVoidRapierT5_MasterName">Verwachsener Unheilsrapier</string>
+	<string key="1hRapier_ClothAdornedRapierT2_MasterName">Stoffverziertes Rapier</string>
+	<string key="1hRapier_CoalescedVoidRapierT5_Description">"Das Rapier scheint ein lebendiges Wesen zu sein, das aus gefestigter Unheilsenergie besteht."</string>
+	<string key="1hRapier_CoalescedVoidRapierT5_MasterName">Verwachsenes Unheilsrapier</string>
 	<string key="1hRapier_ConsecratedRapierT4_Description">"Gesegnet sei die Klinge und wer auch immer sie führt."</string>
-	<string key="1hRapier_ConsecratedRapierT4_MasterName">Geweihter Rapier</string>
+	<string key="1hRapier_ConsecratedRapierT4_MasterName">Geweihtes Rapier</string>
 	<string key="1hRapier_ContritionT4_Description">Wir können niemals von allen Sünden reingewaschen werden.</string>
 	<string key="1hRapier_ContritionT4_MasterName">Reue</string>
-	<string key="1hRapier_CovenantAdjudicatorsRapierT5_Description">"Der Rapier ist für die ruhmreichsten Richter des Bündnisses bestimmt."</string>
+	<string key="1hRapier_CovenantAdjudicatorsRapierT5_Description">"Das Rapier ist für die ruhmreichsten Richter des Bündnisses bestimmt."</string>
 	<string key="1hRapier_CovenantAdjudicatorsRapierT5_MasterName">Rapier des Bündnisrichters</string>
 	<string key="1hRapier_CovenantDefendersRapierT2_Description">Ein Rapier für Neumitglieder des Bündnisses.</string>
 	<string key="1hRapier_CovenantDefendersRapierT2_MasterName">Templerrapier des Bündnisses</string>
-	<string key="1hRapier_CovenantDefendersRapierT3_Description">"Der Rapier ist für die Anhänger des Bündnisses bestimmt, die ihrer Sache loyal dienen."</string>
+	<string key="1hRapier_CovenantDefendersRapierT3_Description">"Das Rapier ist für die Anhänger des Bündnisses bestimmt, die ihrer Sache loyal dienen."</string>
 	<string key="1hRapier_CovenantDefendersRapierT3_MasterName">Bewahrer-Rapier des Bündnisses</string>
 	<string key="1hRapier_CovenantRank1_Description">Ein hochwertiges Rapier für neue Novizen des Bündnisses.</string>
 	<string key="1hRapier_CovenantRank1_MasterName">Novizenrapier des Bündnisses</string>
@@ -3447,7 +3457,7 @@
 	<string key="1hRapier_CovenantRank4_MasterName">Luminusrapier des Bündnisses</string>
 	<string key="1hRapier_CovenantRank5_Description">Ein hochwertiges Rapier für Bündnisrichter.</string>
 	<string key="1hRapier_CovenantRank5_MasterName">Richterrapier des Bündnisses</string>
-	<string key="1hRapier_CovenantTemplarsRapierT4_Description">"Der Rapier ist den eifrigsten Anhängern des Bündnisses vorbehalten, die dem Bündnis mit ihren Taten Ruhm und Ehre brachten."</string>
+	<string key="1hRapier_CovenantTemplarsRapierT4_Description">"Das Rapier ist den eifrigsten Anhängern des Bündnisses vorbehalten, die dem Bündnis mit ihren Taten Ruhm und Ehre brachten."</string>
 	<string key="1hRapier_CovenantTemplarsRapierT4_MasterName">Templer-Rapier des Bündnisses</string>
 	<string key="1hRapier_CovenantTemplarsRapierT4a_Description">Ein Rapier für Angehörige des Bündnisses, die den Rang des Templers erreicht haben.</string>
 	<string key="1hRapier_CovenantTemplarsRapierT4a_MasterName">Templerrapier des Bündnisses</string>
@@ -3479,13 +3489,13 @@
 	<string key="1hRapier_EnchantedSabreT2_Description">"Ein Magier hat das Metall verzaubert, bevor es geschmiedet wurde. Die so entstandene Waffe ist magisch aufgeladen und ist für alles und jeden eine Gefahr."</string>
 	<string key="1hRapier_EnchantedSabreT2_MasterName">Verzauberter Säbel</string>
 	<string key="1hRapier_EnergizedAncientRapierT5_Description">"Die Klinge beginnt zu singen, wenn sie auf Metall trifft."</string>
-	<string key="1hRapier_EnergizedAncientRapierT5_MasterName">Energetischer Rapier der Ahnen</string>
+	<string key="1hRapier_EnergizedAncientRapierT5_MasterName">Energetisches Rapier der Ahnen</string>
 	<string key="1hRapier_EntreeT5_Description">Seine vielen Träger glaubten, dass eine Schlacht ein anmutiger Tanz sei.</string>
 	<string key="1hRapier_EntreeT5_MasterName">Vorspeise</string>
 	<string key="1hRapier_EtherealConduitT3_Description">"Die Waffe scheint Geist regelrecht anzuziehen."</string>
 	<string key="1hRapier_EtherealConduitT3_MasterName">Himmlischer Leiter</string>
 	<string key="1hRapier_FaeforgedRapierT2_Description">"Leicht und von unbändiger Stärke."</string>
-	<string key="1hRapier_FaeforgedRapierT2_MasterName">Feengeschmiedeter Rapier</string>
+	<string key="1hRapier_FaeforgedRapierT2_MasterName">Feengeschmiedetes Rapier</string>
 	<string key="1hRapier_FallenStarT4_Description">"Die Waffe wurde aus den Resten eines Sterns geschmiedet, der auf die Erde fiel. Sie glimmt mit einem sehr fremdartigen Licht."</string>
 	<string key="1hRapier_FallenStarT4_MasterName">Gefallener Stern</string>
 	<string key="1hRapier_FaysCovenantT5_Description">"Möge der Träger dieses Rapiers über die Gaben dieses Landes wachen und es vor denen beschützen, die versuchen, es aus dem Gleichgewicht zu bringen."</string>
@@ -3518,7 +3528,7 @@
 	<string key="1hRapier_ForeverFrostT5_MasterName">Ewiger Frost</string>
 	<string key="1hRapier_ForeverMourningT4_Description">"Wir haben so viele Freunde verloren. Wie viele werden wir noch verlieren?"</string>
 	<string key="1hRapier_ForeverMourningT4_MasterName">Ewige Trauer</string>
-	<string key="1hRapier_ForgottenCompetitionRapierT2_Description">"Das Duellieren ist ein erstaunlich beliebter Zeitvertreib auf Aeternum. Einst erlitt ein Duellant eine so schwere Niederlage, dass er das Dorf verließ und nur seinen Rapier zurückließ."</string>
+	<string key="1hRapier_ForgottenCompetitionRapierT2_Description">"Das Duellieren ist ein erstaunlich beliebter Zeitvertreib auf Aeternum. Einst erlitt ein Duellant eine so schwere Niederlage, dass er das Dorf verließ und nur sein Rapier zurückließ."</string>
 	<string key="1hRapier_ForgottenCompetitionRapierT2_MasterName">Rapier eines vergessenen Wettkampfs</string>
 	<string key="1hRapier_ForgottenRemnantT5_Description">"Streife ab, was oder wer du einmal warst. Du gehörst jetzt Aeternum."</string>
 	<string key="1hRapier_ForgottenRemnantT5_MasterName">Vergessenes Überbleibsel</string>
@@ -3528,10 +3538,10 @@
 	<string key="1hRapier_FriendofDarknessT4_MasterName">Düsterfreund</string>
 	<string key="1hRapier_FrozenLamentT5_Description">Ich weinte stundenlang, als ich von ihrem Tod erfuhr.</string>
 	<string key="1hRapier_FrozenLamentT5_MasterName">Gefrorenes Leid</string>
-	<string key="1hRapier_GlacialShardT3_Description">"Der eiskalte Rapier wurde einem Gletscher im Permafrost entrissen. Er friert alles und jeden ein, der am falschen Ende der Waffe steht."</string>
+	<string key="1hRapier_GlacialShardT3_Description">"Das eiskalte Rapier wurde einem Gletscher im Permafrost entrissen. Es friert alles und jeden ein, der am falschen Ende der Waffe steht."</string>
 	<string key="1hRapier_GlacialShardT3_MasterName">Gletschersplitter</string>
 	<string key="1hRapier_GlassforgedRapierT2_Description">"Wäre die Klinge noch ein bisschen dicker, sie wäre unbrauchbar. Aber mit der Glasspitze lassen sich Feinde problemlos aufspießen."</string>
-	<string key="1hRapier_GlassforgedRapierT2_MasterName">Glasgeschmiedeter Rapier</string>
+	<string key="1hRapier_GlassforgedRapierT2_MasterName">Glasgeschmiedetes Rapier</string>
 	<string key="1hRapier_GodfallT5_Description">"Sterbliche, Götter ... Niemand kann meiner Macht widerstehen!"</string>
 	<string key="1hRapier_GodfallT5_MasterName">Götterfall</string>
 	<string key="1hRapier_GrandmasterDuelistsRapierT5_Description">"Jahrzehnte der Übung ermöglichten das. Niemand kann einen Kampf gegen den Großmeister gewinnen."</string>
@@ -3541,7 +3551,7 @@
 	<string key="1hRapier_GutstickerT2_Description">"Nur noch ein Stich und ich habe unser Duell gewonnen."</string>
 	<string key="1hRapier_GutstickerT2_MasterName">Eingeweidestecher</string>
 	<string key="1hRapier_HallowedRapierT4_Description">"Eine angesehene Waffe unter Tempelrittern."</string>
-	<string key="1hRapier_HallowedRapierT4_MasterName">Geheiligter Rapier</string>
+	<string key="1hRapier_HallowedRapierT4_MasterName">Geweihtes Rapier</string>
 	<string key="1hRapier_HarbingeroftheEndT5_Description">"Als wir die Kreatur vor unseren Toren sahen, wussten wir, dass unser Ende gekommen war."</string>
 	<string key="1hRapier_HarbingeroftheEndT5_MasterName">Herold des Endes</string>
 	<string key="1hRapier_HoltsFilletKnifeT3_Description">"So scharf, dass selbst ein trotteliger Wüstling damit effektiv umgehen kann."</string>
@@ -3553,7 +3563,7 @@
 	<string key="1hRapier_IcedSlicerT4_Description">"Bei meinem eisigen Blut, ich werde dich jagen und finden!"</string>
 	<string key="1hRapier_IcedSlicerT4_MasterName">Eisschlitzer</string>
 	<string key="1hRapier_IceforgedRapierT2_Description">"Die Klinge wurde rasch abgekühlt und mit der Macht der Tundra verzaubert."</string>
-	<string key="1hRapier_IceforgedRapierT2_MasterName">Eisgeschmiedeter Rapier</string>
+	<string key="1hRapier_IceforgedRapierT2_MasterName">Eisgeschmiedetes Rapier</string>
 	<string key="1hRapier_IcicleT5_Description">"Reines Eis."</string>
 	<string key="1hRapier_IcicleT5_MasterName">Eiszapfen</string>
 	<string key="1hrapier_incantedpointt3_description">Verzauberte Metalle sind der beste Freund des Magiers.</string>
@@ -3571,7 +3581,7 @@
 	<string key="1hRapier_LieutenantGeneralsBladeT4_Description">"Ich führe gewaltige Legionen an." Der Kontinent wird vor unserer Macht fallen."</string>
 	<string key="1hRapier_LieutenantGeneralsBladeT4_MasterName">Klinge des Generalleutnants</string>
 	<string key="1hRapier_LightlessRapierT2_Description">"Die Waffe absorbiert alles Licht, das auf sie scheint."</string>
-	<string key="1hRapier_LightlessRapierT2_MasterName">Lichtloser Rapier</string>
+	<string key="1hRapier_LightlessRapierT2_MasterName">Lichtloses Rapier</string>
 	<string key="1hRapier_LightningCallT5_Description">"Schlage zu, bevor sie dich hören können."</string>
 	<string key="1hRapier_LightningCallT5_MasterName">Blitzrufer</string>
 	<string key="1hRapier_LightningPiercerT3_Description">"Die Macht des Sturms soll dich durchströmen."</string>
@@ -3582,11 +3592,11 @@
 	<string key="1hRapier_LongevityT5_MasterName">Langlebigkeit</string>
 	<string key="1hRapier_ManskewerT4_Description">"Erstich sie mit dem spitzen Ende."</string>
 	<string key="1hRapier_ManskewerT4_MasterName">Menschenspießer</string>
-	<string key="1hRapier_MarauderCommandersRapierT5_Description">"Der Rapier ist für die furchtlosen Kommandanten der Marodeure bestimmt."</string>
+	<string key="1hRapier_MarauderCommandersRapierT5_Description">"Das Rapier ist für die furchtlosen Kommandanten der Marodeure bestimmt."</string>
 	<string key="1hRapier_MarauderCommandersRapierT5_MasterName">Rapier des Marodeurskommandanten</string>
 	<string key="1hRapier_MarauderGroundbreakersRapierT2_Description">Ein Rapier für Neumitglieder der Marodeure.</string>
 	<string key="1hRapier_MarauderGroundbreakersRapierT2_MasterName">Novizenrapier der Marodeure</string>
-	<string key="1hRapier_MarauderGroundbreakersRapierT3_Description">"Der Rapier ist für die Soldaten der Marodeure bestimmt, die ihrer Sache loyal dienen."</string>
+	<string key="1hRapier_MarauderGroundbreakersRapierT3_Description">"Das Rapier ist für die Soldaten der Marodeure bestimmt, die ihrer Sache loyal dienen."</string>
 	<string key="1hRapier_MarauderGroundbreakersRapierT3_MasterName">Bodenbrecher-Rapier der Marodeure</string>
 	<string key="1hRapier_MarauderRank1_Description">Ein hochwertiges Rapier für neue Soldaten der Marodeure.</string>
 	<string key="1hRapier_MarauderRank1_MasterName">Soldatenrapier der Marodeure</string>
@@ -3598,7 +3608,7 @@
 	<string key="1hRapier_MarauderRank4_MasterName">Vernichterrapier der Marodeure</string>
 	<string key="1hRapier_MarauderRank5_Description">Ein hochwertiges Rapier für Marodeurskommandanten.</string>
 	<string key="1hRapier_MarauderRank5_MasterName">Kommandantenrapier der Marodeure</string>
-	<string key="1hRapier_MarauderSunderersRapierT4_Description">"Der Rapier ist den Soldaten der Marodeure vorbehalten, die ihre Führungsqualitäten unter Beweis gestellt haben."</string>
+	<string key="1hRapier_MarauderSunderersRapierT4_Description">"Das Rapier ist den Soldaten der Marodeure vorbehalten, die ihre Führungsqualitäten unter Beweis gestellt haben."</string>
 	<string key="1hRapier_MarauderSunderersRapierT4_MasterName">Spalter-Rapier der Marodeure</string>
 	<string key="1hRapier_MarauderSunderersRapierT4a_Description">Ein Rapier für Marodeure, die den Rang des Spalters erreicht haben.</string>
 	<string key="1hRapier_MarauderSunderersRapierT4a_MasterName">Spalterrapier der Marodeure</string>
@@ -3622,11 +3632,11 @@
 	<string key="1hrapier_phisabellat5_mastername">Isabellas Rapier</string>
 	<string key="1hRapier_PiercingColdT5_Description">"Die Kälte frisst sich in dein Fleisch."</string>
 	<string key="1hRapier_PiercingColdT5_MasterName">Beißende Kälte</string>
-	<string key="1hRapier_PreciselyEngineeredRapierT3_Description">"Der Rapier ist so präzise gefertigt, dass man mit ihm mit einem Streich ein einzelnes Haar vom Kopf absäbeln kann."</string>
-	<string key="1hRapier_PreciselyEngineeredRapierT3_MasterName">Sorgfältig gefertigter Rapier</string>
+	<string key="1hRapier_PreciselyEngineeredRapierT3_Description">"Das Rapier ist so präzise gefertigt, dass man mit es mit einem Streich ein einzelnes Haar vom Kopf absäbeln kann."</string>
+	<string key="1hRapier_PreciselyEngineeredRapierT3_MasterName">Sorgfältig gefertigtes Rapier</string>
 	<string key="1hRapier_ProwlersPunishmentT4_Description">"Sie wartete bis zum richtigen Zeitpunkt zum Zuschlagen. Dabei wendete sie die Bewegungen ihrer Feinde gegen sie."</string>
 	<string key="1hRapier_ProwlersPunishmentT4_MasterName">Bestrafung des Streuners</string>
-	<string key="1hRapier_PutridFishboneT5_Description">"Man denkt besser nicht darüber nach, wie lange dieser Rapier in Putris‘ Rachen gesteckt hat wie eine im Hals stecken gebliebene Fischgräte.</string>
+	<string key="1hRapier_PutridFishboneT5_Description">"Man denkt besser nicht darüber nach, wie lange dieses Rapier in Putris‘ Rachen gesteckt hat wie eine im Hals stecken gebliebene Fischgräte.</string>
 	<string key="1hRapier_PutridFishboneT5_MasterName">Faulige Fischgräte</string>
 	<string key="1hRapier_QueensguardT5_Description">"Opfere dich für die Königin, wenn es sein muss!"</string>
 	<string key="1hRapier_QueensguardT5_MasterName">Königinnenwächter</string>
@@ -3659,7 +3669,7 @@
 	<string key="1hRapier_RootspikeT4_Description">"Die Wurzeln des Baums waren so scharf wie Rasierklingen."</string>
 	<string key="1hRapier_RootspikeT4_MasterName">Wurzelspitze</string>
 	<string key="1hRapier_RottenRapierT5_Description">"Der Rost hat Löcher in die Klinge gefressen, aber sie schneidet noch tadellos."</string>
-	<string key="1hRapier_RottenRapierT5_MasterName">Verrotteter Rapier</string>
+	<string key="1hRapier_RottenRapierT5_MasterName">Verrottetes Rapier</string>
 	<string key="1hRapier_RuinationT5_Description">"Wegen dir sind wir alle dem Untergang geweiht."</string>
 	<string key="1hRapier_RuinationT5_MasterName">Ruin</string>
 	<string key="1hRapier_SabreoftheDarkCultistT5_Description">"Gebete reichen nicht immer aus. Manchmal bedarf es etwas Stahl, um einen Zauber zu vollenden."</string>
@@ -3685,7 +3695,7 @@
 	<string key="1hRapier_SlicenDiceT5_Description">"Ein kleiner Kratzer hier, ein Schlitzer dort ..."</string>
 	<string key="1hRapier_SlicenDiceT5_MasterName">Hauen und Stechen</string>
 	<string key="1hRapier_SmolderingRapierT3_Description">"Die Klinge bliebt etwas zu lange im Feuer der Schmiede."</string>
-	<string key="1hRapier_SmolderingRapierT3_MasterName">Glühender Rapier</string>
+	<string key="1hRapier_SmolderingRapierT3_MasterName">Glühendes Rapier</string>
 	<string key="1hRapier_SoulneedleT5_Description">"Durchstich das Fleisch und spieße die Seele auf."</string>
 	<string key="1hRapier_SoulneedleT5_MasterName">Seelennadel</string>
 	<string key="1hRapier_SouthernWindT5_Description">"Der Wind wird deine Asche davontragen."</string>
@@ -3706,13 +3716,13 @@
 	<string key="1hRapier_SwanSongT5_MasterName">Schwanengesang</string>
 	<string key="1hRapier_SwiftstrikeBladeT4_Description">"Du bist vielleicht stärker, aber ich bin schneller."</string>
 	<string key="1hRapier_SwiftstrikeBladeT4_MasterName">Schnellstichklinge</string>
-	<string key="1hRapier_SyndicateAlchemistsRapierT5_Description">"Der Rapier ist für die schlauesten Alchemisten des Syndikats bestimmt."</string>
+	<string key="1hRapier_SyndicateAlchemistsRapierT5_Description">"Das Rapier ist für die schlauesten Alchemisten des Syndikats bestimmt."</string>
 	<string key="1hRapier_SyndicateAlchemistsRapierT5_MasterName">Rapier des Syndikatsalchemisten</string>
 	<string key="1hRapier_SyndicateChroniclersRapierT2_Description">Ein Rapier für Neumitglieder des Syndikats.</string>
 	<string key="1hRapier_SyndicateChroniclersRapierT2_MasterName">Novizenrapier des Syndikats</string>
-	<string key="1hRapier_SyndicateChroniclersRapierT3_Description">"Der Rapier ist für die Agenten des Syndikats bestimmt, die ihrer Sache loyal dienen."</string>
+	<string key="1hRapier_SyndicateChroniclersRapierT3_Description">"Das Rapier ist für die Agenten des Syndikats bestimmt, die ihrer Sache loyal dienen."</string>
 	<string key="1hRapier_SyndicateChroniclersRapierT3_MasterName">Chronisten-Rapier des Syndikats</string>
-	<string key="1hRapier_SyndicateExemplarsRapierT4_Description">"Der Rapier ist den angesehensten Agenten des Syndikats vorbehalten, die sich besonders um Durchführung der Aufgaben eines Alchemisten verdient gemacht haben."</string>
+	<string key="1hRapier_SyndicateExemplarsRapierT4_Description">"Das Rapier ist den angesehensten Agenten des Syndikats vorbehalten, die sich besonders um Durchführung der Aufgaben eines Alchemisten verdient gemacht haben."</string>
 	<string key="1hRapier_SyndicateExemplarsRapierT4_MasterName">Vorreiter-Rapier des Syndikats</string>
 	<string key="1hRapier_SyndicateExemplarsRapierT4a_Description">Ein Rapier für Angehörige des Syndikats, die den Rang des Vorreiters erreicht haben.</string>
 	<string key="1hRapier_SyndicateExemplarsRapierT4a_MasterName">Vorreiterrapier des Syndikats</string>
@@ -3738,7 +3748,7 @@
 	<string key="1hRapier_TourdePainT5_MasterName">Schmerzenslauf</string>
 	<string key="1hRapier_TroubadorT5_Description">"Komm, singe uns ein Lied."</string>
 	<string key="1hRapier_TroubadorT5_MasterName">Troubadour</string>
-	<string key="1hRapier_TrustedSidebladeT3_Description">"Gehe nie ohne deinen Rapier aus dem Haus."</string>
+	<string key="1hRapier_TrustedSidebladeT3_Description">"Gehe nie ohne dein Rapier aus dem Haus."</string>
 	<string key="1hRapier_TrustedSidebladeT3_MasterName">Treue Zweitklinge</string>
 	<string key="1hRapier_TuskgorerT4_Description">"Wie ein Eber, der in die Ecke getrieben wurde, lechzt auch dieses Rapier nach Blut, wenn es keinen anderen Ausweg sieht."</string>
 	<string key="1hRapier_TuskgorerT4_MasterName">Hauerkeiler</string>
@@ -3749,21 +3759,21 @@
 	<string key="1hRapier_VeronicasJusticeT5_Description">"Welche Gerechtigkeit die Welt auch für sie bereithielt, sie hatte andere Pläne."</string>
 	<string key="1hRapier_VeronicasJusticeT5_MasterName">Veronicas Gerechtigkeit</string>
 	<string key="1hRapier_ViciousRapierT2_Description">"Dank deiner überragenden Schwertkampfkünste kannst du nahezu jeden Gegner besiegen."</string>
-	<string key="1hRapier_ViciousRapierT2_MasterName">Wilder Rapier</string>
+	<string key="1hRapier_ViciousRapierT2_MasterName">Wildes Rapier</string>
 	<string key="1hRapier_VinecursedBladeT2_Description">"Die Ranken dieses Rapiers wachsen so schnell nach, wie du sie ausreißt."</string>
 	<string key="1hRapier_VinecursedBladeT2_MasterName">Klinge der verfluchten Ranken</string>
 	<string key="1hRapier_VoidbringersRapierT5_Description">"Lasse die Dunkelheit in dein Herz und sieh ihr Licht."</string>
 	<string key="1hRapier_VoidbringersRapierT5_MasterName">Rapier des Unheilsbringers</string>
 	<string key="1hRapier_VoidforgedRapierT4_Description">"Die schwarzen Waffenschmiede der Schlucht schmiedeten die Waffe, damit ihre Armeen alles und jeden bezwingen konnten, die sich ihnen in den Weg stellten."</string>
-	<string key="1hRapier_VoidforgedRapierT4_MasterName">Unheilgeschmiedeter Rapier</string>
+	<string key="1hRapier_VoidforgedRapierT4_MasterName">Unheilgeschmiedetes Rapier</string>
 	<string key="1hRapier_VoidsongT4_Description">"Höre genau hin und vernimm mein Versprechen der Macht."</string>
 	<string key="1hRapier_VoidsongT4_MasterName">Unheilsmelodie</string>
 	<string key="1hRapier_VorpalBladeT4_Description">Eine Belohnung von Magistrat Gurkin für die Vernichtung des Erzdiakons.</string>
 	<string key="1hRapier_VorpalBladeT4_MasterName">Tödliche Klinge</string>
 	<string key="1hRapier_WailingBladeT4_Description">"Nach dem Ende der Belagerung verebbten die Kampfgeräusche und lautes Wehklagen erklang."</string>
 	<string key="1hRapier_WailingBladeT4_MasterName">Lamentierende Klinge</string>
-	<string key="1hRapier_WartornRapierT5_Description">"Der Rapier hat schon zahllose Kämpfe miterlebt."</string>
-	<string key="1hRapier_WartornRapierT5_MasterName">Kriegsversehrter Rapier</string>
+	<string key="1hRapier_WartornRapierT5_Description">"Dieses Rapier hat schon zahllose Kämpfe miterlebt."</string>
+	<string key="1hRapier_WartornRapierT5_MasterName">Kriegsversehrtes Rapier</string>
 	<string key="1hRapier_WatchersDutyboundRapierT5_Description">"Dein Schwur bedeutet, dass du hier für immer Wache stehen wirst. Du wirst für immer Neuankömmlinge in diesem Land begrüßen und es gegen die Schrecken verteidigen, die an seinen Küsten angespült werden."</string>
 	<string key="1hRapier_WatchersDutyboundRapierT5_MasterName">Rapier des pflichtbewussten Wächters</string>
 	<string key="1hRapier_WavepiercerT5_Description">"Stoße wagemutig durch die Wellen. Ertrage sie und tauche auf der anderen Seite wieder hervor."</string>
@@ -3773,7 +3783,7 @@
 	<string key="1hRapier_WeddingTributeT5_Description">"Die Waffe war ein Geschenk für eine geplante Hochzeit. Doch es brachte der Braut nur Unheil."</string>
 	<string key="1hRapier_WeddingTributeT5_MasterName">Hochzeitstribut</string>
 	<string key="1hRapier_WeightlessSabreT5_Description">"Die Waffe ist so leicht, dass sie ganz schwerelos scheint."</string>
-	<string key="1hRapier_WeightlessSabreT5_MasterName">Schwereloser Rapier</string>
+	<string key="1hRapier_WeightlessSabreT5_MasterName">Schwereloses Rapier</string>
 	<string key="1hRapier_WhenTheyComeT5_Description">"Jede Siedlung fürchtet den Tag, an dem die Verderbten vor ihren Toren auftauchen."</string>
 	<string key="1hRapier_WhenTheyComeT5_MasterName">Wenn sie kommen</string>
 	<string key="1hRapier_WickedWatchersRapierT4_Description">"Er vernachlässigte seine Pflichten, weshalb hunderte Menschen ihr Leben verloren."</string>
@@ -3806,35 +3816,35 @@
 	<string key="1hrapierancient2ancestralt5_mastername">Rapier der Vorfahren</string>
 	<string key="1hrapierancientelitet5_description">"Jeder Schnitt blendet, jeder Treffer ein Schnitt."</string>
 	<string key="1hrapierancientelitet5_mastername">Kristallines Rapier</string>
-	<string key="1hRapierAncientT2_Description">Ein Rapier, der vor langer Zeit anscheinend von den Ahnen geführt wurde.</string>
+	<string key="1hRapierAncientT2_Description">Ein Rapier, das vor langer Zeit anscheinend von den Ahnen geführt wurde.</string>
 	<string key="1hRapierAncientT2_MasterName">Rapier der Ahnen</string>
-	<string key="1hRapierAncientT3_Description">Ein Rapier, der vor langer Zeit anscheinend von den Ahnen geführt wurde.</string>
+	<string key="1hRapierAncientT3_Description">Ein Rapier, das vor langer Zeit anscheinend von den Ahnen geführt wurde.</string>
 	<string key="1hRapierAncientT3_MasterName">Rapier der Ahnen</string>
-	<string key="1hRapierAncientT4_Description">Ein Rapier, der vor langer Zeit anscheinend von den Ahnen geführt wurde.</string>
+	<string key="1hRapierAncientT4_Description">Ein Rapier, das vor langer Zeit anscheinend von den Ahnen geführt wurde.</string>
 	<string key="1hRapierAncientT4_MasterName">Rapier der Ahnen</string>
-	<string key="1hRapierAncientT5_Description">Ein Rapier, der vor langer Zeit anscheinend von den Ahnen geführt wurde.</string>
+	<string key="1hRapierAncientT5_Description">Ein Rapier, das vor langer Zeit anscheinend von den Ahnen geführt wurde.</string>
 	<string key="1hRapierAncientT5_MasterName">Rapier der Ahnen</string>
-	<string key="1hrapierangryearthelitet5_description">"Wie ein Dorn durch die Haut sticht, so ersticht dieser Rapier deine Gegner."</string>
+	<string key="1hrapierangryearthelitet5_description">"Wie ein Dorn durch die Haut sticht, so ersticht dieses Rapier deine Gegner."</string>
 	<string key="1hrapierangryearthelitet5_mastername">Dryaden-Rapier</string>
-	<string key="1hRapierAngryEarthT2_Description">Ein Rapier, der vor langer Zeit anscheinend von den Zornigen Erdkreaturen geführt wurde.</string>
+	<string key="1hRapierAngryEarthT2_Description">Ein Rapier, das vor langer Zeit anscheinend von den Zornigen Erdkreaturen geführt wurde.</string>
 	<string key="1hRapierAngryEarthT2_MasterName">Rapier der Urzeit</string>
-	<string key="1hRapierAngryEarthT3_Description">Ein Rapier, der vor langer Zeit anscheinend von den Zornigen Erdkreaturen geführt wurde.</string>
+	<string key="1hRapierAngryEarthT3_Description">Ein Rapier, das vor langer Zeit anscheinend von den Zornigen Erdkreaturen geführt wurde.</string>
 	<string key="1hRapierAngryEarthT3_MasterName">Rapier der Urzeit</string>
-	<string key="1hRapierAngryEarthT4_Description">Ein Rapier, der vor langer Zeit anscheinend von den Zornigen Erdkreaturen geführt wurde.</string>
+	<string key="1hRapierAngryEarthT4_Description">Ein Rapier, das vor langer Zeit anscheinend von den Zornigen Erdkreaturen geführt wurde.</string>
 	<string key="1hRapierAngryEarthT4_MasterName">Rapier der Urzeit</string>
-	<string key="1hRapierAngryEarthT5_Description">Ein Rapier, der vor langer Zeit anscheinend von den Zornigen Erdkreaturen geführt wurde.</string>
+	<string key="1hRapierAngryEarthT5_Description">Ein Rapier, das vor langer Zeit anscheinend von den Zornigen Erdkreaturen geführt wurde.</string>
 	<string key="1hRapierAngryEarthT5_MasterName">Rapier der Urzeit</string>
-	<string key="1hRapierBreachT5_Description">Ein für Durchbrüche geschmiedeter Rapier.</string>
+	<string key="1hRapierBreachT5_Description">Ein für Durchbrüche geschmiedetes Rapier.</string>
 	<string key="1hRapierBreachT5_MasterName">Ausbruchsverschluss-Rapier</string>
 	<string key="1hrapiercorruptedelitet5_description">"Diese Klinge scheint von einem dämonischen Zorn erfüllt zu sein."</string>
 	<string key="1hrapiercorruptedelitet5_mastername">Pointe des Verwerflichen</string>
-	<string key="1hRapierCorruptedT2_Description">Ein Rapier, der vor langer Zeit anscheinend von den Verderbten geführt wurde.</string>
+	<string key="1hRapierCorruptedT2_Description">Ein Rapier, das vor langer Zeit anscheinend von den Verderbten geführt wurde.</string>
 	<string key="1hRapierCorruptedT2_MasterName">Rapier der Verderbnis</string>
-	<string key="1hRapierCorruptedT3_Description">Ein Rapier, der vor langer Zeit anscheinend von den Verderbten geführt wurde.</string>
+	<string key="1hRapierCorruptedT3_Description">Ein Rapier, das vor langer Zeit anscheinend von den Verderbten geführt wurde.</string>
 	<string key="1hRapierCorruptedT3_MasterName">Rapier der Verderbnis</string>
-	<string key="1hRapierCorruptedT4_Description">Ein Rapier, der vor langer Zeit anscheinend von den Verderbten geführt wurde.</string>
+	<string key="1hRapierCorruptedT4_Description">Ein Rapier, das vor langer Zeit anscheinend von den Verderbten geführt wurde.</string>
 	<string key="1hRapierCorruptedT4_MasterName">Rapier der Verderbnis</string>
-	<string key="1hRapierCorruptedT5_Description">Ein Rapier, der vor langer Zeit anscheinend von den Verderbten geführt wurde.</string>
+	<string key="1hRapierCorruptedT5_Description">Ein Rapier, das vor langer Zeit anscheinend von den Verderbten geführt wurde.</string>
 	<string key="1hRapierCorruptedT5_MasterName">Rapier der Verderbnis</string>
 	<string key="1hRapierCraftedDungeon1T3_Description">Die Kopie eines tief im Innern des Amrhein-Tempels gefundenen Rapiers.</string>
 	<string key="1hRapierCraftedDungeon1T3_MasterName">Rapier des Amrhein-Tempels</string>
@@ -3848,13 +3858,13 @@
 	<string key="1hRapierCraftedDungeon6T5_MasterName">Rapier der Lazaruswache</string>
 	<string key="1hRapierCraftedDungeon7T5_Description">Die Kopie eines im Garten des Ursprungs gefundenen Rapiers.</string>
 	<string key="1hRapierCraftedDungeon7T5_MasterName">Rapier der Gartenwache</string>
-	<string key="1hRapierDropT2_Description">Ein durch viele Schlachten gezeichneter Rapier, der aber noch immer gut zustechen kann.</string>
+	<string key="1hRapierDropT2_Description">Ein durch viele Schlachten gezeichnetes Rapier, das aber noch immer gut zustechen kann.</string>
 	<string key="1hRapierDropT2_MasterName">Rapier</string>
-	<string key="1hRapierDropT3_Description">Ein durch viele Schlachten gezeichneter Rapier, der aber noch immer gut zustechen kann.</string>
+	<string key="1hRapierDropT3_Description">Ein durch viele Schlachten gezeichnetes Rapier, das aber noch immer gut zustechen kann.</string>
 	<string key="1hRapierDropT3_MasterName">Rapier</string>
-	<string key="1hRapierDropT4_Description">Ein durch viele Schlachten gezeichneter Rapier, der aber noch immer gut zustechen kann.</string>
+	<string key="1hRapierDropT4_Description">Ein durch viele Schlachten gezeichnetes Rapier, das aber noch immer gut zustechen kann.</string>
 	<string key="1hRapierDropT4_MasterName">Rapier</string>
-	<string key="1hRapierDropT5_Description">Ein durch viele Schlachten gezeichneter Rapier, der aber noch immer gut zustechen kann.</string>
+	<string key="1hRapierDropT5_Description">Ein durch viele Schlachten gezeichnetes Rapier, das aber noch immer gut zustechen kann.</string>
 	<string key="1hRapierDropT5_MasterName">Rapier</string>
 	<string key="1hrapierdrownedelitet5_description">"Scharf wie der Witz eines Matrosen."</string>
 	<string key="1hrapierdrownedelitet5_mastername">Salzige Paramore</string>
@@ -3866,32 +3876,32 @@
 	<string key="1hrapierdrownedt4_mastername">Durchnässtes Rapier</string>
 	<string key="1hrapierdrownedt5_description">"Immer noch schnell wie der Stich einer Qualle."</string>
 	<string key="1hrapierdrownedt5_mastername">Durchnässtes Rapier</string>
-	<string key="1hRapierDungeon1T3_Description">Den Rapier fand man tief im Innern des Amrhein-Tempels.</string>
+	<string key="1hRapierDungeon1T3_Description">Das Rapier fand man tief im Innern des Amrhein-Tempels.</string>
 	<string key="1hRapierDungeon1T3_MasterName">Rapier des Amrhein-Tempels</string>
 	<string key="1hRapierDungeon2T3_Description">Ein in den Sternensteingrabhügeln gefundenes Rapier.</string>
 	<string key="1hRapierDungeon2T3_MasterName">Rapier der Obeliskenwache</string>
-	<string key="1hRapierDungeon4T4_Description">In den Untiefen gefundener Rapier.</string>
+	<string key="1hRapierDungeon4T4_Description">In den Untiefen gefundenes Rapier.</string>
 	<string key="1hRapierDungeon4T4_MasterName">Rapier der Untiefenwache</string>
-	<string key="1hRapierDungeon5T4_Description">Bei der Erkundung der Schiffswerft der Dynastie gefundener Rapier.</string>
+	<string key="1hRapierDungeon5T4_Description">Bei der Erkundung der Schiffswerft der Dynastie gefundenes Rapier.</string>
 	<string key="1hRapierDungeon5T4_MasterName">Rapier der Werftwache</string>
-	<string key="1hRapierDungeon6T5_Description">Im Lazarus-Instrumentarium gefundener Rapier.</string>
+	<string key="1hRapierDungeon6T5_Description">Im Lazarus-Instrumentarium gefundenes Rapier.</string>
 	<string key="1hRapierDungeon6T5_MasterName">Rapier der Lazaruswache</string>
-	<string key="1hRapierDungeon7T5_Description">Im Garten des Ursprungs gefundener Rapier.</string>
+	<string key="1hRapierDungeon7T5_Description">Im Garten des Ursprungs gefundenes Rapier.</string>
 	<string key="1hRapierDungeon7T5_MasterName">Rapier der Gartenwache</string>
 	<string key="1hrapierdynastyelitet5_description">"Zu wissen, wann man zuschlägt, ist genauso wichtig wie der Schlag selbst."</string>
 	<string key="1hrapierdynastyelitet5_mastername">Ungeduld des Jägers</string>
 	<string key="1hRapierElegantT3_Description">Eine elegante Waffe für eine zivilisiertere Zeit.</string>
-	<string key="1hRapierElegantT3_MasterName">Eleganter Rapier</string>
+	<string key="1hRapierElegantT3_MasterName">Elegantes Rapier</string>
 	<string key="1hRapierElegantT4_Description">Eine elegante Waffe für eine zivilisiertere Zeit.</string>
-	<string key="1hRapierElegantT4_MasterName">Eleganter Rapier</string>
+	<string key="1hRapierElegantT4_MasterName">Elegantes Rapier</string>
 	<string key="1hRapierElegantT5_Description">Eine elegante Waffe für eine zivilisiertere Zeit.</string>
-	<string key="1hRapierElegantT5_MasterName">Eleganter Rapier</string>
+	<string key="1hRapierElegantT5_MasterName">Elegantes Rapier</string>
 	<string key="1hRapierEtherealT3_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierEtherealT3_MasterName">Ätherischer Rapier</string>
+	<string key="1hRapierEtherealT3_MasterName">Ätherisches Rapier</string>
 	<string key="1hRapierEtherealT4_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierEtherealT4_MasterName">Ätherischer Rapier</string>
+	<string key="1hRapierEtherealT4_MasterName">Ätherisches Rapier</string>
 	<string key="1hRapierEtherealT5_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierEtherealT5_MasterName">Ätherischer Rapier</string>
+	<string key="1hRapierEtherealT5_MasterName">Ätherisches Rapier</string>
 	<string key="1hRapierFaeT3_Description">Eine Feenwaffe.</string>
 	<string key="1hRapierFaeT3_MasterName">Feenrapier</string>
 	<string key="1hRapierFaeT4_Description">Eine Feenwaffe.</string>
@@ -3905,12 +3915,12 @@
 	<string key="1hRapierGlassT5_Description">DESCRIPTION PENDING</string>
 	<string key="1hRapierGlassT5_MasterName">Glasrapier</string>
 	<string key="1hRapierImmolatedT3_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierImmolatedT3_MasterName">Geopferter Rapier</string>
+	<string key="1hRapierImmolatedT3_MasterName">Geopfertes Rapier</string>
 	<string key="1hRapierImmolatedT4_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierImmolatedT4_MasterName">Geopferter Rapier</string>
+	<string key="1hRapierImmolatedT4_MasterName">Geopfertes Rapier</string>
 	<string key="1hRapierImmolatedT5_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierImmolatedT5_MasterName">Geopferter Rapier</string>
-	<string key="1hRapierInvasionT5_Description">Ein für Invasionen geschmiedeter Rapier.</string>
+	<string key="1hRapierImmolatedT5_MasterName">Geopfertes Rapier</string>
+	<string key="1hRapierInvasionT5_Description">Ein für Invasionen geschmiedetes Rapier.</string>
 	<string key="1hRapierInvasionT5_MasterName">Invasionsrapier</string>
 	<string key="1hrapierknightt3_description" rel_version="Weapon_EvilKnightsT3">Varangianer üben und klären Streitigkeiten mit dieser Waffe und ihrer subtilen Anmut.</string>
 	<string key="1hrapierknightt3_mastername" rel_version="Weapon_EvilKnightsT3">Varangianer-Duellklinge</string>
@@ -3918,13 +3928,13 @@
 	<string key="1hrapierlostelitet4_mastername">Abgenutzte Klinge</string>
 	<string key="1hrapierlostelitet5_description">"Nicht so sehr abgewetzt in den unzähligen Jahren des Gebrauchs, doch viel eingesetzt."</string>
 	<string key="1hrapierlostelitet5_mastername">Anhaltendes Zittern</string>
-	<string key="1hRapierLostT2_Description">Ein Rapier, der vor langer Zeit anscheinend von den Verlorenen geführt wurde.</string>
+	<string key="1hRapierLostT2_Description">Ein Rapier, das vor langer Zeit anscheinend von den Verlorenen geführt wurde.</string>
 	<string key="1hRapierLostT2_MasterName">Rapier der Verlorenen</string>
-	<string key="1hRapierLostT3_Description">Ein Rapier, der vor langer Zeit anscheinend von den Verlorenen geführt wurde.</string>
+	<string key="1hRapierLostT3_Description">Ein Rapier, das vor langer Zeit anscheinend von den Verlorenen geführt wurde.</string>
 	<string key="1hRapierLostT3_MasterName">Rapier der Verlorenen</string>
-	<string key="1hRapierLostT4_Description">Ein Rapier, der vor langer Zeit anscheinend von den Verlorenen geführt wurde.</string>
+	<string key="1hRapierLostT4_Description">Ein Rapier, das vor langer Zeit anscheinend von den Verlorenen geführt wurde.</string>
 	<string key="1hRapierLostT4_MasterName">Rapier der Verlorenen</string>
-	<string key="1hRapierLostT5_Description">Ein Rapier, der vor langer Zeit anscheinend von den Verlorenen geführt wurde.</string>
+	<string key="1hRapierLostT5_Description">Ein Rapier, das vor langer Zeit anscheinend von den Verlorenen geführt wurde.</string>
 	<string key="1hRapierLostT5_MasterName">Rapier der Verlorenen</string>
 	<string key="1hrapieroutpostrusht5_description">Möge dein Sieg so makellos und elegant sein wie diese Klinge.</string>
 	<string key="1hrapieroutpostrusht5_mastername">List des Eroberers</string>
@@ -3933,11 +3943,11 @@
 	<string key="1hrapiersiren_st5_description">"Die eindringliche Stimme der Sirene hallt in deinem Kopf wider, ansteigend und zurückgehend wie die Gezeiten."</string>
 	<string key="1hrapiersiren_st5_mastername">Gezeitenhymne</string>
 	<string key="1hRapierViciousT3_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierViciousT3_MasterName">Wilder Rapier</string>
+	<string key="1hRapierViciousT3_MasterName">Wildes Rapier</string>
 	<string key="1hRapierViciousT4_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierViciousT4_MasterName">Wilder Rapier</string>
+	<string key="1hRapierViciousT4_MasterName">Wildes Rapier</string>
 	<string key="1hRapierViciousT5_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierViciousT5_MasterName">Wilder Rapier</string>
+	<string key="1hRapierViciousT5_MasterName">Wildes Rapier</string>
 	<string key="1hRapierVinespunT3_Description">DESCRIPTION PENDING</string>
 	<string key="1hRapierVinespunT3_MasterName">Rankenrapier</string>
 	<string key="1hRapierVinespunT4_Description">DESCRIPTION PENDING</string>
@@ -3950,14 +3960,14 @@
 	<string key="1hRapierVoidbentT4_MasterName">Unheilsrapier</string>
 	<string key="1hRapierVoidbentT5_Description">DESCRIPTION PENDING</string>
 	<string key="1hRapierVoidbentT5_MasterName">Unheilsrapier</string>
-	<string key="1hRapierWarT5_Description">Ein für den Krieg geschmiedeter Rapier.</string>
+	<string key="1hRapierWarT5_Description">Ein für den Krieg geschmiedetes Rapier.</string>
 	<string key="1hRapierWarT5_MasterName">Kriegsrapier</string>
 	<string key="1hRapierWavebornT3_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierWavebornT3_MasterName">Wellengeborener Rapier</string>
+	<string key="1hRapierWavebornT3_MasterName">Wellengeborenes Rapier</string>
 	<string key="1hRapierWavebornT4_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierWavebornT4_MasterName">Wellengeborener Rapier</string>
+	<string key="1hRapierWavebornT4_MasterName">Wellengeborenes Rapier</string>
 	<string key="1hRapierWavebornT5_Description">DESCRIPTION PENDING</string>
-	<string key="1hRapierWavebornT5_MasterName">Wellengeborener Rapier</string>
+	<string key="1hRapierWavebornT5_MasterName">Wellengeborenes Rapier</string>
 	<string key="1hroundshield_heroesshieldt5_description">"Ein Schild, der so wunderschön ist, dass es eine Schande ist, dass er mittlerweile so zerkratzt und verbeult ist."</string>
 	<string key="1hroundshield_heroesshieldt5_mastername">Vergoldete Verteidigung</string>
 	<string key="1hRoundShield_QuestL24_Description">Eine hochwertige Waffe. Sie wird dir ebenso gut dienen wie ihrem vorherigen Träger.</string>
@@ -9841,7 +9851,7 @@
 	<string key="2hWarhammerWavebornT5_MasterName">Wellengeborener Kriegshammer</string>
 	<string key="2hWarhammerWraithHunterT4_Description">"Gespenst. Erscheinungen. Ghule. Ich werde sie alle vernichten, egal in welcher Form."</string>
 	<string key="2hWarhammerWraithHunterT4_MasterName">Gespensterjäger-Kriegshammer</string>
-	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">Schema: Durchnässte Streitaxt</string>
+	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">Bringe dieses Schema zu einer Schmiede, um einen Gegenstand mit einem Rüstwert von 600 und einzigartigem Aussehen herzustellen.</string>
 	<string key="2Sealed_DocumentsBrightwood_Description">Fraktionskrieggegenstand</string>
 	<string key="2Sealed_DocumentsBrightwood_Mastername">Versiegelte Dokumente von Lichtholz</string>
 	<string key="2Secret_OrdersBrightwood_Description">Fraktionskrieggegenstand</string>
@@ -10480,239 +10490,239 @@
 	<string key="ArrowT3_MasterName">Pfeil (Stahl)</string>
 	<string key="ArrowT4_MasterName">Pfeil (Sternenmetall)</string>
 	<string key="ArrowT5_MasterName">Pfeil (Orichalcum)</string>
-	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbrustschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbrustschutz (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbrustschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbrustschutz (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbrustschutz (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbrustschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbrustschutz (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbrustschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbrustschutz (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbrustschutz (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbrustschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbrustschutz (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbrustschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbrustschutz (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbrustschutz (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbrustschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbrustschutz (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbrustschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbrustschutz (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbrustschutz (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenstiefel (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenstiefel (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenstiefel (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenstiefel (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenstiefel (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenstiefel (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenstiefel (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenstiefel (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenstiefel (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenstiefel (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenstiefel (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenstiefel (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenstiefel (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenstiefel (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenstiefel (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenstiefel (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenstiefel (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenstiefel (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenstiefel (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenstiefel (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenhandschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenhandschutz (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenhandschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenhandschutz (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenhandschutz (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenhandschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenhandschutz (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenhandschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenhandschutz (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenhandschutz (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenhandschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenhandschutz (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenhandschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenhandschutz (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenhandschutz (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenhandschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenhandschutz (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenhandschutz (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenhandschutz (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenhandschutz (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentengeweih (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentengeweih (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentengeweih (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentengeweih (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentengeweih (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentengeweih (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentengeweih (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentengeweih (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentengeweih (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentengeweih (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentengeweih (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentengeweih (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentengeweih (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentengeweih (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentengeweih (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentengeweih (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentengeweih (Eiche)" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentengeweih (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentengeweih (Eiche)" verbraucht. </string>
 	<string key="Artifact_WCArmorHeavyHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentengeweih (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbeinschienen (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbeinschienen (Eiche)" verbraucht.</string>
-	<string key="Artifact_WCArmorHeavyLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbeinschienen (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbeinschienen (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbeinschienen (Eiche)" verbraucht.</string>
-	<string key="Artifact_WCArmorHeavyLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbeinschienen (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbeinschienen (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbeinschienen (Eiche)" verbraucht.</string>
-	<string key="Artifact_WCArmorHeavyLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbeinschienen (Eiche)</string>
-	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbeinschienen (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbeinschienen (Eiche)" verbraucht.</string>
-	<string key="Artifact_WCArmorHeavyLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbeinschienen (Eiche)</string>
-	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regententunika" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regententunika" verbraucht.</string>
+	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbeinschienen (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbeinschienen (Eiche)" verbraucht. </string>
+	<string key="Artifact_WCArmorHeavyLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbeinschienen  (Eiche)</string>
+	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbeinschienen (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbeinschienen (Eiche)" verbraucht. </string>
+	<string key="Artifact_WCArmorHeavyLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbeinschienen  (Eiche)</string>
+	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbeinschienen (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbeinschienen (Eiche)" verbraucht. </string>
+	<string key="Artifact_WCArmorHeavyLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbeinschienen  (Eiche)</string>
+	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Regentenbeinschienen (Eiche)" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Regentenbeinschienen (Eiche)" verbraucht. </string>
+	<string key="Artifact_WCArmorHeavyLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Regentenbeinschienen  (Eiche)</string>
+	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regententunika" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regententunika" verbraucht. </string>
 	<string key="Artifact_WCArmorLightChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regententunika</string>
-	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regententunika" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regententunika" verbraucht.</string>
+	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regententunika" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regententunika" verbraucht. </string>
 	<string key="Artifact_WCArmorLightChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regententunika</string>
-	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regententunika" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regententunika" verbraucht.</string>
+	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regententunika" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regententunika" verbraucht. </string>
 	<string key="Artifact_WCArmorLightChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regententunika</string>
-	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regententunika" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regententunika" verbraucht.</string>
+	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regententunika" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regententunika" verbraucht. </string>
 	<string key="Artifact_WCArmorLightChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regententunika</string>
-	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenslipper" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenslipper" verbraucht.</string>
+	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenslipper" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenslipper" verbraucht. </string>
 	<string key="Artifact_WCArmorLightFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenslipper</string>
-	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenslipper" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenslipper" verbraucht.</string>
+	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenslipper" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenslipper" verbraucht. </string>
 	<string key="Artifact_WCArmorLightFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenslipper</string>
-	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenslipper" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenslipper" verbraucht.</string>
+	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenslipper" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenslipper" verbraucht. </string>
 	<string key="Artifact_WCArmorLightFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenslipper</string>
-	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenslipper" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenslipper" verbraucht.</string>
+	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenslipper" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenslipper" verbraucht. </string>
 	<string key="Artifact_WCArmorLightFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenslipper</string>
-	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhandschuhe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhandschuhe" verbraucht.</string>
+	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhandschuhe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhandschuhe" verbraucht. </string>
 	<string key="Artifact_WCArmorLightHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenhandschuhe</string>
-	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhandschuhe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhandschuhe" verbraucht.</string>
+	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhandschuhe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhandschuhe" verbraucht. </string>
 	<string key="Artifact_WCArmorLightHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenhandschuhe</string>
-	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhandschuhe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhandschuhe" verbraucht.</string>
+	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhandschuhe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhandschuhe" verbraucht. </string>
 	<string key="Artifact_WCArmorLightHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenhandschuhe</string>
-	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhandschuhe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhandschuhe" verbraucht.</string>
+	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhandschuhe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhandschuhe" verbraucht. </string>
 	<string key="Artifact_WCArmorLightHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenhandschuhe</string>
-	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenkrone" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenkrone" verbraucht.</string>
+	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenkrone" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenkrone" verbraucht. </string>
 	<string key="Artifact_WCArmorLightHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenkrone</string>
-	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenkrone" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenkrone" verbraucht.</string>
+	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenkrone" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenkrone" verbraucht. </string>
 	<string key="Artifact_WCArmorLightHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenkrone</string>
-	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenkrone" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenkrone" verbraucht.</string>
+	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenkrone" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenkrone" verbraucht. </string>
 	<string key="Artifact_WCArmorLightHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenkrone</string>
-	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenkrone" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenkrone" verbraucht.</string>
+	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenkrone" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenkrone" verbraucht. </string>
 	<string key="Artifact_WCArmorLightHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenkrone</string>
-	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhose" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhose" verbraucht.</string>
+	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhose" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhose" verbraucht. </string>
 	<string key="Artifact_WCArmorLightLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenhose</string>
-	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhose" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhose" verbraucht.</string>
+	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhose" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhose" verbraucht. </string>
 	<string key="Artifact_WCArmorLightLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenhose</string>
-	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhose" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhose" verbraucht.</string>
+	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhose" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhose" verbraucht. </string>
 	<string key="Artifact_WCArmorLightLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenhose</string>
-	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhose" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhose" verbraucht.</string>
+	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Florale Regentenhose" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Florale Regentenhose" verbraucht. </string>
 	<string key="Artifact_WCArmorLightLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Florale Regentenhose</string>
-	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenrobe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenrobe" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenrobe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenrobe" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenrobe</string>
-	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenrobe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenrobe" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenrobe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenrobe" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenrobe</string>
-	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenrobe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenrobe" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenrobe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenrobe" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenrobe</string>
-	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenrobe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenrobe" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenrobe" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenrobe" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenrobe</string>
-	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenschuhwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenschuhwerk" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenschuhwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenschuhwerk" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenschuhwerk</string>
-	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenschuhwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenschuhwerk" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenschuhwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenschuhwerk" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenschuhwerk</string>
-	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenschuhwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenschuhwerk" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenschuhwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenschuhwerk" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenschuhwerk</string>
-	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenschuhwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenschuhwerk" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenschuhwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenschuhwerk" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenschuhwerk</string>
-	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenfäustlinge" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenfäustlinge" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenfäustlinge" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenfäustlinge" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenfäustlinge</string>
-	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenfäustlinge" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenfäustlinge" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenfäustlinge" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenfäustlinge" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenfäustlinge</string>
-	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenfäustlinge" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenfäustlinge" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenfäustlinge" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenfäustlinge" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenfäustlinge</string>
-	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenfäustlinge" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenfäustlinge" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenfäustlinge" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenfäustlinge" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenfäustlinge</string>
-	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenkopfbedeckung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenkopfbedeckung" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenkopfbedeckung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenkopfbedeckung" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenkopfbedeckung</string>
-	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenkopfbedeckung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenkopfbedeckung" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenkopfbedeckung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenkopfbedeckung" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenkopfbedeckung</string>
-	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenkopfbedeckung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenkopfbedeckung" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenkopfbedeckung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenkopfbedeckung" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenkopfbedeckung</string>
-	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenkopfbedeckung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenkopfbedeckung" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenkopfbedeckung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenkopfbedeckung" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenkopfbedeckung</string>
-	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenbeinkleid" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenbeinkleid" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenbeinkleid" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenbeinkleid" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenbeinkleid</string>
-	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenbeinkleid" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenbeinkleid" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenbeinkleid" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenbeinkleid" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenbeinkleid</string>
-	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenbeinkleid" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenbeinkleid" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenbeinkleid" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenbeinkleid" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenbeinkleid</string>
-	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenbeinkleid" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenbeinkleid" verbraucht.</string>
+	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Stechpalme-Regentenbeinkleid" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Stechpalme-Regentenbeinkleid" verbraucht. </string>
 	<string key="Artifact_WCArmorMediumLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Stechpalme-Regentenbeinkleid</string>
-	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Zorn des Schneesturms" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Zorn des Schneesturms" verbraucht.</string>
+	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Zorn des Schneesturms" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Zorn des Schneesturms" verbraucht. </string>
 	<string key="Artifact_WCWeaponBowT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Zorn des Schneesturms</string>
-	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Zorn des Schneesturms" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Zorn des Schneesturms" verbraucht.</string>
+	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Zorn des Schneesturms" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Zorn des Schneesturms" verbraucht. </string>
 	<string key="Artifact_WCWeaponBowT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Zorn des Schneesturms</string>
-	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Zorn des Schneesturms" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Zorn des Schneesturms" verbraucht.</string>
+	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Zorn des Schneesturms" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Zorn des Schneesturms" verbraucht. </string>
 	<string key="Artifact_WCWeaponBowT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Zorn des Schneesturms</string>
-	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Zorn des Schneesturms" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Zorn des Schneesturms" verbraucht.</string>
+	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Zorn des Schneesturms" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Zorn des Schneesturms" verbraucht. </string>
 	<string key="Artifact_WCWeaponBowT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Zorn des Schneesturms</string>
-	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kristalline Stulpen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kristalline Stulpen" verbraucht.</string>
+	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kristalline Stulpen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kristalline Stulpen" verbraucht. </string>
 	<string key="Artifact_WCWeaponGauntletIceT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kristalline Stulpen</string>
-	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kristalline Stulpen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kristalline Stulpen" verbraucht.</string>
+	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kristalline Stulpen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kristalline Stulpen" verbraucht. </string>
 	<string key="Artifact_WCWeaponGauntletIceT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kristalline Stulpen</string>
-	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kristalline Stulpen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kristalline Stulpen" verbraucht.</string>
+	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kristalline Stulpen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kristalline Stulpen" verbraucht. </string>
 	<string key="Artifact_WCWeaponGauntletIceT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kristalline Stulpen</string>
-	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kristalline Stulpen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kristalline Stulpen" verbraucht.</string>
+	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kristalline Stulpen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kristalline Stulpen" verbraucht. </string>
 	<string key="Artifact_WCWeaponGauntletIceT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kristalline Stulpen</string>
-	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Bitterer Schatten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Bitterer Schatten" verbraucht.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Bitterer Schatten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Bitterer Schatten" verbraucht. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Bitterer Schatten</string>
-	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Bitterer Schatten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Bitterer Schatten" verbraucht.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Bitterer Schatten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Bitterer Schatten" verbraucht. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Bitterer Schatten</string>
-	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Bitterer Schatten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Bitterer Schatten" verbraucht.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Bitterer Schatten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Bitterer Schatten" verbraucht. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Bitterer Schatten</string>
-	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Bitterer Schatten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Bitterer Schatten" verbraucht.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Bitterer Schatten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Bitterer Schatten" verbraucht. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Bitterer Schatten</string>
-	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Hackmesser" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Hackmesser" verbraucht.</string>
+	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Hackmesser" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Hackmesser" verbraucht. </string>
 	<string key="Artifact_WCWeaponGreatAxeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisiges Hackmesser</string>
-	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Hackmesser" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Hackmesser" verbraucht.</string>
+	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Hackmesser" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Hackmesser" verbraucht. </string>
 	<string key="Artifact_WCWeaponGreatAxeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisiges Hackmesser</string>
-	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Hackmesser" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Hackmesser" verbraucht.</string>
+	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Hackmesser" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Hackmesser" verbraucht. </string>
 	<string key="Artifact_WCWeaponGreatAxeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisiges Hackmesser</string>
-	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Hackmesser" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Hackmesser" verbraucht.</string>
+	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Hackmesser" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Hackmesser" verbraucht. </string>
 	<string key="Artifact_WCWeaponGreatAxeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisiges Hackmesser</string>
-	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostiger Splitter" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostiger Splitter" verbraucht.</string>
+	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostiger Splitter" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostiger Splitter" verbraucht. </string>
 	<string key="Artifact_WCWeaponHatchetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Frostiger Splitter</string>
-	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostiger Splitter" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostiger Splitter" verbraucht.</string>
+	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostiger Splitter" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostiger Splitter" verbraucht. </string>
 	<string key="Artifact_WCWeaponHatchetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Frostiger Splitter</string>
-	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostiger Splitter" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostiger Splitter" verbraucht.</string>
+	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostiger Splitter" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostiger Splitter" verbraucht. </string>
 	<string key="Artifact_WCWeaponHatchetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Frostiger Splitter</string>
-	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostiger Splitter" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostiger Splitter" verbraucht.</string>
+	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostiger Splitter" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostiger Splitter" verbraucht. </string>
 	<string key="Artifact_WCWeaponHatchetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Frostiger Splitter</string>
-	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Obhut des Eises" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Obhut des Eises" verbraucht.</string>
+	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Obhut des Eises" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Obhut des Eises" verbraucht. </string>
 	<string key="Artifact_WCWeaponKShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Obhut des Eises</string>
-	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Obhut des Eises" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Obhut des Eises" verbraucht.</string>
+	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Obhut des Eises" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Obhut des Eises" verbraucht. </string>
 	<string key="Artifact_WCWeaponKShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Obhut des Eises</string>
-	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Obhut des Eises" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Obhut des Eises" verbraucht.</string>
+	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Obhut des Eises" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Obhut des Eises" verbraucht. </string>
 	<string key="Artifact_WCWeaponKShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Obhut des Eises</string>
-	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostlauf" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostlauf" verbraucht.</string>
+	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostlauf" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostlauf" verbraucht. </string>
 	<string key="Artifact_WCWeaponMusketT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Frostlauf</string>
-	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostlauf" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostlauf" verbraucht.</string>
+	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostlauf" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostlauf" verbraucht. </string>
 	<string key="Artifact_WCWeaponMusketT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Frostlauf</string>
-	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostlauf" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostlauf" verbraucht.</string>
+	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostlauf" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostlauf" verbraucht. </string>
 	<string key="Artifact_WCWeaponMusketT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Frostlauf</string>
-	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostlauf" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostlauf" verbraucht.</string>
+	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Frostlauf" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Frostlauf" verbraucht. </string>
 	<string key="Artifact_WCWeaponMusketT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Frostlauf</string>
-	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Spitze des Eisbergs" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Spitze des Eisbergs" verbraucht.</string>
+	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Spitze des Eisbergs" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Spitze des Eisbergs" verbraucht. </string>
 	<string key="Artifact_WCWeaponRapierT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Spitze des Eisbergs</string>
-	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Spitze des Eisbergs" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Spitze des Eisbergs" verbraucht.</string>
+	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Spitze des Eisbergs" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Spitze des Eisbergs" verbraucht. </string>
 	<string key="Artifact_WCWeaponRapierT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Spitze des Eisbergs</string>
-	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Spitze des Eisbergs" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Spitze des Eisbergs" verbraucht.</string>
+	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Spitze des Eisbergs" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Spitze des Eisbergs" verbraucht. </string>
 	<string key="Artifact_WCWeaponRapierT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Spitze des Eisbergs</string>
-	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Spitze des Eisbergs" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Spitze des Eisbergs" verbraucht.</string>
+	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Spitze des Eisbergs" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Spitze des Eisbergs" verbraucht. </string>
 	<string key="Artifact_WCWeaponRapierT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Spitze des Eisbergs</string>
-	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Bollwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Bollwerk" verbraucht.</string>
+	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Bollwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Bollwerk" verbraucht. </string>
 	<string key="Artifact_WCWeaponRShieldT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisiges Bollwerk</string>
-	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Bollwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Bollwerk" verbraucht.</string>
+	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Bollwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Bollwerk" verbraucht. </string>
 	<string key="Artifact_WCWeaponRShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisiges Bollwerk</string>
-	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Bollwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Bollwerk" verbraucht.</string>
+	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Bollwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Bollwerk" verbraucht. </string>
 	<string key="Artifact_WCWeaponRShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisiges Bollwerk</string>
-	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Bollwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Bollwerk" verbraucht.</string>
+	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisiges Bollwerk" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisiges Bollwerk" verbraucht. </string>
 	<string key="Artifact_WCWeaponRShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisiges Bollwerk</string>
-	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eiszapfen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eiszapfen" verbraucht.</string>
+	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eiszapfen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eiszapfen" verbraucht. </string>
 	<string key="artifact_wcweaponspeart2_mastername" rel_version="Event_WinterConvergence_Perm">Schema: Eiszapfen</string>
-	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eiszapfen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eiszapfen" verbraucht.</string>
+	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eiszapfen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eiszapfen" verbraucht. </string>
 	<string key="artifact_wcweaponspeart3_mastername" rel_version="Event_WinterConvergence_Perm">Schema: Eiszapfen</string>
-	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eiszapfen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eiszapfen" verbraucht.</string>
+	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eiszapfen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eiszapfen" verbraucht. </string>
 	<string key="artifact_wcweaponspeart4_mastername" rel_version="Event_WinterConvergence_Perm">Schema: Eiszapfen</string>
-	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eiszapfen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eiszapfen" verbraucht.</string>
+	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eiszapfen" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eiszapfen" verbraucht. </string>
 	<string key="artifact_wcweaponspeart5_mastername" rel_version="Event_WinterConvergence_Perm">Schema: Eiszapfen</string>
-	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Schmelzender Schnee" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Schmelzender Schnee" verbraucht.</string>
+	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Schmelzender Schnee" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Schmelzender Schnee" verbraucht. </string>
 	<string key="Artifact_WCWeaponStaffFireT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Schmelzender Schnee</string>
-	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Schmelzender Schnee" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Schmelzender Schnee" verbraucht.</string>
+	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Schmelzender Schnee" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Schmelzender Schnee" verbraucht. </string>
 	<string key="Artifact_WCWeaponStaffFireT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Schmelzender Schnee</string>
-	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Schmelzender Schnee" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Schmelzender Schnee" verbraucht.</string>
+	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Schmelzender Schnee" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Schmelzender Schnee" verbraucht. </string>
 	<string key="Artifact_WCWeaponStaffFireT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Schmelzender Schnee</string>
-	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Schmelzender Schnee" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Schmelzender Schnee" verbraucht.</string>
+	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Schmelzender Schnee" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Schmelzender Schnee" verbraucht. </string>
 	<string key="Artifact_WCWeaponStaffFireT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Schmelzender Schnee</string>
-	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kälteheilung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kälteheilung" verbraucht.</string>
+	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kälteheilung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kälteheilung" verbraucht. </string>
 	<string key="Artifact_WCWeaponStaffLifeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kälteheilung</string>
-	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kälteheilung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kälteheilung" verbraucht.</string>
+	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kälteheilung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kälteheilung" verbraucht. </string>
 	<string key="Artifact_WCWeaponStaffLifeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kälteheilung</string>
-	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kälteheilung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kälteheilung" verbraucht.</string>
+	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kälteheilung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kälteheilung" verbraucht. </string>
 	<string key="Artifact_WCWeaponStaffLifeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kälteheilung</string>
-	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kälteheilung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kälteheilung" verbraucht.</string>
+	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kälteheilung" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kälteheilung" verbraucht. </string>
 	<string key="Artifact_WCWeaponStaffLifeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kälteheilung</string>
-	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisbrecher" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisbrecher" verbraucht.</string>
+	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisbrecher" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisbrecher" verbraucht. </string>
 	<string key="Artifact_WCWeaponSwordT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisbrecher</string>
-	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisbrecher" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisbrecher" verbraucht.</string>
+	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisbrecher" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisbrecher" verbraucht. </string>
 	<string key="Artifact_WCWeaponSwordT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisbrecher</string>
-	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisbrecher" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisbrecher" verbraucht.</string>
+	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisbrecher" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisbrecher" verbraucht. </string>
 	<string key="Artifact_WCWeaponSwordT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisbrecher</string>
-	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisbrecher" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisbrecher" verbraucht.</string>
+	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Eisbrecher" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Eisbrecher" verbraucht. </string>
 	<string key="Artifact_WCWeaponSwordT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Eisbrecher</string>
-	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Festlicher Schlitten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Festlicher Schlitten" verbraucht.</string>
+	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Festlicher Schlitten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Festlicher Schlitten" verbraucht. </string>
 	<string key="Artifact_WCWeaponTShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Festlicher Schlitten</string>
-	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Festlicher Schlitten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Festlicher Schlitten" verbraucht.</string>
+	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Festlicher Schlitten" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Festlicher Schlitten" verbraucht. </string>
 	<string key="Artifact_WCWeaponTShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Festlicher Schlitten</string>
-	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kriegshammer des Winters" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kriegshammer des Winters" verbraucht.</string>
+	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kriegshammer des Winters" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kriegshammer des Winters" verbraucht. </string>
 	<string key="Artifact_WCWeaponWarHammerT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kriegshammer des Winters</string>
-	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kriegshammer des Winters" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kriegshammer des Winters" verbraucht.</string>
+	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kriegshammer des Winters" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kriegshammer des Winters" verbraucht. </string>
 	<string key="Artifact_WCWeaponWarHammerT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kriegshammer des Winters</string>
-	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kriegshammer des Winters" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kriegshammer des Winters" verbraucht.</string>
+	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kriegshammer des Winters" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kriegshammer des Winters" verbraucht. </string>
 	<string key="Artifact_WCWeaponWarHammerT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kriegshammer des Winters</string>
-	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kriegshammer des Winters" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kriegshammer des Winters" verbraucht.</string>
+	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Dieses Schema wird verwendet, um "Kriegshammer des Winters" an der entsprechenden Herstellungsstation herzustellen. Es wird im Herstellungsprozess für "Kriegshammer des Winters" verbraucht. </string>
 	<string key="Artifact_WCWeaponWarHammerT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schema: Kriegshammer des Winters</string>
 	<string key="Artificer_Crucibles_Description">Werkmeister-Tiegel</string>
 	<string key="Artificer_Crucibles_MasterName">Werkmeister-Tiegel</string>
@@ -15122,7 +15132,7 @@
 	<string key="FoodFOCT4_Description">Erhöht {[Type_StatusEffectData.FoodFOCT4.BaseDuration / 60]} Minuten lang Konzentration um {[Type_StatusEffectData.FoodFOCT4.MODFocus]}. Deine Gesundheit erholt sich langsam, solange dieser Effekt aktiv ist.</string>
 	<string key="FoodFOCT4_MasterName">Truthahntopfpastete</string>
 	<string key="FoodFOCT5_Description">Erhöht {[Type_StatusEffectData.FoodFOCT5.BaseDuration / 60]} Minuten lang Konzentration um {[Type_StatusEffectData.FoodFOCT5.MODFocus]}. Deine Gesundheit erholt sich langsam, solange dieser Effekt aktiv ist.</string>
-	<string key="FoodFOCT5_MasterName">Geschwärzter Mandje Mandje mit Mais-Succotash</string>
+	<string key="FoodFOCT5_MasterName">Geschwärzter Lava-Barbe mit Mais-Succotash</string>
 	<string key="FoodHarvesterT1_Description">Erhöht das Glück bei der Erntearbeit {[Type_StatusEffectData.FoodHarvesterT1.BaseDuration / 60]} Minuten lang um {[Type_StatusEffectData.FoodHarvesterT1.ROLharvesting]} Punkte. Deine Gesundheit erholt sich langsam, solange dieser Effekt aktiv ist.</string>
 	<string key="FoodHarvesterT1_MasterName">Gekochter Mais</string>
 	<string key="FoodHarvesterT2_Description">Erhöht das Glück bei der Erntearbeit {[Type_StatusEffectData.FoodHarvesterT2.BaseDuration / 60]} Minuten lang um {[Type_StatusEffectData.FoodHarvesterT2.ROLharvesting]} Punkte. Deine Gesundheit erholt sich langsam, solange dieser Effekt aktiv ist.</string>
@@ -16434,7 +16444,7 @@
 	<string key="HeavyChest_JusticarsChestguardT3_Description">"Einzig und allein die Gerechtigkeit ist, was zählt. Um Gerechtigkeit sprechen zu können, musst du dich gegen jene verteidigen können, die Unrecht anrichten wollen."</string>
 	<string key="HeavyChest_JusticarsChestguardT3_MasterName">Brustschutz des Justiziars</string>
 	<string key="heavychest_knightt3_description" rel_version="Armor_EvilKnightT3">Das verzierte Metall schützt die Organe seiner Träger und rühmt deren Vortrefflichkeit.</string>
-	<string key="heavychest_knightt3_mastername" rel_version="Armor_EvilKnightT3">Varangianische Schwere Brustplatte</string>
+	<string key="heavychest_knightt3_mastername" rel_version="Armor_EvilKnightT3">Schwere Varangianer-Brustplatte</string>
 	<string key="HeavyChest_Lost1T2_Description">Ein Rüstungsteil, das vor langer Zeit von den Verlorenen getragen wurde.</string>
 	<string key="HeavyChest_Lost1T2_MasterName">Brustplatte der Verlorenen</string>
 	<string key="HeavyChest_Lost1T3_Description">Ein Rüstungsteil, das vor langer Zeit von den Verlorenen getragen wurde.</string>
@@ -16488,19 +16498,19 @@
 	<string key="heavychest_oakkingt2_description" rel_version="Apparel_OakKing">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein.</string>
 	<string key="heavychest_oakkingt2_mastername" rel_version="Apparel_OakKing">Regentenbrustschutz (Eiche)</string>
 	<string key="HeavyChest_OakKingT2_Shop_Description" rel_version="Event_WinterConvergence_Perm">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein. </string>
-	<string key="HeavyChest_OakKingT2_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbrustschutz (Eiche)</string>
+	<string key="HeavyChest_OakKingT2_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbrustschutz  (Eiche)</string>
 	<string key="heavychest_oakkingt3_description" rel_version="Apparel_OakKing">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein.</string>
 	<string key="heavychest_oakkingt3_mastername" rel_version="Apparel_OakKing">Regentenbrustschutz (Eiche)</string>
 	<string key="HeavyChest_OakKingT3_Shop_Description" rel_version="Event_WinterConvergence_Perm">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein. </string>
-	<string key="HeavyChest_OakKingT3_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbrustschutz (Eiche)</string>
+	<string key="HeavyChest_OakKingT3_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbrustschutz  (Eiche)</string>
 	<string key="heavychest_oakkingt4_description" rel_version="Apparel_OakKing">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein.</string>
 	<string key="heavychest_oakkingt4_mastername" rel_version="Apparel_OakKing">Regentenbrustschutz (Eiche)</string>
 	<string key="HeavyChest_OakKingT4_Shop_Description" rel_version="Event_WinterConvergence_Perm">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein. </string>
-	<string key="HeavyChest_OakKingT4_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbrustschutz (Eiche)</string>
+	<string key="HeavyChest_OakKingT4_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbrustschutz  (Eiche)</string>
 	<string key="heavychest_oakkingt5_description" rel_version="Apparel_OakKing">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein.</string>
 	<string key="heavychest_oakkingt5_mastername" rel_version="Apparel_OakKing">Regentenbrustschutz (Eiche)</string>
 	<string key="HeavyChest_OakKingT5_Shop_Description" rel_version="Event_WinterConvergence_Perm">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein. </string>
-	<string key="HeavyChest_OakKingT5_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbrustschutz (Eiche)</string>
+	<string key="HeavyChest_OakKingT5_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbrustschutz  (Eiche)</string>
 	<string key="HeavyChest_OphanT5_Description">"Unsere Arbeit endet nie. Sollten wir jemals unachtsam werden, ist die Welt verloren."</string>
 	<string key="HeavyChest_OphanT5_MasterName">Waisenbrustplatte</string>
 	<string key="HeavyChest_OR1T5_Description">Maßgefertigte Rüstung als Belohnung für Außenpostensturm-Teilnehmer.</string>
@@ -17886,19 +17896,19 @@
 	<string key="heavylegs_oakkingt2_description" rel_version="Apparel_OakKing">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein.</string>
 	<string key="heavylegs_oakkingt2_mastername" rel_version="Apparel_OakKing">Regentenbeinschienen (Eiche)</string>
 	<string key="HeavyLegs_OakKingT2_Shop_Description" rel_version="Event_WinterConvergence_Perm">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein. </string>
-	<string key="HeavyLegs_OakKingT2_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbeinschienen (Eiche)</string>
+	<string key="HeavyLegs_OakKingT2_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbeinschienen  (Eiche)</string>
 	<string key="heavylegs_oakkingt3_description" rel_version="Apparel_OakKing">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein.</string>
 	<string key="heavylegs_oakkingt3_mastername" rel_version="Apparel_OakKing">Regentenbeinschienen (Eiche)</string>
 	<string key="HeavyLegs_OakKingT3_Shop_Description" rel_version="Event_WinterConvergence_Perm">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein. </string>
-	<string key="HeavyLegs_OakKingT3_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbeinschienen (Eiche)</string>
+	<string key="HeavyLegs_OakKingT3_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbeinschienen  (Eiche)</string>
 	<string key="heavylegs_oakkingt4_description" rel_version="Apparel_OakKing">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein.</string>
 	<string key="heavylegs_oakkingt4_mastername" rel_version="Apparel_OakKing">Regentenbeinschienen (Eiche)</string>
 	<string key="HeavyLegs_OakKingT4_Shop_Description" rel_version="Event_WinterConvergence_Perm">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein. </string>
-	<string key="HeavyLegs_OakKingT4_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbeinschienen (Eiche)</string>
+	<string key="HeavyLegs_OakKingT4_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbeinschienen  (Eiche)</string>
 	<string key="heavylegs_oakkingt5_description" rel_version="Apparel_OakKing">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein.</string>
 	<string key="heavylegs_oakkingt5_mastername" rel_version="Apparel_OakKing">Regentenbeinschienen (Eiche)</string>
 	<string key="HeavyLegs_OakKingT5_Shop_Description" rel_version="Event_WinterConvergence_Perm">Ein Schmuck aus Zweigen und Samen erleichtert die Tarnung ungemein. </string>
-	<string key="HeavyLegs_OakKingT5_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbeinschienen (Eiche)</string>
+	<string key="HeavyLegs_OakKingT5_Shop_MasterName" rel_version="Event_WinterConvergence_Perm">Regentenbeinschienen  (Eiche)</string>
 	<string key="HeavyLegs_OphanT5_Description">"Unsere Arbeit endet nie. Sollten wir jemals unachtsam werden, ist die Welt verloren."</string>
 	<string key="HeavyLegs_OphanT5_MasterName">Waisenbeinschienen</string>
 	<string key="HeavyLegs_OR1T5_Description">Maßgefertigte Rüstung als Belohnung für Außenpostensturm-Teilnehmer.</string>
@@ -18439,7 +18449,7 @@
 	<string key="ItemPattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Dryaden-Bogen</string>
 	<string key="ItemPattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Dryaden-Feuerstab</string>
 	<string key="ItemPattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Dryaden-Beil</string>
-	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Dryaden-Eismagie</string>
+	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Dryaden-Langspitzschild</string>
 	<string key="ItemPattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Dryaden-Lebensstab</string>
 	<string key="ItemPattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Dryaden-Muskete</string>
@@ -18456,7 +18466,7 @@
 	<string key="ItemPattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Grabräuber-Bogen</string>
 	<string key="ItemPattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Grabräuberfeuerstab</string>
 	<string key="ItemPattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Grabräuberbeil</string>
-	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Grabräuber-Eismagie</string>
+	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Grabräuberlebensstab</string>
 	<string key="ItemPattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Grabräubermuskete</string>
 	<string key="ItemPattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Grabräuber-Rapier</string>
@@ -18494,7 +18504,7 @@
 	<string key="ItemPattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Durchnässter Bogen</string>
 	<string key="ItemPattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Durchnässter Feuerstab</string>
 	<string key="ItemPattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Durchnässtes Beil</string>
-	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Wasserdurchtränkte Eismagie</string>
+	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Wasserdurchtränkte Eisstulpen</string>
 	<string key="ItemPattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Durchnässter Lebensstab</string>
 	<string key="ItemPattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Durchnässte Muskete</string>
 	<string key="ItemPattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Durchnässtes Rapier</string>
@@ -24111,7 +24121,7 @@
 	<string key="Pattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Schema: Dryaden-Bogen</string>
 	<string key="Pattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Schema: Dryaden-Feuerstab</string>
 	<string key="Pattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Schema: Dryaden-Beil</string>
-	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: Dryaden-Eismagie</string>
+	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: </string>
 	<string key="Pattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Schema: Dryaden-Langspitzschild</string>
 	<string key="Pattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Schema: Dryaden-Lebensstab</string>
 	<string key="Pattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Schema: Dryaden-Muskete</string>
@@ -24128,7 +24138,7 @@
 	<string key="Pattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Schema: Grabräuber-Bogen</string>
 	<string key="Pattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Schema: Grabräuberfeuerstab</string>
 	<string key="Pattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Schema: Grabräuberbeil</string>
-	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: Grabräuber-Eismagie</string>
+	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: </string>
 	<string key="Pattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Schema: Grabräuberlebensstab</string>
 	<string key="Pattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Schema: Grabräubermuskete</string>
 	<string key="Pattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Schema: Grabräuber-Rapier</string>
@@ -24166,7 +24176,7 @@
 	<string key="Pattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Schema: Durchnässter Bogen</string>
 	<string key="Pattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Schema: Durchnässter Feuerstab</string>
 	<string key="Pattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Schema: Durchnässtes Beil</string>
-	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: Wasserdurchtränkte Eismagie</string>
+	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Schema: Wasserdurchtränkte Eisstulpen</string>
 	<string key="Pattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Schema: Durchnässter Lebensstab</string>
 	<string key="Pattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Schema: Durchnässte Muskete</string>
 	<string key="Pattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Schema: Durchnässtes Rapier</string>
@@ -24188,9 +24198,9 @@
 	<string key="Pattern_TempleGuards_Gauntlets" rel_version="Event_WinterConvergence_Perm">Schema: Stulpen der Tempelwache</string>
 	<string key="Pattern_TempleGuards_Helm" rel_version="Event_WinterConvergence_Perm">Schema: Helm der Tempelwache</string>
 	<string key="Pattern_TempleGuards_Legguards" rel_version="Event_WinterConvergence_Perm">Schema: Beinschutz der Tempelwache</string>
-	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm">Bringe dieses Schema zu einem Arkanumarchiv, um einen Gegenstand mit einem Rüstwert von 600 und einzigartigem Aussehen herzustellen.</string>
+	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternForge_Desc">Bringe dieses Schema zu einer Schmiede, um einen Gegenstand mit einem Rüstwert von 600 und einzigartigem Aussehen herzustellen.</string>
-	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm">Bringe dieses Schema zu einer Kleidermacherei, um einen Gegenstand mit einem Rüstwert von 600 und einzigartigem Aussehen herzustellen.</string>
+	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternWorkbench_Desc" rel_version="Event_WinterConvergence_Perm">Bringe dieses Schema zu einer Werkbank, um einen Gegenstand mit einem Rüstwert von 600 und einzigartigem Aussehen herzustellen.</string>
 	<string key="PearlCutT1_Description">Wird zum Schleifen von Juwelen verwendet. Kann außerdem in eine Rüstung eingesetzt werden, um ihre Macht zu erhöhen.</string>
 	<string key="pearlcutt1_mastername">Geschliffene beschädigte Perle</string>
@@ -27891,7 +27901,7 @@
 	<string key="Shard_Heavy_Hands_MasterName">Zeitlose-Stulpen-Splitter</string>
 	<string key="Shard_Heavy_Hands_Description">Mit dem Rohstoff können in einer Schmiede Schwere Stulpen mit bestimmten Attributen hergestellt werden.</string>
 	<string key="Shard_Heavy_Legs_MasterName">Zeitloser-Beinschutz-Splitter</string>
-	<string key="Shard_Heavy_Legs_Description">Mit dem Rohstoff können in einer Schmiede Schwere Beinschütze mit bestimmten Attributen hergestellt werden.</string>
+	<string key="Shard_Heavy_Legs_Description">Mit dem Rohstoff kann in einer Schmiede ein Schwerer Beinschutz mit bestimmten Attributen hergestellt werden.</string>
 	<string key="Shard_Heavy_Feet_MasterName">Zeitlose-Beinschienen-Splitter</string>
 	<string key="Shard_Heavy_Feet_Description">Mit dem Rohstoff können in einer Schmiede Schwere Stiefel mit bestimmten Attributen hergestellt werden.</string>
 	<string key="Shard_Medium_Head_MasterName">Zeitloser-Lederhut-Splitter</string>
@@ -27923,7 +27933,7 @@
 	<string key="Shard_Rapier_MasterName">Zeitloser-Rapier-Splitter</string>
 	<string key="Shard_Rapier_Description">Mit dem Rohstoff kann in einer Schmiede ein Rapier mit bestimmten Attributen hergestellt werden.</string>
 	<string key="Shard_Hatchet_MasterName">Zeitloses-Beil-Splitter</string>
-	<string key="Shard_Hatchet_Description">Mit dem Rohstoff kann in einer Werkstatt ein Beil mit bestimmten Attributen hergestellt werden.</string>
+	<string key="Shard_Hatchet_Description"/>
 	<string key="Shard_Bow_MasterName">Zeitloser-Bogen-Splitter</string>
 	<string key="Shard_Bow_Description">Mit dem Rohstoff kann in einer Werkstatt ein Bogen mit bestimmten Attributen hergestellt werden.</string>
 	<string key="Shard_Musket_MasterName">Zeitlose-Muskete-Splitter</string>
@@ -27943,7 +27953,7 @@
 	<string key="Shard_Shield_Tower_MasterName">Zeitloser-Turmschild-Splitter</string>
 	<string key="Shard_Shield_Tower_Description">Mit dem Rohstoff kann in einer Schmiede ein Turmschild mit bestimmten Attributen hergestellt werden.</string>
 	<string key="Shard_Spear_MasterName">Zeitloser-Speer-Splitter</string>
-	<string key="Shard_Spear_Description">Mit dem Rohstoff kann in einer Werkstatt ein Speer mit bestimmten Attributen hergestellt werden.</string>
+	<string key="Shard_Spear_Description"/>
 	<string key="Shard_Ring_MasterName">Zeitloser-Ring-Splitter</string>
 	<string key="Shard_Ring_Description">Mit dem Rohstoff kann in einer Kleidermacherei ein Ring mit bestimmten Attributen hergestellt werden.</string>
 	<string key="Shard_Amulet_MasterName">Zeitloses-Amulett-Splitter</string>
@@ -27957,5 +27967,17 @@
 	<string key="EarringDropT5_MasterName">Alter Ohrring</string>
 	<string key="RingDropT5_MasterName">Alter Ring</string>
 	<string key="AmuletDropT5_MasterName">Altes Amulett</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_MasterName" rel_version="Twitch_EpicStory_Skins">Nynaeves Mantel</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_Description" rel_version="Twitch_EpicStory_Skins">Lausche den Winden, denn sie tragen wahre Weisheit mit sich.</string>
+	<string key="Skin_Chest_WoT_RedScarf_MasterName" rel_version="Twitch_EpicStory_Skins">Mantel der Roten Ajah</string>
+	<string key="Skin_Chest_WoT_RedScarf_Description" rel_version="Twitch_EpicStory_Skins">Diese Farbe ist eine Warnung für alle, die Böses im Schilde führen.</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_MasterName" rel_version="Twitch_EpicStory_Skins">Kinder des Lichts</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_Description" rel_version="Twitch_EpicStory_Skins">Elfenbeinfarbene Roben verschleiern manchmal die wahren Absichten ihrer Träger.</string>
+	<string key="Skin_Chest_WoT_BrownCloak_MasterName" rel_version="Twitch_EpicStory_Skins">Egwenes Umhang</string>
+	<string key="Skin_Chest_WoT_BrownCloak_Description" rel_version="Twitch_EpicStory_Skins">Nur die Begabten können den Weg der Magie beschreiten.</string>
+	<string key="Skin_Rapier_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Tams Klinge</string>
+	<string key="Skin_Rapier_WoT_Description" rel_version="Twitch_EpicStory_Skins">Ebenso schön wie tödlich. Die Waffe eines wahren Wächters.</string>
+	<string key="Skin_Longsword_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Schattengezücht-Klinge</string>
+	<string key="Skin_Longsword_WoT_Description" rel_version="Twitch_EpicStory_Skins">Die furchterregende Klaue eines schrecklichen finsteren Fürsten.</string>
 </resources>
 

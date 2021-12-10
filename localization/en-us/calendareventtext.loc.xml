@@ -4,7 +4,7 @@
 	<string key="ui_calendar_event_button_back">Back</string>
 	<string key="ui_calendar_event_button_go">Let's Go!</string>
 	<string key="ui_calendar_event_button_view_details">View Event Details</string>
-	<string key="ui_calendar_event_panel1_title" rel_version="Event_WinterConvergence_Temp">WINTERFEST CONVERGENCE IS HERE</string>
+	<string key="ui_calendar_event_panel1_title" rel_version="Event_WinterConvergence_Temp">WINTER CONVERGENCE IS HERE</string>
 	<string key="ui_calendar_event_panel1_subtitle" rel_version="Event_WinterConvergence_Temp">Event runs from &lt;font color="#ffffff"&gt;{startDate}&lt;/font&gt; until &lt;font color="#ffffff"&gt;{endDate}&lt;/font&gt;</string>
 	<string key="ui_calendar_event_panel1_bullet1_title" rel_version="Event_WinterConvergence_Temp">Limited Time\nActivities</string>
 	<string key="ui_calendar_event_panel1_bullet1_text" rel_version="Event_WinterConvergence_Temp">Mine Gleamite crystals, secure Stolen Presents, and complete activities to earn Winter Tokens and raise your reputation with the mysterious Winter Wanderer and his shop!</string>

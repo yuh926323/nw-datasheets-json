@@ -213,7 +213,8 @@
 	<string key="ui_reply">Responder</string>
 	<string key="ui_report_header">Denunciar: {playerName}</string>
 	<string key="ui_report_player_type">Forneça uma breve descrição da violação (requerido)</string>
-	<string key="ui_reportreason_abusive_chat">Chat Abusivo</string>
+	<string key="ui_reportreason_abusive_chat">Conteúdo Abusivo no Chat de Texto</string>
+	<string key="ui_reportreason_abusive_voice_chat">Conteúdo Abusivo no Chat de Voz</string>
 	<string key="ui_reportreason_cheating">Trapaça</string>
 	<string key="ui_reportreason_griefing">Assédio</string>
 	<string key="ui_reportreason_offensive_name">Nome do Jogador</string>
@@ -221,6 +222,7 @@
 	<string key="ui_reportreason_coinselling">Vender moedas</string>
 	<string key="ui_reportreason_botbehavior">Comportamento de bot</string>
 	<string key="ui_reportreason_abusive_chat_description">Discurso de ódio, crueldade ou insultos direcionados a um ou mais jogadores.</string>
+	<string key="ui_reportreason_abusive_voice_chat_description">Discurso de ódio, crueldade ou insultos direcionados a um ou mais jogadores.</string>
 	<string key="ui_reportreason_cheating_description">Bugs ou falhas utilizados para obter vantagem.</string>
 	<string key="ui_reportreason_griefing_description">Perturbação ou comportamento impróprio.</string>
 	<string key="ui_reportreason_offensive_name_description">Nome ofensivo ou impróprio.</string>
@@ -230,6 +232,8 @@
 	<string key="ui_reportreason_select">Selecione uma razão...</string>
 	<string key="ui_reportreason_offensive_guild_name">Nome da Companhia</string>
 	<string key="ui_reportreason_offensive_guild_description">Nome da companhia ofensivo ou impróprio.</string>
+	<string key="ui_reportreason_offensive_guild_description_no_guild">Este jogador não pertence a uma Companhia.</string>
+	<string key="ui_reportreason_offensive_guild_description_error">Companhia não encontrada.</string>
 	<string key="ui_report_thanks">Obrigado por enviar um relatório</string>
 	<string key="ui_missing_reason_and_description">Forneça uma razão e descrição</string>
 	<string key="ui_missing_reason">Selecione uma razão</string>
@@ -286,6 +290,7 @@
 	<string key="ui_subarmy_join_requests">PEDIDOS DE PARTICIPAÇÃO</string>
 	<string key="ui_subarmy_time_remaining">TEMPO RESTANTE</string>
 	<string key="ui_subarmy_continue_to_selection">Continue para a Seleção</string>
+	<string key="ui_subarmy_invite_header">Escolher Jogadores para Convidar</string>
 	<string key="ui_subarmy_invite_to_group_enabled">&lt;img src="LyShineUI/Images/icons/twitch/twitch_iconAddGroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; Convidar para o Grupo</string>
 	<string key="ui_subarmy_invite_to_company_enabled">&lt;img src="LyShineUI/Images/icons/twitch/twitch_iconAddGuild" scale="1.5" yOffset="6.5"&gt;&lt;/img&gt; Convidar para a Companhia</string>
 	<string key="ui_subarmy_invite_to_group">&lt;img src="LyShineUI/Images/socialpane/social_iconAddGroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; Convidar para o Grupo</string>

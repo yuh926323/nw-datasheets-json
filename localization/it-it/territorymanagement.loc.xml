@@ -258,8 +258,8 @@
 	<string key="ui_community_points_detail">{amount}&lt;font face="lyshineui/fonts/Nimbus_Medium.font"&gt; Punti progetto&lt;/font&gt;</string>
 	<string key="ui_project_points_label">Punti progetto</string>
 	<string key="ui_upgradebutton_label_alwaysavailable">Cercasi aiuto</string>
-	<string key="ui_upgradebutton_label_settlement">Migliora città</string>
-	<string key="ui_upgradebutton_tooltip_settlement">Migliora le postazioni di produzione e lavorazione della città.</string>
+	<string key="ui_upgradebutton_label_settlement">Migliora insediamento</string>
+	<string key="ui_upgradebutton_tooltip_settlement">Migliora le postazioni di produzione e lavorazione dell'insediamento.</string>
 	<string key="ui_upgradebutton_label_fort">Migliora forte</string>
 	<string key="ui_upgradebutton_tooltip_fort">Migliora porte, punti d'attacco e armi del forte.</string>
 	<string key="ui_upgradebutton_label_lifestyle">Migliora stile di vita</string>
@@ -626,7 +626,7 @@
 	<string key="ui_darkness_threshold_desc_2">Potrebbero comparire brecce della corruzione &lt;font color="#f67817"&gt;piccole e grandi&lt;/font&gt;</string>
 	<string key="ui_darkness_threshold_desc_3">&lt;font color="#f25d5d"&gt;Quantità massima&lt;/font&gt; di brecce della corruzione presenti</string>
 	<string key="ui_plan_territory">Progetta territorio</string>
-	<string key="ui_upgrade_town">Migliora città</string>
+	<string key="ui_upgrade_town">Migliora insediamento</string>
 	<string key="ui_upgrade_fort">Migliora forte</string>
 	<string key="ui_upgrade_fill">Migliora {tiername}</string>
 	<string key="ui_project_detail">DETTAGLI DEL PROGETTO</string>

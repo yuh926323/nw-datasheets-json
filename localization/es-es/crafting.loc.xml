@@ -222,5 +222,6 @@
 	<string key="crafting_filter_placeholder">Filtrar por nombre...</string>
 	<string key="crafting_category_select_title">ELEGIR {type}</string>
 	<string key="crafting_discount_base">Tarifa base</string>
+	<string key="ui_crafting_resource_origin_message">Nota: Los recursos utilizados se cogen en primer lugar de tu inventario y después del almacenamiento de tu asentamiento.</string>
 </resources>
 

@@ -222,5 +222,6 @@
 	<string key="crafting_filter_placeholder">Filtrer par nom...</string>
 	<string key="crafting_category_select_title">SÉLECTIONNER {type}</string>
 	<string key="crafting_discount_base">Frais de base</string>
+	<string key="ui_crafting_resource_origin_message">Remarque : Les ressources utilisées sont d'abord prises dans votre inventaire, puis dans le rangement de votre colonie.</string>
 </resources>
 

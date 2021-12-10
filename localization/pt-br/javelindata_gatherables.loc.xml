@@ -393,6 +393,9 @@
 	<string key="1124_VistaPoint2_DisplayName">Mirante</string>
 	<string key="1124_VistaPoint3_DisplayName">Mirante</string>
 	<string key="1124_VistaPoint4_DisplayName">Mirante</string>
+	<string key="1132_GrampasGun_DisplayName">Forja do Vovô</string>
+	<string key="1132_Digby_DisplayName">Toc!</string>
+	<string key="1132_Shootout_DisplayName">Retirada de Coy</string>
 	<string key="Truffle_DisplayName">Trufa Deliciosa</string>
 	<string key="0402_GruelBarrel">Barril de Mingau</string>
 	<string key="SurvivalistQuest_AlphaLure_interact">Terra Tenuemente Perfumada</string>
@@ -420,6 +423,9 @@
 	<string key="0825_CookingSupplies_DisplayName">Coletar Suprimentos</string>
 	<string key="0826_TigerCage_DisplayName">Destrancar Gaiola</string>
 	<string key="0828_Heirlooms_DisplayName">Coletar Herança</string>
+	<string key="0831_DryadsEyePlant_DisplayName">Coletar Lágrimas de Dríade</string>
+	<string key="0831_BruteCannonSchematic_DisplayName">Diagrama de Canhão Bruto</string>
+	<string key="0831_DiscardedArmorPile_DisplayName">Vasculhar Pilha de Armaduras</string>
 	<string key="06_SpectralShrine">Santuário Espectral</string>
 	<string key="FishingHotspotBroad_DisplayName">Local de Pesca (Geral)</string>
 	<string key="FishingHotspotRare_DisplayName">Local de Pesca (Raro)</string>

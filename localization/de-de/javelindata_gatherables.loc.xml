@@ -393,6 +393,9 @@
 	<string key="1124_VistaPoint2_DisplayName">Aussichtspunkt</string>
 	<string key="1124_VistaPoint3_DisplayName">Aussichtspunkt</string>
 	<string key="1124_VistaPoint4_DisplayName">Aussichtspunkt</string>
+	<string key="1132_GrampasGun_DisplayName">Großvaters Schmiede</string>
+	<string key="1132_Digby_DisplayName">Klopf!</string>
+	<string key="1132_Shootout_DisplayName">Coys Rückzug</string>
 	<string key="Truffle_DisplayName">Köstlicher Trüffel</string>
 	<string key="0402_GruelBarrel">Fass mit Schleimsuppe</string>
 	<string key="SurvivalistQuest_AlphaLure_interact">Leicht duftende Erde</string>
@@ -420,6 +423,9 @@
 	<string key="0825_CookingSupplies_DisplayName">Vorräte sammeln</string>
 	<string key="0826_TigerCage_DisplayName">Käfig aufsperren</string>
 	<string key="0828_Heirlooms_DisplayName">Erbstück einsammeln</string>
+	<string key="0831_DryadsEyePlant_DisplayName">Sammle Dryadentränen</string>
+	<string key="0831_BruteCannonSchematic_DisplayName">Wüstlingskanone-Bauplan</string>
+	<string key="0831_DiscardedArmorPile_DisplayName">Rüstungsteile durchsuchen</string>
 	<string key="06_SpectralShrine">Geisterschrein</string>
 	<string key="FishingHotspotBroad_DisplayName">Angelstelle (gewöhnlich)</string>
 	<string key="FishingHotspotRare_DisplayName">Angelstelle (selten)</string>

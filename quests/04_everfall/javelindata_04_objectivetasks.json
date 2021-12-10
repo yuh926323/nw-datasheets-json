@@ -2857,7 +2857,7 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "IsHidden": 0,
+        "IsHidden": 1,
         "SubTask1": "0424_0108_d_03d_KillWW"
     },
     {
@@ -3010,7 +3010,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0424_0108_d_03c_KillWW",
-        "IsHidden": 1
+        "IsHidden": 0
     },
     {
         "TaskID": "0402_0401_d_00_Container_EnemyOfMyEnemy",

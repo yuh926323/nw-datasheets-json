@@ -1510,6 +1510,8 @@
 	<string key="ui_poi_devworld_cave_description">Una cueva con proles de lobo a escala.</string>
 	<string key="ui_poi_devworld_spawns">Proles del mundo de los desarrolladores</string>
 	<string key="ui_poi_devworld_spawns_description">Algunos prototipos que se generan aquí.</string>
+	<string key="ui_poi_devworld_dummies">Zona de muñecos de tiro del mundo de los desarrolladores</string>
+	<string key="ui_poi_devworld_dummies_description">Una zona de prueba con muchos muñecos de tiro.</string>
 	<string key="ui_poi_fish_hotspot_broad">Zona de pesca conocida</string>
 	<string key="ui_poi_fish_hotspot_broad_description">¡Los peces están saltando fuera del agua!</string>
 	<string key="ui_poi_fish_hotspot_rare">Zona de pesca apartada</string>
@@ -1704,6 +1706,10 @@
 	<string key="ui_poi_spiritshrine_01_30251_description">Santuario espiritual</string>
 	<string key="ui_poi_spiritshrine_02_30314">Santuario del amante</string>
 	<string key="ui_poi_spiritshrine_02_30314_description">Santuario espiritual</string>
+	<string key="ui_poi_spiritshrine_20208">Santuario imperial</string>
+	<string key="ui_poi_spiritshrine_20208_description">Santuario espiritual</string>
+	<string key="ui_poi_spiritshrine_20209">@ui_poi_spiritshrine_20209</string>
+	<string key="ui_poi_spiritshrine_20209_description">Santuario espiritual</string>
 	<string key="ui_poi_vikingshipwreck_40039">Vígríðr</string>
 	<string key="ui_poi_vikingshipwreck_40039_description">Barcos del norte que traen con ellos a los fantasmas de su tripulación maldita.</string>
 	<string key="ui_poi_Tauros_06SW09">Tauros</string>

@@ -50,13 +50,13 @@
 	<string key="9901_9908_oldstoneremembers_traveltoSpire2" speaker="UI - Tracker Text">Search Nearby Ruins for More of the Soulwarden's Oath</string>
 	<string key="9901_9908_oldstoneremembers_traveltoSpire3" speaker="UI - Tracker Text">Search Deeper in the Ruins for the Final Part of the Soulwarden's Oath</string>
 	<string key="9901_0008_oldstoneremembers_v2_GoTo_01">Venture to the ruins of {POITags} in search of clues about the Hermit's past</string>
-	<string key="9901_0008_oldstoneremembers_v2_clearvines_01">Clear vines in search of writings that may offer clues about The Hermit's past</string>
+	<string key="9901_0008_oldstoneremembers_v2_clearvines_01">Use your weapon to clear vines in search of writings that may offer clues about The Hermit's past</string>
 	<string key="9901_0008_oldstoneremembers_v2_plaque_01">Read the engraving</string>
 	<string key="9901_0008_oldstoneremembers_v2_GoTo_02">Seek the next entry of the Soulwarden's Oath</string>
-	<string key="9901_0008_oldstoneremembers_v2_clearvines_02">Clear vines to find the next entry of the Soulwarden's Oath</string>
+	<string key="9901_0008_oldstoneremembers_v2_clearvines_02">Use your weapon to clear vines in search of the next entry of the Soulwarden's Oath</string>
 	<string key="9901_0008_oldstoneremembers_v2_plaque_02">Read the engraving</string>
 	<string key="9901_0008_oldstoneremembers_v2_GoTo_03">Search {POITags} for the final entry of the Soulwarden's Oath</string>
-	<string key="9901_0008_oldstoneremembers_v2_clearvines_03">Clear vines to find the final entry of the Soulwarden's Oath</string>
+	<string key="9901_0008_oldstoneremembers_v2_clearvines_03">Use your weapon to clear vines in search of the final entry of the Soulwarden's Oath</string>
 	<string key="9901_0008_oldstoneremembers_v2_plaque_03">Read the engraving</string>
 	<string key="9901_0008_oldstoneoption" speaker="UI - Tracker Text">(Optional) Visit the Spirit Shrine in Windsward</string>
 	<string key="9901_0009_thetower_objective_title" speaker="UI  - Quest Title">A Lost Cause</string>
@@ -137,10 +137,10 @@
 	<string key="9902_0015_itmustflow_complete_available_response" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="MSQAdiana_9902_0015_itmustflow_AvailResponse" VO_Status="Recorded" dialogue-next="@9902_0015_itmustflow_complete_available_response_next">Well, the fountain is running again, so you've either been blessed with good fortune, or you actually followed through.\n\nI'm curious, however. What caused the blockage?</string>
 	<string key="9902_0015_itmustflow_complete_available_response_prompt" speaker="UI - Player Prompt">"Corruption in the mines."</string>
 	<string key="9902_0015_itmustflow_complete_available_response_next" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="MSQAdiana_9902_0015_itmustflow_CompleteNext2" VO_Status="Recorded" dialogue-prompt="@9902_0015_itmustflow_complete_available_response_prompt">Corruption, blocking the flow of azoth through earthly passages? Impossible.\n\nThere must be another explanation, but I will look into the matter myself.</string>
-	<string key="9901_0015_itmustflow_travelto" speaker="UI  - Quest Description">Investigate {POITags} for the cause of the blocked azoth flow</string>
-	<string key="9901_0015_itmustflow_destroytendrils" speaker="UI  - Quest Description">Cut down {targetName}s sprouting near the {POITags}</string>
-	<string key="9901_0015_itmustflow_destroyclots" speaker="UI  - Quest Description">Destroy Clotting Carapaces blocking the azoth underground</string>
-	<string key="9902_0015_itmustflow_objective_desc" speaker="UI  - Quest Description">Explore the mines and purge whatever might be blocking the flow to Adiana's azoth fountain.</string>
+	<string key="9901_0015_itmustflow_travelto" speaker="UI - Quest Description">Investigate Canary Mine for the cause of the blocked azoth flow</string>
+	<string key="9901_0015_itmustflow_destroytendrils" speaker="UI - Quest Description">Cut down Corrupt Tendrils sprouting near the Canary Mine</string>
+	<string key="9901_0015_itmustflow_destroyclots" speaker="UI - Quest Description">Destroy Clotting Carapaces blocking the azoth underground</string>
+	<string key="9902_0015_itmustflow_objective_desc" speaker="UI - Quest Description">Explore the mines and purge whatever might be blocking the flow to Adiana's azoth fountain.</string>
 	<string key="9902_0016_corruptiontincture_objective_title" speaker="UI  - Quest Title">Weakness of the Ego</string>
 	<string key="9902_0016_corruptiontincture_start_prompt" speaker="UI - Player Prompt">"I need a seed of the Angry Earth."</string>
 	<string key="9902_0016_corruptiontincture_proposal" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="MSQAdiana_9902_0016_corruptiontincture_ProposalResponse" VO_Status="Recorded" dialogue-next="@9902_0016_corruptiontincture_proposal_next">Hah. Do you even realize how much you ask? How much your kind has already taken? \n\nThe Angry Earth will want to know the truth: do you plan to use this seed to fight Corruption?</string>

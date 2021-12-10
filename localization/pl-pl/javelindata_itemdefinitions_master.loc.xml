@@ -8,6 +8,7 @@
 	<string key="GypsumYellow_MasterName">Topazowy gips</string>
 	<string key="GypsumOrange_MasterName">Cytrynowy gips</string>
 	<string key="GypsumPurple_MasterName">Ametystowy gips</string>
+	<string key="GypsumWhite_MasterName"/>
 	<string key="GypsumOrb_MasterName">Gipsowa kula</string>
 	<string key="GypsumRed_Description">Miękki, plastyczny minerał. Przetwórz go na gipsową kulę w piecu do obróbki gipsu.</string>
 	<string key="GypsumBlue_Description">Miękki, plastyczny minerał. Przetwórz go na gipsową kulę w piecu do obróbki gipsu.</string>
@@ -16,6 +17,7 @@
 	<string key="GypsumYellow_Description">Miękki, plastyczny minerał. Przetwórz go na gipsową kulę w piecu do obróbki gipsu.</string>
 	<string key="GypsumOrange_Description">Miękki, plastyczny minerał. Przetwórz go na gipsową kulę w piecu do obróbki gipsu.</string>
 	<string key="GypsumPurple_Description">Miękki, plastyczny minerał. Przetwórz go na gipsową kulę w piecu do obróbki gipsu.</string>
+	<string key="GypsumWhite_Description">Miękki, plastyczny minerał. Przetwórz go na gipsową kulę w piecu do obróbki gipsu.</string>
 	<string key="GypsumOrb_Description">Gładka kula wykonana z gipsu. Przetwórz ją na odlew przedmiotu w piecu do obróbki gipsu.</string>
 	<string key="CastGypsum_Head_MasterName">Gipsowy odlew nakrycia głowy</string>
 	<string key="CastGypsum_Chest_MasterName">Gipsowy odlew napierśnika</string>
@@ -57,8 +59,8 @@
 	<string key="CastGypsum_Shield_Description">Odlew tarczy wykonany z gipsu. Otwórz go, by zobaczyć, co skrywa!</string>
 	<string key="CastGypsum_Spear_Description">Odlew włóczni wykonany z gipsu. Otwórz go, by zobaczyć, co skrywa!</string>
 	<string key="CastGypsum_Ring_Description">Odlew pierścienia wykonany z gipsu. Otwórz go, by zobaczyć, co skrywa!</string>
-	<string key="CastGypsum_Amulet_Description">Odlew amuletu wykonany z gipsu. Otwórz go, by zobaczyć, co skrywa!</string>
-	<string key="CastGypsum_Earring_Description">Odlew kolczyka wykonany z gipsu. Otwórz go, by zobaczyć, co skrywa!</string>
+	<string key="CastGypsum_Amulet_Description"> Otwórz go, by zobaczyć, co skrywa!</string>
+	<string key="CastGypsum_Earring_Description"> Otwórz go, by zobaczyć, co skrywa!</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_Description" comment="NA-Basic">Schemat, z którego nauczysz się, jak wytworzyć mebel. Użyj schematu, by się tego nauczyć.</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_MasterName" comment="NA-Basic">Schemat: Niska szafka aptekarska</string>
 	<string key="Schematic_House_HousingItem_Appr_Winecask_Indoor_Description" comment="NA-Basic">Schemat, z którego nauczysz się, jak wytworzyć mebel. Użyj schematu, by się tego nauczyć.</string>
@@ -663,8 +665,8 @@
 	<string key="0318_0101_SunderfortHeartgems_Description">Fragment wypolerowanego bursztynu. Jest porysowany i nie można odczytać imienia.</string>
 	<string key="0318_0201_RamCorMaterials">Materiały azothowego młota</string>
 	<string key="0318_0201_RamCorMaterials_Description">Materiały potrzebne do wytworzenia Bezlitosnego Wyroku.</string>
-	<string key="0318_0202_GoldsteinScales">Waga Goldsteina</string>
-	<string key="0318_0202_GoldsteinScales_Description">Kasetka z wagą Goldsteina, która zawsze sprzyja jemu.</string>
+	<string key="0318_0202_GoldsteinScales">Waga Goldstein</string>
+	<string key="0318_0202_GoldsteinScales_Description">Kasetka z wagą Goldstein, zawsze jej sprzyjającą.</string>
 	<string key="0318_0202_PirateTokenPouch">Sakiewka z pirackim znakiem</string>
 	<string key="0318_0202_PirateTokenPouch_Description">Skórzana sakiewka, zawierająca srebrny znak z nazwą statku, na którym służy pirat.</string>
 	<string key="0318_0203_VeilLeather">Skóra z zasłony</string>
@@ -1453,6 +1455,14 @@
 	<string key="1128_Sword_Description">Solidny, okrutnie ostry miecz.</string>
 	<string key="1130_SensouNoKo">Sensou no Ko</string>
 	<string key="1130_SensouNoKo_Description">Jasna krawędź tej broni błyszczy złowrogo. Oleiste wzory na ostrzu przedstawiają coś, co wygląda jak tysiące twarzy wrzeszczących w cierpieniu.</string>
+	<string key="1132_Peacemaker">Garłacz dziadka „Rozjemca”</string>
+	<string key="1132_Peacemaker_Description">Słynny sposób Ginghamów na rozwiązanie wszystkich problemów pogranicza.</string>
+	<string key="1132_Stock">Łoże garłacza dziadka</string>
+	<string key="1132_Stock_Description">Wygładzone przez lata używania, naznaczone przez gorący proch.</string>
+	<string key="1132_Mechanism">Mechanizm garłacza dziadka</string>
+	<string key="1132_Mechanism_Description">Dobrze naoliwiony, prosty i wyjątkowo skuteczny.</string>
+	<string key="1132_Barrel">Lufa garłacza dziadka</string>
+	<string key="1132_Barrel_Description">Niegwintowana, rozszerzająca się lufa. Ma swoje lata, ale jest dobrze zakonserwowana.</string>
 	<string key="1130_SensouNoKo2">Sensou no Ko</string>
 	<string key="1130_SensouNoKo2_Description">To złowieszcze ostrze jest okrutnie ostre. Ważenie tego arcydzieła w dłoniach daje ci poczucie siły.</string>
 	<string key="1201_0104_ShipsFlag_Description">Flaga zerwana z opuszczonego wraku. [przedmiot fabularny]</string>
@@ -9841,7 +9851,7 @@
 	<string key="2hWarhammerWavebornT5_MasterName">Młot bojowy fal</string>
 	<string key="2hWarhammerWraithHunterT4_Description">"Duchy. Widma. Ghule. Oczyszczę ten świat ze wszelkiego plugastwa, niezależnie od formy".</string>
 	<string key="2hWarhammerWraithHunterT4_MasterName">Młot bojowy łowcy duchów</string>
-	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">Schemat: Mokry topór dwuręczny</string>
+	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">W kuźni wytworzysz z tego schematu przedmiot mający 600 pkt wyposażenia i wyjątkowy wygląd.</string>
 	<string key="2Sealed_DocumentsBrightwood_Description">Przedmiot z wojny frakcji</string>
 	<string key="2Sealed_DocumentsBrightwood_Mastername">Zalakowane dokumenty z Lśniącej Kniei</string>
 	<string key="2Secret_OrdersBrightwood_Description">Przedmiot z wojny frakcji</string>
@@ -10064,7 +10074,7 @@
 	<string key="Amulet_GreenswardenT4_MasterName">Strażnik Ostępów</string>
 	<string key="Amulet_GuidingLightT4_Description">"Podobnie jak magnetyt, prowadzi do domu tych, którzy zabłądzili".</string>
 	<string key="Amulet_GuidingLightT4_MasterName">Światło Przewodnie</string>
-	<string key="Amulet_HeavyHeartT4_Description">"Ten amulet, zaskakująco ciężki jak na swoje rozmiary, zawsze przeważa szalę wagi Goldsteina".</string>
+	<string key="Amulet_HeavyHeartT4_Description">"Ten amulet, zaskakująco ciężki jak na swoje rozmiary, zawsze przeważa szalę wagi Goldstein".</string>
 	<string key="Amulet_HeavyHeartT4_MasterName">Ciężkie Serce</string>
 	<string key="Amulet_InquisitorsVerdictT3_Description">"Bez względu na werdykt, każdy, kogo dosięgła sprawiedliwość inkwizytora, otrzymywał amulet tego typu".</string>
 	<string key="Amulet_InquisitorsVerdictT3_MasterName">Werdykt Inkwizytora</string>
@@ -10480,239 +10490,239 @@
 	<string key="ArrowT3_MasterName">Stalowa strzała</string>
 	<string key="ArrowT4_MasterName">Strzała z gwiezdnego metalu</string>
 	<string key="ArrowT5_MasterName">Strzała z orichalcum</string>
-	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego napierśnika regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego napierśnika regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowy napierśnik regenta</string>
-	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego napierśnika regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego napierśnika regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowy napierśnik regenta</string>
-	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego napierśnika regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego napierśnika regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowy napierśnik regenta</string>
-	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego napierśnika regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego napierśnika regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowy napierśnik regenta</string>
-	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych butów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych butów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe buty regenta</string>
-	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych butów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych butów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe buty regenta</string>
-	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych butów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych butów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe buty regenta</string>
-	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych butów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych butów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe buty regenta</string>
-	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych rękawic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych rękawic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe rękawice regenta</string>
-	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych rękawic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych rękawic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe rękawice regenta</string>
-	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych rękawic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych rękawic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe rękawice regenta</string>
-	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych rękawic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych rękawic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe rękawice regenta</string>
-	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego poroża regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego poroża regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe poroże regenta</string>
-	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego poroża regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego poroża regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe poroże regenta</string>
-	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego poroża regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego poroża regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe poroże regenta</string>
-	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego poroża regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowego poroża regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe poroże regenta</string>
-	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych nagolenic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych nagolenic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe nagolenice regenta</string>
-	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych nagolenic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych nagolenic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe nagolenice regenta</string>
-	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych nagolenic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych nagolenic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe nagolenice regenta</string>
-	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych nagolenic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia dębowych nagolenic regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorHeavyLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Dębowe nagolenice regenta</string>
-	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej tuniki regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej tuniki regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwiecista tunika regenta</string>
-	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej tuniki regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej tuniki regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwiecista tunika regenta</string>
-	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej tuniki regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej tuniki regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwiecista tunika regenta</string>
-	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej tuniki regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej tuniki regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwiecista tunika regenta</string>
-	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ten wzór służy do wytworzenia kwiecistych mokasynów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ten wzór służy do wytworzenia kwiecistych mokasynów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste mokasyny regenta</string>
-	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ten wzór służy do wytworzenia kwiecistych mokasynów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ten wzór służy do wytworzenia kwiecistych mokasynów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste mokasyny regenta</string>
-	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ten wzór służy do wytworzenia kwiecistych mokasynów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ten wzór służy do wytworzenia kwiecistych mokasynów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste mokasyny regenta</string>
-	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ten wzór służy do wytworzenia kwiecistych mokasynów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ten wzór służy do wytworzenia kwiecistych mokasynów regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste mokasyny regenta</string>
-	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych rękawiczek regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych rękawiczek regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste rękawiczki regenta</string>
-	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych rękawiczek regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych rękawiczek regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste rękawiczki regenta</string>
-	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych rękawiczek regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych rękawiczek regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste rękawiczki regenta</string>
-	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych rękawiczek regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych rękawiczek regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste rękawiczki regenta</string>
-	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej korony regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej korony regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwiecista korona regenta</string>
-	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej korony regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej korony regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwiecista korona regenta</string>
-	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej korony regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej korony regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwiecista korona regenta</string>
-	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej korony regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistej korony regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwiecista korona regenta</string>
-	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych spodni regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych spodni regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste spodnie regenta</string>
-	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych spodni regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych spodni regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste spodnie regenta</string>
-	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych spodni regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych spodni regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste spodnie regenta</string>
-	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych spodni regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia kwiecistych spodni regenta przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorLightLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Kwieciste spodnie regenta</string>
-	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia szaty regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia szaty regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Szata regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia szaty regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia szaty regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Szata regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia szaty regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia szaty regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Szata regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia szaty regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia szaty regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Szata regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia obuwia regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia obuwia regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Obuwie regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia obuwia regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia obuwia regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Obuwie regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia obuwia regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia obuwia regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Obuwie regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia obuwia regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia obuwia regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Obuwie regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia mitenek regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia mitenek regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Mitenki regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia mitenek regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia mitenek regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Mitenki regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia mitenek regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia mitenek regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Mitenki regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia mitenek regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia mitenek regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Mitenki regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia hełmu regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia hełmu regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Hełm regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia hełmu regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia hełmu regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Hełm regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia hełmu regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia hełmu regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Hełm regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia hełmu regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia hełmu regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Hełm regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia nogawic regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia nogawic regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Nogawice regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia nogawic regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia nogawic regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Nogawice regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia nogawic regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia nogawic regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Nogawice regenta z ostrokrzewu</string>
-	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia nogawic regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia nogawic regenta z ostrokrzewu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCArmorMediumLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Nogawice regenta z ostrokrzewu</string>
-	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gniewnej Zamieci przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gniewnej Zamieci przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponBowT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Gniewna Zamieć</string>
-	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gniewnej Zamieci przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gniewnej Zamieci przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponBowT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Gniewna Zamieć</string>
-	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gniewnej Zamieci przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gniewnej Zamieci przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponBowT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Gniewna Zamieć</string>
-	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gniewnej Zamieci przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gniewnej Zamieci przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponBowT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Gniewna Zamieć</string>
-	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia krystalicznej rękawicy przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia krystalicznej rękawicy przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGauntletIceT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Krystaliczna rękawica</string>
-	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia krystalicznej rękawicy przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia krystalicznej rękawicy przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGauntletIceT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Krystaliczna rękawica</string>
-	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia krystalicznej rękawicy przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia krystalicznej rękawicy przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGauntletIceT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Krystaliczna rękawica</string>
-	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia krystalicznej rękawicy przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia krystalicznej rękawicy przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGauntletIceT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Krystaliczna rękawica</string>
-	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gorzkiego Cienia przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gorzkiego Cienia przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Gorzki Cień</string>
-	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gorzkiego Cienia przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gorzkiego Cienia przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Gorzki Cień</string>
-	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gorzkiego Cienia przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gorzkiego Cienia przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Gorzki Cień</string>
-	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gorzkiego Cienia przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Gorzkiego Cienia przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Gorzki Cień</string>
-	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Tasaka Wiecznego Chłodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Tasaka Wiecznego Chłodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGreatAxeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Tasak Wiecznego Chłodu</string>
-	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Tasaka Wiecznego Chłodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Tasaka Wiecznego Chłodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGreatAxeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Tasak Wiecznego Chłodu</string>
-	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Tasaka Wiecznego Chłodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Tasaka Wiecznego Chłodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGreatAxeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Tasak Wiecznego Chłodu</string>
-	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Tasaka Wiecznego Chłodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Tasaka Wiecznego Chłodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponGreatAxeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Tasak Wiecznego Chłodu</string>
-	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Odłamka Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Odłamka Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponHatchetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Odłamek Lodu</string>
-	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Odłamka Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Odłamka Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponHatchetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Odłamek Lodu</string>
-	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Odłamka Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Odłamka Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponHatchetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Odłamek Lodu</string>
-	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Odłamka Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Odłamka Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponHatchetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Odłamek Lodu</string>
-	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Egidy Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Egidy Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponKShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Egida Lodu</string>
-	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Egidy Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Egidy Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponKShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Egida Lodu</string>
-	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Egidy Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Egidy Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponKShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Egida Lodu</string>
-	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia lodowej flinty przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia lodowej flinty przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponMusketT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Lodowa flinta</string>
-	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia lodowej flinty przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia lodowej flinty przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponMusketT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Lodowa flinta</string>
-	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia lodowej flinty przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia lodowej flinty przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponMusketT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Lodowa flinta</string>
-	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia lodowej flinty przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia lodowej flinty przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponMusketT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Lodowa flinta</string>
-	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Wierzchołka Góry Lodowej przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Wierzchołka Góry Lodowej przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponRapierT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Wierzchołek Góry Lodowej</string>
-	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Wierzchołka Góry Lodowej przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Wierzchołka Góry Lodowej przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponRapierT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Wierzchołek Góry Lodowej</string>
-	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Wierzchołka Góry Lodowej przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Wierzchołka Góry Lodowej przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponRapierT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Wierzchołek Góry Lodowej</string>
-	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Wierzchołka Góry Lodowej przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Wierzchołka Góry Lodowej przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponRapierT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Wierzchołek Góry Lodowej</string>
-	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Polarnego Bastionu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Polarnego Bastionu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponRShieldT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Polarny Bastion</string>
-	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Polarnego Bastionu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Polarnego Bastionu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponRShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Polarny Bastion</string>
-	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Polarnego Bastionu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Polarnego Bastionu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponRShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Polarny Bastion</string>
-	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Polarnego Bastionu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Polarnego Bastionu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponRShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Polarny Bastion</string>
-	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Sopla przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Sopla przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="artifact_wcweaponspeart2_mastername" rel_version="Event_WinterConvergence_Perm">Schemat: Sopel</string>
-	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Sopla przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Sopla przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="artifact_wcweaponspeart3_mastername" rel_version="Event_WinterConvergence_Perm">Schemat: Sopel</string>
-	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Sopla przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Sopla przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="artifact_wcweaponspeart4_mastername" rel_version="Event_WinterConvergence_Perm">Schemat: Sopel</string>
-	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Sopla przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Sopla przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="artifact_wcweaponspeart5_mastername" rel_version="Event_WinterConvergence_Perm">Schemat: Sopel</string>
-	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Skwierczącego Śniegu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Skwierczącego Śniegu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponStaffFireT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Skwierczący Śnieg</string>
-	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Skwierczącego Śniegu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Skwierczącego Śniegu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponStaffFireT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Skwierczący Śnieg</string>
-	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Skwierczącego Śniegu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Skwierczącego Śniegu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponStaffFireT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Skwierczący Śnieg</string>
-	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Skwierczącego Śniegu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Skwierczącego Śniegu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponStaffFireT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Skwierczący Śnieg</string>
-	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Leku na Zimno przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Leku na Zimno przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponStaffLifeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Lek na Zimno</string>
-	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Leku na Zimno przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Leku na Zimno przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponStaffLifeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Lek na Zimno</string>
-	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Leku na Zimno przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Leku na Zimno przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponStaffLifeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Lek na Zimno</string>
-	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Leku na Zimno przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Leku na Zimno przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponStaffLifeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Lek na Zimno</string>
-	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Rwącego Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Rwącego Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponSwordT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Rwący Lód</string>
-	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Rwącego Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Rwącego Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponSwordT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Rwący Lód</string>
-	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Rwącego Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Rwącego Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponSwordT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Rwący Lód</string>
-	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Rwącego Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Rwącego Lodu przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponSwordT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Rwący Lód</string>
-	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Świątecznych Sań przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Świątecznych Sań przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponTShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Świąteczne Sanie</string>
-	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Świątecznych Sań przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia Świątecznych Sań przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponTShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Świąteczne Sanie</string>
-	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia zimowego młota bojowego przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia zimowego młota bojowego przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponWarHammerT2_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Zimowy młot bojowy</string>
-	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia zimowego młota bojowego przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia zimowego młota bojowego przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponWarHammerT3_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Zimowy młot bojowy</string>
-	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia zimowego młota bojowego przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia zimowego młota bojowego przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponWarHammerT4_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Zimowy młot bojowy</string>
-	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia zimowego młota bojowego przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu.</string>
+	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Ten schemat służy do wytworzenia zimowego młota bojowego przy odpowiednim stanowisku rzemieślniczym. Zostanie zużyty w procesie tworzenia przedmiotu. </string>
 	<string key="Artifact_WCWeaponWarHammerT5_MasterName" rel_version="Event_WinterConvergence_Perm">Schemat: Zimowy młot bojowy</string>
 	<string key="Artificer_Crucibles_Description">Rzemieślnicze tygle.</string>
 	<string key="Artificer_Crucibles_MasterName">Rzemieślnicze tygle</string>
@@ -15122,7 +15132,7 @@
 	<string key="FoodFOCT4_Description">Zwiększa skupienie o {[Type_StatusEffectData.FoodFOCT4.MODFocus]} na {[Type_StatusEffectData.FoodFOCT4.BaseDuration / 60]} min. Gdy te efekty są aktywne, powoli odzyskujesz zdrowie.</string>
 	<string key="FoodFOCT4_MasterName">Pasztet z indyka</string>
 	<string key="FoodFOCT5_Description">Zwiększa skupienie o {[Type_StatusEffectData.FoodFOCT5.MODFocus]} na {[Type_StatusEffectData.FoodFOCT5.BaseDuration / 60]} min. Gdy te efekty są aktywne, powoli odzyskujesz zdrowie.</string>
-	<string key="FoodFOCT5_MasterName">Oczerniony mandje mandje z kukurydzą i fasolą</string>
+	<string key="FoodFOCT5_MasterName">Oczerniona lawowa brzanka z kukurydzą i fasolą</string>
 	<string key="FoodHarvesterT1_Description">Zwiększa szczęście podczas żniw o {[Type_StatusEffectData.FoodHarvesterT1.ROLharvesting]} pkt na {[Type_StatusEffectData.FoodHarvesterT1.BaseDuration / 60]} min. Gdy te efekty są aktywne, powoli odzyskujesz zdrowie.</string>
 	<string key="FoodHarvesterT1_MasterName">Gotowana kukurydza</string>
 	<string key="FoodHarvesterT2_Description">Zwiększa szczęście podczas żniw o {[Type_StatusEffectData.FoodHarvesterT2.ROLharvesting]} pkt na {[Type_StatusEffectData.FoodHarvesterT2.BaseDuration / 60]} min. Gdy te efekty są aktywne, powoli odzyskujesz zdrowie.</string>
@@ -18439,7 +18449,7 @@
 	<string key="ItemPattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Łuk driady</string>
 	<string key="ItemPattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Ognista laska driady</string>
 	<string key="ItemPattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Siekierka driady</string>
-	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Lodowa magia driady</string>
+	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Tarcza normandzka driady</string>
 	<string key="ItemPattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Laska życia driady</string>
 	<string key="ItemPattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Muszkiet driady</string>
@@ -18456,7 +18466,7 @@
 	<string key="ItemPattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Łuk hieny cmentarnej</string>
 	<string key="ItemPattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Ognista laska hieny cmentarnej</string>
 	<string key="ItemPattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Siekierka hieny cmentarnej</string>
-	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Lodowa magia hieny cmentarnej</string>
+	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Laska życia hieny cmentarnej</string>
 	<string key="ItemPattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Muszkiet hieny cmentarnej</string>
 	<string key="ItemPattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Rapier hieny cmentarnej</string>
@@ -18494,7 +18504,7 @@
 	<string key="ItemPattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Mokry łuk</string>
 	<string key="ItemPattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Mokra ognista laska</string>
 	<string key="ItemPattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Mokra siekierka</string>
-	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Mokra lodowa magia</string>
+	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Mokra rękawica próżni</string>
 	<string key="ItemPattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Mokra laska życia</string>
 	<string key="ItemPattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Mokry muszkiet</string>
 	<string key="ItemPattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Mokry rapier</string>
@@ -24111,7 +24121,7 @@
 	<string key="Pattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Schemat: Łuk driady</string>
 	<string key="Pattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Schemat: Ognista laska driady</string>
 	<string key="Pattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Schemat: Siekierka driady</string>
-	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Schemat: Lodowa magia driady</string>
+	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Schemat: </string>
 	<string key="Pattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Schemat: Tarcza normandzka driady</string>
 	<string key="Pattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Schemat: Laska życia driady</string>
 	<string key="Pattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Schemat: Muszkiet driady</string>
@@ -24128,7 +24138,7 @@
 	<string key="Pattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Schemat: Łuk hieny cmentarnej</string>
 	<string key="Pattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Schemat: Ognista laska hieny cmentarnej</string>
 	<string key="Pattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Schemat: Siekierka hieny cmentarnej</string>
-	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Schemat: Lodowa magia hieny cmentarnej</string>
+	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Schemat: </string>
 	<string key="Pattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Schemat: Laska życia hieny cmentarnej</string>
 	<string key="Pattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Schemat: Muszkiet hieny cmentarnej</string>
 	<string key="Pattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Schemat: Rapier hieny cmentarnej</string>
@@ -24166,7 +24176,7 @@
 	<string key="Pattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Schemat: Mokry łuk</string>
 	<string key="Pattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Schemat: Mokra ognista laska</string>
 	<string key="Pattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Schemat: Mokra siekierka</string>
-	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Schemat: Mokra lodowa magia</string>
+	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Schemat: Mokra rękawica próżni</string>
 	<string key="Pattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Schemat: Mokra laska życia</string>
 	<string key="Pattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Schemat: Mokry muszkiet</string>
 	<string key="Pattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Schemat: Mokry rapier</string>
@@ -24188,9 +24198,9 @@
 	<string key="Pattern_TempleGuards_Gauntlets" rel_version="Event_WinterConvergence_Perm">Schemat: Rękawice strażnika świątyni</string>
 	<string key="Pattern_TempleGuards_Helm" rel_version="Event_WinterConvergence_Perm">Schemat: Hełm strażnika świątyni</string>
 	<string key="Pattern_TempleGuards_Legguards" rel_version="Event_WinterConvergence_Perm">Schemat: Ochraniacze nóg strażnika świątyni</string>
-	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm">W repozytorium arkanistycznym wytworzysz z tego schematu przedmiot mający 600 pkt wyposażenia i wyjątkowy wygląd.</string>
+	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternForge_Desc">W kuźni wytworzysz z tego schematu przedmiot mający 600 pkt wyposażenia i wyjątkowy wygląd.</string>
-	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm">Przy stanowisku krawieckim wytworzysz z tego schematu przedmiot mający 600 pkt wyposażenia i wyjątkowy wygląd.</string>
+	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternWorkbench_Desc" rel_version="Event_WinterConvergence_Perm">Przy stole warsztatowym wytworzysz z tego schematu przedmiot mający 600 pkt wyposażenia i wyjątkowy wygląd.</string>
 	<string key="PearlCutT1_Description">Używana w jubilerstwie. Ten kamień szlachetny można również osadzić w pancerzu, by zwiększyć jego moc.</string>
 	<string key="pearlcutt1_mastername">Szlifowana perła ze skazą</string>
@@ -27923,7 +27933,7 @@
 	<string key="Shard_Rapier_MasterName">Odłamek wiecznego rapiera</string>
 	<string key="Shard_Rapier_Description">Można go użyć w kuźni, by wytworzyć rapier z określoną cechą.</string>
 	<string key="Shard_Hatchet_MasterName">Odłamek wiecznej siekierki</string>
-	<string key="Shard_Hatchet_Description">Można go użyć w warsztacie, by wytworzyć siekierkę z określoną cechą.</string>
+	<string key="Shard_Hatchet_Description"/>
 	<string key="Shard_Bow_MasterName">Odłamek wiecznego łuku</string>
 	<string key="Shard_Bow_Description">Można go użyć w warsztacie, by wytworzyć łuk z określoną cechą.</string>
 	<string key="Shard_Musket_MasterName">Odłamek wiecznego muszkietu</string>
@@ -27943,7 +27953,7 @@
 	<string key="Shard_Shield_Tower_MasterName">Odłamek wiecznej pawęży</string>
 	<string key="Shard_Shield_Tower_Description">Można go użyć w kuźni, by wytworzyć pawęż z określoną cechą.</string>
 	<string key="Shard_Spear_MasterName">Odłamek wiecznej włóczni</string>
-	<string key="Shard_Spear_Description">Można go użyć w warsztacie, by wytworzyć włócznię z określoną cechą.</string>
+	<string key="Shard_Spear_Description"/>
 	<string key="Shard_Ring_MasterName">Odłamek wiecznego pierścienia</string>
 	<string key="Shard_Ring_Description">Można go użyć przy stanowisku krawieckim, by wytworzyć pierścień z określoną cechą.</string>
 	<string key="Shard_Amulet_MasterName">Odłamek wiecznego amuletu</string>
@@ -27957,5 +27967,17 @@
 	<string key="EarringDropT5_MasterName">Stary kolczyk</string>
 	<string key="RingDropT5_MasterName">Stary pierścień</string>
 	<string key="AmuletDropT5_MasterName">Stary amulet</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_MasterName" rel_version="Twitch_EpicStory_Skins">Płaszcz Nynaeve</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_Description" rel_version="Twitch_EpicStory_Skins">Słuchaj wiatrów, albowiem niosą prawdziwą mądrość.</string>
+	<string key="Skin_Chest_WoT_RedScarf_MasterName" rel_version="Twitch_EpicStory_Skins">Czerwony płaszcz Ajah</string>
+	<string key="Skin_Chest_WoT_RedScarf_Description" rel_version="Twitch_EpicStory_Skins">Ten kolor ma ostrzegać tych, którzy pragną krzywdzić.</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_MasterName" rel_version="Twitch_EpicStory_Skins">Dzieci Światła</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_Description" rel_version="Twitch_EpicStory_Skins">Szaty o barwie kości słoniowej czasami kryją zamiary osób, które są w nie przyodziane.</string>
+	<string key="Skin_Chest_WoT_BrownCloak_MasterName" rel_version="Twitch_EpicStory_Skins">Płaszcz Egwene</string>
+	<string key="Skin_Chest_WoT_BrownCloak_Description" rel_version="Twitch_EpicStory_Skins">Jedynie osoby obdarzone darem mogą podążać ścieżką magii.</string>
+	<string key="Skin_Rapier_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Ostrze Tama</string>
+	<string key="Skin_Rapier_WoT_Description" rel_version="Twitch_EpicStory_Skins">Równie piękna, co śmiercionośna – broń prawdziwego strażnika.</string>
+	<string key="Skin_Longsword_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Ostrze Pomiotu Cienia</string>
+	<string key="Skin_Longsword_WoT_Description" rel_version="Twitch_EpicStory_Skins">Przerażający szpon okrutnego pana ciemności.</string>
 </resources>
 

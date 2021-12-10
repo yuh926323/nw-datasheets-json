@@ -1510,6 +1510,8 @@
 	<string key="ui_poi_devworld_cave_description">Una cueva con un punto de aparición de lobos con escalado.</string>
 	<string key="ui_poi_devworld_spawns">Puntos de aparición del mundo de los desarrolladores</string>
 	<string key="ui_poi_devworld_spawns_description">Algunos prototipos de puntos de aparición.</string>
+	<string key="ui_poi_devworld_dummies">Zona de monigotes de prácticas del mundo de los desarrolladores</string>
+	<string key="ui_poi_devworld_dummies_description">Un área de pruebas con varios monigotes de prácticas.</string>
 	<string key="ui_poi_fish_hotspot_broad">Zona de pesca conocida</string>
 	<string key="ui_poi_fish_hotspot_broad_description">¡Los peces saltan fuera del agua!</string>
 	<string key="ui_poi_fish_hotspot_rare">Zona de pesca apartada</string>
@@ -1704,6 +1706,10 @@
 	<string key="ui_poi_spiritshrine_01_30251_description">Santuario Espiritual</string>
 	<string key="ui_poi_spiritshrine_02_30314">Santuario de los Amantes</string>
 	<string key="ui_poi_spiritshrine_02_30314_description">Santuario Espiritual</string>
+	<string key="ui_poi_spiritshrine_20208">Santuario imperial</string>
+	<string key="ui_poi_spiritshrine_20208_description">Santuario espiritual</string>
+	<string key="ui_poi_spiritshrine_20209">@ui_poi_spiritshrine_20209</string>
+	<string key="ui_poi_spiritshrine_20209_description">Santuario espiritual</string>
 	<string key="ui_poi_vikingshipwreck_40039">Vigrid</string>
 	<string key="ui_poi_vikingshipwreck_40039_description">Barcos que llegan del norte y, con ellos, los fantasmas de su tripulación de condenados.</string>
 	<string key="ui_poi_Tauros_06SW09">Tauros</string>

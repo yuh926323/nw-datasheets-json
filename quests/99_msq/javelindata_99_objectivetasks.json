@@ -563,10 +563,10 @@
         "Type": "TaskGoToPOITag",
         "StayActive": 1,
         "ItemDropProbability": 0,
-        "POITag": "mine_40203",
         "PauseAndClearLootOnTaskComplete": false,
         "GuranteedDropAttempts": 0,
-        "TP_DescriptionTag": "@9901_0015_itmustflow_travelto"
+        "TP_DescriptionTag": "@9901_0015_itmustflow_travelto",
+        "OverrideLocation": "8718.542 5138.404 162.168"
     },
     {
         "TaskID": "9901_0015_d_02_Kill_MustFlow",
@@ -574,13 +574,11 @@
         "StayActive": 1,
         "TargetQty": "3",
         "ItemDropProbability": 0,
-        "EnforceLocationRequirement": "1",
-        "POITag": "mine_40203",
-        "GameModeID": "DungeonEdengrove00",
         "PauseAndClearLootOnTaskComplete": false,
         "GuranteedDropAttempts": 0,
         "KillEnemyType": "Tendril_Corruption_15",
-        "TP_DescriptionTag": "@9901_0015_itmustflow_destroytendrils"
+        "TP_DescriptionTag": "@9901_0015_itmustflow_destroytendrils",
+        "OverrideLocation": "8718.542 5138.404 162.168"
     },
     {
         "TaskID": "9901_0015_d_03_Kill_Clots",
@@ -590,7 +588,6 @@
         "ItemDropProbability": 0,
         "EnforceLocationRequirement": "1",
         "POITag": "mine_40203",
-        "GameModeID": "DungeonEdengrove00",
         "PauseAndClearLootOnTaskComplete": false,
         "GuranteedDropAttempts": 0,
         "KillEnemyType": "Darkness_Monolith_Shell_04NW06_20",
@@ -1524,6 +1521,7 @@
         "ItemName": "MSQ_Heartgem",
         "ItemDropProbability": 100,
         "PauseAndClearLootOnTaskComplete": false,
+        "AwardOnlyOnce": "TRUE",
         "GuranteedDropAttempts": 0,
         "IsHidden": "1"
     },
@@ -1584,15 +1582,37 @@
         "PauseAndClearLootOnTaskComplete": false,
         "GuranteedDropAttempts": 0,
         "IsHidden": "1",
-        "SubTask1": "9901_0022_d_03a_TheRitual3",
+        "SubTask1": "9901_0022_d_03a_container_theritual2",
         "SubTask2": "9901_0022_d_03b_TheRitual4",
         "SubTask3": "9901_0022_d_04_TheRitual5"
     },
     {
-        "TaskID": "9901_0022_d_03a_TheRitual3",
+        "TaskID": "9901_0022_d_03a_container_theritual2",
+        "Type": "PartialTaskContainer",
+        "StayActive": 0,
+        "ItemDropProbability": 0,
+        "PauseAndClearLootOnTaskComplete": false,
+        "GuranteedDropAttempts": 0,
+        "IsHidden": "1",
+        "SubTask1": "9901_0022_d_03a1_TheRitual3",
+        "SubTask2": "9901_0022_d_03a2_TheRitual3"
+    },
+    {
+        "TaskID": "9901_0022_d_03a1_TheRitual3",
         "Type": "TaskHaveAndReturnItems",
         "StayActive": 0,
         "TargetQty": "1",
+        "ItemName": "MSQ_Heartgem",
+        "ItemDropProbability": 0,
+        "PauseAndClearLootOnTaskComplete": false,
+        "GuranteedDropAttempts": 0,
+        "IsHidden": "1"
+    },
+    {
+        "TaskID": "9901_0022_d_03a2_TheRitual3",
+        "Type": "TaskHaveAndReturnItems",
+        "StayActive": 0,
+        "TargetQty": "2",
         "ItemName": "MSQ_Heartgem",
         "ItemDropProbability": 0,
         "PauseAndClearLootOnTaskComplete": false,

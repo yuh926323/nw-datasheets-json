@@ -213,7 +213,8 @@
 	<string key="ui_reply">Odpowiedz</string>
 	<string key="ui_report_header">Zgłoś: {playerName}</string>
 	<string key="ui_report_player_type">Napisz, w jaki sposób gracz naruszył zasady (wymagane)</string>
-	<string key="ui_reportreason_abusive_chat">Napastliwe wypowiedzi</string>
+	<string key="ui_reportreason_abusive_chat">Napastliwe wypowiedzi tekstowe</string>
+	<string key="ui_reportreason_abusive_voice_chat">Napastliwe wypowiedzi głosowe</string>
 	<string key="ui_reportreason_cheating">Oszustwa</string>
 	<string key="ui_reportreason_griefing">Nękanie</string>
 	<string key="ui_reportreason_offensive_name">Imię gracza</string>
@@ -221,6 +222,7 @@
 	<string key="ui_reportreason_coinselling">Sprzedawanie monet</string>
 	<string key="ui_reportreason_botbehavior">Używanie botów</string>
 	<string key="ui_reportreason_abusive_chat_description">Mowa nienawiści, obelgi lub znęcanie się nad innym graczem/innymi graczami.</string>
+	<string key="ui_reportreason_abusive_voice_chat_description">Mowa nienawiści, obelgi lub znęcanie się nad innym graczem/innymi graczami.</string>
 	<string key="ui_reportreason_cheating_description">Wykorzystywanie błędów lub luk w celu osiągnięcia korzyści.</string>
 	<string key="ui_reportreason_griefing_description">Dręczenie innych, utrudnianie im gry lub niestosowne zachowanie.</string>
 	<string key="ui_reportreason_offensive_name_description">Niestosowna lub obraźliwa nazwa.</string>
@@ -230,6 +232,8 @@
 	<string key="ui_reportreason_select">Wybierz powód...</string>
 	<string key="ui_reportreason_offensive_guild_name">Nazwa kompanii</string>
 	<string key="ui_reportreason_offensive_guild_description">Niestosowna lub obraźliwa nazwa kompanii.</string>
+	<string key="ui_reportreason_offensive_guild_description_no_guild">Ten gracz nie należy do kompanii.</string>
+	<string key="ui_reportreason_offensive_guild_description_error">Nie znaleziono kompanii.</string>
 	<string key="ui_report_thanks">Dziękujemy za przesłanie zgłoszenia</string>
 	<string key="ui_missing_reason_and_description">Podaj powód i opis</string>
 	<string key="ui_missing_reason">Wybierz powód</string>
@@ -286,6 +290,7 @@
 	<string key="ui_subarmy_join_requests">PROŚBY O DOŁĄCZENIE</string>
 	<string key="ui_subarmy_time_remaining">POZOSTAŁY CZAS</string>
 	<string key="ui_subarmy_continue_to_selection">Przejdź do wyboru</string>
+	<string key="ui_subarmy_invite_header">Wybierz graczy, których chcesz zaprosić</string>
 	<string key="ui_subarmy_invite_to_group_enabled">&lt;img src="LyShineUI/Images/icons/twitch/twitch_iconAddGroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; Zaproś do grupy</string>
 	<string key="ui_subarmy_invite_to_company_enabled">&lt;img src="LyShineUI/Images/icons/twitch/twitch_iconAddGuild" scale="1.5" yOffset="6.5"&gt;&lt;/img&gt; Zaproś do kompanii</string>
 	<string key="ui_subarmy_invite_to_group">&lt;img src="LyShineUI/Images/socialpane/social_iconAddGroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; Zaproś do grupy</string>

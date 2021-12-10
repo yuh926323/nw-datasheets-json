@@ -574,5 +574,6 @@
 	<string key="reward_type_Apparelskin_Set" rel_version="New_World_Launch">Conjunto de diseños de prendas</string>
 	<string key="reward_type_Toolskin_Set" rel_version="New_World_Launch">Conjunto de diseños de herramientas</string>
 	<string key="reward_type_Housing_Set" rel_version="New_World_Launch">Conjunto de decoraciones para casa</string>
+	<string key="ui_crestforeground_212" rel_version="Twitch_EpicStory_Skins">Uróboro</string>
 </resources>
 

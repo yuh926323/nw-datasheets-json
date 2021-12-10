@@ -517,7 +517,7 @@
 	<string key="Weapon_Rapier_Dec21_description" rel_version="Weapon_Rapier_Winter_MTX">« Des cantiques ancestraux emplissent la tête du porteur de cette épée, qui chante souvent en chœur pendant la danse du combat. Festoyez ! Festoyez ! »</string>
 	<string key="Weapon_Spear_Dec21_description" rel_version="Weapon_Spear_Winter_MTX">« Toutes les victimes de cette lame sont des offrandes aux forces chtoniennes qui se terrent sous la surface des joyeuses festivités. »</string>
 	<string key="Weapon_Bow_Dec21_description" rel_version="Weapon_Bow_Winter_MTX">« Décorez votre proie de flèches festives et mettez un peu de magie dans vos effusions de sang. »</string>
-	<string key="Weapon_Hatchet_Dec21_description" rel_version="Weapon_Hatchet_Winter_MTX">« Cette hachette dorée brille de toute la gloire de la saison. »</string>
+	<string key="Weapon_Hatchet_Dec21_description" rel_version="Weapon_Hatchet_Winter_MTX">« Cette hache dorée brille de toute la gloire de la saison. »</string>
 	<string key="Weapon_IceGauntlet_Dec21_description" rel_version="Weapon_IceGauntlet_Winter_MTX">« Dans le crépitement de la glace naissante, on entend le gloussement d'un démon élégant. »</string>
 	<string key="Weapon_Lifestaff_Dec21_description" rel_version="Weapon_LifeStaff_Winter_MTX">« Ce bâton gravé dans l'hiver et durci sur une bûche de Noël ardente émet une aura qui réchauffe le cœur. »</string>
 	<string key="Bundle_Tool_Winter21_name" rel_version="MTX_Tool_Skins_Winter">Cueilleurs hivernaux</string>
@@ -574,5 +574,6 @@
 	<string key="reward_type_Apparelskin_Set" rel_version="New_World_Launch">Ensemble d'apparences de vêtement</string>
 	<string key="reward_type_Toolskin_Set" rel_version="New_World_Launch">Ensemble d'apparences d'outil</string>
 	<string key="reward_type_Housing_Set" rel_version="New_World_Launch">Ensemble de décors pour le logement</string>
+	<string key="ui_crestforeground_212" rel_version="Twitch_EpicStory_Skins">Ouroboros</string>
 </resources>
 

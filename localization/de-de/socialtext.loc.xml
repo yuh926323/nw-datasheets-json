@@ -213,7 +213,8 @@
 	<string key="ui_reply">Antworten</string>
 	<string key="ui_report_header">Melden: {playerName}</string>
 	<string key="ui_report_player_type">Gib bitte eine kurze Beschreibung des Verstoßes an (erforderlich).</string>
-	<string key="ui_reportreason_abusive_chat">Beleidigungen im Chat</string>
+	<string key="ui_reportreason_abusive_chat">Beleidigungen im Textchat</string>
+	<string key="ui_reportreason_abusive_voice_chat">Beleidigungen im Sprachchat</string>
 	<string key="ui_reportreason_cheating">Cheaten</string>
 	<string key="ui_reportreason_griefing">Belästigung</string>
 	<string key="ui_reportreason_offensive_name">Spielername</string>
@@ -221,6 +222,7 @@
 	<string key="ui_reportreason_coinselling">Talerverkauf</string>
 	<string key="ui_reportreason_botbehavior">Bot-Verhalten</string>
 	<string key="ui_reportreason_abusive_chat_description">An einen oder mehrere andere Spieler gerichtete Hassreden, Beleidigungen oder Boshaftigkeiten.</string>
+	<string key="ui_reportreason_abusive_voice_chat_description">An einen oder mehrere andere Spieler gerichtete Hassreden, Beleidigungen oder Boshaftigkeiten.</string>
 	<string key="ui_reportreason_cheating_description">Das Ausnutzen von Bugs oder Regellücken, um sich einen Vorteil zu verschaffen.</string>
 	<string key="ui_reportreason_griefing_description">Griefen oder anderes unangemessenes Verhalten.</string>
 	<string key="ui_reportreason_offensive_name_description">Unangemessener oder beleidigender Name.</string>
@@ -230,6 +232,8 @@
 	<string key="ui_reportreason_select">Wähle eine Begründung aus …</string>
 	<string key="ui_reportreason_offensive_guild_name">Kompaniename</string>
 	<string key="ui_reportreason_offensive_guild_description">Unangemessener oder beleidigender Kompaniename.</string>
+	<string key="ui_reportreason_offensive_guild_description_no_guild">Dieser Spieler gehört nicht zur Kompanie.</string>
+	<string key="ui_reportreason_offensive_guild_description_error">Kompanie nicht gefunden.</string>
 	<string key="ui_report_thanks">Vielen Dank für deine Meldung</string>
 	<string key="ui_missing_reason_and_description">Gib bitte eine Begründung und eine Beschreibung an</string>
 	<string key="ui_missing_reason">Gib bitte eine Begründung an</string>
@@ -286,6 +290,7 @@
 	<string key="ui_subarmy_join_requests">BEITRITTSANFRAGEN</string>
 	<string key="ui_subarmy_time_remaining">VERBLEIBENDE ZEIT</string>
 	<string key="ui_subarmy_continue_to_selection">Weiter zur Auswahl</string>
+	<string key="ui_subarmy_invite_header">Wähle Spieler zum Einladen aus</string>
 	<string key="ui_subarmy_invite_to_group_enabled">&lt;img src="LyShineUI/Images/icons/twitch/twitch_iconAddGroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; In Gruppe einladen</string>
 	<string key="ui_subarmy_invite_to_company_enabled">&lt;img src="LyShineUI/Images/icons/twitch/twitch_iconAddGuild" scale="1.5" yOffset="6.5"&gt;&lt;/img&gt; In Kompanie einladen</string>
 	<string key="ui_subarmy_invite_to_group">&lt;img src="LyShineUI/Images/socialpane/social_iconAddGroup" scale="1.5" yOffset="5.5"&gt;&lt;/img&gt; In Gruppe einladen</string>

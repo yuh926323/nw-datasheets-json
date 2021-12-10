@@ -1151,7 +1151,7 @@
     {
         "ObjectiveID": "0424_0101_Convergence",
         "Type": "Event",
-        "DifficultyLevel": 25,
+        "DifficultyLevel": 15,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -1174,7 +1174,7 @@
     {
         "ObjectiveID": "0424_0102_TreeOfLight",
         "Type": "Event",
-        "DifficultyLevel": 25,
+        "DifficultyLevel": 15,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -1197,7 +1197,7 @@
     {
         "ObjectiveID": "0424_0103_WinterTokens",
         "Type": "Event",
-        "DifficultyLevel": 25,
+        "DifficultyLevel": 15,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -1220,7 +1220,7 @@
     {
         "ObjectiveID": "0424_0104_Gleamites",
         "Type": "Event",
-        "DifficultyLevel": 25,
+        "DifficultyLevel": 15,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -1243,7 +1243,7 @@
     {
         "ObjectiveID": "0424_0105_JoyRecaptured",
         "Type": "Event",
-        "DifficultyLevel": 25,
+        "DifficultyLevel": 15,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,

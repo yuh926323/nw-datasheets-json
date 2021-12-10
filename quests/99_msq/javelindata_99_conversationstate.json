@@ -452,7 +452,7 @@
         "IsInitialState": false,
         "DefaultDialogue": "@9903_14_MSQ_Emile_DefaultDialog",
         "RequiredLevel": 0,
-        "RequiredActiveObjectiveId": "9905_0059_InMemoriam",
+        "RequiredAchievement": "99_MSQ_57",
         "RequiredActiveTaskId": "9910_0059_d_00_container_InMemoriam"
     },
     {
@@ -545,7 +545,7 @@
         "IsInitialState": false,
         "DefaultDialogue": "@9904_10_MSQ_Theophrastus_DefaultDialog",
         "RequiredLevel": 0,
-        "RequiredActiveObjectiveId": "9905_0059_InMemoriam",
+        "RequiredAchievement": "99_MSQ_57",
         "RequiredActiveTaskId": "9910_0059_d_00_container_InMemoriam"
     },
     {
@@ -645,8 +645,7 @@
         "IsInitialState": false,
         "DefaultDialogue": "@9905_11_MSQ_Rima_DefaultDialog",
         "RequiredLevel": 0,
-        "RequiredAchievement": "99_MSQ_57",
-        "LinearObjectiveId1": "9905_0059_InMemoriam"
+        "RequiredAchievement": "99_MSQ_57"
     },
     {
         "ConversationStateId": "9906_03_MSQ_Shamaness",

@@ -8,6 +8,7 @@
 	<string key="GypsumYellow_MasterName">Aljez de topacio</string>
 	<string key="GypsumOrange_MasterName">Aljez de citrino</string>
 	<string key="GypsumPurple_MasterName">Aljez de amatista</string>
+	<string key="GypsumWhite_MasterName"/>
 	<string key="GypsumOrb_MasterName">Orbe de aljez</string>
 	<string key="GypsumRed_Description">Un mineral blando fácil de moldear. Refínalo en un horno de aljez para convertirlo en un orbe de aljez.</string>
 	<string key="GypsumBlue_Description">Un mineral blando fácil de moldear. Refínalo en un horno de aljez para convertirlo en un orbe de aljez.</string>
@@ -16,6 +17,7 @@
 	<string key="GypsumYellow_Description">Un mineral blando fácil de moldear. Refínalo en un horno de aljez para convertirlo en un orbe de aljez.</string>
 	<string key="GypsumOrange_Description">Un mineral blando fácil de moldear. Refínalo en un horno de aljez para convertirlo en un orbe de aljez.</string>
 	<string key="GypsumPurple_Description">Un mineral blando fácil de moldear. Refínalo en un horno de aljez para convertirlo en un orbe de aljez.</string>
+	<string key="GypsumWhite_Description">Un mineral blando fácil de moldear. Refínalo en un horno de aljez para convertirlo en un orbe de aljez.</string>
 	<string key="GypsumOrb_Description">Un orbe liso hecho de aljez. Conviértelo en un molde de objeto en un horno de aljez.</string>
 	<string key="CastGypsum_Head_MasterName">Molde de objeto para la cabeza de aljez</string>
 	<string key="CastGypsum_Chest_MasterName">Molde de objeto para el torso de aljez</string>
@@ -57,8 +59,8 @@
 	<string key="CastGypsum_Shield_Description">Un molde hecho de aljez que contiene un escudo. ¡Ábrelo para ver cuál!</string>
 	<string key="CastGypsum_Spear_Description">Un molde hecho de aljez que contiene una lanza. ¡Ábrelo para ver cuál!</string>
 	<string key="CastGypsum_Ring_Description">Un molde hecho de aljez que contiene un anillo. ¡Ábrelo para ver cuál!</string>
-	<string key="CastGypsum_Amulet_Description">Un molde hecho de aljez que contiene un amuleto. ¡Ábrelo para ver cuál!</string>
-	<string key="CastGypsum_Earring_Description">Un molde hecho de aljez que contiene un pendiente. ¡Ábrelo para ver cuál!</string>
+	<string key="CastGypsum_Amulet_Description"> ¡Ábrelo para ver cuál!</string>
+	<string key="CastGypsum_Earring_Description"> ¡Ábrelo para ver cuál!</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_Description" comment="NA-Basic">Un diagrama que te enseña cómo fabricar un mueble. Aprovecha el diagrama para aprender la receta.</string>
 	<string key="Schematic_House_HousingItem_Alchemist_Cabinet_C_MasterName" comment="NA-Basic">Diagrama: Armario de boticario bajo</string>
 	<string key="Schematic_House_HousingItem_Appr_Winecask_Indoor_Description" comment="NA-Basic">Un diagrama que te enseña cómo fabricar un mueble. Aprovecha el diagrama para aprender la receta.</string>
@@ -1453,6 +1455,14 @@
 	<string key="1128_Sword_Description">Una hoja robusta y cruelmente afilada.</string>
 	<string key="1130_SensouNoKo">Sensou no ko</string>
 	<string key="1130_SensouNoKo_Description">El reluciente filo de esta arma brilla con maldad. Los brillantes diseños de su hoja revelan lo que parecen ser miles de rostros atormentados gritando.</string>
+	<string key="1132_Peacemaker">Trabuco «Pacificador» del abuelo</string>
+	<string key="1132_Peacemaker_Description">La famosa solución de la familia Gingham para los problemas fronterizos.</string>
+	<string key="1132_Stock">Culata del trabuco del abuelo</string>
+	<string key="1132_Stock_Description">Pulido por la edad y el uso, picado por las quemaduras de pólvora.</string>
+	<string key="1132_Mechanism">Mecanismo del trabuco «Pacificador» del abuelo</string>
+	<string key="1132_Mechanism_Description">Bien engrasado, simple pero muy efectivo.</string>
+	<string key="1132_Barrel">Cañón del trabuco del abuelo</string>
+	<string key="1132_Barrel_Description">Un cañón de ánima lisa ensanchado, viejo pero bien cuidado.</string>
 	<string key="1130_SensouNoKo2">Sensou no ko</string>
 	<string key="1130_SensouNoKo2_Description">Esta impía espada está vilmente afilada. El peso de esta obra maestra te hace sentir importante.</string>
 	<string key="1201_0104_ShipsFlag_Description">Una bandera rota encontrada en un naufragio olvidado [Objeto de misión]</string>
@@ -9841,7 +9851,7 @@
 	<string key="2hWarhammerWavebornT5_MasterName">Martillo de guerra ondeado</string>
 	<string key="2hWarhammerWraithHunterT4_Description">«Espectros, apariciones, fantasmas… Se llamen como se llamen, los purgaré».</string>
 	<string key="2hWarhammerWraithHunterT4_MasterName">Martillo de guerra de cazaespectros</string>
-	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">Patrón: Gran hacha calada</string>
+	<string key="2patternforge_desc" rel_version="Event_WinterConvergence_Perm">Lleva este patrón a una forja para fabricar un objeto de 600 puntos de equipo con un diseño único.</string>
 	<string key="2Sealed_DocumentsBrightwood_Description">Objeto de guerra de facciones</string>
 	<string key="2Sealed_DocumentsBrightwood_Mastername">Documentos sellados del Bosque Luminoso</string>
 	<string key="2Secret_OrdersBrightwood_Description">Objeto de guerra de facciones</string>
@@ -10480,239 +10490,239 @@
 	<string key="ArrowT3_MasterName">Flecha de acero</string>
 	<string key="ArrowT4_MasterName">Flecha de metal estelar</string>
 	<string key="ArrowT5_MasterName">Flecha de oricalco</string>
-	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el peto de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del peto de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el peto de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del peto de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Peto de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el peto de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del peto de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el peto de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del peto de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Peto de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el peto de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del peto de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el peto de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del peto de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Peto de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el peto de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del peto de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el peto de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del peto de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Peto de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las botas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las botas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las botas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las botas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Botas de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las botas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las botas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las botas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las botas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Botas de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las botas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las botas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las botas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las botas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Botas de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las botas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las botas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las botas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las botas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Botas de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las empuñaduras de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las empuñaduras de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las empuñaduras de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las empuñaduras de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Empuñaduras de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las empuñaduras de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las empuñaduras de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las empuñaduras de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las empuñaduras de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Empuñaduras de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las empuñaduras de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las empuñaduras de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las empuñaduras de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las empuñaduras de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Empuñaduras de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las empuñaduras de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las empuñaduras de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las empuñaduras de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las empuñaduras de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Empuñaduras de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las astas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las astas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las astas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las astas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Astas de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las astas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las astas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las astas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las astas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Astas de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las astas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las astas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las astas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las astas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Astas de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las astas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las astas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las astas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las astas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Astas de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las grebas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las grebas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las grebas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las grebas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Grebas de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las grebas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las grebas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las grebas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las grebas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Grebas de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las grebas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las grebas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las grebas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las grebas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Grebas de roble de regente</string>
-	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las grebas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las grebas de roble de regente.</string>
+	<string key="Artifact_WCArmorHeavyLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las grebas de roble de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las grebas de roble de regente. </string>
 	<string key="Artifact_WCArmorHeavyLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Grebas de roble de regente</string>
-	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la túnica floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la túnica floral de regente.</string>
+	<string key="Artifact_WCArmorLightChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la túnica floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la túnica floral de regente. </string>
 	<string key="Artifact_WCArmorLightChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Túnica floral de regente</string>
-	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la túnica floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la túnica floral de regente.</string>
+	<string key="Artifact_WCArmorLightChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la túnica floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la túnica floral de regente. </string>
 	<string key="Artifact_WCArmorLightChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Túnica floral de regente</string>
-	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la túnica floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la túnica floral de regente.</string>
+	<string key="Artifact_WCArmorLightChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la túnica floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la túnica floral de regente. </string>
 	<string key="Artifact_WCArmorLightChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Túnica floral de regente</string>
-	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la túnica floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la túnica floral de regente.</string>
+	<string key="Artifact_WCArmorLightChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la túnica floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la túnica floral de regente. </string>
 	<string key="Artifact_WCArmorLightChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Túnica floral de regente</string>
-	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mocasines florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mocasines florales de regente.</string>
+	<string key="Artifact_WCArmorLightFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mocasines florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mocasines florales de regente. </string>
 	<string key="Artifact_WCArmorLightFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mocasines florales de regente</string>
-	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mocasines florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mocasines florales de regente.</string>
+	<string key="Artifact_WCArmorLightFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mocasines florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mocasines florales de regente. </string>
 	<string key="Artifact_WCArmorLightFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mocasines florales de regente</string>
-	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mocasines florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mocasines florales de regente.</string>
+	<string key="Artifact_WCArmorLightFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mocasines florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mocasines florales de regente. </string>
 	<string key="Artifact_WCArmorLightFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mocasines florales de regente</string>
-	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mocasines florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mocasines florales de regente.</string>
+	<string key="Artifact_WCArmorLightFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mocasines florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mocasines florales de regente. </string>
 	<string key="Artifact_WCArmorLightFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mocasines florales de regente</string>
-	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los guantes florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los guantes florales de regente.</string>
+	<string key="Artifact_WCArmorLightHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los guantes florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los guantes florales de regente. </string>
 	<string key="Artifact_WCArmorLightHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Guantes florales de regente</string>
-	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los guantes florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los guantes florales de regente.</string>
+	<string key="Artifact_WCArmorLightHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los guantes florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los guantes florales de regente. </string>
 	<string key="Artifact_WCArmorLightHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Guantes florales de regente</string>
-	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los guantes florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los guantes florales de regente.</string>
+	<string key="Artifact_WCArmorLightHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los guantes florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los guantes florales de regente. </string>
 	<string key="Artifact_WCArmorLightHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Guantes florales de regente</string>
-	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los guantes florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los guantes florales de regente.</string>
+	<string key="Artifact_WCArmorLightHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los guantes florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los guantes florales de regente. </string>
 	<string key="Artifact_WCArmorLightHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Guantes florales de regente</string>
-	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la corona floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la corona floral de regente.</string>
+	<string key="Artifact_WCArmorLightHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la corona floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la corona floral de regente. </string>
 	<string key="Artifact_WCArmorLightHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Corona floral de regente</string>
-	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la corona floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la corona floral de regente.</string>
+	<string key="Artifact_WCArmorLightHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la corona floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la corona floral de regente. </string>
 	<string key="Artifact_WCArmorLightHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Corona floral de regente</string>
-	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la corona floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la corona floral de regente.</string>
+	<string key="Artifact_WCArmorLightHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la corona floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la corona floral de regente. </string>
 	<string key="Artifact_WCArmorLightHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Corona floral de regente</string>
-	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la corona floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la corona floral de regente.</string>
+	<string key="Artifact_WCArmorLightHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la corona floral de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la corona floral de regente. </string>
 	<string key="Artifact_WCArmorLightHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Corona floral de regente</string>
-	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los pantalones florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los pantalones florales de regente.</string>
+	<string key="Artifact_WCArmorLightLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los pantalones florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los pantalones florales de regente. </string>
 	<string key="Artifact_WCArmorLightLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Pantalones florales de regente</string>
-	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los pantalones florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los pantalones florales de regente.</string>
+	<string key="Artifact_WCArmorLightLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los pantalones florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los pantalones florales de regente. </string>
 	<string key="Artifact_WCArmorLightLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Pantalones florales de regente</string>
-	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los pantalones florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los pantalones florales de regente.</string>
+	<string key="Artifact_WCArmorLightLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los pantalones florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los pantalones florales de regente. </string>
 	<string key="Artifact_WCArmorLightLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Pantalones florales de regente</string>
-	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los pantalones florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los pantalones florales de regente.</string>
+	<string key="Artifact_WCArmorLightLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los pantalones florales de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los pantalones florales de regente. </string>
 	<string key="Artifact_WCArmorLightLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Pantalones florales de regente</string>
-	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la toga santa de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la toga santa de regente.</string>
+	<string key="Artifact_WCArmorMediumChestT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la toga santa de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la toga santa de regente. </string>
 	<string key="Artifact_WCArmorMediumChestT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Toga santa de regente</string>
-	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la toga santa de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la toga santa de regente.</string>
+	<string key="Artifact_WCArmorMediumChestT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la toga santa de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la toga santa de regente. </string>
 	<string key="Artifact_WCArmorMediumChestT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Toga santa de regente</string>
-	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la toga santa de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la toga santa de regente.</string>
+	<string key="Artifact_WCArmorMediumChestT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la toga santa de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la toga santa de regente. </string>
 	<string key="Artifact_WCArmorMediumChestT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Toga santa de regente</string>
-	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la toga santa de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la toga santa de regente.</string>
+	<string key="Artifact_WCArmorMediumChestT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la toga santa de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de la toga santa de regente. </string>
 	<string key="Artifact_WCArmorMediumChestT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Toga santa de regente</string>
-	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el calzado santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del calzado santo de regente.</string>
+	<string key="Artifact_WCArmorMediumFeetT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el calzado santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del calzado santo de regente. </string>
 	<string key="Artifact_WCArmorMediumFeetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Calzado santo de regente</string>
-	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el calzado santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del calzado santo de regente.</string>
+	<string key="Artifact_WCArmorMediumFeetT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el calzado santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del calzado santo de regente. </string>
 	<string key="Artifact_WCArmorMediumFeetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Calzado santo de regente</string>
-	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el calzado santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del calzado santo de regente.</string>
+	<string key="Artifact_WCArmorMediumFeetT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el calzado santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del calzado santo de regente. </string>
 	<string key="Artifact_WCArmorMediumFeetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Calzado santo de regente</string>
-	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el calzado santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del calzado santo de regente.</string>
+	<string key="Artifact_WCArmorMediumFeetT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el calzado santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del calzado santo de regente. </string>
 	<string key="Artifact_WCArmorMediumFeetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Calzado santo de regente</string>
-	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mitones santos de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mitones santos de regente.</string>
+	<string key="Artifact_WCArmorMediumHandsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mitones santos de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mitones santos de regente. </string>
 	<string key="Artifact_WCArmorMediumHandsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mitones santos de regente</string>
-	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mitones santos de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mitones santos de regente.</string>
+	<string key="Artifact_WCArmorMediumHandsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mitones santos de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mitones santos de regente. </string>
 	<string key="Artifact_WCArmorMediumHandsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mitones santos de regente</string>
-	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mitones santos de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mitones santos de regente.</string>
+	<string key="Artifact_WCArmorMediumHandsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mitones santos de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mitones santos de regente. </string>
 	<string key="Artifact_WCArmorMediumHandsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mitones santos de regente</string>
-	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mitones santos de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mitones santos de regente.</string>
+	<string key="Artifact_WCArmorMediumHandsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear los mitones santos de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de los mitones santos de regente. </string>
 	<string key="Artifact_WCArmorMediumHandsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mitones santos de regente</string>
-	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el sombrero santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del sombrero santo de regente.</string>
+	<string key="Artifact_WCArmorMediumHeadT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el sombrero santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del sombrero santo de regente. </string>
 	<string key="Artifact_WCArmorMediumHeadT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Sombrero santo de regente</string>
-	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el sombrero santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del sombrero santo de regente.</string>
+	<string key="Artifact_WCArmorMediumHeadT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el sombrero santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del sombrero santo de regente. </string>
 	<string key="Artifact_WCArmorMediumHeadT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Sombrero santo de regente</string>
-	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el sombrero santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del sombrero santo de regente.</string>
+	<string key="Artifact_WCArmorMediumHeadT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el sombrero santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del sombrero santo de regente. </string>
 	<string key="Artifact_WCArmorMediumHeadT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Sombrero santo de regente</string>
-	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el sombrero santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del sombrero santo de regente.</string>
+	<string key="Artifact_WCArmorMediumHeadT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el sombrero santo de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación del sombrero santo de regente. </string>
 	<string key="Artifact_WCArmorMediumHeadT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Sombrero santo de regente</string>
-	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las mallas santas de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las mallas santas de regente.</string>
+	<string key="Artifact_WCArmorMediumLegsT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las mallas santas de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las mallas santas de regente. </string>
 	<string key="Artifact_WCArmorMediumLegsT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mallas santas de regente</string>
-	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las mallas santas de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las mallas santas de regente.</string>
+	<string key="Artifact_WCArmorMediumLegsT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las mallas santas de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las mallas santas de regente. </string>
 	<string key="Artifact_WCArmorMediumLegsT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mallas santas de regente</string>
-	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las mallas santas de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las mallas santas de regente.</string>
+	<string key="Artifact_WCArmorMediumLegsT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las mallas santas de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las mallas santas de regente. </string>
 	<string key="Artifact_WCArmorMediumLegsT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mallas santas de regente</string>
-	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las mallas santas de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las mallas santas de regente.</string>
+	<string key="Artifact_WCArmorMediumLegsT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear las mallas santas de regente en la estación de artesanía adecuada. Se consume durante el proceso de creación de las mallas santas de regente. </string>
 	<string key="Artifact_WCArmorMediumLegsT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mallas santas de regente</string>
-	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la furia de la ventisca en la estación de artesanía adecuada. Se consume durante el proceso de creación de la furia de la ventisca.</string>
+	<string key="Artifact_WCWeaponBowT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la furia de la ventisca en la estación de artesanía adecuada. Se consume durante el proceso de creación de la furia de la ventisca. </string>
 	<string key="Artifact_WCWeaponBowT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Furia de la ventisca</string>
-	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la furia de la ventisca en la estación de artesanía adecuada. Se consume durante el proceso de creación de la furia de la ventisca.</string>
+	<string key="Artifact_WCWeaponBowT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la furia de la ventisca en la estación de artesanía adecuada. Se consume durante el proceso de creación de la furia de la ventisca. </string>
 	<string key="Artifact_WCWeaponBowT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Furia de la ventisca</string>
-	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la furia de la ventisca en la estación de artesanía adecuada. Se consume durante el proceso de creación de la furia de la ventisca.</string>
+	<string key="Artifact_WCWeaponBowT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la furia de la ventisca en la estación de artesanía adecuada. Se consume durante el proceso de creación de la furia de la ventisca. </string>
 	<string key="Artifact_WCWeaponBowT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Furia de la ventisca</string>
-	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la furia de la ventisca en la estación de artesanía adecuada. Se consume durante el proceso de creación de la furia de la ventisca.</string>
+	<string key="Artifact_WCWeaponBowT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la furia de la ventisca en la estación de artesanía adecuada. Se consume durante el proceso de creación de la furia de la ventisca. </string>
 	<string key="Artifact_WCWeaponBowT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Furia de la ventisca</string>
-	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la manopla cristalina en la estación de artesanía adecuada. Se consume durante el proceso de creación de la manopla cristalina.</string>
+	<string key="Artifact_WCWeaponGauntletIceT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la manopla cristalina en la estación de artesanía adecuada. Se consume durante el proceso de creación de la manopla cristalina. </string>
 	<string key="Artifact_WCWeaponGauntletIceT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Manopla cristalina</string>
-	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la manopla cristalina en la estación de artesanía adecuada. Se consume durante el proceso de creación de la manopla cristalina.</string>
+	<string key="Artifact_WCWeaponGauntletIceT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la manopla cristalina en la estación de artesanía adecuada. Se consume durante el proceso de creación de la manopla cristalina. </string>
 	<string key="Artifact_WCWeaponGauntletIceT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Manopla cristalina</string>
-	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la manopla cristalina en la estación de artesanía adecuada. Se consume durante el proceso de creación de la manopla cristalina.</string>
+	<string key="Artifact_WCWeaponGauntletIceT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la manopla cristalina en la estación de artesanía adecuada. Se consume durante el proceso de creación de la manopla cristalina. </string>
 	<string key="Artifact_WCWeaponGauntletIceT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Manopla cristalina</string>
-	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la manopla cristalina en la estación de artesanía adecuada. Se consume durante el proceso de creación de la manopla cristalina.</string>
+	<string key="Artifact_WCWeaponGauntletIceT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la manopla cristalina en la estación de artesanía adecuada. Se consume durante el proceso de creación de la manopla cristalina. </string>
 	<string key="Artifact_WCWeaponGauntletIceT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Manopla cristalina</string>
-	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la sombra amarga en la estación de artesanía adecuada. Se consume durante el proceso de creación de la sombra amarga.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la sombra amarga en la estación de artesanía adecuada. Se consume durante el proceso de creación de la sombra amarga. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Sombra amarga</string>
-	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la sombra amarga en la estación de artesanía adecuada. Se consume durante el proceso de creación de la sombra amarga.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la sombra amarga en la estación de artesanía adecuada. Se consume durante el proceso de creación de la sombra amarga. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Sombra amarga</string>
-	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la sombra amarga en la estación de artesanía adecuada. Se consume durante el proceso de creación de la sombra amarga.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la sombra amarga en la estación de artesanía adecuada. Se consume durante el proceso de creación de la sombra amarga. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Sombra amarga</string>
-	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la sombra amarga en la estación de artesanía adecuada. Se consume durante el proceso de creación de la sombra amarga.</string>
+	<string key="Artifact_WCWeaponGauntletVoidT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la sombra amarga en la estación de artesanía adecuada. Se consume durante el proceso de creación de la sombra amarga. </string>
 	<string key="Artifact_WCWeaponGauntletVoidT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Sombra amarga</string>
-	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la carnicera hieloeterno en la estación de artesanía adecuada. Se consume durante el proceso de creación de la carnicera hieloeterno.</string>
+	<string key="Artifact_WCWeaponGreatAxeT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la carnicera hieloeterno en la estación de artesanía adecuada. Se consume durante el proceso de creación de la carnicera hieloeterno. </string>
 	<string key="Artifact_WCWeaponGreatAxeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Carnicera hieloeterno</string>
-	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la carnicera hieloeterno en la estación de artesanía adecuada. Se consume durante el proceso de creación de la carnicera hieloeterno.</string>
+	<string key="Artifact_WCWeaponGreatAxeT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la carnicera hieloeterno en la estación de artesanía adecuada. Se consume durante el proceso de creación de la carnicera hieloeterno. </string>
 	<string key="Artifact_WCWeaponGreatAxeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Carnicera hieloeterno</string>
-	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la carnicera hieloeterno en la estación de artesanía adecuada. Se consume durante el proceso de creación de la carnicera hieloeterno.</string>
+	<string key="Artifact_WCWeaponGreatAxeT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la carnicera hieloeterno en la estación de artesanía adecuada. Se consume durante el proceso de creación de la carnicera hieloeterno. </string>
 	<string key="Artifact_WCWeaponGreatAxeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Carnicera hieloeterno</string>
-	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la carnicera hieloeterno en la estación de artesanía adecuada. Se consume durante el proceso de creación de la carnicera hieloeterno.</string>
+	<string key="Artifact_WCWeaponGreatAxeT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la carnicera hieloeterno en la estación de artesanía adecuada. Se consume durante el proceso de creación de la carnicera hieloeterno. </string>
 	<string key="Artifact_WCWeaponGreatAxeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Carnicera hieloeterno</string>
-	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el fragmento glacial en la estación de artesanía adecuada. Se consume durante el proceso de creación del fragmento glacial.</string>
+	<string key="Artifact_WCWeaponHatchetT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el fragmento glacial en la estación de artesanía adecuada. Se consume durante el proceso de creación del fragmento glacial. </string>
 	<string key="Artifact_WCWeaponHatchetT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Fragmento glacial</string>
-	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el fragmento glacial en la estación de artesanía adecuada. Se consume durante el proceso de creación del fragmento glacial.</string>
+	<string key="Artifact_WCWeaponHatchetT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el fragmento glacial en la estación de artesanía adecuada. Se consume durante el proceso de creación del fragmento glacial. </string>
 	<string key="Artifact_WCWeaponHatchetT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Fragmento glacial</string>
-	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el fragmento glacial en la estación de artesanía adecuada. Se consume durante el proceso de creación del fragmento glacial.</string>
+	<string key="Artifact_WCWeaponHatchetT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el fragmento glacial en la estación de artesanía adecuada. Se consume durante el proceso de creación del fragmento glacial. </string>
 	<string key="Artifact_WCWeaponHatchetT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Fragmento glacial</string>
-	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el fragmento glacial en la estación de artesanía adecuada. Se consume durante el proceso de creación del fragmento glacial.</string>
+	<string key="Artifact_WCWeaponHatchetT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el fragmento glacial en la estación de artesanía adecuada. Se consume durante el proceso de creación del fragmento glacial. </string>
 	<string key="Artifact_WCWeaponHatchetT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Fragmento glacial</string>
-	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la égida de hielo en la estación de artesanía adecuada. Se consume durante el proceso de creación de la égida de hielo.</string>
+	<string key="Artifact_WCWeaponKShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la égida de hielo en la estación de artesanía adecuada. Se consume durante el proceso de creación de la égida de hielo. </string>
 	<string key="Artifact_WCWeaponKShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Égida de hielo</string>
-	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la égida de hielo en la estación de artesanía adecuada. Se consume durante el proceso de creación de la égida de hielo.</string>
+	<string key="Artifact_WCWeaponKShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la égida de hielo en la estación de artesanía adecuada. Se consume durante el proceso de creación de la égida de hielo. </string>
 	<string key="Artifact_WCWeaponKShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Égida de hielo</string>
-	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la égida de hielo en la estación de artesanía adecuada. Se consume durante el proceso de creación de la égida de hielo.</string>
+	<string key="Artifact_WCWeaponKShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la égida de hielo en la estación de artesanía adecuada. Se consume durante el proceso de creación de la égida de hielo. </string>
 	<string key="Artifact_WCWeaponKShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Égida de hielo</string>
-	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el cañón escarchado en la estación de artesanía adecuada. Se consume durante el proceso de creación del cañón escarchado.</string>
+	<string key="Artifact_WCWeaponMusketT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el cañón escarchado en la estación de artesanía adecuada. Se consume durante el proceso de creación del cañón escarchado. </string>
 	<string key="Artifact_WCWeaponMusketT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Cañón escarchado</string>
-	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el cañón escarchado en la estación de artesanía adecuada. Se consume durante el proceso de creación del cañón escarchado.</string>
+	<string key="Artifact_WCWeaponMusketT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el cañón escarchado en la estación de artesanía adecuada. Se consume durante el proceso de creación del cañón escarchado. </string>
 	<string key="Artifact_WCWeaponMusketT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Cañón escarchado</string>
-	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el cañón escarchado en la estación de artesanía adecuada. Se consume durante el proceso de creación del cañón escarchado.</string>
+	<string key="Artifact_WCWeaponMusketT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el cañón escarchado en la estación de artesanía adecuada. Se consume durante el proceso de creación del cañón escarchado. </string>
 	<string key="Artifact_WCWeaponMusketT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Cañón escarchado</string>
-	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el cañón escarchado en la estación de artesanía adecuada. Se consume durante el proceso de creación del cañón escarchado.</string>
+	<string key="Artifact_WCWeaponMusketT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el cañón escarchado en la estación de artesanía adecuada. Se consume durante el proceso de creación del cañón escarchado. </string>
 	<string key="Artifact_WCWeaponMusketT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Cañón escarchado</string>
-	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la punta del iceberg en la estación de artesanía adecuada. Se consume durante el proceso de creación de la punta del iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la punta del iceberg en la estación de artesanía adecuada. Se consume durante el proceso de creación de la punta del iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Punta del iceberg</string>
-	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la punta del iceberg en la estación de artesanía adecuada. Se consume durante el proceso de creación de la punta del iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la punta del iceberg en la estación de artesanía adecuada. Se consume durante el proceso de creación de la punta del iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Punta del iceberg</string>
-	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la punta del iceberg en la estación de artesanía adecuada. Se consume durante el proceso de creación de la punta del iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la punta del iceberg en la estación de artesanía adecuada. Se consume durante el proceso de creación de la punta del iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Punta del iceberg</string>
-	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la punta del iceberg en la estación de artesanía adecuada. Se consume durante el proceso de creación de la punta del iceberg.</string>
+	<string key="Artifact_WCWeaponRapierT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la punta del iceberg en la estación de artesanía adecuada. Se consume durante el proceso de creación de la punta del iceberg. </string>
 	<string key="Artifact_WCWeaponRapierT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Punta del iceberg</string>
-	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la mole frígida en la estación de artesanía adecuada. Se consume durante el proceso de creación de la mole frígida.</string>
+	<string key="Artifact_WCWeaponRShieldT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la mole frígida en la estación de artesanía adecuada. Se consume durante el proceso de creación de la mole frígida. </string>
 	<string key="Artifact_WCWeaponRShieldT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mole frígida</string>
-	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la mole frígida en la estación de artesanía adecuada. Se consume durante el proceso de creación de la mole frígida.</string>
+	<string key="Artifact_WCWeaponRShieldT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la mole frígida en la estación de artesanía adecuada. Se consume durante el proceso de creación de la mole frígida. </string>
 	<string key="Artifact_WCWeaponRShieldT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mole frígida</string>
-	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la mole frígida en la estación de artesanía adecuada. Se consume durante el proceso de creación de la mole frígida.</string>
+	<string key="Artifact_WCWeaponRShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la mole frígida en la estación de artesanía adecuada. Se consume durante el proceso de creación de la mole frígida. </string>
 	<string key="Artifact_WCWeaponRShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mole frígida</string>
-	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la mole frígida en la estación de artesanía adecuada. Se consume durante el proceso de creación de la mole frígida.</string>
+	<string key="Artifact_WCWeaponRShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la mole frígida en la estación de artesanía adecuada. Se consume durante el proceso de creación de la mole frígida. </string>
 	<string key="Artifact_WCWeaponRShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Mole frígida</string>
-	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el témpano en la estación de artesanía adecuada. Se consume durante el proceso de creación del témpano.</string>
+	<string key="artifact_wcweaponspeart2_description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el témpano en la estación de artesanía adecuada. Se consume durante el proceso de creación del témpano. </string>
 	<string key="artifact_wcweaponspeart2_mastername" rel_version="Event_WinterConvergence_Perm">Patrón: Témpano</string>
-	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el témpano en la estación de artesanía adecuada. Se consume durante el proceso de creación del témpano.</string>
+	<string key="artifact_wcweaponspeart3_description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el témpano en la estación de artesanía adecuada. Se consume durante el proceso de creación del témpano. </string>
 	<string key="artifact_wcweaponspeart3_mastername" rel_version="Event_WinterConvergence_Perm">Patrón: Témpano</string>
-	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el témpano en la estación de artesanía adecuada. Se consume durante el proceso de creación del témpano.</string>
+	<string key="artifact_wcweaponspeart4_description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el témpano en la estación de artesanía adecuada. Se consume durante el proceso de creación del témpano. </string>
 	<string key="artifact_wcweaponspeart4_mastername" rel_version="Event_WinterConvergence_Perm">Patrón: Témpano</string>
-	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el témpano en la estación de artesanía adecuada. Se consume durante el proceso de creación del témpano.</string>
+	<string key="artifact_wcweaponspeart5_description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el témpano en la estación de artesanía adecuada. Se consume durante el proceso de creación del témpano. </string>
 	<string key="artifact_wcweaponspeart5_mastername" rel_version="Event_WinterConvergence_Perm">Patrón: Témpano</string>
-	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la nieve crepitante en la estación de artesanía adecuada. Se consume durante el proceso de creación de la nieve crepitante.</string>
+	<string key="Artifact_WCWeaponStaffFireT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la nieve crepitante en la estación de artesanía adecuada. Se consume durante el proceso de creación de la nieve crepitante. </string>
 	<string key="Artifact_WCWeaponStaffFireT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Nieve crepitante</string>
-	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la nieve crepitante en la estación de artesanía adecuada. Se consume durante el proceso de creación de la nieve crepitante.</string>
+	<string key="Artifact_WCWeaponStaffFireT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la nieve crepitante en la estación de artesanía adecuada. Se consume durante el proceso de creación de la nieve crepitante. </string>
 	<string key="Artifact_WCWeaponStaffFireT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Nieve crepitante</string>
-	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la nieve crepitante en la estación de artesanía adecuada. Se consume durante el proceso de creación de la nieve crepitante.</string>
+	<string key="Artifact_WCWeaponStaffFireT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la nieve crepitante en la estación de artesanía adecuada. Se consume durante el proceso de creación de la nieve crepitante. </string>
 	<string key="Artifact_WCWeaponStaffFireT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Nieve crepitante</string>
-	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la nieve crepitante en la estación de artesanía adecuada. Se consume durante el proceso de creación de la nieve crepitante.</string>
+	<string key="Artifact_WCWeaponStaffFireT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la nieve crepitante en la estación de artesanía adecuada. Se consume durante el proceso de creación de la nieve crepitante. </string>
 	<string key="Artifact_WCWeaponStaffFireT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Nieve crepitante</string>
-	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la cura de frío en la estación de artesanía adecuada. Se consume durante el proceso de creación de la cura de frío.</string>
+	<string key="Artifact_WCWeaponStaffLifeT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la cura de frío en la estación de artesanía adecuada. Se consume durante el proceso de creación de la cura de frío. </string>
 	<string key="Artifact_WCWeaponStaffLifeT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Cura de frío</string>
-	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la cura de frío en la estación de artesanía adecuada. Se consume durante el proceso de creación de la cura de frío.</string>
+	<string key="Artifact_WCWeaponStaffLifeT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la cura de frío en la estación de artesanía adecuada. Se consume durante el proceso de creación de la cura de frío. </string>
 	<string key="Artifact_WCWeaponStaffLifeT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Cura de frío</string>
-	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la cura de frío en la estación de artesanía adecuada. Se consume durante el proceso de creación de la cura de frío.</string>
+	<string key="Artifact_WCWeaponStaffLifeT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la cura de frío en la estación de artesanía adecuada. Se consume durante el proceso de creación de la cura de frío. </string>
 	<string key="Artifact_WCWeaponStaffLifeT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Cura de frío</string>
-	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la cura de frío en la estación de artesanía adecuada. Se consume durante el proceso de creación de la cura de frío.</string>
+	<string key="Artifact_WCWeaponStaffLifeT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la cura de frío en la estación de artesanía adecuada. Se consume durante el proceso de creación de la cura de frío. </string>
 	<string key="Artifact_WCWeaponStaffLifeT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Cura de frío</string>
-	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la explosión helada en la estación de artesanía adecuada. Se consume durante el proceso de creación de la explosión helada.</string>
+	<string key="Artifact_WCWeaponSwordT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la explosión helada en la estación de artesanía adecuada. Se consume durante el proceso de creación de la explosión helada. </string>
 	<string key="Artifact_WCWeaponSwordT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Explosión helada</string>
-	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la explosión helada en la estación de artesanía adecuada. Se consume durante el proceso de creación de la explosión helada.</string>
+	<string key="Artifact_WCWeaponSwordT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la explosión helada en la estación de artesanía adecuada. Se consume durante el proceso de creación de la explosión helada. </string>
 	<string key="Artifact_WCWeaponSwordT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Explosión helada</string>
-	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la explosión helada en la estación de artesanía adecuada. Se consume durante el proceso de creación de la explosión helada.</string>
+	<string key="Artifact_WCWeaponSwordT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la explosión helada en la estación de artesanía adecuada. Se consume durante el proceso de creación de la explosión helada. </string>
 	<string key="Artifact_WCWeaponSwordT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Explosión helada</string>
-	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la explosión helada en la estación de artesanía adecuada. Se consume durante el proceso de creación de la explosión helada.</string>
+	<string key="Artifact_WCWeaponSwordT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear la explosión helada en la estación de artesanía adecuada. Se consume durante el proceso de creación de la explosión helada. </string>
 	<string key="Artifact_WCWeaponSwordT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Explosión helada</string>
-	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el trineo festivo en la estación de artesanía adecuada. Se consume durante el proceso de creación del trineo festivo.</string>
+	<string key="Artifact_WCWeaponTShieldT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el trineo festivo en la estación de artesanía adecuada. Se consume durante el proceso de creación del trineo festivo. </string>
 	<string key="Artifact_WCWeaponTShieldT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Trineo festivo</string>
-	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el trineo festivo en la estación de artesanía adecuada. Se consume durante el proceso de creación del trineo festivo.</string>
+	<string key="Artifact_WCWeaponTShieldT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el trineo festivo en la estación de artesanía adecuada. Se consume durante el proceso de creación del trineo festivo. </string>
 	<string key="Artifact_WCWeaponTShieldT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Trineo festivo</string>
-	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el martillo de guerra invernal en la estación de artesanía adecuada. Se consume durante el proceso de creación del martillo de guerra invernal.</string>
+	<string key="Artifact_WCWeaponWarHammerT2_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el martillo de guerra invernal en la estación de artesanía adecuada. Se consume durante el proceso de creación del martillo de guerra invernal. </string>
 	<string key="Artifact_WCWeaponWarHammerT2_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Martillo de guerra invernal</string>
-	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el martillo de guerra invernal en la estación de artesanía adecuada. Se consume durante el proceso de creación del martillo de guerra invernal.</string>
+	<string key="Artifact_WCWeaponWarHammerT3_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el martillo de guerra invernal en la estación de artesanía adecuada. Se consume durante el proceso de creación del martillo de guerra invernal. </string>
 	<string key="Artifact_WCWeaponWarHammerT3_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Martillo de guerra invernal</string>
-	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el martillo de guerra invernal en la estación de artesanía adecuada. Se consume durante el proceso de creación del martillo de guerra invernal.</string>
+	<string key="Artifact_WCWeaponWarHammerT4_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el martillo de guerra invernal en la estación de artesanía adecuada. Se consume durante el proceso de creación del martillo de guerra invernal. </string>
 	<string key="Artifact_WCWeaponWarHammerT4_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Martillo de guerra invernal</string>
-	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el martillo de guerra invernal en la estación de artesanía adecuada. Se consume durante el proceso de creación del martillo de guerra invernal.</string>
+	<string key="Artifact_WCWeaponWarHammerT5_Description" rel_version="Event_WinterConvergence_Perm">Este patrón se usa para crear el martillo de guerra invernal en la estación de artesanía adecuada. Se consume durante el proceso de creación del martillo de guerra invernal. </string>
 	<string key="Artifact_WCWeaponWarHammerT5_MasterName" rel_version="Event_WinterConvergence_Perm">Patrón: Martillo de guerra invernal</string>
 	<string key="Artificer_Crucibles_Description">Crisoles de artesano</string>
 	<string key="Artificer_Crucibles_MasterName">Crisoles de artesano</string>
@@ -15122,7 +15132,7 @@
 	<string key="FoodFOCT4_Description">Aumenta la concentración en {[Type_StatusEffectData.FoodFOCT4.MODFocus]} durante {[Type_StatusEffectData.FoodFOCT4.BaseDuration / 60]} minutos. Tu salud se recupera lentamente cuando estás bajo sus efectos.</string>
 	<string key="FoodFOCT4_MasterName">Pastel de pavo</string>
 	<string key="FoodFOCT5_Description">Aumenta la concentración en {[Type_StatusEffectData.FoodFOCT5.MODFocus]} durante {[Type_StatusEffectData.FoodFOCT5.BaseDuration / 60]} minutos. Tu salud se recupera lentamente cuando estás bajo sus efectos.</string>
-	<string key="FoodFOCT5_MasterName">Mandje Mandje socarrado con ensalada de maíz</string>
+	<string key="FoodFOCT5_MasterName">Carpa de lava socarrada con ensalada de maíz</string>
 	<string key="FoodHarvesterT1_Description">Aumenta la suerte al cosechar en {[Type_StatusEffectData.FoodHarvesterT1.ROLharvesting]} puntos durante {[Type_StatusEffectData.FoodHarvesterT1.BaseDuration / 60]} minutos. Tu salud se recupera lentamente cuando estás bajo sus efectos.</string>
 	<string key="FoodHarvesterT1_MasterName">Maíz cocinado</string>
 	<string key="FoodHarvesterT2_Description">Aumenta la suerte al cosechar en {[Type_StatusEffectData.FoodHarvesterT2.ROLharvesting]} puntos durante {[Type_StatusEffectData.FoodHarvesterT2.BaseDuration / 60]} minutos. Tu salud se recupera lentamente cuando estás bajo sus efectos.</string>
@@ -18439,7 +18449,7 @@
 	<string key="ItemPattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Arco de dríade</string>
 	<string key="ItemPattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Báculo ígneo de dríade</string>
 	<string key="ItemPattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Destral de dríade</string>
-	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Magia de hielo de dríade</string>
+	<string key="ItemPattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Escudo de lágrima de dríade</string>
 	<string key="ItemPattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Báculo de vida de dríade</string>
 	<string key="ItemPattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Mosquete de dríade</string>
@@ -18456,7 +18466,7 @@
 	<string key="ItemPattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Arco de profanador</string>
 	<string key="ItemPattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Báculo ígneo de profanador</string>
 	<string key="ItemPattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Destral de profanador</string>
-	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Magia de hielo de profanador</string>
+	<string key="ItemPattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="ItemPattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Báculo de vida de profanador</string>
 	<string key="ItemPattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Mosquete de profanador</string>
 	<string key="ItemPattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Estoque de profanador</string>
@@ -18494,7 +18504,7 @@
 	<string key="ItemPattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Arco calado</string>
 	<string key="ItemPattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Báculo ígneo calado</string>
 	<string key="ItemPattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Destral calado</string>
-	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Magia de hielo calada</string>
+	<string key="ItemPattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Manopla de hielo calada</string>
 	<string key="ItemPattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Báculo de vida calado</string>
 	<string key="ItemPattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Mosquete calado</string>
 	<string key="ItemPattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Estoque calado</string>
@@ -24111,7 +24121,7 @@
 	<string key="Pattern_Dryads_Bow" rel_version="Event_WinterConvergence_Perm">Patrón: Arco de dríade</string>
 	<string key="Pattern_Dryads_FireStaff" rel_version="Event_WinterConvergence_Perm">Patrón: Báculo ígneo de dríade</string>
 	<string key="Pattern_Dryads_Hatchet" rel_version="Event_WinterConvergence_Perm">Patrón: Destral de dríade</string>
-	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Patrón: Magia de hielo de dríade</string>
+	<string key="Pattern_Dryads_IceMagic" rel_version="Event_WinterConvergence_Perm">Patrón: </string>
 	<string key="Pattern_Dryads_KiteShield" rel_version="Event_WinterConvergence_Perm">Patrón: Escudo de lágrima de dríade</string>
 	<string key="Pattern_Dryads_LifeStaff" rel_version="Event_WinterConvergence_Perm">Patrón: Báculo de vida de dríade</string>
 	<string key="Pattern_Dryads_Musket" rel_version="Event_WinterConvergence_Perm">Patrón: Mosquete de dríade</string>
@@ -24128,7 +24138,7 @@
 	<string key="Pattern_Graverobbers_Bow" rel_version="Event_WinterConvergence_Perm">Patrón: Arco de profanador</string>
 	<string key="Pattern_Graverobbers_FireStaff" rel_version="Event_WinterConvergence_Perm">Patrón: Báculo ígneo de profanador</string>
 	<string key="Pattern_Graverobbers_Hatchet" rel_version="Event_WinterConvergence_Perm">Patrón: Destral de profanador</string>
-	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Patrón: Magia de hielo de profanador</string>
+	<string key="Pattern_Graverobbers_IceMagic" rel_version="Event_WinterConvergence_Perm">Patrón: </string>
 	<string key="Pattern_Graverobbers_LifeStaff" rel_version="Event_WinterConvergence_Perm">Patrón: Báculo de vida de profanador</string>
 	<string key="Pattern_Graverobbers_Musket" rel_version="Event_WinterConvergence_Perm">Patrón: Mosquete de profanador</string>
 	<string key="Pattern_Graverobbers_Rapier" rel_version="Event_WinterConvergence_Perm">Patrón: Estoque de profanador</string>
@@ -24166,7 +24176,7 @@
 	<string key="Pattern_Soaked_Bow" rel_version="Event_WinterConvergence_Perm">Patrón: Arco calado</string>
 	<string key="Pattern_Soaked_FireStaff" rel_version="Event_WinterConvergence_Perm">Patrón: Báculo ígneo calado</string>
 	<string key="Pattern_Soaked_Hatchet" rel_version="Event_WinterConvergence_Perm">Patrón: Destral calado</string>
-	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Patrón: Magia de hielo calada</string>
+	<string key="Pattern_Soaked_IceMagic" rel_version="Event_WinterConvergence_Perm">Patrón: Manopla de hielo calada</string>
 	<string key="Pattern_Soaked_LifeStaff" rel_version="Event_WinterConvergence_Perm">Patrón: Báculo de vida calado</string>
 	<string key="Pattern_Soaked_Musket" rel_version="Event_WinterConvergence_Perm">Patrón: Mosquete calado</string>
 	<string key="Pattern_Soaked_Rapier" rel_version="Event_WinterConvergence_Perm">Patrón: Estoque calado</string>
@@ -24188,9 +24198,9 @@
 	<string key="Pattern_TempleGuards_Gauntlets" rel_version="Event_WinterConvergence_Perm">Patrón: Manoplas de guardia del templo</string>
 	<string key="Pattern_TempleGuards_Helm" rel_version="Event_WinterConvergence_Perm">Patrón: Yelmo de guardia del templo</string>
 	<string key="Pattern_TempleGuards_Legguards" rel_version="Event_WinterConvergence_Perm">Patrón: Espinilleras de guardia del templo</string>
-	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm">Lleva este patrón a un repositorio de artes arcanas para fabricar un objeto de 600 puntos de equipo con un diseño único.</string>
+	<string key="PatternArcane_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternForge_Desc">Lleva este patrón a una forja para fabricar un objeto de 600 puntos de equipo con un diseño único.</string>
-	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm">Lleva este patrón a una estación de equipamiento para fabricar un objeto de 600 puntos de equipo con un diseño único.</string>
+	<string key="PatternOutfitter_Desc" rel_version="Event_WinterConvergence_Perm"/>
 	<string key="PatternWorkbench_Desc" rel_version="Event_WinterConvergence_Perm">Lleva este patrón a una mesa de trabajo para fabricar un objeto de 600 puntos de equipo con un diseño único.</string>
 	<string key="PearlCutT1_Description">Se usa en joyería. También se puede engarzar en una armadura para aumentar su poder.</string>
 	<string key="pearlcutt1_mastername">Perla cortada imperfecta</string>
@@ -27923,7 +27933,7 @@
 	<string key="Shard_Rapier_MasterName">Fragmento de estoque intemporal</string>
 	<string key="Shard_Rapier_Description">Este recurso se puede usar en una fragua para fabricar un estoque con un atributo específico.</string>
 	<string key="Shard_Hatchet_MasterName">Fragmento de destral intemporal</string>
-	<string key="Shard_Hatchet_Description">Este recurso se puede usar en un taller para fabricar un destral con un atributo específico.</string>
+	<string key="Shard_Hatchet_Description"/>
 	<string key="Shard_Bow_MasterName">Fragmento de arco intemporal</string>
 	<string key="Shard_Bow_Description">Este recurso se puede usar en un taller para fabricar un arco con un atributo específico.</string>
 	<string key="Shard_Musket_MasterName">Fragmento de mosquete intemporal</string>
@@ -27943,7 +27953,7 @@
 	<string key="Shard_Shield_Tower_MasterName">Fragmento de escudo de torre intemporal</string>
 	<string key="Shard_Shield_Tower_Description">Este recurso se puede usar en una fragua para fabricar un escudo de torre con un atributo específico.</string>
 	<string key="Shard_Spear_MasterName">Fragmento de lanza intemporal</string>
-	<string key="Shard_Spear_Description">Este recurso se puede usar en un taller para fabricar una lanza con un atributo específico.</string>
+	<string key="Shard_Spear_Description"/>
 	<string key="Shard_Ring_MasterName">Fragmento de anillo intemporal</string>
 	<string key="Shard_Ring_Description">Este recurso se puede usar en una estación de equipamiento para fabricar un anillo con un atributo específico.</string>
 	<string key="Shard_Amulet_MasterName">Fragmento de amuleto intemporal</string>
@@ -27957,5 +27967,17 @@
 	<string key="EarringDropT5_MasterName">Pendiente viejo</string>
 	<string key="RingDropT5_MasterName">Anillo viejo</string>
 	<string key="AmuletDropT5_MasterName">Amuleto viejo</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_MasterName" rel_version="Twitch_EpicStory_Skins">Abrigo de Nynaeve</string>
+	<string key="Skin_Chest_WoT_GreenNynaeve_Description" rel_version="Twitch_EpicStory_Skins">Escucha a los vientos, pues llevan la voz de la razón.</string>
+	<string key="Skin_Chest_WoT_RedScarf_MasterName" rel_version="Twitch_EpicStory_Skins">Capa de Ajah Rojo</string>
+	<string key="Skin_Chest_WoT_RedScarf_Description" rel_version="Twitch_EpicStory_Skins">Este color sirve de advertencia para quienes buscan hacer daño.</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_MasterName" rel_version="Twitch_EpicStory_Skins">Hijos de la luz</string>
+	<string key="Skin_Chest_WoT_WhiteRobe_Description" rel_version="Twitch_EpicStory_Skins">Las togas de marfil pueden ocultar las intenciones de sus portadores.</string>
+	<string key="Skin_Chest_WoT_BrownCloak_MasterName" rel_version="Twitch_EpicStory_Skins">Capa de Egwene</string>
+	<string key="Skin_Chest_WoT_BrownCloak_Description" rel_version="Twitch_EpicStory_Skins">Solo aquellos con dones pueden seguir el camino de la magia.</string>
+	<string key="Skin_Rapier_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Espada de Tam</string>
+	<string key="Skin_Rapier_WoT_Description" rel_version="Twitch_EpicStory_Skins">Tan hermosa como mortal, la verdadera arma de un guardián.</string>
+	<string key="Skin_Longsword_WoT_MasterName" rel_version="Twitch_EpicStory_Skins">Espada de engendro de la sombra</string>
+	<string key="Skin_Longsword_WoT_Description" rel_version="Twitch_EpicStory_Skins">La garra temible de un señor oscuro terrible.</string>
 </resources>
 

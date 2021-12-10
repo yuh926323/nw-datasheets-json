@@ -222,5 +222,6 @@
 	<string key="crafting_filter_placeholder">Filtruj według nazw...</string>
 	<string key="crafting_category_select_title">WYBIERZ {type}</string>
 	<string key="crafting_discount_base">Opłata bazowa</string>
+	<string key="ui_crafting_resource_origin_message">Uwaga: potrzebne zasoby zostaną w pierwszej kolejności pobrane z twojego ekwipunku, a dopiero potem z magazynu osady.</string>
 </resources>
 

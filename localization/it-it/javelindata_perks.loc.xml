@@ -1673,7 +1673,7 @@
 	<string key="PerkID_Weapon_DmgBasic_Name">Incantato</string>
 	<string key="PerkID_Weapon_DmgBasic_Description">Gli attacchi pesanti e leggeri infliggono un {[GlobalAbilityTable.Global_Weapon_DmgBasic.BaseDamage * 100 * {perkMultiplier}]}% di danni in più.</string>
 	<string key="PerkID_WeaponMelee_DmgBack_Name">Criminale</string>
-	<string key="PerkID_WeaponMelee_DmgBack_Description">+{[GlobalAbilityTable.Global_WeaponMelee_DmgBack.CritDamage * 100 * {perkMultiplier}]}% di danni da pugnalata alle spalle.</string>
+	<string key="PerkID_WeaponMelee_DmgBack_Description">+{[GlobalAbilityTable.Global_WeaponMelee_DmgBack.HitFromBehindDamage * 100 * {perkMultiplier}]}% di danni da pugnalata alle spalle.</string>
 	<string key="PerkID_Weapon_CritChance_Name">Incisivo</string>
 	<string key="PerkID_Weapon_CritChance_Description">+{[GlobalAbilityTable.Global_Weapon_CritChance.CritChance * 100 * {perkMultiplier}]}% di probabilità di colpo critico.</string>
 	<string key="PerkID_WeaponLife_HealOutgoing_Name">Benedetto</string>
@@ -1797,7 +1797,7 @@
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_DMG_Name" rel_version="MorePerksV1">Colpi incisivi</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_DMG_Description" rel_version="MorePerksV1">Gli attacchi pesanti completamente caricati infliggono un {[GlobalAbilityTable.Global_Weapon_Melee_ChargedHeavy_DMG.BaseDamage * 100 * {perkMultiplier}]}% di danni aggiuntivi.</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Crit_Name" rel_version="MorePerksV1">Critici incisivi</string>
-	<string key="PerkID_Weapon_Melee_ChargedHeavy_Crit_Description" rel_version="MorePerksV1">Gli attacchi pesanti completamente caricati infliggono un {[GlobalAbilityTable.Global_Weapon_Melee_ChargedHeavy_Crit.BaseDamage * 100 * {perkMultiplier}]}% di danni critici aggiuntivi.</string>
+	<string key="PerkID_Weapon_Melee_ChargedHeavy_Crit_Description" rel_version="MorePerksV1">Gli attacchi pesanti completamente caricati infliggono un {[GlobalAbilityTable.Global_Weapon_Melee_ChargedHeavy_Crit.CritDamage * 100 * {perkMultiplier}]}% di danni critici aggiuntivi.</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Rend_Name" rel_version="MorePerksV1">Lacerato incisivo</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Rend_Description" rel_version="MorePerksV1">Gli attacchi pesanti completamente caricati applicano Lacerato per {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.BaseDuration]} s, riducendo l'assorbimento del bersaglio di un {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend.ABSStandard * -100]}% (tempo di ricarica {[Type_StatusEffectData.Status_Perk_Weapon_ChargedHeavy_Rend_Timer.BaseDuration]} s.)</string>
 	<string key="PerkID_Weapon_Melee_ChargedHeavy_Heal_Name" rel_version="MorePerksV1">Recupero incisivo</string>

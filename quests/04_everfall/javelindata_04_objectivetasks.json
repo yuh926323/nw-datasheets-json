@@ -2470,7 +2470,8 @@
         "IsHidden": 1,
         "SubTask1": "0424_0102_d_01_OpenTree1",
         "SubTask2": "0424_0102_d_01_OpenTree2",
-        "SubTask3": "0424_0102_d_01_OpenTree3"
+        "SubTask3": "0424_0102_d_01_OpenTree3",
+        "SubTask4": "0424_0102_d_02_ReturnPOI"
     },
     {
         "TaskID": "0424_0102_d_02a_ActivatePresent",
@@ -2530,6 +2531,20 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@0424_0102_d_01_OpenTree",
+        "IsHidden": 1
+    },
+    {
+        "TaskID": "0424_0102_d_02_ReturnPOI",
+        "Type": "TaskGoToPOITag",
+        "StayActive": "1",
+        "ChestDropProbability": 0,
+        "TerritoryID": 0,
+        "POITag": "wintervillage_30145,wintervillage_50151,wintervillage_50300,wintervillage_40348",
+        "PauseAndClearLootOnTaskComplete": false,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
         "IsHidden": 1
     },
     {

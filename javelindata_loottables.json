@@ -22884,24 +22884,21 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LTID]BreachGypsum",
-        "Item2": "[LTID]DarknessMinor2RollGypsumGear"
+        "Item1": "[LTID]DarknessMinor2RollGypsumGear"
     },
     {
         "LootTableID": "DarknessMinor2RollGypsum_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1",
-        "Item2": "1"
+        "Item1": "1"
     },
     {
         "LootTableID": "DarknessMinor2RollGypsum_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 100000,
-        "Item1": "0",
-        "Item2": "0"
+        "Item1": "0"
     },
     {
         "LootTableID": "DarknessMinor2RollGypsumGear",
@@ -22960,20 +22957,18 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LTID]BreachGypsum",
-        "Item2": "[LTID]DarknessMajor2",
-        "Item3": "[LTID]DarknessFragments",
-        "Item4": "[LTID]DarknessMajor2NamedRoll"
+        "Item1": "[LTID]DarknessMajor2",
+        "Item2": "[LTID]DarknessFragments",
+        "Item3": "[LTID]DarknessMajor2NamedRoll"
     },
     {
         "LootTableID": "DarknessMajor2Roll_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1",
+        "Item1": "2",
         "Item2": "2",
-        "Item3": "2",
-        "Item4": "1"
+        "Item3": "1"
     },
     {
         "LootTableID": "DarknessMajor2Roll_Probs",
@@ -22982,8 +22977,7 @@
         "MaxRoll": 100000,
         "Item1": "0",
         "Item2": "0",
-        "Item3": "0",
-        "Item4": "99000"
+        "Item3": "99000"
     },
     {
         "LootTableID": "DarknessMajor2Roll65",
@@ -22991,20 +22985,18 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LTID]BreachGypsum",
-        "Item2": "[LTID]DarknessMajor2",
-        "Item3": "[LTID]DarknessFragments",
-        "Item4": "[LTID]DarknessMajor2NamedRoll"
+        "Item1": "[LTID]DarknessMajor2",
+        "Item2": "[LTID]DarknessFragments",
+        "Item3": "[LTID]DarknessMajor2NamedRoll"
     },
     {
         "LootTableID": "DarknessMajor2Roll65_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1",
+        "Item1": "2",
         "Item2": "2",
-        "Item3": "2",
-        "Item4": "1"
+        "Item3": "1"
     },
     {
         "LootTableID": "DarknessMajor2Roll65_Probs",
@@ -23013,8 +23005,7 @@
         "MaxRoll": 100000,
         "Item1": "0",
         "Item2": "0",
-        "Item3": "0",
-        "Item4": "90000"
+        "Item3": "90000"
     },
     {
         "LootTableID": "DarknessMajor2NamedRoll",

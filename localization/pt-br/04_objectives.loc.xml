@@ -552,7 +552,7 @@
 	<string key="0424_0104_c_Proposal" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0104_c_Proposal" VO_Status="Needs Recording" dialogue-next="@0424_0104_c_Proposal_next" rel_version="Event_WinterConvergence_Temp">Eles caem em Aeternum à noite. Olhe para o céu estrelado, camarada {playerName}. \n\nUse suas mãos para quebrar os cristais. Colete os fragmentos.</string>
 	<string key="0424_0104_c_Proposal_prompt" speaker="UI - Player Prompt" rel_version="Event_WinterConvergence_Temp">“Para que esses cristais são usados?”</string>
 	<string key="0424_0104_c_Proposal_next" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0104_c_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@0424_0104_c_Proposal_prompt" rel_version="Event_WinterConvergence_Temp">Entregue-os às Cabanas Festivas para realizar trocas.\n\nCristais de Brilhita emitem um calor que não queima. Suas luzes vão inspirar os outros.</string>
-	<string key="0424_0104_e_Incomplete" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0104_e_Incomplete" VO_Status="Needs Recording" rel_version="Event_WinterConvergence_Temp">Traga cristais de Brilhita para mim.  \n\nSua luz vai aquecer a terra.</string>
+	<string key="0424_0104_e_Incomplete" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0104_e_Incomplete" VO_Status="Needs Recording" rel_version="Event_WinterConvergence_Temp">Traga cristais de Brilhita para mim. Procure os pedaços caídos em todos os lugares durante a noite ou vá até o lugar que eu marcar no mapa. \n\nSua luz vai aquecer a terra.</string>
 	<string key="0424_0104_f_Complete" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0104_f_Complete" VO_Status="Needs Recording" rel_version="Event_WinterConvergence_Temp">As luzes desses cristais estelares evocam um nome... Mirgos. Esse era meu nome? \n\nSim, deve ter sido! Falar ele em voz alta é tão agradável. Que grande presente ter um nome mais uma vez. Obrigado!</string>
 	<string key="0424_0105_a_Title" speaker="UI" rel_version="Event_WinterConvergence_Temp">Alegria Recuperada</string>
 	<string key="0424_0105_b_Description" speaker="UI" rel_version="Event_WinterConvergence_Temp">Encontre e recupere um Presente Perdido dos muitos ao redor de Aeternum para um Andarilho Invernal na Vila Invernal.</string>
@@ -563,7 +563,7 @@
 	<string key="0424_0105_e_Incomplete" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0105_e_Incomplete" VO_Status="Needs Recording" rel_version="Event_WinterConvergence_Temp">O Inverno Eterno ameaça a terra. Mas a Árvore da Luz pode proteger contra as trevas. \n\nTrabalhe com os povoados humanos e encontre presentes. Você deve fazer a Árvore da Luz brilhar e aquecer a terra.</string>
 	<string key="0424_0105_f_Complete" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0105_f_Complete" VO_Status="Needs Recording" rel_version="Event_WinterConvergence_Temp">Este presente... me faz lembrar... \n\nEu estava perdido em uma montanha, em uma terrível tempestade de inverno. Uma estrela brilhante me levou a uma caverna. Quando saí do outro lado, estava aqui em Aeternum.</string>
 	<string key="0424_0106_a_Title" speaker="UI" rel_version="Event_WinterConvergence_Temp">Abundância de Iétis</string>
-	<string key="0424_0106_b_Description" speaker="UI" rel_version="Event_WinterConvergence_Temp"> Derrote Rames em Queda Eterna, Hari em Falésias do Monarca e Sunit em Primeira Luz.</string>
+	<string key="0424_0106_b_Description" speaker="UI" rel_version="Event_WinterConvergence_Temp">Derrote os iétis ferais de Nível 25 que estão espalhando magia gélida pela ilha. Derrote Rames em Queda Eterna, Hari em Falésias do Monarca e Sunit em Primeira Luz.</string>
 	<string key="0424_0106_c_start_prompt" speaker="UI - Player Prompt" rel_version="Event_WinterConvergence_Temp">“Posso cuidar dessa parte.”</string>
 	<string key="0424_0106_c_Proposal" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0106_c_Proposal" VO_Status="Needs Recording" dialogue-next="@0424_0106_c_Proposal_next" rel_version="Event_WinterConvergence_Temp">Ótimo! Para proteger toda a vida em Aeternum do Inverno Eterno, os iétis devem ser derrotados. \n\nOs viajantes me deram a localização de três dos monstros.</string>
 	<string key="0424_0106_c_Proposal_prompt" speaker="UI - Player Prompt" rel_version="Event_WinterConvergence_Temp">“Você não os considera seu povo?”</string>
@@ -585,13 +585,13 @@
 	<string key="0424_0108_c_Proposal_prompt" speaker="UI - Player Prompt" rel_version="Event_WinterConvergence_Temp">“Vou deter esse tal Guerreiro Invernal.”</string>
 	<string key="0424_0108_c_Proposal_next" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0108_c_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@0424_0108_c_Proposal_prompt" rel_version="Event_WinterConvergence_Temp">O Espírito da Convergência trouxe você até mim. Tenho certeza disso. \n\nOs chefes do Guerreiro carregam fragmentos de runas que o levarão ao Guerreiro Invernal. Derrote Isvari e Sesa para obter suas pedras rúnicas. Depois de ter ambas, o caminho para o Guerreiro aparecerá.</string>
 	<string key="0424_0108_e_Incomplete" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0108_e_Incomplete" VO_Status="Needs Recording" rel_version="Event_WinterConvergence_Temp">Isvari em Bosque do Éden e Sesa em Crosta de Ébano têm pedras rúnicas que levarão você ao Guerreiro Invernal. Ofereça as pedras na caverna do Guerreiro para invocá-lo. \n\nO destino do inverno de Aeternum está em suas mãos agora, camarada de Mirgos.</string>
-	<string key="0424_0108_f_Complete" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0108_f_Complete" VO_Status="Needs Recording" rel_version="Event_WinterConvergence_Temp">Eu senti a derrota do Guerreiro Invernal no momento em que você o derrubou!   </string>
+	<string key="0424_0108_f_Complete" speaker="Winter Wanderer" name="WinterWanderer" VO="0424_0108_f_Complete" VO_Status="Needs Recording" rel_version="Event_WinterConvergence_Temp">Eu senti a derrota do Guerreiro Invernal no momento em que você o derrubou! Agora Aeternum está segura!\n\nMas ainda há mais alegria a ser compartilhada. No próximo ano, voltarei para ver seu progresso. Por enquanto, continue fazendo atividades na Vila Invernal e nos assentamentos para espalhar o Espírito da Convergência!</string>
 	<string key="0424_0101_d_01_OpenConvergenceBox" speaker="UI" rel_version="Event_WinterConvergence_Temp">Visite a Cabana Festiva da Convergência</string>
-	<string key="0424_0102_d_01_OpenTree" speaker="UI" rel_version="Event_WinterConvergence_Temp"/>
-	<string key="0424_0102_d_02_OpenPresent" speaker="UI" rel_version="Event_WinterConvergence_Temp"/>
+	<string key="0424_0102_d_01_OpenTree" speaker="UI" rel_version="Event_WinterConvergence_Temp">(Opcional) Colete a recompensa diária da Árvore da Luz em qualquer assentamento</string>
+	<string key="0424_0102_d_02_OpenPresent" speaker="UI" rel_version="Event_WinterConvergence_Temp">Colete a recompensa diária do Saco de Presentes na Vila Invernal</string>
 	<string key="0424_0103_d_01_OpenTownProject" speaker="UI" rel_version="Event_WinterConvergence_Temp">Abra o quadro de Projetos da Vila em qualquer assentamento</string>
-	<string key="0424_0104_d_01_HaveGleamite" speaker="UI" rel_version="Event_WinterConvergence_Temp"/>
-	<string key="0424_0105_d_01_HavePresent" speaker="UI" rel_version="Event_WinterConvergence_Temp"/>
+	<string key="0424_0104_d_01_HaveGleamite" speaker="UI" rel_version="Event_WinterConvergence_Temp">Colete uma Brilhita que caiu em uma Chuva de Brilhita à noite ou investigue o local mencionado pelo Andarilho Invernal.</string>
+	<string key="0424_0105_d_01_HavePresent" speaker="UI" rel_version="Event_WinterConvergence_Temp">Colete um Presente Perdido em torno de Aeternum ou investigue o local mencionado pelo Andarilho Invernal.</string>
 	<string key="0424_0106_d_01_KillRames" speaker="UI" rel_version="Event_WinterConvergence_Temp">Derrote {targetName} em {POITags}</string>
 	<string key="0424_0106_d_02_KillHari" speaker="UI" rel_version="Event_WinterConvergence_Temp">Derrote {targetName} em {POITags}</string>
 	<string key="0424_0106_d_03_KillSunit" speaker="UI" rel_version="Event_WinterConvergence_Temp">Derrote {targetName} em {POITags}</string>
@@ -606,7 +606,7 @@
 	<string key="0424_0108_YetiRune" speaker="UI" rel_version="Event_WinterConvergence_Temp">Colocar Runa</string>
 	<string key="0424_0108_YetiRuneTitle" speaker="UI" rel_version="Event_WinterConvergence_Temp">Guerreiro Invernal</string>
 	<string key="0424_0108_YetiRuneDescritpion" speaker="UI" rel_version="Event_WinterConvergence_Temp">Coloque as metades de pedra rúnica no altar para invocar o Guerreiro Invernal</string>
-	<string key="0424_GleamiteIO" speaker="UI" rel_version="Event_WinterConvergence_Temp"/>
+	<string key="0424_GleamiteIO" speaker="UI" rel_version="Event_WinterConvergence_Temp">Lasca de Brilhita</string>
 	<string key="0424_LostPresentIO" speaker="UI" rel_version="Event_WinterConvergence_Temp">Presente Perdido</string>
 </resources>
 

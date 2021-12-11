@@ -26500,7 +26500,7 @@
 	<string key="Skin_Musket_Vinespun_Description" rel_version="New_World_Launch">"Erzeugt bei allen, die getroffen werden, ein Gefühl von Verderben."</string>
 	<string key="Skin_Musket_Vinespun_MasterName" rel_version="New_World_Launch">Düsterschuss</string>
 	<string key="skin_rapier_holiday_dec21_description" rel_version="Weapon_Rapier_Winter_MTX">Dem Träger dieses Schwerts gehen schöne Weihnachtslieder durch den Kopf, die er oft zum Tanz der Schlacht mitsingt. So singet! So singet!</string>
-	<string key="skin_rapier_holiday_dec21_mastername" rel_version="Weapon_Rapier_Winter_MTX">Toast-Klinge</string>
+	<string key="skin_rapier_holiday_dec21_mastername" rel_version="Weapon_Rapier_Winter_MTX">Gesang-Klinge</string>
 	<string key="Skin_Rapier_Vinespun_Description" rel_version="New_World_Launch">"Ein blumiger Freund all derer, die ein geschmeidiges Handgelenk besitzen."</string>
 	<string key="Skin_Rapier_Vinespun_MasterName" rel_version="New_World_Launch">Blumenschwung</string>
 	<string key="skin_royalcourt_azothscepter_description" rel_version="Tool_AzothStaff_RoyalCourt">Ein echter Abenteurer geht zum verderbten Portal einfach hin, schlägt mit dem Zepter auf den Boden, und befiehlt ihm, zu verschwinden.</string>
@@ -27395,7 +27395,7 @@
 	<string key="WingTalonLostT1_Description">Die Kralle vom verrotteten Flügel eines Verlorenen.</string>
 	<string key="WingTalonLostT1_MasterName">Schleimige Flügelkralle</string>
 	<string key="WinterConv_DepositBox_Description" rel_version="Event_WinterConvergence_Temp">Stelle hier Wintermarken her!</string>
-	<string key="WinterConv_DepositBox_MasterName" rel_version="Event_WinterConvergence_Temp">Feiertagshut</string>
+	<string key="WinterConv_DepositBox_MasterName" rel_version="Event_WinterConvergence_Temp">Feiertagshütte</string>
 	<string key="WitheredBoughT1_Description">Ein Griff aus hutzeligem Holz. Man nahm eigentlich an, dass dieses Material schon seit langer Zeit verschwunden sei. Er eignet sich perfekt für einen sagenumwobenen Speer.</string>
 	<string key="WitheredBoughT1_MasterName">Verwitterter Zweig</string>
 	<string key="WitheredEssenceT1_Description">Herstellungsmaterial mit Einstimmung auf den Effekt "Ausweichend".</string>

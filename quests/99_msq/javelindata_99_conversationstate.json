@@ -850,9 +850,10 @@
         "ConversationStateId": "9914_01_MSQ_Hunter",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
-        "DefaultDialogue": "@9914_00_MSQ_Hunter_DefaultDialog",
+        "DefaultDialogue": "@9904_0028_thenoseknows_complete_available_response",
         "RequiredLevel": 0,
-        "TopicId1": "99_MSQ_28_TopicA"
+        "RequiredAchievement": "99_MSQ_27b",
+        "LinearObjectiveId1": "9904_0028_thenoseknowsa_V2"
     },
     {
         "ConversationStateId": "9914_02_MSQ_Hunter",
@@ -860,7 +861,7 @@
         "IsInitialState": false,
         "DefaultDialogue": "@9914_01_MSQ_Hunter_DefaultDialog",
         "RequiredLevel": 0,
-        "RequiredAchievement": "99_MSQ_28"
+        "RequiredAchievement": "99_MSQ_27c"
     },
     {
         "ConversationStateId": "9915_00_MSQ_Researcher1",

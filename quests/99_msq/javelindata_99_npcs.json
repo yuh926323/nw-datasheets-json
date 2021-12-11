@@ -219,7 +219,8 @@
         "Title": "@9914_MSQ_Hunter_title",
         "GenericName": "@9914_MSQ_Hunter",
         "ConversationStateId1": "9914_00_MSQ_Hunter",
-        "ConversationStateId2": "9914_01_MSQ_Hunter"
+        "ConversationStateId2": "9914_01_MSQ_Hunter",
+        "ConversationStateId3": "9914_02_MSQ_Hunter"
     },
     {
         "NPCId": "9915_MSQ_Researcher1",

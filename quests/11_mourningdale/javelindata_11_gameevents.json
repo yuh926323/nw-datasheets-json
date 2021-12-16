@@ -194,7 +194,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1126_0101_StoneColdSecrets_Success",
@@ -205,7 +205,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1126_0102_TheLastMystery_Success",
@@ -216,7 +216,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1126_0103_AmateurAdventurer_Success",
@@ -227,7 +227,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1125_0101_SongoftheSea_Success",
@@ -238,7 +238,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1128_0101_VillageChampion_Success",
@@ -249,7 +249,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_0101_MalignDominion_Success",
@@ -260,7 +260,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_0102_MakinBacon_Success",
@@ -271,7 +271,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_0102_SoulMusic_Success",
@@ -282,7 +282,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_0102_NewPerspective_Success",
@@ -293,7 +293,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_0102_CliffHanger_Success",
@@ -304,7 +304,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1126_0102_Atoast_Success",
@@ -315,7 +315,7 @@
         "TerritoryStanding": 175,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1127_MalignNodeA_interact",
@@ -403,7 +403,7 @@
         "TerritoryStanding": 0,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1110_0101_GreetTheNewcomers2_Success",
@@ -414,7 +414,7 @@
         "TerritoryStanding": 0,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1129_0102_jaanseninthenorth_success",
@@ -425,7 +425,7 @@
         "TerritoryStanding": 0,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1124_PierreGoHome_success",
@@ -436,7 +436,7 @@
         "TerritoryStanding": 0,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1130_01_EdgeofTheWorld_Success",
@@ -447,7 +447,7 @@
         "TerritoryStanding": 0,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1130_02_CallBeyondTheVoid_Success",
@@ -458,7 +458,7 @@
         "TerritoryStanding": 0,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1130_03_StirsTheWatchful_success",
@@ -469,7 +469,7 @@
         "TerritoryStanding": 0,
         "EmitTelemetry": true,
         "AzothReward": 10,
-        "AzothRewardChance": 0
+        "AzothRewardChance": 1
     },
     {
         "EventID": "1130_04_TheBridge_success",
@@ -480,6 +480,182 @@
         "TerritoryStanding": 0,
         "EmitTelemetry": true,
         "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1130_CursedAxe_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1130_05_SensounoKo_success",
+        "Level": 50,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 2310,
+        "CurrencyReward": 10000,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1130_ArcaneFocus1_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1130_ArcaneFocus2_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1130_ArcaneFocus3_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1130_ArcaneFocus4_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1133_01_SnakeOil_Success",
+        "Level": 45,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 2110,
+        "CurrencyReward": 9375,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_01_ClaimJumper_Success",
+        "Level": 45,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_02_DiamondbackHustler_Success",
+        "Level": 45,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 2110,
+        "CurrencyReward": 9375,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_03_GrampasGun_Success",
+        "Level": 50,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 10,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_04_RoomEnough_Success",
+        "Level": 55,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 2370,
+        "CurrencyReward": 10625,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 15,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1131_01_BigThunder_Success",
+        "Level": 55,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 2370,
+        "CurrencyReward": 10625,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 15,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_05_Shootout_Success",
+        "Level": 60,
+        "CreatureType": "Quest",
+        "UniversalExpAmount": 3000,
+        "CurrencyReward": 11250,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 15,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1132_GrampasGun_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1132_Digby_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "1132_Shootout_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
         "AzothRewardChance": 0
     }
 ]

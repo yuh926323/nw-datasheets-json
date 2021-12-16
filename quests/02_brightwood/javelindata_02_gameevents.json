@@ -893,6 +893,78 @@
         "AzothRewardChance": 0
     },
     {
+        "EventID": "9801_PKTraceAbsorberA_01_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "FactionTokens": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "9801_PKTraceAbsorberA_02_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "FactionTokens": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "9801_PKTraceAbsorberA_03_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "FactionTokens": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "9801_PKTraceAbsorberA_04_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "FactionTokens": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "9801_PKTraceAbsorberA_05_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "FactionTokens": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
+        "EventID": "9801_PKTraceAbsorberA_06_interact",
+        "Level": 0,
+        "CreatureType": "Quest-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "TerritoryStanding": 0,
+        "FactionTokens": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
         "EventID": "9801_PKTraceAbsorberB_interact",
         "Level": 0,
         "CreatureType": "Quest-",

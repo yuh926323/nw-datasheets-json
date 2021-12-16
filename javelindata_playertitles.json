@@ -691,7 +691,7 @@
         "TitleNeutral": "@ui_playertitle_skill_leatherworking4_THEY",
         "Description": "@ui_playertitle_skills_description",
         "CategoricalProgressionId": "Leatherworking",
-        "RequiredCategoricalProgressionLevel": 100,
+        "RequiredCategoricalProgressionLevel": 140,
         "RequiredPlayerLevel": 0
     },
     {

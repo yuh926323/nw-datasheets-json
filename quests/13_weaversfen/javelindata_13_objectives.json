@@ -291,7 +291,7 @@
         "InProgressResponse": "@1302_1312_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1302_1312_f_Complete",
-        "ReleaseEventTags": "HFR"
+        "ORMReleaseEventTags": "HFR"
     },
     {
         "ObjectiveID": "1330_0201_startingthefire",
@@ -722,7 +722,7 @@
     },
     {
         "ObjectiveID": "1303_1311_Protective_Wyrd_Gear",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 55,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -746,7 +746,7 @@
     },
     {
         "ObjectiveID": "1303_1311_01_Shoes",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -768,7 +768,7 @@
     },
     {
         "ObjectiveID": "1303_1311_02_Shirt",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -790,7 +790,7 @@
     },
     {
         "ObjectiveID": "1303_1311_03_Pants",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -812,7 +812,7 @@
     },
     {
         "ObjectiveID": "1303_1311_04_Gloves",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -834,7 +834,7 @@
     },
     {
         "ObjectiveID": "1303_1311_05_Hat",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -856,7 +856,7 @@
     },
     {
         "ObjectiveID": "1310_1314_L40Bow_Huntress",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -880,7 +880,7 @@
     },
     {
         "ObjectiveID": "1310_1314_AncientWood_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -897,7 +897,7 @@
     },
     {
         "ObjectiveID": "1310_1314_WyrdwoodResin_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -914,7 +914,7 @@
     },
     {
         "ObjectiveID": "1310_1314_HawkFeathers_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -931,7 +931,7 @@
     },
     {
         "ObjectiveID": "1310_1314_LuckyRabbitsFoot_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -948,7 +948,7 @@
     },
     {
         "ObjectiveID": "1305_1315_L40FStaff_FalmeasWrath",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -972,7 +972,7 @@
     },
     {
         "ObjectiveID": "1305_1315_SingedBranches_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -989,7 +989,7 @@
     },
     {
         "ObjectiveID": "1305_1315_WyrdwoodAshes_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1006,7 +1006,7 @@
     },
     {
         "ObjectiveID": "1305_1315_UnhallowedWater_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1023,7 +1023,7 @@
     },
     {
         "ObjectiveID": "1305_1315_HeartofAllFlame_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,

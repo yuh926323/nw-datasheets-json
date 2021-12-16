@@ -2626,5 +2626,17 @@
         "isEntitlement": false,
         "isEnabled": true,
         "Faction": "Any"
+    },
+    {
+        "Index": 257,
+        "OldIndex": 211,
+        "isForeground": true,
+        "DisplayName": "@ui_crestforeground_212",
+        "EntitlementId": "icon_crest_212",
+        "Image": "lyshineui/images/crests/foregrounds/icon_crest_212_Twitch_EpicStory.dds",
+        "isEntitlement": true,
+        "isEnabled": true,
+        "Faction": "Any",
+        "Intent": "Twitch"
     }
 ]

@@ -333,12 +333,30 @@
         "SourceType": "Store"
     },
     {
+        "UniqueTagID": "smolderingscarlet_dye",
+        "EntitlementIndex": 130,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA033",
+        "SourceType": "Store"
+    },
+    {
         "UniqueTagID": "blood_dye",
         "EntitlementIndex": 131,
         "IsEnabled": true,
         "IsConsumable": true,
         "RewardType": "ItemDye",
         "Reward(s)": "DyeA034",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "rouge_dye",
+        "EntitlementIndex": 132,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA035",
         "SourceType": "Store"
     },
     {
@@ -387,6 +405,24 @@
         "SourceType": "Store"
     },
     {
+        "UniqueTagID": "greengrass_dye",
+        "EntitlementIndex": 141,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA044",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "angelicsatin_dye",
+        "EntitlementIndex": 143,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA046",
+        "SourceType": "Store"
+    },
+    {
         "UniqueTagID": "tradewind_dye",
         "EntitlementIndex": 144,
         "IsEnabled": true,
@@ -414,6 +450,15 @@
         "SourceType": "Store"
     },
     {
+        "UniqueTagID": "fiercecobalt_dye",
+        "EntitlementIndex": 148,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA051",
+        "SourceType": "Store"
+    },
+    {
         "UniqueTagID": "springgrape_dye",
         "EntitlementIndex": 149,
         "IsEnabled": true,
@@ -429,6 +474,15 @@
         "IsConsumable": true,
         "RewardType": "ItemDye",
         "Reward(s)": "DyeA055",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "crushedberry_dye",
+        "EntitlementIndex": 153,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA056",
         "SourceType": "Store"
     },
     {
@@ -600,24 +654,6 @@
         "IsConsumable": false,
         "RewardType": "GuildCrest",
         "Reward(s)": "icon_crest_55",
-        "SourceType": "Store"
-    },
-    {
-        "UniqueTagID": "icon_crest_171",
-        "EntitlementIndex": 173,
-        "IsEnabled": true,
-        "IsConsumable": false,
-        "RewardType": "GuildCrest",
-        "Reward(s)": "icon_crest_171",
-        "SourceType": "Store"
-    },
-    {
-        "UniqueTagID": "icon_crest_172",
-        "EntitlementIndex": 174,
-        "IsEnabled": true,
-        "IsConsumable": false,
-        "RewardType": "GuildCrest",
-        "Reward(s)": "icon_crest_172",
         "SourceType": "Store"
     },
     {
@@ -1707,6 +1743,15 @@
         "SourceType": "Twitch"
     },
     {
+        "UniqueTagID": "EntitlementSkin_SorcererHunterVar2",
+        "EntitlementIndex": 289,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_SorcererHunterVar2+Skin_Feet_SorcererHunterVar2+Skin_Hands_SorcererHunterVar2+Skin_Head_SorcererHunterVar2+Skin_Legs_SorcererHunterVar2",
+        "SourceType": "Twitch"
+    },
+    {
         "UniqueTagID": "EntitlementSkin_TwitchFisherman",
         "EntitlementIndex": 290,
         "IsEnabled": true,
@@ -2069,6 +2114,15 @@
         "IsConsumable": false,
         "RewardType": "Entitlement",
         "Reward(s)": "EntitlementSkin_ClothT5Var2",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "Ent_SorcererHunterVar2",
+        "EntitlementIndex": 327,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_SorcererHunterVar2",
         "SourceType": "Twitch"
     },
     {
@@ -2529,6 +2583,24 @@
         "SourceType": "Store"
     },
     {
+        "UniqueTagID": "Ent_Emote_Shhh",
+        "EntitlementIndex": 379,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_Shhh",
+        "SourceType": "Prime"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_Bow",
+        "EntitlementIndex": 380,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_Bow",
+        "SourceType": "Prime"
+    },
+    {
         "UniqueTagID": "Ent_Emote_Whistle",
         "EntitlementIndex": 381,
         "IsEnabled": true,
@@ -2616,15 +2688,6 @@
         "IsConsumable": false,
         "RewardType": "GuildCrest",
         "Reward(s)": "icon_crest_098_Twitch",
-        "SourceType": "Prime"
-    },
-    {
-        "UniqueTagID": "Ent_Venetian_Crest_Pack",
-        "EntitlementIndex": 392,
-        "IsEnabled": true,
-        "IsConsumable": false,
-        "RewardType": "Entitlement",
-        "Reward(s)": "icon_crest_096_Twitch+icon_crest_097_Twitch+icon_crest_098_Twitch",
         "SourceType": "Prime"
     },
     {
@@ -2844,6 +2907,231 @@
         "SourceType": "Store"
     },
     {
+        "UniqueTagID": "EntitlementSkin_WinterOutfit01",
+        "EntitlementIndex": 421,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_WinterOutfit01+Skin_Head_WinterOutfit01+Skin_Legs_WinterOutfit01+Skin_Feet_WinterOutfit01+Skin_Hands_WinterOutfit01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_WinterOutfit02",
+        "EntitlementIndex": 422,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_WinterOutfit02+Skin_Head_WinterOutfit02+Skin_Legs_WinterOutfit02+Skin_Feet_WinterOutfit02+Skin_Hands_WinterOutfit02",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_WinterOutfit03",
+        "EntitlementIndex": 423,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_WinterOutfit03+Skin_Head_WinterOutfit03+Skin_Legs_WinterOutfit03+Skin_Feet_WinterOutfit03+Skin_Hands_WinterOutfit03",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Rapier_Dec21",
+        "EntitlementIndex": 424,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Rapier_Holiday_Dec21",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Spear_Dec21",
+        "EntitlementIndex": 425,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Spear_Holiday_Dec21",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Bow_Dec21",
+        "EntitlementIndex": 426,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Bow_Holiday_Dec21",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Hatchet_Dec21",
+        "EntitlementIndex": 427,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Hatchet_Holiday_Dec21",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_IceGauntlet_Dec21",
+        "EntitlementIndex": 428,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_IceGaunt_Holiday_Dec21",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_LIfestaff_Dec21",
+        "EntitlementIndex": 429,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Lifestaff_Holiday_Dec21",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_SkinningKnife_LegendaryTech",
+        "EntitlementIndex": 430,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LegendaryTech_SkinningKnife",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Sickle_LegendaryTech",
+        "EntitlementIndex": 431,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LegendaryTech_Sickle",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Pickaxe_LegendaryTech",
+        "EntitlementIndex": 432,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LegendaryTech_Pickaxe",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_LoggingAxe_LegendaryTech",
+        "EntitlementIndex": 433,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LegendaryTech_LoggingAxe",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_FishingPole_LegendaryTech",
+        "EntitlementIndex": 434,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LegendaryTech_FishingPole",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_AzothStaff_LegendaryTech",
+        "EntitlementIndex": 435,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LegendaryTech_AzothScepter",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Tool_Bundle_LegendaryTech",
+        "EntitlementIndex": 436,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_AzothStaff_LegendaryTech+EntitlementSkin_FishingPole_LegendaryTech+EntitlementSkin_LoggingAxe_LegendaryTech+EntitlementSkin_Pickaxe_LegendaryTech+EntitlementSkin_Sickle_LegendaryTech+EntitlementSkin_SkinningKnife_LegendaryTech",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_SkinningKnife_Winter21",
+        "EntitlementIndex": 437,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_WinterConvergence_SkinningKnife",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Sickle_Winter21",
+        "EntitlementIndex": 438,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_WinterConvergence_Sickle",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Pickaxe_Winter21",
+        "EntitlementIndex": 439,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_WinterConvergence_Pickaxe",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_LoggingAxe_Winter21",
+        "EntitlementIndex": 440,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_WinterConvergence_LoggingAxe",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_FishingPole_Winter21",
+        "EntitlementIndex": 441,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_WinterConvergence_FishingPole",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_AzothStaff_Winter21",
+        "EntitlementIndex": 442,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_WinterConvergence_AzothScepter",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Tool_Bundle_Winter21",
+        "EntitlementIndex": 443,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_AzothStaff_Winter21+EntitlementSkin_FishingPole_Winter21+EntitlementSkin_LoggingAxe_Winter21+EntitlementSkin_Pickaxe_Winter21+EntitlementSkin_Sickle_Winter21+EntitlementSkin_SkinningKnife_Winter21",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Abyssal",
+        "EntitlementIndex": 444,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Abyssal+Skin_Head_Abyssal+Skin_Legs_Abyssal+Skin_Feet_Abyssal+Skin_Hands_Abyssal",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Vogue",
+        "EntitlementIndex": 446,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Vogue+Skin_Head_Vogue+Skin_Legs_Vogue+Skin_Feet_Vogue+Skin_Hands_Vogue",
+        "SourceType": "Store"
+    },
+    {
         "UniqueTagID": "EntitlementSkin_AutumnKing",
         "EntitlementIndex": 447,
         "IsEnabled": true,
@@ -2878,6 +3166,177 @@
         "SourceType": "Store"
     },
     {
+        "UniqueTagID": "Entitlement_CampSkin_Winter02_A",
+        "EntitlementIndex": 451,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "CampSkin",
+        "Reward(s)": "CampSkin_Winter02_A",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_LegKickDance",
+        "EntitlementIndex": 452,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_RussianDance",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_Shiver",
+        "EntitlementIndex": 453,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_Shiver",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Entitlement_CampSkin_Winter03_A",
+        "EntitlementIndex": 454,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "CampSkin",
+        "Reward(s)": "CampSkin_Winter03_A",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_BellyLaugh",
+        "EntitlementIndex": 455,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_BellyLaugh",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_GivePresent",
+        "EntitlementIndex": 456,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_GivePresent",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Winter21_Chandelier",
+        "EntitlementIndex": 457,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Lighting_Winter2021_Chandelier",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Winter21_Garland",
+        "EntitlementIndex": 458,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Winter2021_Garland",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Winter21_GingerbreadHouse",
+        "EntitlementIndex": 459,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Winter2021_GingerbreadHouse",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Winter21_HolidayTree",
+        "EntitlementIndex": 460,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Winter2021_HolidayTree",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Winter21_Mistletoe",
+        "EntitlementIndex": 461,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Winter2021_Mistletoe",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Winter21_PackagePile",
+        "EntitlementIndex": 462,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Winter2021_PackagePile_A",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Winter21_Poinsettia",
+        "EntitlementIndex": 463,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Winter2021_Poinsettia",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Winter21_Snowman",
+        "EntitlementIndex": 464,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Winter2021_Snowman",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Winter21_Wreath",
+        "EntitlementIndex": 465,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Winter2021_Wreath_A",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Winter21_Bundle",
+        "EntitlementIndex": 466,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "Ent_Housing_Winter21_Chandelier+Ent_Housing_Winter21_Garland+Ent_Housing_Winter21_GingerbreadHouse+Ent_Housing_Winter21_HolidayTree+Ent_Housing_Winter21_PackagePile+Ent_Housing_Winter21_Snowman",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Pet_RednoseDeer",
+        "EntitlementIndex": 467,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Pet_Entitlement_Deer_RedNose",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Chest_WinterWanderer",
+        "EntitlementIndex": 472,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_WC_Cloak",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Venetian_Crest_Pack",
+        "EntitlementIndex": 491,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "icon_crest_096_Twitch+icon_crest_097_Twitch+icon_crest_098_Twitch",
+        "SourceType": "Prime"
+    },
+    {
         "UniqueTagID": "PenaltyTest_PenaltyEconomyLocked",
         "EntitlementIndex": 495,
         "IsEnabled": true,
@@ -2894,5 +3353,176 @@
         "RewardType": "PlayerTitle",
         "Reward(s)": "PlayerTitle_TurkeyTerror",
         "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_WinterOutfit02_Chest",
+        "EntitlementIndex": 531,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_WinterOutfit02",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_WinterOutfit02_Head",
+        "EntitlementIndex": 532,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Head_WinterOutfit02",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_WinterOutfit02_Legs",
+        "EntitlementIndex": 533,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Legs_WinterOutfit02",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_WinterOutfit02_Feet",
+        "EntitlementIndex": 534,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Feet_WinterOutfit02",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_WinterOutfit02_Hands",
+        "EntitlementIndex": 535,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Hands_WinterOutfit02",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_EpicStory_GreenRobe",
+        "EntitlementIndex": 538,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_WoT_GreenNynaeve",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_EpicStory_RedScarf",
+        "EntitlementIndex": 539,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_WoT_RedScarf",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_EpicStory_WhiteRobe",
+        "EntitlementIndex": 540,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_WoT_WhiteRobe",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_EpicStory_BrownCloak",
+        "EntitlementIndex": 541,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_WoT_BrownCloak",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_EpicStory_Rapier",
+        "EntitlementIndex": 542,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Rapier_WoT",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_EpicStory_Sword",
+        "EntitlementIndex": 543,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Longsword_WoT",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "icon_crest_212",
+        "EntitlementIndex": 544,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "GuildCrest",
+        "Reward(s)": "icon_crest_212",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "Ent_EpicStory_GreenRobe",
+        "EntitlementIndex": 545,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_EpicStory_GreenRobe",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "Ent_EpicStory_RedScarf",
+        "EntitlementIndex": 546,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_EpicStory_RedScarf",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "Ent_EpicStory_WhiteRobe",
+        "EntitlementIndex": 547,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_EpicStory_WhiteRobe",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "Ent_EpicStory_BrownCloak",
+        "EntitlementIndex": 548,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_EpicStory_BrownCloak",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "Ent_EpicStory_Rapier",
+        "EntitlementIndex": 549,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_EpicStory_Rapier",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "Ent_EpicStory_Sword",
+        "EntitlementIndex": 550,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_EpicStory_Sword",
+        "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "Ent_EpicStory_Crest",
+        "EntitlementIndex": 551,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "icon_crest_212",
+        "SourceType": "Twitch"
     }
 ]

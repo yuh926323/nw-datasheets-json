@@ -9317,8 +9317,7 @@
         "Body": "@VarangianKnights_Body_03_01",
         "AchievementId": "Lore_unlock_VarangianKnights_Title_03_01",
         "ParentID": "VarangianKnights_Chapter_03",
-        "Order": 1,
-        "LoreNotesLocation": "A letter found in a chest in Sir Rulav's quarters"
+        "Order": 1
     },
     {
         "LoreID": "VarangianKnights_Title_03_02",
@@ -9328,8 +9327,7 @@
         "Body": "@VarangianKnights_Body_03_02",
         "AchievementId": "Lore_unlock_VarangianKnights_Title_03_02",
         "ParentID": "VarangianKnights_Chapter_03",
-        "Order": 2,
-        "LoreNotesLocation": "A scroll found on Sir Rulav's desk or on a table in his quarters."
+        "Order": 2
     },
     {
         "LoreID": "VarangianKnights_Title_03_03",
@@ -9339,8 +9337,7 @@
         "Body": "@VarangianKnights_Body_03_03",
         "AchievementId": "Lore_unlock_VarangianKnights_Title_03_03",
         "ParentID": "VarangianKnights_Chapter_03",
-        "Order": 3,
-        "LoreNotesLocation": "Written on a dirty scroll of paper near a collection of supplies."
+        "Order": 3
     },
     {
         "LoreID": "VarangianKnights_Chapter_04",
@@ -9357,8 +9354,7 @@
         "Body": "@VarangianKnights_Body_04_01",
         "AchievementId": "Lore_unlock_VarangianKnights_Title_04_01",
         "ParentID": "VarangianKnights_Chapter_04",
-        "Order": 1,
-        "LoreNotesLocation": "An unsent letter located in Sir Ulfar's quarters on a desk."
+        "Order": 1
     },
     {
         "LoreID": "VarangianKnights_Title_04_02",
@@ -9368,8 +9364,7 @@
         "Body": "@VarangianKnights_Body_04_02",
         "AchievementId": "Lore_unlock_VarangianKnights_Title_04_02",
         "ParentID": "VarangianKnights_Chapter_04",
-        "Order": 2,
-        "LoreNotesLocation": "A page of a journal found amidst the belongings of the Varangian Knights."
+        "Order": 2
     },
     {
         "LoreID": "VarangianKnights_Title_04_03",
@@ -9379,8 +9374,7 @@
         "Body": "@VarangianKnights_Body_04_03",
         "AchievementId": "Lore_unlock_VarangianKnights_Title_04_03",
         "ParentID": "VarangianKnights_Chapter_04",
-        "Order": 3,
-        "LoreNotesLocation": "A knight's personal diary found discarded among the knight's equipment."
+        "Order": 3
     },
     {
         "LoreID": "VarangianKnights_Chapter_05",
@@ -9397,8 +9391,7 @@
         "Body": "@VarangianKnights_Body_05_01",
         "AchievementId": "Lore_unlock_VarangianKnights_Title_05_01",
         "ParentID": "VarangianKnights_Chapter_05",
-        "Order": 1,
-        "LoreNotesLocation": "Written in a well-worn journal near one of the tents."
+        "Order": 1
     },
     {
         "LoreID": "VarangianKnights_Title_05_02",
@@ -9408,8 +9401,7 @@
         "Body": "@VarangianKnights_Body_05_02",
         "AchievementId": "Lore_unlock_VarangianKnights_Title_05_02",
         "ParentID": "VarangianKnights_Chapter_05",
-        "Order": 2,
-        "LoreNotesLocation": "A high quality journal located in a tent."
+        "Order": 2
     },
     {
         "LoreID": "VarangianKnights_Title_05_03",
@@ -9419,15 +9411,14 @@
         "Body": "@VarangianKnights_Body_05_03",
         "AchievementId": "Lore_unlock_VarangianKnights_Title_05_03",
         "ParentID": "VarangianKnights_Chapter_05",
-        "Order": 3,
-        "LoreNotesLocation": "An official-looking scroll marked by a wax seal of a Varangian Knight."
+        "Order": 3
     },
     {
         "LoreID": "Tales_of_Brimstone_Sands_Chapter_13",
         "Type": "Chapter",
         "Title": "@Tales_of_Brimstone_Sands_Chapter_13",
         "ParentID": "Topic_Tales_of_Brimstone_Sands",
-        "Order": 13
+        "Order": 16
     },
     {
         "LoreID": "Tales_of_Brimstone_Sands_Title_13_01",
@@ -9690,6 +9681,70 @@
         "Order": 26
     },
     {
+        "LoreID": "Topic_HouseofGiacomo",
+        "Type": "Topic",
+        "Title": "@Topic_HouseofGiacomo",
+        "Body": "@Topic_Description_HouseofGiacomo",
+        "Order": 42
+    },
+    {
+        "LoreID": "HouseofGiacomo_Chapter_01",
+        "Type": "Chapter",
+        "Title": "@HouseofGiacomo_Chapter_01",
+        "ParentID": "Topic_HouseofGiacomo",
+        "Order": 1
+    },
+    {
+        "LoreID": "HouseofGiacomo_Title_01_01",
+        "Type": "Default",
+        "Title": "@HouseofGiacomo_Title_01_01",
+        "Subtitle": "@HouseofGiacomo_Subtitle_01_01",
+        "Body": "@HouseofGiacomo_Body_01_01",
+        "AchievementId": "Lore_unlock_HouseofGiacomo_Title_01_01",
+        "ParentID": "HouseofGiacomo_Chapter_01",
+        "Order": 1
+    },
+    {
+        "LoreID": "HouseofGiacomo_Title_01_02",
+        "Type": "Default",
+        "Title": "@HouseofGiacomo_Title_01_02",
+        "Subtitle": "@HouseofGiacomo_Subtitle_01_02",
+        "Body": "@HouseofGiacomo_Body_01_02",
+        "AchievementId": "Lore_unlock_HouseofGiacomo_Title_01_02",
+        "ParentID": "HouseofGiacomo_Chapter_01",
+        "Order": 2
+    },
+    {
+        "LoreID": "HouseofGiacomo_Title_01_03",
+        "Type": "Default",
+        "Title": "@HouseofGiacomo_Title_01_03",
+        "Subtitle": "@HouseofGiacomo_Subtitle_01_03",
+        "Body": "@HouseofGiacomo_Body_01_03",
+        "AchievementId": "Lore_unlock_HouseofGiacomo_Title_01_03",
+        "ParentID": "HouseofGiacomo_Chapter_01",
+        "Order": 3
+    },
+    {
+        "LoreID": "HouseofGiacomo_Title_01_04",
+        "Type": "Default",
+        "Title": "@HouseofGiacomo_Title_01_04",
+        "Subtitle": "@HouseofGiacomo_Subtitle_01_04",
+        "Body": "@HouseofGiacomo_Body_01_04",
+        "AchievementId": "Lore_unlock_HouseofGiacomo_Title_01_04",
+        "ParentID": "HouseofGiacomo_Chapter_01",
+        "Order": 4
+    },
+    {
+        "LoreID": "HouseofGiacomo_Title_01_05",
+        "Type": "Default",
+        "Title": "@HouseofGiacomo_Title_01_05",
+        "Subtitle": "@HouseofGiacomo_Subtitle_01_05",
+        "Body": "@HouseofGiacomo_Body_01_05",
+        "AchievementId": "Lore_unlock_HouseofGiacomo_Title_01_05",
+        "ParentID": "HouseofGiacomo_Chapter_01",
+        "Order": 5
+    },
+    {
         "LoreID": "Topic_KubikirisBurden",
         "Type": "Topic",
         "Title": "@Topic_KubikirisBurden",
@@ -9742,5 +9797,226 @@
         "AchievementId": "Lore_unlock_KubikirisBurden_Title_01_04",
         "ParentID": "KubikirisBurden_Chapter_01",
         "Order": 4
+    },
+    {
+        "LoreID": "TalesofExpeditions_Chapter_06",
+        "Type": "Chapter",
+        "Title": "@TalesofExpeditions_Chapter_06",
+        "ParentID": "Topic_TalesofExpeditions",
+        "Order": 6
+    },
+    {
+        "LoreID": "Topic_WinterConvergence",
+        "Type": "Topic",
+        "Title": "@Topic_WinterConvergence",
+        "Body": "@Topic_Description_WinterConvergence",
+        "Order": 44
+    },
+    {
+        "LoreID": "WinterConvergence_Chapter_01",
+        "Type": "Chapter",
+        "Title": "@WinterConvergence_Chapter_01",
+        "ParentID": "Topic_WinterConvergence",
+        "Order": 1
+    },
+    {
+        "LoreID": "WinterConvergence_Title_01_01",
+        "Type": "Default",
+        "Title": "@WinterConvergence_Title_01_01",
+        "Subtitle": "@WinterConvergence_Subtitle_01_01",
+        "Body": "@WinterConvergence_Body_01_01",
+        "AchievementId": "Lore_unlock_WinterConvergence_Title_01_01",
+        "ParentID": "WinterConvergence_Chapter_01",
+        "Order": 1
+    },
+    {
+        "LoreID": "WinterConvergence_Title_01_02",
+        "Type": "Default",
+        "Title": "@WinterConvergence_Title_01_02",
+        "Subtitle": "@WinterConvergence_Subtitle_01_02",
+        "Body": "@WinterConvergence_Body_01_02",
+        "AchievementId": "Lore_unlock_WinterConvergence_Title_01_02",
+        "ParentID": "WinterConvergence_Chapter_01",
+        "Order": 2
+    },
+    {
+        "LoreID": "WinterConvergence_Title_01_03",
+        "Type": "Default",
+        "Title": "@WinterConvergence_Title_01_03",
+        "Subtitle": "@WinterConvergence_Subtitle_01_03",
+        "Body": "@WinterConvergence_Body_01_03",
+        "AchievementId": "Lore_unlock_WinterConvergence_Title_01_03",
+        "ParentID": "WinterConvergence_Chapter_01",
+        "Order": 3
+    },
+    {
+        "LoreID": "WinterConvergence_Title_01_04",
+        "Type": "Default",
+        "Title": "@WinterConvergence_Title_01_04",
+        "Subtitle": "@WinterConvergence_Subtitle_01_04",
+        "Body": "@WinterConvergence_Body_01_04",
+        "AchievementId": "Lore_unlock_WinterConvergence_Title_01_04",
+        "ParentID": "WinterConvergence_Chapter_01",
+        "Order": 4
+    },
+    {
+        "LoreID": "WinterConvergence_Title_01_05",
+        "Type": "Default",
+        "Title": "@WinterConvergence_Title_01_05",
+        "Subtitle": "@WinterConvergence_Subtitle_01_05",
+        "Body": "@WinterConvergence_Body_01_05",
+        "AchievementId": "Lore_unlock_WinterConvergence_Title_01_05",
+        "ParentID": "WinterConvergence_Chapter_01",
+        "Order": 5
+    },
+    {
+        "LoreID": "WinterConvergence_Title_01_06",
+        "Type": "Default",
+        "Title": "@WinterConvergence_Title_01_06",
+        "Subtitle": "@WinterConvergence_Subtitle_01_06",
+        "Body": "@WinterConvergence_Body_01_06",
+        "AchievementId": "Lore_unlock_WinterConvergence_Title_01_06",
+        "ParentID": "WinterConvergence_Chapter_01",
+        "Order": 6
+    },
+    {
+        "LoreID": "WinterConvergence_Chapter_02",
+        "Type": "Chapter",
+        "Title": "@WinterConvergence_Chapter_02",
+        "ParentID": "Topic_WinterConvergence",
+        "Order": 2
+    },
+    {
+        "LoreID": "WinterConvergence_Title_02_01",
+        "Type": "Default",
+        "Title": "@WinterConvergence_Title_02_01",
+        "Subtitle": "@WinterConvergence_Subtitle_02_01",
+        "Body": "@WinterConvergence_Body_02_01",
+        "AchievementId": "Lore_unlock_WinterConvergence_Title_02_01",
+        "ParentID": "WinterConvergence_Chapter_02",
+        "Order": 1
+    },
+    {
+        "LoreID": "WinterConvergence_Title_02_02",
+        "Type": "Default",
+        "Title": "@WinterConvergence_Title_02_02",
+        "Subtitle": "@WinterConvergence_Subtitle_02_02",
+        "Body": "@WinterConvergence_Body_02_02",
+        "AchievementId": "Lore_unlock_WinterConvergence_Title_02_02",
+        "ParentID": "WinterConvergence_Chapter_02",
+        "Order": 2
+    },
+    {
+        "LoreID": "WinterConvergence_Chapter_03",
+        "Type": "Chapter",
+        "Title": "@WinterConvergence_Chapter_03",
+        "ParentID": "Topic_WinterConvergence",
+        "Order": 3
+    },
+    {
+        "LoreID": "WinterConvergence_Title_03_01",
+        "Type": "Default",
+        "Title": "@WinterConvergence_Title_03_01",
+        "Subtitle": "@WinterConvergence_Subtitle_03_01",
+        "Body": "@WinterConvergence_Body_03_01",
+        "AchievementId": "Lore_unlock_WinterConvergence_Title_03_01",
+        "ParentID": "WinterConvergence_Chapter_03",
+        "Order": 1
+    },
+    {
+        "LoreID": "WinterConvergence_Title_03_02",
+        "Type": "Default",
+        "Title": "@WinterConvergence_Title_03_02",
+        "Subtitle": "@WinterConvergence_Subtitle_03_02",
+        "Body": "@WinterConvergence_Body_03_02",
+        "AchievementId": "Lore_unlock_WinterConvergence_Title_03_02",
+        "ParentID": "WinterConvergence_Chapter_03",
+        "Order": 2
+    },
+    {
+        "LoreID": "WinterConvergence_Title_03_03",
+        "Type": "Default",
+        "Title": "@WinterConvergence_Title_03_03",
+        "Subtitle": "@WinterConvergence_Subtitle_03_03",
+        "Body": "@WinterConvergence_Body_03_03",
+        "AchievementId": "Lore_unlock_WinterConvergence_Title_03_03",
+        "ParentID": "WinterConvergence_Chapter_03",
+        "Order": 3
+    },
+    {
+        "LoreID": "Tales_of_Brimstone_Sands_Chapter_14",
+        "Type": "Chapter",
+        "Title": "@Tales_of_Brimstone_Sands_Chapter_14",
+        "ParentID": "Topic_Tales_of_Brimstone_Sands",
+        "Order": 1
+    },
+    {
+        "LoreID": "Tales_of_Brimstone_Sands_Title_14_01",
+        "Type": "Default",
+        "Title": "@Tales_of_Brimstone_Sands_Title_14_01",
+        "Subtitle": "@Tales_of_Brimstone_Sands_Subtitle_14_01",
+        "Body": "@Tales_of_Brimstone_Sands_Body_14_01",
+        "AchievementId": "Lore_unlock_Tales_of_Brimstone_Sands_Title_14_01",
+        "ParentID": "Tales_of_Brimstone_Sands_Chapter_14",
+        "Order": 1,
+        "LoreNotesLocation": "A discarded letter found near where the Lost Malatesta is located"
+    },
+    {
+        "LoreID": "Tales_of_Brimstone_Sands_Chapter_15",
+        "Type": "Chapter",
+        "Title": "@Tales_of_Brimstone_Sands_Chapter_15",
+        "ParentID": "Topic_Tales_of_Brimstone_Sands",
+        "Order": 7
+    },
+    {
+        "LoreID": "Tales_of_Brimstone_Sands_Title_15_01",
+        "Type": "Default",
+        "Title": "@Tales_of_Brimstone_Sands_Title_15_01",
+        "Subtitle": "@Tales_of_Brimstone_Sands_Subtitle_15_01",
+        "Body": "@Tales_of_Brimstone_Sands_Body_15_01",
+        "AchievementId": "Lore_unlock_Tales_of_Brimstone_Sands_Title_15_01",
+        "ParentID": "Tales_of_Brimstone_Sands_Chapter_15",
+        "Order": 1,
+        "LoreNotesLocation": "Found in the wreckage along the Road to Atum, near where an old camp might have once stood."
+    },
+    {
+        "LoreID": "Tales_of_Brimstone_Sands_Title_15_02",
+        "Type": "Default",
+        "Title": "@Tales_of_Brimstone_Sands_Title_15_02",
+        "Subtitle": "@Tales_of_Brimstone_Sands_Subtitle_15_02",
+        "Body": "@Tales_of_Brimstone_Sands_Body_15_02",
+        "AchievementId": "Lore_unlock_Tales_of_Brimstone_Sands_Title_15_02",
+        "ParentID": "Tales_of_Brimstone_Sands_Chapter_15",
+        "Order": 2,
+        "LoreNotesLocation": "Found in the wreckage along the Road to Atum, near where an old camp might have once stood."
+    },
+    {
+        "LoreID": "Tales_of_Brimstone_Sands_Title_15_03",
+        "Type": "Default",
+        "Title": "@Tales_of_Brimstone_Sands_Title_15_03",
+        "Subtitle": "@Tales_of_Brimstone_Sands_Subtitle_15_03",
+        "Body": "@Tales_of_Brimstone_Sands_Body_15_03",
+        "AchievementId": "Lore_unlock_Tales_of_Brimstone_Sands_Title_15_03",
+        "ParentID": "Tales_of_Brimstone_Sands_Chapter_15",
+        "Order": 3,
+        "LoreNotesLocation": "Found in the wreckage along the Road to Atum, near where an old camp might have once stood."
+    },
+    {
+        "LoreID": "Tales_of_Brimstone_Sands_Chapter_16",
+        "Type": "Chapter",
+        "Title": "@Tales_of_Brimstone_Sands_Chapter_16",
+        "ParentID": "Topic_Tales_of_Brimstone_Sands",
+        "Order": 6
+    },
+    {
+        "LoreID": "Tales_of_Brimstone_Sands_Title_16_01",
+        "Type": "Default",
+        "Title": "@Tales_of_Brimstone_Sands_Title_16_01",
+        "Subtitle": "@Tales_of_Brimstone_Sands_Subtitle_16_01",
+        "Body": "@Tales_of_Brimstone_Sands_Body_16_01",
+        "AchievementId": "Lore_unlock_Tales_of_Brimstone_Sands_Title_16_01",
+        "ParentID": "Tales_of_Brimstone_Sands_Chapter_16",
+        "Order": 1,
+        "LoreNotesLocation": "A letter found in Drusillas personal quarters."
     }
 ]

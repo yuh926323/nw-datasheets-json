@@ -42,6 +42,17 @@
         "LinearObjectiveId1": "0204_0103_IsleofMadness"
     },
     {
+        "ConversationStateId": "0204_04a_Overseer",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@0204_04_Overseer_DefaultDialogue",
+        "RequiredProgression": "GreatAxeAbilityTable 9 0",
+        "RequiredLevel": 40,
+        "RequiredAchievement": "02_Quest_09",
+        "LinearObjectiveId1": "0204_0103_IsleofMadness",
+        "LinearObjectiveId2": "0204_0104_Executioner_lvl40_Weapon"
+    },
+    {
         "ConversationStateId": "0204_05_Overseer",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
@@ -65,7 +76,8 @@
         "IsInitialState": false,
         "DefaultDialogue": "@0204_07_Overseer_DefaultDialogue",
         "RequiredLevel": 0,
-        "RequiredAchievement": "WeaponQuest_Executioner_00"
+        "RequiredAchievement": "WeaponQuest_Executioner_00",
+        "LinearObjectiveId1": "0204_0103_IsleofMadness"
     },
     {
         "ConversationStateId": "0202_00_Magistrate",

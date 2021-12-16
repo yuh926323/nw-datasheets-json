@@ -678,7 +678,7 @@
     },
     {
         "ObjectiveID": "0205_0102_Battles_Embrace_Gear",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 55,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -687,7 +687,7 @@
         "NpcDestinationId": "0205_Artificer",
         "ExclusiveTerritory": 0,
         "AchievementId": "02_Quest_Armor_12",
-        "RequiredAchievementId": "02_Quest_10",
+        "RequiredAchievementId": "02_Quest_09",
         "RequiredLevel": 40,
         "SuccessGameEventId": "0205_0102_Battles_Embrace_Gear_Success",
         "ShouldResetOnFactionChange": false,
@@ -703,7 +703,7 @@
     },
     {
         "ObjectiveID": "0205_0102_01_Boots",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -726,7 +726,7 @@
     },
     {
         "ObjectiveID": "0205_0102_02_Breastplate",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -749,7 +749,7 @@
     },
     {
         "ObjectiveID": "0205_0102_03_Greaves",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -772,7 +772,7 @@
     },
     {
         "ObjectiveID": "0205_0102_04_Gauntlets",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -795,7 +795,7 @@
     },
     {
         "ObjectiveID": "0205_0102_05_Helm",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -818,7 +818,7 @@
     },
     {
         "ObjectiveID": "9804_M_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -839,7 +839,7 @@
     },
     {
         "ObjectiveID": "9806_M_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -860,7 +860,7 @@
     },
     {
         "ObjectiveID": "9809_M_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -881,7 +881,7 @@
     },
     {
         "ObjectiveID": "9812_M_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -902,7 +902,7 @@
     },
     {
         "ObjectiveID": "98_M_01_combatprowess",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -930,7 +930,7 @@
     },
     {
         "ObjectiveID": "98_M_0102_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 35,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -952,7 +952,7 @@
     },
     {
         "ObjectiveID": "98_M_01b_fenravager",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 35,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -980,7 +980,7 @@
     },
     {
         "ObjectiveID": "98_M_0203_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 49,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1001,7 +1001,7 @@
     },
     {
         "ObjectiveID": "98_M_02_ultimatewarrior",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 49,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1029,7 +1029,7 @@
     },
     {
         "ObjectiveID": "98_M_0304_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1050,7 +1050,7 @@
     },
     {
         "ObjectiveID": "98_M_03_darkvengeance",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1077,7 +1077,7 @@
     },
     {
         "ObjectiveID": "9804_S_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1098,7 +1098,7 @@
     },
     {
         "ObjectiveID": "9806_S_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1119,7 +1119,7 @@
     },
     {
         "ObjectiveID": "9809_S_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1140,7 +1140,7 @@
     },
     {
         "ObjectiveID": "9812_S_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1161,7 +1161,7 @@
     },
     {
         "ObjectiveID": "98_S_01_theexperiment",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1189,7 +1189,7 @@
     },
     {
         "ObjectiveID": "98_S_0102_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 35,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1211,7 +1211,7 @@
     },
     {
         "ObjectiveID": "98_S_01b_fenscholar",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 35,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1239,7 +1239,7 @@
     },
     {
         "ObjectiveID": "98_S_0203_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 49,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1260,7 +1260,7 @@
     },
     {
         "ObjectiveID": "98_S_02_necromanticchemistry",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 49,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1288,7 +1288,7 @@
     },
     {
         "ObjectiveID": "98_S_0304_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1309,7 +1309,7 @@
     },
     {
         "ObjectiveID": "98_S_03_lostnotlost",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1336,7 +1336,7 @@
     },
     {
         "ObjectiveID": "9804_C_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1357,7 +1357,7 @@
     },
     {
         "ObjectiveID": "9806_C_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1378,7 +1378,7 @@
     },
     {
         "ObjectiveID": "9809_C_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1399,7 +1399,7 @@
     },
     {
         "ObjectiveID": "9812_C_0001_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1420,7 +1420,7 @@
     },
     {
         "ObjectiveID": "98_C_01_theapostate",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 25,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1448,7 +1448,7 @@
     },
     {
         "ObjectiveID": "98_C_0102_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 35,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1470,7 +1470,7 @@
     },
     {
         "ObjectiveID": "98_C_01b_fenredemption",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 35,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1498,7 +1498,7 @@
     },
     {
         "ObjectiveID": "98_C_0203_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 49,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1519,7 +1519,7 @@
     },
     {
         "ObjectiveID": "98_C_02_soulsalvation",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 49,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1547,7 +1547,7 @@
     },
     {
         "ObjectiveID": "98_C_0304_RankUp",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1568,7 +1568,7 @@
     },
     {
         "ObjectiveID": "98_C_03_thepathtodarkness",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1595,7 +1595,7 @@
     },
     {
         "ObjectiveID": "0204_0104_Executioner_lvl40_Weapon",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1604,7 +1604,7 @@
         "NpcDestinationId": "0204_Overseer",
         "ExclusiveTerritory": 0,
         "AchievementId": "WeaponQuest_Executioner_00",
-        "RequiredAchievementId": "02_Quest_10",
+        "RequiredAchievementId": "02_Quest_09",
         "RequiredLevel": 40,
         "SuccessGameEventId": "0204_0104_Executioner_lvl40_Weapon_Success",
         "ShouldResetOnFactionChange": false,
@@ -1620,7 +1620,7 @@
     },
     {
         "ObjectiveID": "0204_0104_BucaneersPlank_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1638,7 +1638,7 @@
     },
     {
         "ObjectiveID": "0204_0104_HangmansBinding_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1656,7 +1656,7 @@
     },
     {
         "ObjectiveID": "0204_0104_BladeBrute_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1674,7 +1674,7 @@
     },
     {
         "ObjectiveID": "0204_0104_InfernalCoagulant_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1692,7 +1692,7 @@
     },
     {
         "ObjectiveID": "0203_0103_Hope_Manifest_lvl40_Weapon",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1701,7 +1701,7 @@
         "NpcDestinationId": "0203_Survivalist",
         "ExclusiveTerritory": 0,
         "AchievementId": "WeaponQuest_HopeManifest_00",
-        "RequiredAchievementId": "02_Quest_10",
+        "RequiredAchievementId": "02_Quest_09",
         "RequiredLevel": 40,
         "SuccessGameEventId": "0203_0103_Hope_Manifest_lvl40_Weapon_Success",
         "ShouldResetOnFactionChange": false,
@@ -1717,7 +1717,7 @@
     },
     {
         "ObjectiveID": "0203_0103_MendersCloth_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1735,7 +1735,7 @@
     },
     {
         "ObjectiveID": "0203_0103_SoothsayerSalve_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1753,7 +1753,7 @@
     },
     {
         "ObjectiveID": "0203_0103_MercysBreath_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1771,7 +1771,7 @@
     },
     {
         "ObjectiveID": "0203_0103_HopeCatalyst_Quest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 0,
         "FlagPvp": false,
         "CanBeShared": false,

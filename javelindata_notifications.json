@@ -89,20 +89,20 @@
         "NotificationId": "Damage_Ignored_Not_PvP_Flaged",
         "DisplayTitle": "@ui_not_pvp_flagged_title",
         "DisplayText": "@ui_not_pvp_flagged_warning",
-        "MaxDisplayCount": -1,
+        "MaxDisplayCount": 1,
         "NotificationType": "Social",
-        "TrackDisplayCount": 0,
-        "DurationOverride": 0,
+        "TrackDisplayCount": 1,
+        "DurationOverride": 5,
         "CooldownSeconds": 300
     },
     {
         "NotificationId": "Damage_Ignored_Sanctuary",
         "DisplayTitle": "@ui_sanctuary",
         "DisplayText": "@ui_sanctuary_damage_warning",
-        "MaxDisplayCount": -1,
+        "MaxDisplayCount": 1,
         "NotificationType": "Social",
-        "TrackDisplayCount": 0,
-        "DurationOverride": 0,
+        "TrackDisplayCount": 1,
+        "DurationOverride": 5,
         "CooldownSeconds": 20
     },
     {

@@ -13,8 +13,7 @@
         "DefaultDialogue": "@9901_01_MSQ_Yonas_DefaultDialog",
         "RequiredLevel": 0,
         "RequiredAchievement": "MSQ_00_Init",
-        "LinearObjectiveId1": "9901_0008_oldstoneremembers",
-        "LinearObjectiveId2": "9901_0008_oldstoneremembers_v2"
+        "LinearObjectiveId1": "9901_0008_oldstoneremembers_v2"
     },
     {
         "ConversationStateId": "9901_02_MSQ_Yonas",
@@ -42,8 +41,7 @@
         "DefaultDialogue": "@9901_04_MSQ_Yonas_DefaultDialog",
         "RequiredLevel": 0,
         "RequiredAchievement": "99_MSQ_10",
-        "LinearObjectiveId1": "9901_0011_afreshsoul",
-        "LinearObjectiveId2": "9901_0011_afreshsoul_V2"
+        "LinearObjectiveId1": "9901_0011_afreshsoul_V2"
     },
     {
         "ConversationStateId": "9901_05_MSQ_Yonas",
@@ -108,8 +106,18 @@
         "DefaultDialogue": "@9901_11_MSQ_Yonas_DefaultDialog",
         "RequiredLevel": 0,
         "RequiredAchievement": "99_MSQ_20",
-        "LinearObjectiveId1": "9901_0021_destinyunearthed",
+        "LinearObjectiveId1": "9901_0021_destinyunearthed_v2",
         "TopicId1": "9901_Yonas_BecomingSoulwarden"
+    },
+    {
+        "ConversationStateId": "9901_11_B_MSQ_Yonas_TaskTopic",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@9901_11_B_MSQ_Yonas_TaskTopic",
+        "RequiredLevel": 0,
+        "RequiredActiveObjectiveId": "9901_0021_destinyunearthed_v2",
+        "RequiredActiveTaskId": "9901_0021_d_01a_01_Task_TalktoYonas",
+        "TopicId1": "9901_0021_AmrineSkip"
     },
     {
         "ConversationStateId": "9901_12_MSQ_Yonas",
@@ -439,6 +447,15 @@
         "TopicId1": "9903_Emile_Origins1"
     },
     {
+        "ConversationStateId": "9903_14_MSQ_Emile",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@9903_14_MSQ_Emile_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "99_MSQ_57",
+        "RequiredActiveTaskId": "9910_0059_d_00_container_InMemoriam"
+    },
+    {
         "ConversationStateId": "9904_00_MSQ_Theophrastus",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
@@ -452,7 +469,7 @@
         "DefaultDialogue": "@9904_01_MSQ_Theophrastus_DefaultDialog",
         "RequiredLevel": 0,
         "RequiredAchievement": "99_MSQ_27",
-        "LinearObjectiveId1": "9904_0028_thenoseknows",
+        "LinearObjectiveId1": "9904_0028_thenoseknows_V2",
         "TopicId1": "9904_Theo_FactionRival"
     },
     {
@@ -463,7 +480,7 @@
         "RequiredFaction": "Syndicate",
         "RequiredLevel": 0,
         "RequiredAchievement": "99_MSQ_27",
-        "LinearObjectiveId1": "9904_0028_thenoseknows",
+        "LinearObjectiveId1": "9904_0028_thenoseknows_V2",
         "TopicId1": "9904_Theo_FactionSame"
     },
     {
@@ -521,6 +538,15 @@
         "IsInitialState": false,
         "DefaultDialogue": "@9904_09_MSQ_Theophrastus_DefaultDialog",
         "RequiredLevel": 0
+    },
+    {
+        "ConversationStateId": "9904e_10_MSQ_Theophrastus",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@9904_10_MSQ_Theophrastus_DefaultDialog",
+        "RequiredLevel": 0,
+        "RequiredAchievement": "99_MSQ_57",
+        "RequiredActiveTaskId": "9910_0059_d_00_container_InMemoriam"
     },
     {
         "ConversationStateId": "9905_00_MSQ_Rima",
@@ -824,9 +850,10 @@
         "ConversationStateId": "9914_01_MSQ_Hunter",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
-        "DefaultDialogue": "@9914_00_MSQ_Hunter_DefaultDialog",
+        "DefaultDialogue": "@9904_0028_thenoseknows_complete_available_response",
         "RequiredLevel": 0,
-        "TopicId1": "99_MSQ_28_TopicA"
+        "RequiredAchievement": "99_MSQ_27b",
+        "LinearObjectiveId1": "9904_0028_thenoseknowsa_V2"
     },
     {
         "ConversationStateId": "9914_02_MSQ_Hunter",
@@ -834,7 +861,7 @@
         "IsInitialState": false,
         "DefaultDialogue": "@9914_01_MSQ_Hunter_DefaultDialog",
         "RequiredLevel": 0,
-        "RequiredAchievement": "99_MSQ_28"
+        "RequiredAchievement": "99_MSQ_27c"
     },
     {
         "ConversationStateId": "9915_00_MSQ_Researcher1",
@@ -1012,5 +1039,19 @@
         "DefaultDialogue": "@9927_00_VK_ScoutsNote_DefaultDialog",
         "RequiredLevel": 16,
         "LinearObjectiveId1": "9927_0102_VisionsOfInvaders"
+    },
+    {
+        "ConversationStateId": "9928_MSQ_YonasMemorial_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@9928_MSQ_YonasMemorial_Default",
+        "RequiredLevel": 0
+    },
+    {
+        "ConversationStateId": "9928_01_YonasMemorial",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@9928_01_YonasMemorial",
+        "RequiredLevel": 0
     }
 ]

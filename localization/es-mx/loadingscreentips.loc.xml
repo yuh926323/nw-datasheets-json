@@ -88,7 +88,7 @@
 	<string key="tip_overworld_combat_voidGaunlet01-title">La manopla de vacío</string>
 	<string key="tip_overworld_combat_voidGaunlet01-content">Las numerosas potenciaciones y despotenciaciones de la manopla de vacío hacen que sea muy efectiva en combates grupales.</string>
 	<string key="tip_overworld_company_benefits01-title">Compañías</string>
-	<string key="tip_overworld_company_benefits01-content">Únete a una compañía, lucha junto a tus camaradas contra los seres corrompidos y asedia los territorios de las facciones enemigas.</string>
+	<string key="tip_overworld_company_benefits01-content">Únete a una compañía y lucha junto a tus camaradas contra los seres corrompidos. Además, asedia los territorios de las facciones enemigas.</string>
 	<string key="tip_overworld_company_benefits02-title">Compañías</string>
 	<string key="tip_overworld_company_benefits02-content">Solo las compañías pueden declarar la guerra y asediar territorios para conquistarlos. Cuando gobiernas un territorio, tu compañía gana dinero a través de los impuestos, obtiene descuentos enormes en viajes rápidos y contribuye al éxito de toda tu facción.</string>
 	<string key="tip_overworld_company_benefits03-title">Compañías</string>
@@ -110,7 +110,7 @@
 	<string key="tip_overworld_crafting_skill03-title">Fabricación</string>
 	<string key="tip_overworld_crafting_skill03-content">Los trofeos son objetos fabricados por decoradores y pueden otorgarte potenciaciones poderosas si los colocas en tu casa.</string>
 	<string key="tip_overworld_crafting_perks01-title">Beneficios de la fabricación</string>
-	<string key="tip_overworld_crafting_perks01-content">Si quieres conocer todos los beneficios del juego, dirígete a una tienda de intercambio y toca “Seleccionar beneficios” en la pestaña “Explorar”.</string>
+	<string key="tip_overworld_crafting_perks01-content">Si quieres conocer todos los beneficios del juego, dirígete a una tienda de intercambio y elige la opción “Seleccionar beneficios” en la pestaña “Explorar”.</string>
 	<string key="tip_overworld_crafting_azoth01-title">Fabricación</string>
 	<string key="tip_overworld_crafting_azoth01-content">[Marcador de posición]</string>
 	<string key="tip_overworld_crafting_costAndTaxes01-title">Fabricación</string>
@@ -186,7 +186,7 @@
 	<string key="tip_overworld_fishing_hotspots05-title">Pesca</string>
 	<string key="tip_overworld_fishing_hotspots05-content">A medida que aumenta tu nivel de pesca, habrá más zonas de pesca disponibles para descubrir.</string>
 	<string key="tip_overworld_fishing_hotspots06-title">Pesca</string>
-	<string key="tip_overworld_fishing_hotspots06-content">Para descubrir una zona de pesca, primero debes tener un nivel de pesca lo suficientemente alto y luego caminar por sus alrededores.</string>
+	<string key="tip_overworld_fishing_hotspots06-content">Para descubrir una zona de pesca, primero debes tener un nivel de pesca lo suficientemente alto, y luego caminar por sus alrededores.</string>
 	<string key="tip_overworld_fishing_hotspots07-title">Pesca</string>
 	<string key="tip_overworld_fishing_hotspots07-content">Si pescas en zonas de pesca activas, tendrás suerte de inmediato.</string>
 	<string key="tip_overworld_fishing_hotspots08-title">Pesca</string>
@@ -428,7 +428,7 @@
 	<string key="tip_war_specific06-title">Guerra</string>
 	<string key="tip_war_specific06-content">Los líderes de la guerra pueden mantener presionado [{hint1}] mientras ponen un aviso para que todo el ejército pueda verlo.</string>
 	<string key="tip_invasion_specific01-title">Invasión</string>
-	<string key="tip_invasion_specific01-content">Los enemigos corrompidos atacarán el fuerte en oleadas, y cada una de estas será cada vez más fuerte.</string>
+	<string key="tip_invasion_specific01-content">El ejército corrompido atacará el fuerte en oleadas, y cada una de estas será cada vez más fuerte.</string>
 	<string key="tip_invasion_specific02-title">Invasión</string>
 	<string key="tip_invasion_specific02-content">El ejército corrompido intentará derribar las puertas y tomar un punto de control dentro del fuerte. Si los jugadores logran defender el punto de conquista de la invasión, resultarán victoriosos.</string>
 	<string key="tip_invasion_specific03-title">Invasión</string>

@@ -80,5 +80,23 @@
         "PlayerPrompt": "@1204_Constable_EncroachingCorruption_prompt",
         "NPCResponse": "@1204_Constable_EncroachingCorruption",
         "AchievementUnlock": "S_encroachingconstable"
+    },
+    {
+        "ConversationTopicId": "1225_Giacomo_HousingGeneral",
+        "PlayerPrompt": "@1225_Giacomo_HousingGeneral_Prompt",
+        "NPCResponse": "@1225_Giacomo_HousingGeneral_Response",
+        "RequiredAchievement": "S_downpayment"
+    },
+    {
+        "ConversationTopicId": "1225_Giacomo_HousingStorage",
+        "PlayerPrompt": "@1225_Giacomo_HousingStorage_Prompt",
+        "NPCResponse": "@1225_Giacomo_HousingStorage_Response",
+        "RequiredAchievement": "12_Quest_Housing_3b"
+    },
+    {
+        "ConversationTopicId": "1225_Giacomo_HousingTrophy",
+        "PlayerPrompt": "@1225_Giacomo_HousingTrophy_Prompt",
+        "NPCResponse": "@1225_Giacomo_HousingTrophy_Response",
+        "RequiredAchievement": "12_Quest_Housing_6"
     }
 ]

@@ -107,6 +107,21 @@
         "DefaultDialogue": "@1110_01_Barkeep"
     },
     {
+        "ConversationStateId": "1110_02_Barkeep",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1110_02_Barkeep",
+        "RequiredAchievement": "11_Harunobu_2",
+        "LinearObjectiveId1": "1110_0101_GreetTheNewcomers"
+    },
+    {
+        "ConversationStateId": "1110_03_Barkeep",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1110_02_Barkeep",
+        "RequiredAchievement": "11_Harunobu2_1"
+    },
+    {
         "ConversationStateId": "1111_01_Stranger",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
@@ -312,6 +327,24 @@
         "ConversationService1": "Inn"
     },
     {
+        "ConversationStateId": "1122_01_Innkeep",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1225_0601_closingcost_talkto_Innkeep_start",
+        "RequiredAchievement": "12_Quest_Housing_5",
+        "RequiredActiveObjectiveId": "1225_0601_closingcost",
+        "RequiredActiveTaskId": "1225_0601_d_01_03_TalkTo_InnkeepLam_1122_01_Innkeep",
+        "ConversationService1": "Inn"
+    },
+    {
+        "ConversationStateId": "1122_02_Innkeep",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1122_00_Innkeep",
+        "RequiredAchievement": "12_Quest_Housing_6",
+        "ConversationService1": "Inn"
+    },
+    {
         "ConversationStateId": "1123_01_BLANK",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
@@ -331,5 +364,520 @@
         "IsInitialState": false,
         "DefaultDialogue": "@1123_03_DefaultDialogue",
         "RequiredAchievement": "FishingQuest_10"
+    },
+    {
+        "ConversationStateId": "1124_PierreAuguste_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1124_PierreAuguste_Default"
+    },
+    {
+        "ConversationStateId": "1124_PierreAuguste_2",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1124_PierreAuguste_2",
+        "RequiredLevel": "40",
+        "LinearObjectiveId1": "1124_0101_EnPleinAire"
+    },
+    {
+        "ConversationStateId": "1124_PierreAuguste_3",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1124_PierreAuguste_3",
+        "RequiredLevel": "40",
+        "RequiredAchievement": "11_Pierre_1"
+    },
+    {
+        "ConversationStateId": "1124_PierreAuguste_4",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1124_PierreAuguste_4",
+        "RequiredLevel": "40",
+        "RequiredAchievement": "11_Pierre_2"
+    },
+    {
+        "ConversationStateId": "1124_PierreAuguste2_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1124_PierreAuguste2_Default",
+        "RequiredLevel": "40"
+    },
+    {
+        "ConversationStateId": "1124_PierreAuguste2_1",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1124_PierreAuguste2_1",
+        "RequiredLevel": "40",
+        "RequiredAchievement": "11_Leilani_3",
+        "LinearObjectiveId1": "1124_PierreGoHome"
+    },
+    {
+        "ConversationStateId": "1124_Pierre_Note_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1124_Pierre_Note_Default"
+    },
+    {
+        "ConversationStateId": "1124_Pierre_Note_1",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1124_Pierre_Note_1",
+        "RequiredAchievement": "11_Leilani_3",
+        "LinearObjectiveId1": "1126_0103_AmateurAdventurer"
+    },
+    {
+        "ConversationStateId": "1125_01_McKeys_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1125_01_McKeys_Default"
+    },
+    {
+        "ConversationStateId": "1125_02_McKeys",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1125_02_McKeys",
+        "RequiredLevel": "40",
+        "LinearObjectiveId1": "1125_0101_SongoftheSea"
+    },
+    {
+        "ConversationStateId": "1125_03_McKeys_Final",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1125_03_McKeys_Final",
+        "RequiredAchievement": "11_McKeys_1"
+    },
+    {
+        "ConversationStateId": "1126_Leilani_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1126_Leilani_Default"
+    },
+    {
+        "ConversationStateId": "1126_Leilani_2",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1126_Leilani_2",
+        "RequiredLevel": "40",
+        "LinearObjectiveId1": "1126_0101_StoneColdSecrets"
+    },
+    {
+        "ConversationStateId": "1126_Leilani_3",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1126_Leilani_3",
+        "RequiredAchievement": "11_Leilani_1",
+        "LinearObjectiveId1": "1126_0102_TheLastMystery"
+    },
+    {
+        "ConversationStateId": "1126_Leilani_4",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1126_Leilani_4",
+        "RequiredAchievement": "11_Leilani_2",
+        "LinearObjectiveId1": "1126_0102_Atoast"
+    },
+    {
+        "ConversationStateId": "1126_Leilani_5",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1126_Leilani_5",
+        "RequiredAchievement": "11_Leilani_3"
+    },
+    {
+        "ConversationStateId": "1126_Leilani_6_Final",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1126_Leilani_6_Final",
+        "RequiredAchievement": "11_Pierre_2"
+    },
+    {
+        "ConversationStateId": "1127_Harunobu_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1127_Harunobu_Default"
+    },
+    {
+        "ConversationStateId": "1127_Harunobu_2",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1127_Harunobu_2",
+        "RequiredLevel": "40",
+        "RequiredAchievement": "11_Lerato_1",
+        "LinearObjectiveId1": "1127_0101_MalignDominion"
+    },
+    {
+        "ConversationStateId": "1127_Harunobu_3",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1127_Harunobu_3",
+        "RequiredAchievement": "11_Harunobu_1",
+        "LinearObjectiveId1": "1127_0102_MakinBacon"
+    },
+    {
+        "ConversationStateId": "1127_Harunobu_4",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1127_Harunobu_4",
+        "RequiredAchievement": "11_Harunobu_2"
+    },
+    {
+        "ConversationStateId": "1127_Harunobu2_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1127_Harunobu2_Default"
+    },
+    {
+        "ConversationStateId": "1127_Harunobu2_1",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1127_Harunobu2_1",
+        "RequiredAchievement": "11_Barkeep_1",
+        "LinearObjectiveId1": "1110_0101_GreetTheNewcomers2"
+    },
+    {
+        "ConversationStateId": "1127_Harunobu2_2",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1127_Harunobu2_2",
+        "RequiredAchievement": "11_Harunobu2_1"
+    },
+    {
+        "ConversationStateId": "1128_Lerato_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1128_Lerato_Default"
+    },
+    {
+        "ConversationStateId": "1128_Lerato_2",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1128_Lerato_2",
+        "RequiredLevel": "40",
+        "LinearObjectiveId1": "1128_0101_VillageChampion"
+    },
+    {
+        "ConversationStateId": "1128_Lerato_3",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1128_Lerato_3",
+        "RequiredAchievement": "11_Lerato_1"
+    },
+    {
+        "ConversationStateId": "1128_Lerato2_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1128_Lerato2_Default"
+    },
+    {
+        "ConversationStateId": "1128_Lerato2_1",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1128_Lerato2_1",
+        "RequiredAchievement": "11_Harunobu2_1"
+    },
+    {
+        "ConversationStateId": "1129_Jaansen_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1129_Jaansen_Default"
+    },
+    {
+        "ConversationStateId": "1129_Jaansen_2",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1129_Jaansen_2",
+        "RequiredLevel": "40",
+        "LinearObjectiveId1": "1129_0101_SoulMusic"
+    },
+    {
+        "ConversationStateId": "1129_Jaansen_3",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1129_Jaansen_3",
+        "RequiredAchievement": "11_Jaansen_1"
+    },
+    {
+        "ConversationStateId": "1129_Jaansen2_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1129_Jaansen2_Default"
+    },
+    {
+        "ConversationStateId": "1129_Jaansen2_2",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1129_Jaansen2_2",
+        "RequiredAchievement": "11_Jaansen_x",
+        "LinearObjectiveId1": "1129_0102_NewPerspective"
+    },
+    {
+        "ConversationStateId": "1129_Jaansen2_3",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1129_Jaansen2_3",
+        "RequiredAchievement": "11_Jaansen_2",
+        "LinearObjectiveId1": "1129_0103_CliffHanger"
+    },
+    {
+        "ConversationStateId": "1129_Sculpture_default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1129_Sculpture_Default"
+    },
+    {
+        "ConversationStateId": "1129_Sculpture_1",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1129_Sculpture_1",
+        "RequiredAchievement": "11_Jaansen_3"
+    },
+    {
+        "ConversationStateId": "1129_Jaansen_Note_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1129_Jaansen_Note_Default"
+    },
+    {
+        "ConversationStateId": "1129_Jaansen_Note_1",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1129_Jaansen_Note_1",
+        "RequiredAchievement": "11_Jaansen_1",
+        "LinearObjectiveId1": "1129_0102_jaanseninthenorth"
+    },
+    {
+        "ConversationStateId": "1130_Tosti_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1130_Tosti_Default"
+    },
+    {
+        "ConversationStateId": "1130_Tosti_2",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1130_Tosti_2",
+        "RequiredProgression": "GreatAxeAbilityTable 4 0",
+        "RequiredLevel": "5",
+        "LinearObjectiveId1": "1130_01_EdgeOfTheWorld"
+    },
+    {
+        "ConversationStateId": "1130_Tosti_3",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1130_Tosti_3",
+        "RequiredAchievement": "11_Tosti_1"
+    },
+    {
+        "ConversationStateId": "1130_Tosti_4",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1130_Tosti_4",
+        "RequiredProgression": "GreatAxeAbilityTable 9 0",
+        "RequiredLevel": "5",
+        "LinearObjectiveId1": "1130_02_CallBeyondTheVoid"
+    },
+    {
+        "ConversationStateId": "1130_Tosti_5",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1130_Tosti_5",
+        "RequiredAchievement": "11_Tosti_2"
+    },
+    {
+        "ConversationStateId": "1130_Tosti_6",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1130_Tosti_6",
+        "RequiredProgression": "GreatAxeAbilityTable 14 0",
+        "RequiredLevel": "15",
+        "RequiredAchievement": "11_Tosti_2",
+        "LinearObjectiveId1": "1130_03_StirsTheWatchful"
+    },
+    {
+        "ConversationStateId": "1130_Tosti2_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1130_Tosti2_Default"
+    },
+    {
+        "ConversationStateId": "1130_Tosti_7",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1130_Tosti_7",
+        "RequiredProgression": "GreatAxeAbilityTable 19 0",
+        "RequiredLevel": "20",
+        "RequiredAchievement": "11_Tosti_3",
+        "LinearObjectiveId1": "1130_04_TheBridge"
+    },
+    {
+        "ConversationStateId": "1130_Tosti_8",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1130_Tosti_8",
+        "RequiredAchievement": "11_Tosti_4"
+    },
+    {
+        "ConversationStateId": "1130_Tosti_9",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1130_Tosti_9",
+        "RequiredLevel": "20",
+        "RequiredAchievement": "11_Tosti_5"
+    },
+    {
+        "ConversationStateId": "1130_Sensou_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1130_Sensou_Default"
+    },
+    {
+        "ConversationStateId": "1130_Sensou_1",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1130_Sensou_1",
+        "RequiredAchievement": "11_Tosti_4",
+        "LinearObjectiveId1": "1130_05_SensounoKo"
+    },
+    {
+        "ConversationStateId": "1132_Sidney_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1132_Sidney_Default"
+    },
+    {
+        "ConversationStateId": "1132_Sidney_2",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1132_Sidney_2",
+        "RequiredAchievement": "11_BBMastery_1",
+        "LinearObjectiveId1": "1132_01_ClaimJumper"
+    },
+    {
+        "ConversationStateId": "1132_Sidney_3",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1132_Sidney_3",
+        "RequiredAchievement": "11_BBMastery_2",
+        "LinearObjectiveId1": "1132_02_DiamondbackHustler"
+    },
+    {
+        "ConversationStateId": "1132_Sidney_4",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1132_Sidney_4",
+        "RequiredAchievement": "11_BBMastery_3",
+        "LinearObjectiveId1": "1132_03_RoomEnough"
+    },
+    {
+        "ConversationStateId": "1132_Sidney_5",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1132_Sidney_5"
+    },
+    {
+        "ConversationStateId": "1132_Sidney_6",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1132_Sidney_6",
+        "RequiredAchievement": "11_BBMastery_6",
+        "LinearObjectiveId1": "1132_05_Shootout"
+    },
+    {
+        "ConversationStateId": "1132_Sidney_7",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1132_Sidney_7"
+    },
+    {
+        "ConversationStateId": "1131_Megnolia_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1131_Megnolia_Default"
+    },
+    {
+        "ConversationStateId": "1131_Megnolia_2",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1131_Megnolia_2",
+        "RequiredAchievement": "11_BBMastery_1"
+    },
+    {
+        "ConversationStateId": "1131_Megnolia2_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1131_Megnolia2_Default"
+    },
+    {
+        "ConversationStateId": "1131_Megnolia_3",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1131_Megnolia_3",
+        "RequiredAchievement": "11_BBMastery_4",
+        "LinearObjectiveId1": "1131_01_BigThunder"
+    },
+    {
+        "ConversationStateId": "1131_Megnolia_4",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1131_Megnolia_4",
+        "RequiredActiveObjectiveId": "1132_03_RoomEnough",
+        "RequiredActiveTaskId": "1132_TalkToMeg"
+    },
+    {
+        "ConversationStateId": "1131_Megnolia_5",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1131_Megnolia_5"
+    },
+    {
+        "ConversationStateId": "1131_Megnolia_6",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1131_Megnolia_6",
+        "RequiredAchievement": "11_BBMastery_5",
+        "LinearObjectiveId1": "1131_02_GrampasGun"
+    },
+    {
+        "ConversationStateId": "1131_Megnolia_7",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1131_Megnolia_7"
+    },
+    {
+        "ConversationStateId": "1133_Stonefirth_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@1133_Stonefirth_Default"
+    },
+    {
+        "ConversationStateId": "1133_Stonefirth_2",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1133_Stonefirth_2",
+        "RequiredLevel": "45",
+        "LinearObjectiveId1": "1133_01_SnakeOil"
+    },
+    {
+        "ConversationStateId": "1133_Stonefirth_3",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1133_Stonefirth_3",
+        "RequiredAchievement": "11_BBMastery_1"
+    },
+    {
+        "ConversationStateId": "1133_Stonefirth_4",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1133_Stonefirth_4",
+        "RequiredAchievement": "11_BBMastery_4"
+    },
+    {
+        "ConversationStateId": "1133_Stonefirth_5",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": false,
+        "DefaultDialogue": "@1133_Stonefirth_5",
+        "RequiredAchievement": "11_BBMastery_3",
+        "RequiredActiveObjectiveId": "1132_03_RoomEnough",
+        "RequiredActiveTaskId": "1132_TalkToMeg"
     }
 ]

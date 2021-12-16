@@ -224,8 +224,7 @@
         "DefaultDialogue": "@NPC_DefaultDialogue_0717_02_Warden",
         "RequiredLevel": 0,
         "RequiredAchievement": "99_MSQ_56",
-        "LinearObjectiveId1": "9901_0057_insoulinstone",
-        "LinearObjectiveId2": "0713_0101_explorerift"
+        "LinearObjectiveId1": "0713_0101_explorerift"
     },
     {
         "ConversationStateId": "0717_03_Warden",
@@ -234,8 +233,7 @@
         "DefaultDialogue": "@NPC_DefaultDialogue_0717_03_Warden",
         "RequiredLevel": 0,
         "RequiredAchievement": "99_MSQ_57",
-        "LinearObjectiveId1": "9910_0058_finallyexhale",
-        "LinearObjectiveId2": "0713_0101_explorerift"
+        "LinearObjectiveId1": "0713_0101_explorerift"
     },
     {
         "ConversationStateId": "0717_04_Warden",
@@ -506,5 +504,19 @@
         "RequiredLevel": 0,
         "TopicId1": "0725_Prospector_talk",
         "ConversationService1": "Join_Outpost_Rush"
+    },
+    {
+        "ConversationStateId": "0728_Kesava_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@0728_Kesava_Default",
+        "RequiredLevel": 0
+    },
+    {
+        "ConversationStateId": "0728_Kesava_1",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@0728_Kesava_1",
+        "RequiredLevel": 0
     }
 ]

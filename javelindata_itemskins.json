@@ -963,6 +963,51 @@
         "IsEnabled": true
     },
     {
+        "ItemSkinID": "Skin_Chest_SorcererHunterVar2",
+        "IndexID": 119,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_SorcererHunterVar2",
+        "Outfit": "SorcererHunterVar2",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Feet_SorcererHunterVar2",
+        "IndexID": 120,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableFeet",
+        "ToItemID": "Skin_Feet_SorcererHunterVar2",
+        "Outfit": "SorcererHunterVar2",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Hands_SorcererHunterVar2",
+        "IndexID": 121,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHands",
+        "ToItemID": "Skin_Hands_SorcererHunterVar2",
+        "Outfit": "SorcererHunterVar2",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Head_SorcererHunterVar2",
+        "IndexID": 122,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHead",
+        "ToItemID": "Skin_Head_SorcererHunterVar2",
+        "Outfit": "SorcererHunterVar2",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Legs_SorcererHunterVar2",
+        "IndexID": 123,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableLegs",
+        "ToItemID": "Skin_Legs_SorcererHunterVar2",
+        "Outfit": "SorcererHunterVar2",
+        "IsEnabled": true
+    },
+    {
         "ItemSkinID": "Skin_Chest_TwitchFisherman",
         "IndexID": 124,
         "IsEntitlement": 1,
@@ -1462,6 +1507,105 @@
         "IsEnabled": true
     },
     {
+        "ItemSkinID": "Skin_WinterConvergence_SkinningKnife",
+        "IndexID": 180,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "SkinningKnife",
+        "ToItemID": "Skin_WinterConvergence_SkinningKnife",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_WinterConvergence_Sickle",
+        "IndexID": 181,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "Sickle",
+        "ToItemID": "Skin_WinterConvergence_Sickle",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_WinterConvergence_Pickaxe",
+        "IndexID": 182,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "Pickaxe",
+        "ToItemID": "Skin_WinterConvergence_Pickaxe",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_WinterConvergence_LoggingAxe",
+        "IndexID": 183,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "LoggingAxe",
+        "ToItemID": "Skin_WinterConvergence_LoggingAxe",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_WinterConvergence_FishingPole",
+        "IndexID": 184,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "FishingPole",
+        "ToItemID": "Skin_WinterConvergence_FishingPole",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_WinterConvergence_AzothScepter",
+        "IndexID": 185,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "AzothStaff",
+        "ToItemID": "Skin_WinterConvergence_AzothScepter",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Chest_WinterOutfit01",
+        "IndexID": 186,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_WinterOutfit01",
+        "Outfit": "WinterOutfit01",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Head_WinterOutfit01",
+        "IndexID": 187,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHead",
+        "ToItemID": "Skin_Head_WinterOutfit01",
+        "Outfit": "WinterOutfit01",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Legs_WinterOutfit01",
+        "IndexID": 188,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableLegs",
+        "ToItemID": "Skin_Legs_WinterOutfit01",
+        "Outfit": "WinterOutfit01",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Feet_WinterOutfit01",
+        "IndexID": 189,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableFeet",
+        "ToItemID": "Skin_Feet_WinterOutfit01",
+        "Outfit": "WinterOutfit01",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Hands_WinterOutfit01",
+        "IndexID": 190,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHands",
+        "ToItemID": "Skin_Hands_WinterOutfit01",
+        "Outfit": "WinterOutfit01",
+        "IsEnabled": true
+    },
+    {
         "ItemSkinID": "Skin_Chest_WarSpecial",
         "IndexID": 191,
         "IsEntitlement": 1,
@@ -1586,6 +1730,212 @@
         "IsEnabled": true
     },
     {
+        "ItemSkinID": "Skin_Rapier_Holiday_Dec21",
+        "IndexID": 225,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableMainHand",
+        "RequiredClasses": "Rapier",
+        "ToItemID": "Skin_Rapier_Holiday_Dec21",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Spear_Holiday_Dec21",
+        "IndexID": 226,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTwoHand",
+        "RequiredClasses": "Spear",
+        "ToItemID": "Skin_Spear_Holiday_Dec21",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Bow_Holiday_Dec21",
+        "IndexID": 227,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTwoHand",
+        "RequiredClasses": "Bow",
+        "ToItemID": "Skin_Bow_Holiday_Dec21",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Hatchet_Holiday_Dec21",
+        "IndexID": 228,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableMainHand",
+        "RequiredClasses": "Hatchet",
+        "ToItemID": "Skin_Hatchet_Holiday_Dec21",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_IceGaunt_Holiday_Dec21",
+        "IndexID": 229,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableMainHand",
+        "RequiredClasses": "IceMagic",
+        "ToItemID": "Skin_IceGaunt_Holiday_Dec21",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Lifestaff_Holiday_Dec21",
+        "IndexID": 230,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableMainHand",
+        "RequiredClasses": "LifeStaff",
+        "ToItemID": "Skin_Lifestaff_Holiday_Dec21",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Chest_WinterOutfit02",
+        "IndexID": 231,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_WinterOutfit02",
+        "Outfit": "WinterOutfit02",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Head_WinterOutfit02",
+        "IndexID": 232,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHead",
+        "ToItemID": "Skin_Head_WinterOutfit02",
+        "Outfit": "WinterOutfit02",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Legs_WinterOutfit02",
+        "IndexID": 233,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableLegs",
+        "ToItemID": "Skin_Legs_WinterOutfit02",
+        "Outfit": "WinterOutfit02",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Feet_WinterOutfit02",
+        "IndexID": 234,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableFeet",
+        "ToItemID": "Skin_Feet_WinterOutfit02",
+        "Outfit": "WinterOutfit02",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Hands_WinterOutfit02",
+        "IndexID": 235,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHands",
+        "ToItemID": "Skin_Hands_WinterOutfit02",
+        "Outfit": "WinterOutfit02",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Chest_WinterOutfit03",
+        "IndexID": 236,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_WinterOutfit03",
+        "Outfit": "WinterOutfit03",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Head_WinterOutfit03",
+        "IndexID": 237,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHead",
+        "ToItemID": "Skin_Head_WinterOutfit03",
+        "Outfit": "WinterOutfit03",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Legs_WinterOutfit03",
+        "IndexID": 238,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableLegs",
+        "ToItemID": "Skin_Legs_WinterOutfit03",
+        "Outfit": "WinterOutfit03",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Feet_WinterOutfit03",
+        "IndexID": 239,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableFeet",
+        "ToItemID": "Skin_Feet_WinterOutfit03",
+        "Outfit": "WinterOutfit03",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Hands_WinterOutfit03",
+        "IndexID": 240,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHands",
+        "ToItemID": "Skin_Hands_WinterOutfit03",
+        "Outfit": "WinterOutfit03",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_LegendaryTech_SkinningKnife",
+        "IndexID": 241,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "SkinningKnife",
+        "ToItemID": "Skin_LegendaryTech_SkinningKnife",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_LegendaryTech_Sickle",
+        "IndexID": 242,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "Sickle",
+        "ToItemID": "Skin_LegendaryTech_Sickle",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_LegendaryTech_Pickaxe",
+        "IndexID": 243,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "Pickaxe",
+        "ToItemID": "Skin_LegendaryTech_Pickaxe",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_LegendaryTech_LoggingAxe",
+        "IndexID": 244,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "LoggingAxe",
+        "ToItemID": "Skin_LegendaryTech_LoggingAxe",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_LegendaryTech_FishingPole",
+        "IndexID": 245,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "FishingPole",
+        "ToItemID": "Skin_LegendaryTech_FishingPole",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_LegendaryTech_AzothScepter",
+        "IndexID": 246,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableTool",
+        "RequiredClasses": "AzothStaff",
+        "ToItemID": "Skin_LegendaryTech_AzothScepter",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Chest_WC_Cloak",
+        "IndexID": 247,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_WC_Cloak",
+        "IsEnabled": true
+    },
+    {
         "ItemSkinID": "Skin_Chest_AutumnKing",
         "IndexID": 253,
         "IsEntitlement": 1,
@@ -1628,6 +1978,159 @@
         "NeedsOneClasses": "EquippableHands",
         "ToItemID": "Skin_Hands_AutumnKing",
         "Outfit": "AutumnKing",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Chest_Vogue",
+        "IndexID": 258,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_Vogue",
+        "Outfit": "Vogue",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Head_Vogue",
+        "IndexID": 259,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHead",
+        "ToItemID": "Skin_Head_Vogue",
+        "Outfit": "Vogue",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Legs_Vogue",
+        "IndexID": 260,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableLegs",
+        "ToItemID": "Skin_Legs_Vogue",
+        "Outfit": "Vogue",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Feet_Vogue",
+        "IndexID": 261,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableFeet",
+        "ToItemID": "Skin_Feet_Vogue",
+        "Outfit": "Vogue",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Hands_Vogue",
+        "IndexID": 262,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHands",
+        "ToItemID": "Skin_Hands_Vogue",
+        "Outfit": "Vogue",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Chest_Abyssal",
+        "IndexID": 263,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_Abyssal",
+        "Outfit": "Abyssal",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Head_Abyssal",
+        "IndexID": 264,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHead",
+        "ToItemID": "Skin_Head_Abyssal",
+        "Outfit": "Abyssal",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Legs_Abyssal",
+        "IndexID": 265,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableLegs",
+        "ToItemID": "Skin_Legs_Abyssal",
+        "Outfit": "Abyssal",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Feet_Abyssal",
+        "IndexID": 266,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableFeet",
+        "ToItemID": "Skin_Feet_Abyssal",
+        "Outfit": "Abyssal",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Hands_Abyssal",
+        "IndexID": 267,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableHands",
+        "ToItemID": "Skin_Hands_Abyssal",
+        "Outfit": "Abyssal",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Chest_WinterWanderer",
+        "IndexID": 268,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_WinterWanderer",
+        "Outfit": "WinterWanderer",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Chest_WoT_GreenNynaeve",
+        "IndexID": 333,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_WoT_GreenNynaeve",
+        "Outfit": "PrimeWoT",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Chest_WoT_RedScarf",
+        "IndexID": 334,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_WoT_RedScarf",
+        "Outfit": "PrimeWoT",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Chest_WoT_WhiteRobe",
+        "IndexID": 335,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_WoT_WhiteRobe",
+        "Outfit": "PrimeWoT",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Chest_WoT_BrownCloak",
+        "IndexID": 336,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableChest",
+        "ToItemID": "Skin_Chest_WoT_BrownCloak",
+        "Outfit": "PrimeWoT",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Rapier_WoT",
+        "IndexID": 337,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableMainHand",
+        "RequiredClasses": "Rapier",
+        "ToItemID": "Skin_Rapier_WoT",
+        "IsEnabled": true
+    },
+    {
+        "ItemSkinID": "Skin_Longsword_WoT",
+        "IndexID": 338,
+        "IsEntitlement": 1,
+        "NeedsOneClasses": "EquippableMainHand",
+        "RequiredClasses": "Sword",
+        "ToItemID": "Skin_Longsword_WoT",
         "IsEnabled": true
     }
 ]

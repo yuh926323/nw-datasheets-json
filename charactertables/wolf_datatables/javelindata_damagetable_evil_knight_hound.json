@@ -20,11 +20,11 @@
         "BlockHitStun": 15,
         "CritHitStun": 20,
         "ImpactDistanceX": 0,
-        "ImpactDistanceY": 1,
+        "ImpactDistanceY": 0.30000001192092896,
         "ImpactDistanceZ": 0,
         "ImpactDecayRate": 0.800000011920929,
         "CritImpactDistanceX": 0,
-        "CritImpactDistanceY": 1,
+        "CritImpactDistanceY": 0.5,
         "CritImpactDistanceZ": 0,
         "CritImpactDecayRate": 0.800000011920929,
         "BlockImpactDistanceX": 0,
@@ -80,7 +80,7 @@
         "ImpactRating": "1",
         "BlockStaminaDmgMod": 0.800000011920929,
         "BlockAbsorptionModifier": 1,
-        "TargetCameraShakeID": "Large",
+        "TargetCameraShakeID": "Small ",
         "StunBreakoutIncrement": 1
     },
     {

@@ -407,7 +407,7 @@
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@0903_0201_survivalistquest_complete_availaible_response",
         "HideIncompleteTurninMarker": false,
-        "ReleaseEventTags": "HFR"
+        "ORMReleaseEventTags": "HFR"
     },
     {
         "ObjectiveID": "0903_0201_survivalistquest_V2",

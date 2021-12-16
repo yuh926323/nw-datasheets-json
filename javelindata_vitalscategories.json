@@ -887,6 +887,14 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "Alligator_Young_10WS03",
+        "DisplayName": "@VC_Alligator_Young_10WS03",
+        "LocStringGenerationHelper": "<string key=\"VC_Alligator_Young_10WS03\">Alligator_Young_10WS03</string>",
+        "GroupVitalsCategoryId": "Rothoard",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Alligator_Young_10WS09",
         "DisplayName": "@VC_Alligator_Young_10WS09",
         "LocStringGenerationHelper": "<string key=\"VC_Alligator_Young_10WS09\">Alligator_Young_10WS09</string>",
@@ -1342,6 +1350,15 @@
         "VitalsCategoryID": "AncientGuardian_Javelineer_27",
         "DisplayName": "@VC_AncientGuardian_Javelineer_27",
         "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Javelineer_27\">AncientGuardian_Javelineer_27</string>",
+        "GroupVitalsCategoryId": "Generic",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeleton_ancient_javelineer\\ancient_javelineer_var02_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "AncientGuardian_Javelineer_28",
+        "DisplayName": "@VC_AncientGuardian_Javelineer_28",
+        "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Javelineer_28\">AncientGuardian_Javelineer_28</string>",
         "GroupVitalsCategoryId": "Generic",
         "IsNamed": false,
         "IsDynamicPoiTarget": false,
@@ -1805,6 +1822,15 @@
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeleton_ancient_mage\\ancient_mage_var01_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "AncientGuardian_Mage_28",
+        "DisplayName": "@VC_AncientGuardian_Mage_28",
+        "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Mage_28\">AncientGuardian_Mage_28</string>",
+        "GroupVitalsCategoryId": "Generic",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeleton_ancient_mage\\ancient_mage_var01_matGroup.mtl"
+    },
+    {
         "VitalsCategoryID": "AncientGuardian_Mage_36",
         "DisplayName": "@VC_AncientGuardian_Mage_36",
         "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Mage_36\">AncientGuardian_Mage_36</string>",
@@ -2027,6 +2053,22 @@
         "IsDynamicPoiTarget": true
     },
     {
+        "VitalsCategoryID": "AncientGuardian_Mage_Named_10WS02",
+        "DisplayName": "@VC_AncientGuardian_Mage_Named_10WS02",
+        "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Mage_Named_10WS02\">AncientGuardian_Mage_Named_10WS02</string>",
+        "GroupVitalsCategoryId": "Mossbone",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true
+    },
+    {
+        "VitalsCategoryID": "AncientGuardian_Mage_Named_10WS04",
+        "DisplayName": "@VC_AncientGuardian_Mage_Named_10WS04",
+        "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Mage_Named_10WS04\">AncientGuardian_Mage_Named_10WS04</string>",
+        "GroupVitalsCategoryId": "Mossbone",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true
+    },
+    {
         "VitalsCategoryID": "AncientGuardian_Mage_Named_06SW03",
         "DisplayName": "@VC_AncientGuardian_Mage_Named_06SW03",
         "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Mage_Named_06SW03\">AncientGuardian_Mage_Named_06SW03</string>",
@@ -2100,6 +2142,24 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "AncientGuardian_Reaver_10WS02",
+        "DisplayName": "@VC_AncientGuardian_Reaver_10WS02",
+        "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Reaver_10WS02\">AncientGuardian_Reaver_10WS02</string>",
+        "GroupVitalsCategoryId": "Mossbone",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeletonGuardian\\skeletonGuardian_var01_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "AncientGuardian_Reaver_10WS04",
+        "DisplayName": "@VC_AncientGuardian_Reaver_10WS04",
+        "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Reaver_10WS04\">AncientGuardian_Reaver_10WS04</string>",
+        "GroupVitalsCategoryId": "Mossbone",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeletonGuardian\\skeletonGuardian_var01_matGroup.mtl"
+    },
+    {
         "VitalsCategoryID": "AncientGuardian_Reaver_11MD00a",
         "DisplayName": "@VC_AncientGuardian_Reaver_11MD00a",
         "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Reaver_11MD00a\">AncientGuardian_Reaver_11MD00a</string>",
@@ -2169,6 +2229,15 @@
         "GroupVitalsCategoryId": "Celestial",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "AncientGuardian_Reaver_28",
+        "DisplayName": "@VC_AncientGuardian_Reaver_28",
+        "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Reaver_28\">AncientGuardian_Reaver_28</string>",
+        "GroupVitalsCategoryId": "Generic",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeletonGuardian\\skeletonGuardian_var01_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "AncientGuardian_Reaver_36",
@@ -3063,6 +3132,48 @@
         "DisplayName": "@VC_Arcturian",
         "LocStringGenerationHelper": "<string key=\"VC_Arcturian\">Arcturian</string>",
         "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Avalancher_Frostgrip_25",
+        "DisplayName": "@VC_Avalancher_Frostgrip_25",
+        "LocStringGenerationHelper": "<string key=\"VC_Avalancher_Frostgrip_25\">Avalancher_Frostgrip_25</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Avalancher_Frostgrip_60",
+        "DisplayName": "@VC_Avalancher_Frostgrip_60",
+        "LocStringGenerationHelper": "<string key=\"VC_Avalancher_Frostgrip_60\">Avalancher_Frostgrip_60</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Avalancher_Shivers_25",
+        "DisplayName": "@VC_Avalancher_Shivers_25",
+        "LocStringGenerationHelper": "<string key=\"VC_Avalancher_Shivers_25\">Avalancher_Shivers_25</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Avalancher_Shivers_60",
+        "DisplayName": "@VC_Avalancher_Shivers_60",
+        "LocStringGenerationHelper": "<string key=\"VC_Avalancher_Shivers_60\">Avalancher_Shivers_60</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Avalancher_Yeti_25",
+        "DisplayName": "@VC_Avalancher_Yeti_25",
+        "LocStringGenerationHelper": "<string key=\"VC_Avalancher_Yeti_25\">Avalancher_Yeti_25</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Avalancher_Yeti_60",
+        "DisplayName": "@VC_Avalancher_Yeti_60",
+        "LocStringGenerationHelper": "<string key=\"VC_Avalancher_Yeti_60\">Avalancher_Yeti_60</string>",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -4125,6 +4236,15 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "Blight_Fiend_14AC07a",
+        "DisplayName": "@VC_Blight_Fiend_14AC07a",
+        "LocStringGenerationHelper": "<string key=\"VC_Blight_Fiend_14AC07a\">Blight_Fiend_14AC07a</string>",
+        "GroupVitalsCategoryId": "Hydnora",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_blightfiend\\dryad_blightfiend_var03_matGroup.mtl"
+    },
+    {
         "VitalsCategoryID": "Blight_Fiend_14AC11b",
         "DisplayName": "@VC_Blight_Fiend_14AC11b",
         "LocStringGenerationHelper": "<string key=\"VC_Blight_Fiend_14AC11b\">Blight_Fiend_14AC11b</string>",
@@ -4134,10 +4254,28 @@
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_blightfiend\\dryad_blightfiend_var02_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "Blight_Fiend_14AC12b",
+        "DisplayName": "@VC_Blight_Fiend_14AC12b",
+        "LocStringGenerationHelper": "<string key=\"VC_Blight_Fiend_14AC12b\">Blight_Fiend_14AC12b</string>",
+        "GroupVitalsCategoryId": "Litheltop",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_blightfiend\\dryad_blightfiend_var02_matGroup.mtl"
+    },
+    {
         "VitalsCategoryID": "Blight_Fiend_14AC14a",
         "DisplayName": "@VC_Blight_Fiend_14AC14a",
         "LocStringGenerationHelper": "<string key=\"VC_Blight_Fiend_14AC14a\">Blight_Fiend_14AC14a</string>",
         "GroupVitalsCategoryId": "Campanilean",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_blightfiend\\dryad_blightfiend_var01_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Blight_Fiend_14AC15",
+        "DisplayName": "@VC_Blight_Fiend_14AC15",
+        "LocStringGenerationHelper": "<string key=\"VC_Blight_Fiend_14AC15\">Blight_Fiend_14AC15</string>",
+        "GroupVitalsCategoryId": "Festermire",
         "IsNamed": false,
         "IsDynamicPoiTarget": false,
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_blightfiend\\dryad_blightfiend_var01_matGroup.mtl"
@@ -9358,6 +9496,14 @@
         "IsDynamicPoiTarget": true
     },
     {
+        "VitalsCategoryID": "Damned_Hound_Named_MD_Digby",
+        "DisplayName": "@VC_Damned_Hound_Named_MD_Digby",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_Hound_Named_MD_Digby\">Damned_Hound_Named_MD_Digby</string>",
+        "GroupVitalsCategoryId": "Wardog",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Damned_LongSwordsman_Commander_07SM06_DARKNESS",
         "DisplayName": "@VC_Damned_LongSwordsman_Commander_07SM06_DARKNESS",
         "LocStringGenerationHelper": "<string key=\"VC_Damned_LongSwordsman_Commander_07SM06_DARKNESS\">Damned_LongSwordsman_Commander_07SM06_DARKNESS</string>",
@@ -9831,6 +9977,16 @@
         "GroupVitalsCategoryId": "Shipyard",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Damned_Rifleman_MD_Named_Digby",
+        "DisplayName": "@VC_Damned_Rifleman_MD_Named_Digby",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_Rifleman_MD_Named_Digby\">Damned_Rifleman_MD_Named_Digby</string>",
+        "GroupVitalsCategoryId": "Wardog",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var01_matGroup.mtl",
+        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var01_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Damned_Spearman",
@@ -10589,6 +10745,14 @@
         "VitalsCategoryID": "Damned_Villager_Hammer_11MD10a",
         "DisplayName": "@VC_Damned_Villager_Hammer_11MD10a",
         "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Hammer_11MD10a\">Damned_Villager_Hammer_11MD10a</string>",
+        "GroupVitalsCategoryId": "Wardog",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Damned_Villager_Hammer_Named_Digby",
+        "DisplayName": "@VC_Damned_Villager_Hammer_Named_Digby",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Hammer_Named_Digby\">Damned_Villager_Hammer_Named_Digby</string>",
         "GroupVitalsCategoryId": "Wardog",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
@@ -15380,6 +15544,32 @@
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_archer\\dryadarcher_var02_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "Dryad_Archer_14AC12a",
+        "DisplayName": "@VC_Dryad_Archer_14AC12a",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Archer_14AC12a\">Dryad_Archer_14AC12a</string>",
+        "GroupVitalsCategoryId": "Drosera",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_archer\\dryadarcher_var01_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Dryad_Archer_14AC12b",
+        "DisplayName": "@VC_Dryad_Archer_14AC12b",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Archer_14AC12b\">Dryad_Archer_14AC12b</string>",
+        "GroupVitalsCategoryId": "Litheltop",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Dryad_Archer_14AC13",
+        "DisplayName": "@VC_Dryad_Archer_14AC13",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Archer_14AC13\">Dryad_Archer_14AC13</string>",
+        "GroupVitalsCategoryId": "Crescent",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_archer\\dryadarcher_var01_matGroup.mtl"
+    },
+    {
         "VitalsCategoryID": "Dryad_Archer_14AC14a",
         "DisplayName": "@VC_Dryad_Archer_14AC14a",
         "LocStringGenerationHelper": "<string key=\"VC_Dryad_Archer_14AC14a\">Dryad_Archer_14AC14a</string>",
@@ -15387,6 +15577,40 @@
         "IsNamed": false,
         "IsDynamicPoiTarget": false,
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_archer\\dryadarcher_var02_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Dryad_Archer_14AC14b",
+        "DisplayName": "@VC_Dryad_Archer_14AC14b",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Archer_14AC14b\">Dryad_Archer_14AC14b</string>",
+        "GroupVitalsCategoryId": "Rafflesia",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Dryad_Archer_14AC14c",
+        "DisplayName": "@VC_Dryad_Archer_14AC14c",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Archer_14AC14c\">Dryad_Archer_14AC14c</string>",
+        "GroupVitalsCategoryId": "Sundew",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_archer\\dryadarcher_var01_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Dryad_Archer_14AC15",
+        "DisplayName": "@VC_Dryad_Archer_14AC15",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Archer_14AC15\">Dryad_Archer_14AC15</string>",
+        "GroupVitalsCategoryId": "Festermire",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Dryad_Archer_14AC18",
+        "DisplayName": "@VC_Dryad_Archer_14AC18",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Archer_14AC18\">Dryad_Archer_14AC18</string>",
+        "GroupVitalsCategoryId": "Sapterlith",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_archer\\dryadarcher_var03_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Dryad_Archer_15",
@@ -15527,7 +15751,7 @@
         "GroupVitalsCategoryId": "Generic",
         "IsNamed": false,
         "IsDynamicPoiTarget": false,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_archer\\dryadarcher_var01_matGroup.mtl"
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_archer\\dryadarcher_var03_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Dryad_Archer_56",
@@ -15722,13 +15946,64 @@
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_prowler\\dryad_prowler_var02_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "Dryad_Prowler_14AC12a",
+        "DisplayName": "@VC_Dryad_Prowler_14AC12a",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Prowler_14AC12a\">Dryad_Prowler_14AC12a</string>",
+        "GroupVitalsCategoryId": "Drosera",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_prowler\\dryad_prowler_var01_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Dryad_Prowler_14AC12b",
+        "DisplayName": "@VC_Dryad_Prowler_14AC12b",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Prowler_14AC12b\">Dryad_Prowler_14AC12b</string>",
+        "GroupVitalsCategoryId": "Litheltop",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Dryad_Prowler_14AC13",
+        "DisplayName": "@VC_Dryad_Prowler_14AC13",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Prowler_14AC13\">Dryad_Prowler_14AC13</string>",
+        "GroupVitalsCategoryId": "Crescent",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_prowler\\dryad_prowler_var01_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Dryad_Prowler_14AC14b",
+        "DisplayName": "@VC_Dryad_Prowler_14AC14b",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Prowler_14AC14b\">Dryad_Prowler_14AC14b</string>",
+        "GroupVitalsCategoryId": "Rafflesia",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Dryad_Prowler_14AC15",
+        "DisplayName": "@VC_Dryad_Prowler_14AC15",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Prowler_14AC15\">Dryad_Prowler_14AC15</string>",
+        "GroupVitalsCategoryId": "Festermire",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Dryad_Prowler_14AC18",
+        "DisplayName": "@VC_Dryad_Prowler_14AC18",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Prowler_14AC18\">Dryad_Prowler_14AC18</string>",
+        "GroupVitalsCategoryId": "Sapterlith",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_prowler\\dryad_prowler_var03_matGroup.mtl"
+    },
+    {
         "VitalsCategoryID": "Dryad_Prowler_51",
         "DisplayName": "@VC_Dryad_Prowler_51",
         "LocStringGenerationHelper": "<string key=\"VC_Dryad_Prowler_51\">Dryad_Prowler_51</string>",
         "GroupVitalsCategoryId": "Generic",
         "IsNamed": false,
         "IsDynamicPoiTarget": false,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_prowler\\dryad_prowler_var02_matGroup.mtl"
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_prowler\\dryad_prowler_var01_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Dryad_Prowler_52",
@@ -15764,7 +16039,7 @@
         "GroupVitalsCategoryId": "Generic",
         "IsNamed": false,
         "IsDynamicPoiTarget": false,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_prowler\\dryad_prowler_var02_matGroup.mtl"
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_prowler\\dryad_prowler_var03_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Dryad_Prowler_56",
@@ -15909,6 +16184,49 @@
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_shaman\\shaman_main_var02_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "Dryad_Shaman_14AC12a",
+        "DisplayName": "@VC_Dryad_Shaman_14AC12a",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Shaman_14AC12a\">Dryad_Shaman_14AC12a</string>",
+        "GroupVitalsCategoryId": "Drosera",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_shaman\\shaman_main_var01_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Dryad_Shaman_14AC12b",
+        "DisplayName": "@VC_Dryad_Shaman_14AC12b",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Shaman_14AC12b\">Dryad_Shaman_14AC12b</string>",
+        "GroupVitalsCategoryId": "Litheltop",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Dryad_Shaman_14AC13",
+        "DisplayName": "@VC_Dryad_Shaman_14AC13",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Shaman_14AC13\">Dryad_Shaman_14AC13</string>",
+        "GroupVitalsCategoryId": "Crescent",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_shaman\\shaman_main_var01_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Dryad_Shaman_14AC14b",
+        "DisplayName": "@VC_Dryad_Shaman_14AC14b",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Shaman_14AC14b\">Dryad_Shaman_14AC14b</string>",
+        "GroupVitalsCategoryId": "Rafflesia",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Dryad_Shaman_14AC18",
+        "DisplayName": "@VC_Dryad_Shaman_14AC18",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Shaman_14AC18\">Dryad_Shaman_14AC18</string>",
+        "GroupVitalsCategoryId": "Sapterlith",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_shaman\\shaman_main_var03_matGroup.mtl"
+    },
+    {
         "VitalsCategoryID": "Dryad_Shaman_28",
         "DisplayName": "@VC_Dryad_Shaman_28",
         "LocStringGenerationHelper": "<string key=\"VC_Dryad_Shaman_28\">Dryad_Shaman_28</string>",
@@ -15985,7 +16303,7 @@
         "GroupVitalsCategoryId": "Generic",
         "IsNamed": false,
         "IsDynamicPoiTarget": false,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_shaman\\shaman_main_var02_matGroup.mtl"
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_shaman\\shaman_main_var01_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Dryad_Shaman_52",
@@ -16021,7 +16339,7 @@
         "GroupVitalsCategoryId": "Generic",
         "IsNamed": false,
         "IsDynamicPoiTarget": false,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_shaman\\shaman_main_var02_matGroup.mtl"
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_shaman\\shaman_main_var03_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Dryad_Shaman_56",
@@ -16178,6 +16496,15 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "Dryad_Soldier_14AC07a",
+        "DisplayName": "@VC_Dryad_Soldier_14AC07a",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Soldier_14AC07a\">Dryad_Soldier_14AC07a</string>",
+        "GroupVitalsCategoryId": "Hydnora",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_soldier\\dryad_soldier_var03_matGroup.mtl"
+    },
+    {
         "VitalsCategoryID": "Dryad_Soldier_14AC09a",
         "DisplayName": "@VC_Dryad_Soldier_14AC09a",
         "LocStringGenerationHelper": "<string key=\"VC_Dryad_Soldier_14AC09a\">Dryad_Soldier_14AC09a</string>",
@@ -16214,10 +16541,36 @@
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_soldier\\dryad_soldier_var02_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "Dryad_Soldier_14AC12a",
+        "DisplayName": "@VC_Dryad_Soldier_14AC12a",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Soldier_14AC12a\">Dryad_Soldier_14AC12a</string>",
+        "GroupVitalsCategoryId": "Drosera",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_soldier\\dryad_soldier_var01_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Dryad_Soldier_14AC12b",
+        "DisplayName": "@VC_Dryad_Soldier_14AC12b",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Soldier_14AC12b\">Dryad_Soldier_14AC12b</string>",
+        "GroupVitalsCategoryId": "Litheltop",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Dryad_Soldier_14AC13",
         "DisplayName": "@VC_Dryad_Soldier_14AC13",
         "LocStringGenerationHelper": "<string key=\"VC_Dryad_Soldier_14AC13\">Dryad_Soldier_14AC13</string>",
         "GroupVitalsCategoryId": "Generic",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_soldier\\dryad_soldier_var02_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Dryad_Soldier_14AC13b",
+        "DisplayName": "@VC_Dryad_Soldier_14AC13b",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Soldier_14AC13b\">Dryad_Soldier_14AC13b</string>",
+        "GroupVitalsCategoryId": "Crescent",
         "IsNamed": false,
         "IsDynamicPoiTarget": false,
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_soldier\\dryad_soldier_var01_matGroup.mtl"
@@ -16230,6 +16583,40 @@
         "IsNamed": false,
         "IsDynamicPoiTarget": false,
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_soldier\\dryad_soldier_var02_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Dryad_Soldier_14AC14b",
+        "DisplayName": "@VC_Dryad_Soldier_14AC14b",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Soldier_14AC14b\">Dryad_Soldier_14AC14b</string>",
+        "GroupVitalsCategoryId": "Rafflesia",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Dryad_Soldier_14AC14c",
+        "DisplayName": "@VC_Dryad_Soldier_14AC14c",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Soldier_14AC14c\">Dryad_Soldier_14AC14c</string>",
+        "GroupVitalsCategoryId": "Sundew",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_soldier\\dryad_soldier_var01_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Dryad_Soldier_14AC15",
+        "DisplayName": "@VC_Dryad_Soldier_14AC15",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Soldier_14AC15\">Dryad_Soldier_14AC15</string>",
+        "GroupVitalsCategoryId": "Festermire",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Dryad_Soldier_14AC18",
+        "DisplayName": "@VC_Dryad_Soldier_14AC18",
+        "LocStringGenerationHelper": "<string key=\"VC_Dryad_Soldier_14AC18\">Dryad_Soldier_14AC18</string>",
+        "GroupVitalsCategoryId": "Sapterlith",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_soldier\\dryad_soldier_var03_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Dryad_Soldier_17",
@@ -16389,7 +16776,7 @@
         "GroupVitalsCategoryId": "Generic",
         "IsNamed": false,
         "IsDynamicPoiTarget": false,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_soldier\\dryad_soldier_var02_matGroup.mtl"
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\dryad_soldier\\dryad_soldier_var03_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Dryad_Soldier_56",
@@ -19699,6 +20086,46 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "Ghost_Shipwrecked_RE1",
+        "DisplayName": "@VC_Ghost_Shipwrecked_RE1",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE1\">Ghost_Shipwrecked_RE1</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Shipwrecked_RE2",
+        "DisplayName": "@VC_Ghost_Shipwrecked_RE2",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE2\">Ghost_Shipwrecked_RE2</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Shipwrecked_RE1_Named",
+        "DisplayName": "@VC_Ghost_Shipwrecked_RE1_Named",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE1_Named\">Ghost_Shipwrecked_RE1_Named</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Shipwrecked_RE2_Named",
+        "DisplayName": "@VC_Ghost_Shipwrecked_RE2_Named",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE2_Named\">Ghost_Shipwrecked_RE2_Named</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Shipwrecked_RE3_Named",
+        "DisplayName": "@VC_Ghost_Shipwrecked_RE3_Named",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE3_Named\">Ghost_Shipwrecked_RE3_Named</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Ghost_Shipwrecked_05WC05c",
         "DisplayName": "@VC_Ghost_Shipwrecked_05WC05c",
         "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_05WC05c\">Ghost_Shipwrecked_05WC05c</string>",
@@ -20021,14 +20448,6 @@
         "DisplayName": "@VC_Ghost_Starved_09FL10",
         "LocStringGenerationHelper": "<string key=\"VC_Ghost_Starved_09FL10\">Ghost_Starved_09FL10</string>",
         "GroupVitalsCategoryId": "Ebony_Hawk",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Ghost_Starved_10WS07",
-        "DisplayName": "@VC_Ghost_Starved_10WS07",
-        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Starved_10WS07\">Ghost_Starved_10WS07</string>",
-        "GroupVitalsCategoryId": "Waterlogged",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -20714,6 +21133,90 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "IceDryad_Fiend_Shivers_25",
+        "DisplayName": "@VC_IceDryad_Fiend_Shivers_25",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Fiend_Shivers_25\">IceDryad_Fiend_Shivers_25</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "IceDryad_Fiend_Shivers_60",
+        "DisplayName": "@VC_IceDryad_Fiend_Shivers_60",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Fiend_Shivers_60\">IceDryad_Fiend_Shivers_60</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "IceDryad_Fiend_Shivers_Frostgrip_25",
+        "DisplayName": "@VC_IceDryad_Fiend_Shivers_Frostgrip_25",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Fiend_Shivers_Frostgrip_25\">IceDryad_Fiend_Shivers_Frostgrip_25</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "IceDryad_Fiend_Shivers_Frostgrip_60",
+        "DisplayName": "@VC_IceDryad_Fiend_Shivers_Frostgrip_60",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Fiend_Shivers_Frostgrip_60\">IceDryad_Fiend_Shivers_Frostgrip_60</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "IceDryad_Melee_Frostfang_25",
+        "DisplayName": "@VC_IceDryad_Melee_Frostfang_25",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Melee_Frostfang_25\">IceDryad_Melee_Frostfang_25</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "IceDryad_Melee_Frostfang_61",
+        "DisplayName": "@VC_IceDryad_Melee_Frostfang_61",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Melee_Frostfang_61\">IceDryad_Melee_Frostfang_61</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "IceDryad_Melee_Frostfang_62",
+        "DisplayName": "@VC_IceDryad_Melee_Frostfang_62",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Melee_Frostfang_62\">IceDryad_Melee_Frostfang_62</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "IceDryad_Melee_Frostfang_65_ELITE",
+        "DisplayName": "@VC_IceDryad_Melee_Frostfang_65_ELITE",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Melee_Frostfang_65_ELITE\">IceDryad_Melee_Frostfang_65_ELITE</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "IceDryad_Range_Frostgrip_25",
+        "DisplayName": "@VC_IceDryad_Range_Frostgrip_25",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Range_Frostgrip_25\">IceDryad_Range_Frostgrip_25</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "IceDryad_Range_Frostgrip_61",
+        "DisplayName": "@VC_IceDryad_Range_Frostgrip_61",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Range_Frostgrip_61\">IceDryad_Range_Frostgrip_61</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "IceDryad_Range_Frostgrip_62",
+        "DisplayName": "@VC_IceDryad_Range_Frostgrip_62",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Range_Frostgrip_62\">IceDryad_Range_Frostgrip_62</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "IceDryad_Range_Frostgrip_65_ELITE",
+        "DisplayName": "@VC_IceDryad_Range_Frostgrip_65_ELITE",
+        "LocStringGenerationHelper": "<string key=\"VC_IceDryad_Range_Frostgrip_65_ELITE\">IceDryad_Range_Frostgrip_65_ELITE</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Icefields",
         "DisplayName": "@VC_Icefields",
         "LocStringGenerationHelper": "<string key=\"VC_Icefields\">Icefields</string>",
@@ -20830,6 +21333,14 @@
         "DisplayName": "@VC_Isabella_DG_Ebonscale_00",
         "LocStringGenerationHelper": "<string key=\"VC_Isabella_DG_Ebonscale_00\">Isabella_DG_Ebonscale_00</string>",
         "GroupVitalsCategoryId": "Shipyard",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Isabella_DG_ShatterMtn_Phase0_00",
+        "DisplayName": "@Isabella_DG_ShatterMtn_Phase1_00_VitalsName",
+        "LocStringGenerationHelper": "<string key=\"VC_Isabella_DG_ShatterMtn_Phase0_00\">Isabella_DG_ShatterMtn_Phase0_00</string>",
+        "GroupVitalsCategoryId": "IsabellaPhase1",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -29002,14 +29513,6 @@
         "IsDynamicPoiTarget": false
     },
     {
-        "VitalsCategoryID": "Skeleton_Mage_10WS02",
-        "DisplayName": "@VC_Skeleton_Mage_10WS02",
-        "LocStringGenerationHelper": "<string key=\"VC_Skeleton_Mage_10WS02\">Skeleton_Mage_10WS02</string>",
-        "GroupVitalsCategoryId": "Mossbone",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
         "VitalsCategoryID": "Skeleton_Mage_10WS04",
         "DisplayName": "@VC_Skeleton_Mage_10WS04",
         "LocStringGenerationHelper": "<string key=\"VC_Skeleton_Mage_10WS04\">Skeleton_Mage_10WS04</string>",
@@ -32392,6 +32895,14 @@
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\undead_berserker\\undead_berserker_var01_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "Undead_Bloated_Corpse_RE1",
+        "DisplayName": "@VC_Undead_Bloated_Corpse_RE1",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_Bloated_Corpse_RE1\">Undead_Bloated_Corpse_RE1</string>",
+        "GroupVitalsCategoryId": "Grubby_Rebels",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Undead_Bloated_Corpse_10WS09",
         "DisplayName": "@VC_Undead_Bloated_Corpse_10WS09",
         "LocStringGenerationHelper": "<string key=\"VC_Undead_Bloated_Corpse_10WS09\">Undead_Bloated_Corpse_10WS09</string>",
@@ -32427,6 +32938,22 @@
         "VitalsCategoryID": "Undead_GraveDigger",
         "DisplayName": "@VC_Undead_GraveDigger",
         "LocStringGenerationHelper": "<string key=\"VC_Undead_GraveDigger\">Undead_GraveDigger</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Undead_GraveDigger_RE1",
+        "DisplayName": "@VC_Undead_GraveDigger_RE1",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_GraveDigger_RE1\">Undead_GraveDigger_RE1</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Undead_GraveDigger_RE2",
+        "DisplayName": "@VC_Undead_GraveDigger_RE2",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_GraveDigger_RE2\">Undead_GraveDigger_RE2</string>",
         "GroupVitalsCategoryId": "BASE",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
@@ -33823,6 +34350,14 @@
         "VitalsCategoryID": "Undead_Hunter",
         "DisplayName": "@VC_Undead_Hunter",
         "LocStringGenerationHelper": "<string key=\"VC_Undead_Hunter\">Undead_Hunter</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Undead_Hunter_RE1",
+        "DisplayName": "@VC_Undead_Hunter_RE1",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_Hunter_RE1\">Undead_Hunter_RE1</string>",
         "GroupVitalsCategoryId": "BASE",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
@@ -36048,6 +36583,13 @@
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\undead_officer\\undead_officer_var01_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "Undead_Officer_Named_1524_1517_WaveEventBoss",
+        "DisplayName": "@VC_Undead_Officer_Named_1524_1517_WaveEventBoss",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_Officer_Named_1524_1517_WaveEventBoss\">Undead_Officer_Named_1524_1517_WaveEventBoss</string>",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true
+    },
+    {
         "VitalsCategoryID": "Undead_Officer_Named_ELITE_05WC11",
         "DisplayName": "@VC_Undead_Officer_Named_ELITE_05WC11",
         "LocStringGenerationHelper": "<string key=\"VC_Undead_Officer_Named_ELITE_05WC11\">Undead_Officer_Named_ELITE_05WC11</string>",
@@ -37274,6 +37816,22 @@
         "DisplayName": "@VC_Undead_Shaman_09FL09a",
         "LocStringGenerationHelper": "<string key=\"VC_Undead_Shaman_09FL09a\">Undead_Shaman_09FL09a</string>",
         "GroupVitalsCategoryId": "Cannonstorm",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Undead_Shaman_10WS03",
+        "DisplayName": "@VC_Undead_Shaman_10WS03",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_Shaman_10WS03\">Undead_Shaman_10WS03</string>",
+        "GroupVitalsCategoryId": "Rothoard",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Undead_Shaman_Named_10WS03",
+        "DisplayName": "@VC_Undead_Shaman_Named_10WS03",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_Shaman_Named_10WS03\">Undead_Shaman_Named_10WS03</string>",
+        "GroupVitalsCategoryId": "Rothoard",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -39834,10 +40392,34 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "Wolf_Elemental_Earth_14AC07a",
+        "DisplayName": "@VC_Wolf_Elemental_Earth_14AC07a",
+        "LocStringGenerationHelper": "<string key=\"VC_Wolf_Elemental_Earth_14AC07a\">Wolf_Elemental_Earth_14AC07a</string>",
+        "GroupVitalsCategoryId": "Hydnora",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Wolf_Elemental_Earth_14AC11b_ELITE",
         "DisplayName": "@VC_Wolf_Elemental_Earth_14AC11b_ELITE",
         "LocStringGenerationHelper": "<string key=\"VC_Wolf_Elemental_Earth_14AC11b_ELITE\">Wolf_Elemental_Earth_14AC11b_ELITE</string>",
         "GroupVitalsCategoryId": "Alcazarian",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Wolf_Elemental_Earth_14AC13",
+        "DisplayName": "@VC_Wolf_Elemental_Earth_14AC13",
+        "LocStringGenerationHelper": "<string key=\"VC_Wolf_Elemental_Earth_14AC13\">Wolf_Elemental_Earth_14AC13</string>",
+        "GroupVitalsCategoryId": "Crescent",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Wolf_Elemental_Earth_14AC18",
+        "DisplayName": "@VC_Wolf_Elemental_Earth_14AC18",
+        "LocStringGenerationHelper": "<string key=\"VC_Wolf_Elemental_Earth_14AC18\">Wolf_Elemental_Earth_14AC18</string>",
+        "GroupVitalsCategoryId": "Sapterlith",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -40759,10 +41341,73 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "Yeti_Named_04NW08",
+        "DisplayName": "@VC_Yeti_Named_04NW08",
+        "LocStringGenerationHelper": "<string key=\"VC_Yeti_Named_04NW08\">Yeti_Named_04NW08</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Yeti_Named_06SW02",
+        "DisplayName": "@VC_Yeti_Named_06SW02",
+        "LocStringGenerationHelper": "<string key=\"VC_Yeti_Named_06SW02\">Yeti_Named_06SW02</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Yeti_Named_07SM08",
+        "DisplayName": "@VC_Yeti_Named_07SM08",
+        "LocStringGenerationHelper": "<string key=\"VC_Yeti_Named_07SM08\">Yeti_Named_07SM08</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Yeti_Named_08QP06",
+        "DisplayName": "@VC_Yeti_Named_08QP06",
+        "LocStringGenerationHelper": "<string key=\"VC_Yeti_Named_08QP06\">Yeti_Named_08QP06</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Yeti_Named_09FL08",
+        "DisplayName": "@VC_Yeti_Named_09FL08",
+        "LocStringGenerationHelper": "<string key=\"VC_Yeti_Named_09FL08\">Yeti_Named_09FL08</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Yeti_Named_12MB07",
+        "DisplayName": "@VC_Yeti_Named_12MB07",
+        "LocStringGenerationHelper": "<string key=\"VC_Yeti_Named_12MB07\">Yeti_Named_12MB07</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Yeti_Named_14AC01",
+        "DisplayName": "@VC_Yeti_Named_14AC01",
+        "LocStringGenerationHelper": "<string key=\"VC_Yeti_Named_14AC01\">Yeti_Named_14AC01</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Yeti_Named_14AC18",
+        "DisplayName": "@VC_Yeti_Named_14AC18",
+        "LocStringGenerationHelper": "<string key=\"VC_Yeti_Named_14AC18\">Yeti_Named_14AC18</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Yonas_MSQ",
         "DisplayName": "@VC_Yonas_MSQ",
         "LocStringGenerationHelper": "<string key=\"VC_Yonas_MSQ\">Yonas_MSQ</string>",
         "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Frozen_65_Elite",
+        "DisplayName": "@VC_Ghost_Frozen_65_Elite",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Frozen_65_Elite\">Ghost_Frozen_65_Elite</string>",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },

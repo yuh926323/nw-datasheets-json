@@ -30,6 +30,11 @@
         "NPCResponse": "@9901_MSQ_Yonas_Response_Friends"
     },
     {
+        "ConversationTopicId": "9901_0021_AmrineSkip",
+        "PlayerPrompt": "@9901_0021_AmrineSkip_Prompt",
+        "NPCResponse": "@9901_0021_AmrineSkip_Response"
+    },
+    {
         "ConversationTopicId": "9914_Hunter_Repellent",
         "PlayerPrompt": "@9914_MSQ_Hunter_Prompt_Repellent",
         "NPCResponse": "@9914_MSQ_Hunter_Response_Repellent"

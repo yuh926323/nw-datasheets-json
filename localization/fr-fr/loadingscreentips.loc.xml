@@ -22,7 +22,7 @@
 	<string key="tip_overworld_azoth_crafting01-title">Azoth</string>
 	<string key="tip_overworld_azoth_crafting01-content">[Placeholder]</string>
 	<string key="tip_overworld_azoth_acquireFrom01-title">Transfert rapide</string>
-	<string key="tip_overworld_azoth_acquireFrom01-content">La meilleure façon d'obtenir de l'Azoth est d'accomplir des quêtes et de fermer des foyers d'altération.</string>
+	<string key="tip_overworld_azoth_acquireFrom01-content">La meilleure façon d'obtenir de l'Azoth est d'accomplir des quêtes et de sceller des foyers d'altération.</string>
 	<string key="tip_overworld_azoth_acquireFrom02-title">Transfert rapide</string>
 	<string key="tip_overworld_azoth_acquireFrom02-content">Il est rare d'obtenir de l'Azoth en éliminant des ennemis, mais certains atouts peuvent en augmenter la probabilité.</string>
 	<string key="tip_overworld_camping_resting01-title">Bivouac</string>
@@ -40,7 +40,7 @@
 	<string key="tip_overworld_combat_weaponMastery02-title">Maîtrise des armes</string>
 	<string key="tip_overworld_combat_weaponMastery02-content">Vous pouvez réinitialiser gratuitement les caractéristiques d'une arme jusqu'à ce que cette dernière atteigne le niveau 10. À vous de découvrir quel style vous convient le mieux.</string>
 	<string key="tip_overworld_combat_damageNumbers01-title">Quantité de dégâts</string>
-	<string key="tip_overworld_combat_damageNumbers01-content">Si les dégâts infligés s'affichent en bleu, c'est que l'ennemi résiste à ce type de dégâts. Essayez de changer d'arme pour lui en infliger davantage !</string>
+	<string key="tip_overworld_combat_damageNumbers01-content">Si les dégâts infligés s'affichent en bleu, c'est que l'ennemi résiste en partie à ce type de dégâts. Essayez de changer d'arme pour lui en infliger davantage !</string>
 	<string key="tip_overworld_combat_damageNumbers02-title">Quantité de dégâts</string>
 	<string key="tip_overworld_combat_damageNumbers02-content">[Placeholder]</string>
 	<string key="tip_overworld_combat_damageNumbers03-title">Quantité de dégâts</string>
@@ -88,7 +88,7 @@
 	<string key="tip_overworld_combat_voidGaunlet01-title">Gantelets du néant</string>
 	<string key="tip_overworld_combat_voidGaunlet01-content">Les multiples améliorations et affaiblissements des gantelets du néant en font des armes très efficaces lors des combats en groupe.</string>
 	<string key="tip_overworld_company_benefits01-title">Compagnies</string>
-	<string key="tip_overworld_company_benefits01-content">Rejoignez une compagnie, combattez les altérés aux côtés de vos alliés et assiégez les territoires des factions adverses.</string>
+	<string key="tip_overworld_company_benefits01-content">Rejoignez une compagnie pour combattre les altérés aux côtés de vos alliés et assiéger les territoires des factions adverses.</string>
 	<string key="tip_overworld_company_benefits02-title">Compagnies</string>
 	<string key="tip_overworld_company_benefits02-content">Seules les compagnies peuvent déclarer la guerre et assiéger des territoires pour les conquérir. Lorsqu'elle gouverne un territoire, votre compagnie peut prélever des impôts, obtenir des réductions conséquentes sur le transfert rapide et contribuer au succès de toute la faction.</string>
 	<string key="tip_overworld_company_benefits03-title">Compagnies</string>
@@ -110,7 +110,7 @@
 	<string key="tip_overworld_crafting_skill03-title">Fabrication</string>
 	<string key="tip_overworld_crafting_skill03-content">Les trophées sont des objets fabriqués par les décorateurs. Exposez-les chez vous pour bénéficier de puissantes améliorations.</string>
 	<string key="tip_overworld_crafting_perks01-title">Atouts de fabrication</string>
-	<string key="tip_overworld_crafting_perks01-content">Pour consulter la liste des atouts disponibles en jeu, rendez-vous dans un comptoir et sélectionnez « Sélectionner atouts » dans l'onglet Parcourir.</string>
+	<string key="tip_overworld_crafting_perks01-content">Pour consulter la liste des atouts disponibles en jeu, rendez-vous dans un comptoir et choisissez « Sélectionner atouts » dans l'onglet Parcourir.</string>
 	<string key="tip_overworld_crafting_azoth01-title">Fabrication</string>
 	<string key="tip_overworld_crafting_azoth01-content">[Placeholder]</string>
 	<string key="tip_overworld_crafting_costAndTaxes01-title">Fabrication</string>
@@ -428,7 +428,7 @@
 	<string key="tip_war_specific06-title">Guerre</string>
 	<string key="tip_war_specific06-content">Les chefs de guerre peuvent maintenir [{hint1}] tout en plaçant une indication afin de la partager avec toute l'armée.</string>
 	<string key="tip_invasion_specific01-title">Invasion</string>
-	<string key="tip_invasion_specific01-content">Les ennemis altérés attaqueront la forteresse par vagues, chaque vague devenant plus forte que la précédente.</string>
+	<string key="tip_invasion_specific01-content">L'armée des altérés attaquera la forteresse par vagues, chaque vague devenant plus forte que la précédente.</string>
 	<string key="tip_invasion_specific02-title">Invasion</string>
 	<string key="tip_invasion_specific02-content">L'armée des altérés tentera de faire tomber les portes et de prendre un point de contrôle dans la forteresse. Si les joueurs parviennent à défendre le point de contrôle de l'invasion, ils gagneront.</string>
 	<string key="tip_invasion_specific03-title">Invasion</string>

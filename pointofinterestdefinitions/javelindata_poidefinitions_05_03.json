@@ -16,7 +16,8 @@
         "DevName": "Bile Dust",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50383,
@@ -35,7 +36,8 @@
         "DevName": "Valhalla",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50384,
@@ -54,7 +56,8 @@
         "DevName": "@ui_poi_crater_corruptedwall_50384",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50301,
@@ -76,7 +79,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50302,
@@ -97,7 +101,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50303,
@@ -118,7 +123,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_wolfDen.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50304,
@@ -138,7 +144,8 @@
         "DevName": "@ui_poi_azure_fissure_50304",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50305,
@@ -158,7 +165,8 @@
         "DevName": "@ui_poi_azure_fissure_50305",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50306,
@@ -179,7 +187,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50307,
@@ -199,7 +208,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50308,
@@ -219,7 +229,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50309,
@@ -239,7 +250,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50310,
@@ -259,7 +271,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50311,
@@ -279,7 +292,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50312,
@@ -299,7 +313,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50313,
@@ -319,7 +334,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50314,
@@ -339,7 +355,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50315,
@@ -359,7 +376,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50316,
@@ -379,7 +397,8 @@
         "DevName": "@ui_poi_crater_fort_50316",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50317,
@@ -399,7 +418,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_township5.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50318,
@@ -419,7 +439,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_township5.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50319,
@@ -438,7 +459,8 @@
         "DevName": "@ui_poi_crater_prowlerhole_50319",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50320,
@@ -457,7 +479,8 @@
         "DevName": "Fungalrust",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50321,
@@ -477,7 +500,8 @@
         "DevName": "@ui_poi_crater_settlement_50321",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50322,
@@ -498,7 +522,8 @@
         "LevelRange": 66,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_spriggan.png",
         "GroupSize": 3,
-        "RecommendedLevel": 66
+        "RecommendedLevel": 66,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50323,
@@ -519,7 +544,8 @@
         "LevelRange": 66,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_spriggan.png",
         "GroupSize": 3,
-        "RecommendedLevel": 66
+        "RecommendedLevel": 66,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50324,
@@ -539,7 +565,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50325,
@@ -560,7 +587,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_Elite_Malevolence.png",
         "GroupSize": 3,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50326,
@@ -581,7 +609,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50327,
@@ -602,7 +631,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50328,
@@ -623,7 +653,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50329,
@@ -643,7 +674,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50330,
@@ -663,7 +695,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50331,
@@ -683,7 +716,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50332,
@@ -704,7 +738,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_mine.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50333,
@@ -725,7 +760,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_mine.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50334,
@@ -745,7 +781,8 @@
         "DevName": "Valor Hold",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50335,
@@ -766,7 +803,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50336,
@@ -787,7 +825,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50337,
@@ -808,7 +847,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50338,
@@ -829,7 +869,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50339,
@@ -850,7 +891,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50340,
@@ -871,7 +913,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_cooking.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50341,
@@ -892,7 +935,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\mapTooltip_station_carpentry.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50342,
@@ -912,7 +956,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50343,
@@ -931,7 +976,8 @@
         "DevName": "Blisteroot",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50344,
@@ -952,7 +998,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50345,
@@ -973,7 +1020,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50346,
@@ -994,7 +1042,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50347,
@@ -1015,7 +1064,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50348,
@@ -1036,7 +1086,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50349,
@@ -1057,7 +1108,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50350,
@@ -1078,7 +1130,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50351,
@@ -1098,7 +1151,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50352,
@@ -1117,7 +1171,8 @@
         "DevName": "Greenfever Crossing",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50353,
@@ -1137,7 +1192,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50354,
@@ -1157,7 +1213,8 @@
         "DevName": "Thorny Steps",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50355,
@@ -1177,7 +1234,8 @@
         "DevName": "50355_MERGEWITH_50314",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50356,
@@ -1197,7 +1255,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50357,
@@ -1216,7 +1275,8 @@
         "DevName": "@ui_poi_crater_feyruins_50357",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50358,
@@ -1235,7 +1295,8 @@
         "DevName": "Festermire",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50359,
@@ -1255,7 +1316,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_motherwell.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50360,
@@ -1276,7 +1338,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50361,
@@ -1297,7 +1360,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50362,
@@ -1318,7 +1382,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50363,
@@ -1339,7 +1404,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50364,
@@ -1360,7 +1426,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50365,
@@ -1381,7 +1448,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50366,
@@ -1402,7 +1470,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50367,
@@ -1422,7 +1491,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50368,
@@ -1442,7 +1512,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50369,
@@ -1461,7 +1532,8 @@
         "DevName": "@ui_poi_crater_mysticbridge_50369",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50370,
@@ -1480,7 +1552,8 @@
         "DevName": "@ui_poi_crater_mysticruins_50370",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50371,
@@ -1500,7 +1573,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50372,
@@ -1520,7 +1594,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50373,
@@ -1540,7 +1615,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50374,
@@ -1560,7 +1636,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI\\Images\\Map\\tooltipImages\\POI\\mapTooltip_poi_angryearth.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50375,
@@ -1581,7 +1658,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50376,
@@ -1602,7 +1680,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50377,
@@ -1623,7 +1702,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50378,
@@ -1644,7 +1724,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50379,
@@ -1665,7 +1746,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50380,
@@ -1686,7 +1768,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50381,
@@ -1707,7 +1790,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_outpostRush_grove.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50389,
@@ -1727,7 +1811,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50390,
@@ -1747,7 +1832,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_1.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50385,
@@ -1767,7 +1853,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50387,
@@ -1787,7 +1874,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_2.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50386,
@@ -1807,7 +1895,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50388,
@@ -1827,7 +1916,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_fish_3.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50391,
@@ -1848,7 +1938,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_poi_bearden.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50392,
@@ -1869,7 +1960,8 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_fortress8.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50393,
@@ -1887,7 +1979,8 @@
         "DevName": "Faction Area",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50394,
@@ -1905,7 +1998,8 @@
         "DevName": "Faction Area",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50395,
@@ -1923,7 +2017,8 @@
         "DevName": "Faction Area",
         "LevelRange": 0,
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
     },
     {
         "TerritoryID": 50396,
@@ -1931,10 +2026,9 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "DiscoveryRadius": 150,
-        "IsDiscoverable": true,
+        "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": 0,
-        "DiscoveredAchievement": "spiritshrine_01_50396_discovered",
+        "DefaultAchievement": 1,
         "ChartedAchievement": "spiritshrine_01_50396_charted",
         "POITag": "spiritshrine_01_50396",
         "AudioGroup": "Music_POI",
@@ -1944,7 +2038,9 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false,
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
     },
     {
         "TerritoryID": 50397,
@@ -1952,10 +2048,9 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "DiscoveryRadius": 150,
-        "IsDiscoverable": true,
+        "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": 0,
-        "DiscoveredAchievement": "spiritshrine_02_50397_discovered",
+        "DefaultAchievement": 1,
         "ChartedAchievement": "spiritshrine_02_50397_charted",
         "POITag": "spiritshrine_02_50397",
         "AudioGroup": "Music_POI",
@@ -1965,7 +2060,9 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false,
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
     },
     {
         "TerritoryID": 50398,
@@ -1973,10 +2070,9 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "DiscoveryRadius": 150,
-        "IsDiscoverable": true,
+        "IsDiscoverable": false,
         "IsChartable": true,
-        "DefaultAchievement": 0,
-        "DiscoveredAchievement": "spiritshrine_02_50398_discovered",
+        "DefaultAchievement": 1,
         "ChartedAchievement": "spiritshrine_02_50398_charted",
         "POITag": "spiritshrine_02_50398",
         "AudioGroup": "Music_POI",
@@ -1986,6 +2082,48 @@
         "LevelRange": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "IsCollapsible": false,
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
+    },
+    {
+        "TerritoryID": 50399,
+        "NameLocalizationKey": "@ui_poi_yeti_50399",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/event_cave.png",
+        "DiscoveryRadius": 150,
+        "IsDiscoverable": true,
+        "IsChartable": true,
+        "DefaultAchievement": 0,
+        "DiscoveredAchievement": "yeti_50399_discovered",
+        "ChartedAchievement": "yeti_50399_charted",
+        "POITag": "yeti_50399",
+        "AudioGroup": "Music_POI",
+        "AudioState": "cave_ice",
+        "CanPlaceCamp": false,
+        "LevelRange": 0,
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_icecave.png",
+        "GroupSize": 0,
+        "RecommendedLevel": 0,
+        "IsCollapsible": false
+    },
+    {
+        "TerritoryID": 50300,
+        "NameLocalizationKey": "@ui_poi_50300_wintervillage",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/event_village.png",
+        "DiscoveryRadius": 150,
+        "IsDiscoverable": true,
+        "IsChartable": true,
+        "DefaultAchievement": 2,
+        "POITag": "wintervillage_50300",
+        "AudioGroup": "Music_POI",
+        "AudioState": "village_winter",
+        "CanPlaceCamp": false,
+        "LevelRange": 0,
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_wintervillage.png",
+        "GroupSize": 0,
+        "RecommendedLevel": 0,
+        "IsCollapsible": true
     }
 ]

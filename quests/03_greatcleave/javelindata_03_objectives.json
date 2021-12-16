@@ -357,7 +357,7 @@
     },
     {
         "ObjectiveID": "0319_0501_PrimeResolve",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -380,7 +380,7 @@
     },
     {
         "ObjectiveID": "0319_0502_PROne",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -396,7 +396,7 @@
     },
     {
         "ObjectiveID": "0319_0503_PRTwo",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -412,7 +412,7 @@
     },
     {
         "ObjectiveID": "0319_0504_PRThree",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -428,7 +428,7 @@
     },
     {
         "ObjectiveID": "0319_0505_PRFour",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -444,7 +444,7 @@
     },
     {
         "ObjectiveID": "0319_0506_PRFive",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -460,7 +460,7 @@
     },
     {
         "ObjectiveID": "0319_0507_PRSix",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -476,7 +476,7 @@
     },
     {
         "ObjectiveID": "0319_0508_PRSeven",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -492,7 +492,7 @@
     },
     {
         "ObjectiveID": "0319_0509_PREight",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -508,7 +508,7 @@
     },
     {
         "ObjectiveID": "0320_0101_GlimmeringMercy",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -531,7 +531,7 @@
     },
     {
         "ObjectiveID": "0320_0102_Prelude",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -552,7 +552,7 @@
     },
     {
         "ObjectiveID": "0320_0103_Adagio",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -573,7 +573,7 @@
     },
     {
         "ObjectiveID": "0320_0104_Scherzo",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -594,7 +594,7 @@
     },
     {
         "ObjectiveID": "0320_0105_Shanty",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -615,7 +615,7 @@
     },
     {
         "ObjectiveID": "0320_0106_Zarabanda",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -636,7 +636,7 @@
     },
     {
         "ObjectiveID": "0320_0107_Requiem",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -657,7 +657,7 @@
     },
     {
         "ObjectiveID": "0320_0108_Passepied",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -678,7 +678,7 @@
     },
     {
         "ObjectiveID": "0320_0109_Sonata",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -699,7 +699,7 @@
     },
     {
         "ObjectiveID": "0321_0101_AzureRavager",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -722,7 +722,7 @@
     },
     {
         "ObjectiveID": "0321_0102_AzureRavager_deathandtaxes",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -743,7 +743,7 @@
     },
     {
         "ObjectiveID": "0321_0103_AzureRavager_byrootandbough",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -764,7 +764,7 @@
     },
     {
         "ObjectiveID": "0321_0104_AzureRavager_sampleofevil",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -785,7 +785,7 @@
     },
     {
         "ObjectiveID": "0321_0105_AzureRavager_crystalcorruption",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -806,7 +806,7 @@
     },
     {
         "ObjectiveID": "0321_0106_AzureRavager_shardsaboveandbelow",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -828,7 +828,7 @@
     },
     {
         "ObjectiveID": "0321_0107_AzureRavager_woodenheartsironheads",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -850,7 +850,7 @@
     },
     {
         "ObjectiveID": "0321_0108_AzureRavager_stickingtotheplan",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -871,7 +871,7 @@
     },
     {
         "ObjectiveID": "0321_0109_AzureRavager_gleamingedge",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -893,7 +893,7 @@
     },
     {
         "ObjectiveID": "0318_0201_RampantConviction",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -916,7 +916,7 @@
     },
     {
         "ObjectiveID": "0318_0202_RampantConviction_unbalancedscales",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -937,7 +937,7 @@
     },
     {
         "ObjectiveID": "0318_0203_RampantConviction_piercingtheveil",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -958,7 +958,7 @@
     },
     {
         "ObjectiveID": "0318_0204_RampantConviction_bonesoftheancients",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -979,7 +979,7 @@
     },
     {
         "ObjectiveID": "0318_0205_RampantConviction_forestsheart",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1000,7 +1000,7 @@
     },
     {
         "ObjectiveID": "0318_0206_RampantConviction_filamentandfirmament",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1021,7 +1021,7 @@
     },
     {
         "ObjectiveID": "0318_0207_RampantConviction_intoburningdepths",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1042,7 +1042,7 @@
     },
     {
         "ObjectiveID": "0318_0208_RampantConviction_avileharvest",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1063,7 +1063,7 @@
     },
     {
         "ObjectiveID": "0318_0209_RampantConviction_thelivingcrystal",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1085,7 +1085,7 @@
     },
     {
         "ObjectiveID": "0325_0101_RL_00",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1108,7 +1108,7 @@
     },
     {
         "ObjectiveID": "0325_0102_RL_01",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1126,7 +1126,7 @@
     },
     {
         "ObjectiveID": "0325_0103_RL_02",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1144,7 +1144,7 @@
     },
     {
         "ObjectiveID": "0325_0104_RL_03",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1162,7 +1162,7 @@
     },
     {
         "ObjectiveID": "0325_0105_RL_04",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1180,7 +1180,7 @@
     },
     {
         "ObjectiveID": "0325_0106_RL_05",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1198,7 +1198,7 @@
     },
     {
         "ObjectiveID": "0325_0107_RL_06",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1216,7 +1216,7 @@
     },
     {
         "ObjectiveID": "0325_0108_RL_07",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -1234,7 +1234,7 @@
     },
     {
         "ObjectiveID": "0325_0109_RL_08",
-        "Type": "Journey",
+        "Type": "EpicEquipment",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,

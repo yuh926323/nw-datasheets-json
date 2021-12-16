@@ -3768,5 +3768,43 @@
         "TP_DescriptionTag": "@objective_mission_kill_with_icegauntlet",
         "IsHidden": 0,
         "TriggerAnalyticsEvent": false
+    },
+    {
+        "TaskID": "FM_task_corruption_breach_container",
+        "Type": "ConsecutiveTaskContainer",
+        "FailOnCondition": 0,
+        "ResetOnCondition": 0,
+        "StayActive": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "PauseAndClearLootOnTaskComplete": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": 0,
+        "TriggerAnalyticsEvent": false,
+        "SubTask1": "FM_task_corruption_breach",
+        "SubTask2": "M_ReturnToAnyGiver"
+    },
+    {
+        "TaskID": "FM_task_corruption_breach",
+        "Type": "TaskGameEvent",
+        "FailOnCondition": 0,
+        "ResetOnCondition": 0,
+        "StayActive": 0,
+        "TargetQty": 1,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "PauseAndClearLootOnTaskComplete": false,
+        "KillEnemyType": "Darkness_Any_GlobalSuccess",
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "TP_DescriptionTag": "@objective_mission_faction_corruption_breach",
+        "IsHidden": 0,
+        "TriggerAnalyticsEvent": false
     }
 ]

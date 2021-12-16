@@ -7,6 +7,7 @@
         "DiscoveryRadius": 375,
         "IsDiscoverable": true,
         "IsChartable": true,
+        "DefaultAchievement": 0,
         "LootTags": "MangledHeightsWest,Corrupted",
         "DiscoveredAchievement": "beastencounter_30301_discovered",
         "ChartedAchievement": "beastencounter_30301_charted",
@@ -27,6 +28,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
+        "DefaultAchievement": 0,
         "DiscoveredAchievement": "dynasty_shrine_30302_discovered",
         "ChartedAchievement": "dynasty_shrine_30302_charted",
         "POITag": "dynasty_shrine_30302",
@@ -46,6 +48,7 @@
         "DiscoveryRadius": 150,
         "IsDiscoverable": true,
         "IsChartable": true,
+        "DefaultAchievement": 0,
         "DiscoveredAchievement": "dynasty_shrine_30312_discovered",
         "ChartedAchievement": "dynasty_shrine_30312_charted",
         "POITag": "dynasty_shrine_30312",
@@ -63,6 +66,7 @@
         "DiscoveryRadius": 60,
         "IsDiscoverable": false,
         "IsChartable": true,
+        "DefaultAchievement": 0,
         "ChartedAchievement": "factionarea_30313_charted",
         "POITag": "poi_30313_factionarea",
         "AudioGroup": "Music_POI",
@@ -78,9 +82,9 @@
         "IsPOI": true,
         "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
         "DiscoveryRadius": 150,
-        "IsDiscoverable": true,
+        "IsDiscoverable": false,
         "IsChartable": true,
-        "DiscoveredAchievement": "spiritshrine_02_30314_discovered",
+        "DefaultAchievement": 1,
         "ChartedAchievement": "spiritshrine_02_30314_charted",
         "POITag": "spiritshrine_02_30314",
         "AudioGroup": "Music_POI",
@@ -89,6 +93,7 @@
         "DevName": "Spirit Shrine",
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GroupSize": 0,
-        "RecommendedLevel": 0
+        "RecommendedLevel": 0,
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
     }
 ]

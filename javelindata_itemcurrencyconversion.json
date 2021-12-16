@@ -12585,7 +12585,7 @@
         "BuyCategoricalProgressionCost": 0,
         "BuyCurrencyCost": 0,
         "BuyCurrencyItemName": "WCPToken",
-        "BuyCurrencyItemCost": 1,
+        "BuyCurrencyItemCost": 10,
         "SellCategoricalProgressionCost": 0,
         "SellCurrencyCost": 0,
         "InContracts": false

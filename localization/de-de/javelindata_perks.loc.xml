@@ -1513,7 +1513,7 @@
 	<string key="PerkID_Armor_ResistBlight_Name">Fäulnisresistenz</string>
 	<string key="PerkID_Armor_ResistBlight_Description">+{[AffixStatDataTable.Affix_Armor_ResistBlight.RESBlight * {perkMultiplier}]} Fäulnisresistenz.</string>
 	<string key="PerkID_Armor_DefCritDmg_Name">Zähigkeit</string>
-	<string key="PerkID_Armor_DefCritDmg_Description">Kritische Treffer verursachen {[GlobalAbilityTable.Global_Armor_DefCritDmg.BaseDamageReduction * 100 * {perkMultiplier}]} % weniger Schaden bei dir.</string>
+	<string key="PerkID_Armor_DefCritDmg_Description">Kritische Treffer verursachen {[GlobalAbilityTable.Global_Armor_DefCritDmg.CritDamageReduction * 100 * {perkMultiplier}]} % weniger Schaden bei dir.</string>
 	<string key="PerkID_Armor_Durability_Name">Verstärkt</string>
 	<string key="PerkID_Armor_Durability_Description">+{[AffixStatDataTable.Affix_Armor_Durability.DurabilityMod * 100 * {perkMultiplier}]} % Strapazierfähigkeit.</string>
 	<string key="PerkID_Armor_DurCC_Name">Freiheit</string>

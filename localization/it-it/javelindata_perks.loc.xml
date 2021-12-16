@@ -1513,7 +1513,7 @@
 	<string key="PerkID_Armor_ResistBlight_Name">Resistenza al logoramento</string>
 	<string key="PerkID_Armor_ResistBlight_Description">+{[AffixStatDataTable.Affix_Armor_ResistBlight.RESBlight * {perkMultiplier}]} di resistenza al logoramento.</string>
 	<string key="PerkID_Armor_DefCritDmg_Name">Resiliente</string>
-	<string key="PerkID_Armor_DefCritDmg_Description">I colpi critici ti infliggono un {[GlobalAbilityTable.Global_Armor_DefCritDmg.BaseDamageReduction * 100 * {perkMultiplier}]}% di danni in meno.</string>
+	<string key="PerkID_Armor_DefCritDmg_Description">I colpi critici ti infliggono un {[GlobalAbilityTable.Global_Armor_DefCritDmg.CritDamageReduction * 100 * {perkMultiplier}]}% di danni in meno.</string>
 	<string key="PerkID_Armor_Durability_Name">Rinforzato</string>
 	<string key="PerkID_Armor_Durability_Description">+{[AffixStatDataTable.Affix_Armor_Durability.DurabilityMod * 100 * {perkMultiplier}]}% di aumento della robustezza.</string>
 	<string key="PerkID_Armor_DurCC_Name">Libertà</string>

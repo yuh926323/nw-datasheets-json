@@ -17348,7 +17348,7 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "WCToken",
-        "Item2": "WCGoldLockboxT1",
+        "Item2": "[LTID]WCGoldLockBoxT1LevelLimit",
         "Item3": "[LBID]WCPatterns"
     },
     {
@@ -17377,7 +17377,7 @@
         "MaxRoll": 0,
         "Item1": "WCToken",
         "Item2": "WCPToken",
-        "Item3": "WCGoldLockboxT1",
+        "Item3": "[LTID]WCGoldLockBoxT1LevelLimit",
         "Item4": "[LBID]WCPatterns"
     },
     {
@@ -17408,7 +17408,7 @@
         "MaxRoll": 0,
         "Item1": "WCToken",
         "Item2": "WCPToken",
-        "Item3": "WCGoldLockboxT1",
+        "Item3": "[LTID]WCGoldLockBoxT1LevelLimit",
         "Item4": "[LBID]WCPatterns"
     },
     {
@@ -17430,6 +17430,29 @@
         "Item2": "90000",
         "Item3": "0",
         "Item4": "96000"
+    },
+    {
+        "LootTableID": "WCGoldLockBoxT1LevelLimit",
+        "AND/OR": "AND",
+        "Conditions": "Level",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "WCGoldLockboxT1"
+    },
+    {
+        "LootTableID": "WCGoldLockBoxT1LevelLimit_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "WCGoldLockBoxT1LevelLimit_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "14"
     },
     {
         "LootTableID": "ItemCastHead",

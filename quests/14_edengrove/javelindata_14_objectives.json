@@ -20,6 +20,7 @@
         "InProgressResponse": "@1403_0201_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1403_0201_f_Complete",
+        "HideIncompleteTurninMarker": false,
         "QuestArcTag": "EdengroveArc1"
     },
     {
@@ -44,6 +45,7 @@
         "InProgressResponse": "@1403_0202_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1403_0202_f_Complete",
+        "HideIncompleteTurninMarker": false,
         "QuestArcTag": "EdengroveArc1"
     },
     {
@@ -67,6 +69,7 @@
         "InProgressResponse": "@1416_0201_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1416_0201_f_Complete",
+        "HideIncompleteTurninMarker": false,
         "QuestArcTag": "EdengroveArc2"
     },
     {
@@ -91,6 +94,7 @@
         "InProgressResponse": "@1416_0202_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1416_0202_f_Complete",
+        "HideIncompleteTurninMarker": false,
         "QuestArcTag": "EdengroveArc2"
     },
     {
@@ -114,7 +118,8 @@
         "ObjectiveProposalResponse": "@1416_0301_c_Proposal",
         "InProgressResponse": "@1416_0301_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1416_0301_f_Complete"
+        "DestinationCompletionAvailableResponse": "@1416_0301_f_Complete",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1418_0201_lights",
@@ -137,6 +142,7 @@
         "InProgressResponse": "@1418_0201_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1418_0201_f_Complete",
+        "HideIncompleteTurninMarker": false,
         "QuestArcTag": "EdengroveArc3"
     },
     {
@@ -161,6 +167,7 @@
         "InProgressResponse": "@1418_0202_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1418_0202_f_Complete",
+        "HideIncompleteTurninMarker": false,
         "QuestArcTag": "EdengroveArc3"
     },
     {
@@ -185,6 +192,7 @@
         "InProgressResponse": "@1403_0203_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1403_0203_f_Complete",
+        "HideIncompleteTurninMarker": false,
         "QuestArcTag": "EdengroveArc1"
     },
     {
@@ -209,6 +217,7 @@
         "InProgressResponse": "@1403_0301_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1403_0301_f_Complete",
+        "HideIncompleteTurninMarker": false,
         "QuestArcTag": "EdengroveArc1"
     },
     {
@@ -232,6 +241,7 @@
         "InProgressResponse": "@1403_0401_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1403_0401_f_Complete",
+        "HideIncompleteTurninMarker": false,
         "QuestArcTag": "EdengroveArc1"
     },
     {
@@ -254,7 +264,8 @@
         "ObjectiveProposalResponse": "@1403A_0301_c_Proposal",
         "InProgressResponse": "@1403A_0301_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1403A_0301_f_Complete"
+        "DestinationCompletionAvailableResponse": "@1403A_0301_f_Complete",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1413_0201_spriggan",
@@ -277,6 +288,7 @@
         "InProgressResponse": "@1413_0201_spriggan_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1413_0201_spriggan_f_Complete",
+        "HideIncompleteTurninMarker": false,
         "QuestArcTag": "EdengroveArc1"
     },
     {
@@ -299,7 +311,8 @@
         "ObjectiveProposalResponse": "@1414_0101_c_Proposal",
         "InProgressResponse": "@1414_0101_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1414_0101_f_Complete"
+        "DestinationCompletionAvailableResponse": "@1414_0101_f_Complete",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1426_0101_MoreSabotage",
@@ -322,6 +335,7 @@
         "InProgressResponse": "@1426_0101_MoreSabotage_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1426_0101_MoreSabotage_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -346,6 +360,7 @@
         "InProgressResponse": "@1426_0102_CollapseVault_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1426_0102_CollapseVault_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -370,6 +385,7 @@
         "InProgressResponse": "@1427_0101_JoinedACult_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1427_0101_JoinedACult_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -394,6 +410,7 @@
         "InProgressResponse": "@1427_0102_Pilgrimmage01_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1427_0102_Pilgrimmage01_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -418,6 +435,7 @@
         "InProgressResponse": "@1427_0103_Pilgrimmage02_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1427_0103_Pilgrimmage02_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -442,6 +460,7 @@
         "InProgressResponse": "@1427_0104_Oath_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1427_0104_Oath_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -466,6 +485,7 @@
         "InProgressResponse": "@1427_0106_UmbrageTrial_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1427_0106_UmbrageTrial_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -490,6 +510,7 @@
         "InProgressResponse": "@1427_0107_HerbalTea_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1427_0107_HerbalTea_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -514,6 +535,7 @@
         "InProgressResponse": "@1427_0108_Wreathes_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1427_0108_Wreathes_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -538,6 +560,7 @@
         "InProgressResponse": "@1427_0109_WasteNot_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1427_0109_WasteNot_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -562,6 +585,7 @@
         "InProgressResponse": "@1427_0109_DaughtersChoice_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1427_0109_DaughtersChoice_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -586,6 +610,7 @@
         "InProgressResponse": "@1431_0101_TastyMushrooms_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1431_0101_TastyMushrooms_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -610,6 +635,7 @@
         "InProgressResponse": "@1431_0102_Symbiote_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1431_0102_Symbiote_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -634,6 +660,7 @@
         "InProgressResponse": "@1431_0103_BeRightBack_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1431_0103_BeRightBack_Complete",
+        "HideIncompleteTurninMarker": true,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -658,6 +685,7 @@
         "InProgressResponse": "@1431_0104_Mycelium_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1431_0104_Mycelium_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -681,6 +709,7 @@
         "InProgressResponse": "@1432_0101_Medicine_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1432_0101_Medicine_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -705,6 +734,7 @@
         "InProgressResponse": "@1432_0102_DryadThieves_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1432_0102_DryadThieves_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -729,6 +759,7 @@
         "InProgressResponse": "@1432_0103_LostDog_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1432_0103_LostDog_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -753,6 +784,7 @@
         "InProgressResponse": "@1432_0104_FoundDog_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1432_0104_FoundDog_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -777,6 +809,7 @@
         "InProgressResponse": "@1435_0101_PutItBack_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1435_0101_PutItBack_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -801,6 +834,7 @@
         "InProgressResponse": "@1435_0102_PopBlossoms_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1435_0102_PopBlossoms_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -825,6 +859,7 @@
         "InProgressResponse": "@1435_0102_WayUpHigh_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1435_0102_WayUpHigh_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -849,6 +884,7 @@
         "InProgressResponse": "@1434_0101_DestroyBlooms_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1434_0101_DestroyBlooms_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -873,6 +909,7 @@
         "InProgressResponse": "@1434_0102_ClearPath_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1434_0102_ClearPath_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -897,6 +934,7 @@
         "InProgressResponse": "@1434_0103_Pyre_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1434_0103_Pyre_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -921,6 +959,7 @@
         "InProgressResponse": "@1434_0103_OutOfHisMisery_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
         "DestinationCompletionAvailableResponse": "@1434_0103_OutOfHisMisery_Complete",
+        "HideIncompleteTurninMarker": false,
         "ReleaseVersion": "Quest_Supplement_Edengrove"
     },
     {
@@ -944,7 +983,8 @@
         "ObjectiveProposalResponse": "@1420_0501_c_Proposal",
         "InProgressResponse": "@1420_0501_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1420_0501_f_Complete"
+        "DestinationCompletionAvailableResponse": "@1420_0501_f_Complete",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1420_0502_CVOne",
@@ -960,7 +1000,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1420_0502_a_Title",
-        "Description": "@1420_0502_b_Description"
+        "Description": "@1420_0502_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1420_0503_CVTwo",
@@ -976,7 +1017,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1420_0503_a_Title",
-        "Description": "@1420_0503_b_Description"
+        "Description": "@1420_0503_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1420_0504_CVThree",
@@ -992,7 +1034,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1420_0504_a_Title",
-        "Description": "@1420_0504_b_Description"
+        "Description": "@1420_0504_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1420_0505_CVFour",
@@ -1008,7 +1051,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1420_0505_a_Title",
-        "Description": "@1420_0505_b_Description"
+        "Description": "@1420_0505_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1420_0506_CVFive",
@@ -1024,7 +1068,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1420_0506_a_Title",
-        "Description": "@1420_0506_b_Description"
+        "Description": "@1420_0506_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1420_0507_CVSix",
@@ -1040,7 +1085,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1420_0507_a_Title",
-        "Description": "@1420_0507_b_Description"
+        "Description": "@1420_0507_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1420_0508_CVSeven",
@@ -1056,7 +1102,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1420_0508_a_Title",
-        "Description": "@1420_0508_b_Description"
+        "Description": "@1420_0508_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1420_0509_CVEight",
@@ -1072,7 +1119,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1420_0509_a_Title",
-        "Description": "@1420_0509_b_Description"
+        "Description": "@1420_0509_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1421_0201_Torrent",
@@ -1095,7 +1143,8 @@
         "ObjectiveProposalResponse": "@1421_0201_c_Proposal",
         "InProgressResponse": "@1421_0201_e_Incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1421_0201_f_Complete"
+        "DestinationCompletionAvailableResponse": "@1421_0201_f_Complete",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1421_0202_TorOne",
@@ -1111,7 +1160,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1421_0202_a_Title",
-        "Description": "@1421_0202_b_Description"
+        "Description": "@1421_0202_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1421_0203_TorTwo",
@@ -1127,7 +1177,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1421_0203_a_Title",
-        "Description": "@1421_0203_b_Description"
+        "Description": "@1421_0203_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1421_0204_TorThree",
@@ -1143,7 +1194,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1421_0204_a_Title",
-        "Description": "@1421_0204_b_Description"
+        "Description": "@1421_0204_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1421_0205_TorFour",
@@ -1159,7 +1211,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1421_0205_a_Title",
-        "Description": "@1421_0205_b_Description"
+        "Description": "@1421_0205_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1421_0206_TorFive",
@@ -1175,7 +1228,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1421_0206_a_Title",
-        "Description": "@1421_0206_b_Description"
+        "Description": "@1421_0206_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1421_0207_TorSix",
@@ -1191,7 +1245,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1421_0207_a_Title",
-        "Description": "@1421_0207_b_Description"
+        "Description": "@1421_0207_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1421_0208_TorSeven",
@@ -1207,7 +1262,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1421_0208_a_Title",
-        "Description": "@1421_0208_b_Description"
+        "Description": "@1421_0208_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1421_0209_TorEight",
@@ -1223,7 +1279,8 @@
         "Repeatable": 0,
         "CanBeAbandoned": false,
         "Title": "@1421_0209_a_Title",
-        "Description": "@1421_0209_b_Description"
+        "Description": "@1421_0209_b_Description",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1419_0201_Reformation",
@@ -1246,7 +1303,8 @@
         "ObjectiveProposalResponse": "@1419_0201_Reformation_proposal",
         "InProgressResponse": "@1419_0201_Reformation_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1419_0201_Reformation_complete_available_response"
+        "DestinationCompletionAvailableResponse": "@1419_0201_Reformation_complete_available_response",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1419_0202_Reformation_metalsraw",
@@ -1267,7 +1325,8 @@
         "ObjectiveProposalResponse": "@1419_0202_Reformation_metalsraw_proposal",
         "InProgressResponse": "@1419_0202_Reformation_metalsraw_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1419_0202_Reformation_metalsraw_complete_available_response"
+        "DestinationCompletionAvailableResponse": "@1419_0202_Reformation_metalsraw_complete_available_response",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1419_0203_Reformation_essencebalanced",
@@ -1288,7 +1347,8 @@
         "ObjectiveProposalResponse": "@1419_0203_Reformation_essencebalanced_proposal",
         "InProgressResponse": "@1419_0203_Reformation_essencebalanced_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1419_0203_Reformation_essencebalanced_complete_available_response"
+        "DestinationCompletionAvailableResponse": "@1419_0203_Reformation_essencebalanced_complete_available_response",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1419_0204_Reformation_polishpure",
@@ -1309,7 +1369,8 @@
         "ObjectiveProposalResponse": "@1419_0204_Reformation_polishpure_proposal",
         "InProgressResponse": "@1419_0204_Reformation_polishpure_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1419_0204_Reformation_polishpure_complete_available_response"
+        "DestinationCompletionAvailableResponse": "@1419_0204_Reformation_polishpure_complete_available_response",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1419_0205_Reformation_wieldertested",
@@ -1330,7 +1391,8 @@
         "ObjectiveProposalResponse": "@1419_0205_Reformation_wieldertested_proposal",
         "InProgressResponse": "@1419_0205_Reformation_wieldertested_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1419_0205_Reformation_wieldertested_complete_available_response"
+        "DestinationCompletionAvailableResponse": "@1419_0205_Reformation_wieldertested_complete_available_response",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1419_0206_Reformation_bindingstight",
@@ -1351,7 +1413,8 @@
         "ObjectiveProposalResponse": "@1419_0206_Reformation_bindingstight_proposal",
         "InProgressResponse": "@1419_0206_Reformation_bindingstight_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1419_0206_Reformation_bindingstight_complete_available_response"
+        "DestinationCompletionAvailableResponse": "@1419_0206_Reformation_bindingstight_complete_available_response",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1419_0207_Reformation_firesstoked",
@@ -1372,7 +1435,8 @@
         "ObjectiveProposalResponse": "@1419_0207_Reformation_firesstoked_proposal",
         "InProgressResponse": "@1419_0207_Reformation_firesstoked_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1419_0207_Reformation_firesstoked_complete_available_response"
+        "DestinationCompletionAvailableResponse": "@1419_0207_Reformation_firesstoked_complete_available_response",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1419_0208_Reformation_hafthewn",
@@ -1393,7 +1457,8 @@
         "ObjectiveProposalResponse": "@1419_0208_Reformation_hafthewn_proposal",
         "InProgressResponse": "@1419_0208_Reformation_hafthewn_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1419_0208_Reformation_hafthewn_complete_available_response"
+        "DestinationCompletionAvailableResponse": "@1419_0208_Reformation_hafthewn_complete_available_response",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1419_0209_Reformation_gripsecured",
@@ -1414,7 +1479,8 @@
         "ObjectiveProposalResponse": "@1419_0209_Reformation_gripsecured_proposal",
         "InProgressResponse": "@1419_0209_Reformation_gripsecured_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1419_0209_Reformation_gripsecured_complete_available_response"
+        "DestinationCompletionAvailableResponse": "@1419_0209_Reformation_gripsecured_complete_available_response",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1418_0101_RD_00",
@@ -1437,7 +1503,8 @@
         "ObjectiveProposalResponse": "@1418_0101_RD_00_proposal",
         "InProgressResponse": "@1418_0101_RD_00_incomplete",
         "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
-        "DestinationCompletionAvailableResponse": "@1418_0101_RD_00_complete_available_response"
+        "DestinationCompletionAvailableResponse": "@1418_0101_RD_00_complete_available_response",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1418_0102_RD_01",
@@ -1455,7 +1522,8 @@
         "Title": "@1418_0101_RD_01_objective_title",
         "Description": "@1418_0101_RD_01_objective_desc",
         "PlayerPrompt": "@prompt_DEFAULT",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT"
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1418_0103_RD_02",
@@ -1473,7 +1541,8 @@
         "Title": "@1418_0101_RD_02_objective_title",
         "Description": "@1418_0101_RD_02_objective_desc",
         "PlayerPrompt": "@prompt_DEFAULT",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT"
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1418_0104_RD_03",
@@ -1491,7 +1560,8 @@
         "Title": "@1418_0101_RD_03_objective_title",
         "Description": "@1418_0101_RD_03_objective_desc",
         "PlayerPrompt": "@prompt_DEFAULT",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT"
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1418_0105_RD_04",
@@ -1509,7 +1579,8 @@
         "Title": "@1418_0101_RD_04_objective_title",
         "Description": "@1418_0101_RD_04_objective_desc",
         "PlayerPrompt": "@prompt_DEFAULT",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT"
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1418_0106_RD_05",
@@ -1527,7 +1598,8 @@
         "Title": "@1418_0101_RD_05_objective_title",
         "Description": "@1418_0101_RD_05_objective_desc",
         "PlayerPrompt": "@prompt_DEFAULT",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT"
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1418_0107_RD_06",
@@ -1545,7 +1617,8 @@
         "Title": "@1418_0101_RD_06_objective_title",
         "Description": "@1418_0101_RD_06_objective_desc",
         "PlayerPrompt": "@prompt_DEFAULT",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT"
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1418_0108_RD_07",
@@ -1563,7 +1636,8 @@
         "Title": "@1418_0101_RD_07_objective_title",
         "Description": "@1418_0101_RD_07_objective_desc",
         "PlayerPrompt": "@prompt_DEFAULT",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT"
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "1418_0109_RD_08",
@@ -1581,7 +1655,8 @@
         "Title": "@1418_0101_RD_08_objective_title",
         "Description": "@1418_0101_RD_08_objective_desc",
         "PlayerPrompt": "@prompt_DEFAULT",
-        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT"
+        "DestinationCompletionAvailablePrompt": "@complete_available_prompt_DEFAULT",
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1401_objective",
@@ -1593,7 +1668,8 @@
         "Task": "FM_1401_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1402_objective",
@@ -1605,7 +1681,8 @@
         "Task": "FM_1402_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1403_objective",
@@ -1617,7 +1694,8 @@
         "Task": "FM_1403_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1404_objective",
@@ -1629,7 +1707,8 @@
         "Task": "FM_1404_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1405_objective",
@@ -1641,7 +1720,8 @@
         "Task": "FM_1405_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1406_objective",
@@ -1653,7 +1733,8 @@
         "Task": "FM_1406_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1407_objective",
@@ -1665,7 +1746,8 @@
         "Task": "FM_1407_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1408_objective",
@@ -1677,7 +1759,8 @@
         "Task": "FM_1408_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1409_objective",
@@ -1689,7 +1772,8 @@
         "Task": "FM_1409_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1410_objective",
@@ -1701,7 +1785,8 @@
         "Task": "FM_1410_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1401_objective",
@@ -1713,7 +1798,8 @@
         "Task": "FM_S_1401_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1402_objective",
@@ -1725,7 +1811,8 @@
         "Task": "FM_S_1402_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1403_objective",
@@ -1737,7 +1824,8 @@
         "Task": "FM_S_1403_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1404_objective",
@@ -1749,7 +1837,8 @@
         "Task": "FM_S_1404_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1405_objective",
@@ -1761,7 +1850,8 @@
         "Task": "FM_S_1405_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1406_objective",
@@ -1773,7 +1863,8 @@
         "Task": "FM_S_1406_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1407_objective",
@@ -1785,7 +1876,8 @@
         "Task": "FM_S_1407_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1408_objective",
@@ -1797,7 +1889,8 @@
         "Task": "FM_S_1408_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1409_objective",
@@ -1809,7 +1902,8 @@
         "Task": "FM_S_1409_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1410_objective",
@@ -1821,7 +1915,8 @@
         "Task": "FM_S_1410_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1401_objective",
@@ -1833,7 +1928,8 @@
         "Task": "FM_C_1401_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1402_objective",
@@ -1845,7 +1941,8 @@
         "Task": "FM_C_1402_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1403_objective",
@@ -1857,7 +1954,8 @@
         "Task": "FM_C_1403_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1404_objective",
@@ -1869,7 +1967,8 @@
         "Task": "FM_C_1404_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1405_objective",
@@ -1881,7 +1980,8 @@
         "Task": "FM_C_1405_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1406_objective",
@@ -1893,7 +1993,8 @@
         "Task": "FM_C_1406_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1407_objective",
@@ -1905,7 +2006,8 @@
         "Task": "FM_C_1407_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1408_objective",
@@ -1917,7 +2019,8 @@
         "Task": "FM_C_1408_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1409_objective",
@@ -1929,7 +2032,8 @@
         "Task": "FM_C_1409_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1410_objective",
@@ -1941,7 +2045,8 @@
         "Task": "FM_C_1410_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1461_objective",
@@ -1953,7 +2058,8 @@
         "Task": "FM_1461_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1462_objective",
@@ -1965,7 +2071,8 @@
         "Task": "FM_1462_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1463_objective",
@@ -1977,7 +2084,8 @@
         "Task": "FM_1463_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1464_objective",
@@ -1989,7 +2097,8 @@
         "Task": "FM_1464_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1465_objective",
@@ -2001,7 +2110,8 @@
         "Task": "FM_1465_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1466_objective",
@@ -2013,7 +2123,8 @@
         "Task": "FM_1466_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1467_objective",
@@ -2025,7 +2136,8 @@
         "Task": "FM_1467_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1468_objective",
@@ -2037,7 +2149,8 @@
         "Task": "FM_1468_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1469_objective",
@@ -2049,7 +2162,8 @@
         "Task": "FM_1469_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_1470_objective",
@@ -2061,7 +2175,8 @@
         "Task": "FM_1470_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1461_objective",
@@ -2073,7 +2188,8 @@
         "Task": "FM_S_1461_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1462_objective",
@@ -2085,7 +2201,8 @@
         "Task": "FM_S_1462_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1463_objective",
@@ -2097,7 +2214,8 @@
         "Task": "FM_S_1463_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1464_objective",
@@ -2109,7 +2227,8 @@
         "Task": "FM_S_1464_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1465_objective",
@@ -2121,7 +2240,8 @@
         "Task": "FM_S_1465_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1466_objective",
@@ -2133,7 +2253,8 @@
         "Task": "FM_S_1466_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1467_objective",
@@ -2145,7 +2266,8 @@
         "Task": "FM_S_1467_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1468_objective",
@@ -2157,7 +2279,8 @@
         "Task": "FM_S_1468_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1469_objective",
@@ -2169,7 +2292,8 @@
         "Task": "FM_S_1469_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_S_1470_objective",
@@ -2181,7 +2305,8 @@
         "Task": "FM_S_1470_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1461_objective",
@@ -2193,7 +2318,8 @@
         "Task": "FM_C_1461_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1462_objective",
@@ -2205,7 +2331,8 @@
         "Task": "FM_C_1462_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1463_objective",
@@ -2217,7 +2344,8 @@
         "Task": "FM_C_1463_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1464_objective",
@@ -2229,7 +2357,8 @@
         "Task": "FM_C_1464_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1465_objective",
@@ -2241,7 +2370,8 @@
         "Task": "FM_C_1465_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1466_objective",
@@ -2253,7 +2383,8 @@
         "Task": "FM_C_1466_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1467_objective",
@@ -2265,7 +2396,8 @@
         "Task": "FM_C_1467_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1468_objective",
@@ -2277,7 +2409,8 @@
         "Task": "FM_C_1468_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1469_objective",
@@ -2289,7 +2422,8 @@
         "Task": "FM_C_1469_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_C_1470_objective",
@@ -2301,7 +2435,8 @@
         "Task": "FM_C_1470_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_PVP_Spy_Marauder_objective",
@@ -2313,7 +2448,8 @@
         "Task": "FM_14_PVP_Spy_Marauder_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 1,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_PVP_Poach_Marauder_objective",
@@ -2325,7 +2461,8 @@
         "Task": "FM_14_PVP_Poach_Marauder_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 1,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_PVP_Control_Marauder_objective",
@@ -2337,7 +2474,8 @@
         "Task": "FM_14_PVP_Control_Marauder_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 1,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_PVP_Spy_Syndicate_objective",
@@ -2349,7 +2487,8 @@
         "Task": "FM_14_PVP_Spy_Syndicate_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 1,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_PVP_Poach_Syndicate_objective",
@@ -2361,7 +2500,8 @@
         "Task": "FM_14_PVP_Poach_Syndicate_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 1,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_PVP_Control_Syndicate_objective",
@@ -2373,7 +2513,8 @@
         "Task": "FM_14_PVP_Control_Syndicate_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 1,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_PVP_Spy_Covenant_objective",
@@ -2385,7 +2526,8 @@
         "Task": "FM_14_PVP_Spy_Covenant_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 1,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_PVP_Poach_Covenant_objective",
@@ -2397,7 +2539,8 @@
         "Task": "FM_14_PVP_Poach_Covenant_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 1,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_PVP_Control_Covenant_objective",
@@ -2409,7 +2552,8 @@
         "Task": "FM_14_PVP_Control_Covenant_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 1,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_H_01_objective",
@@ -2421,7 +2565,8 @@
         "Task": "FM_14_H_01_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_H_02_objective",
@@ -2433,7 +2578,8 @@
         "Task": "FM_14_H_02_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_H_03_objective",
@@ -2445,7 +2591,8 @@
         "Task": "FM_14_H_03_container",
         "ExclusiveTerritory": 14,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_EXP_01_objective",
@@ -2457,7 +2604,8 @@
         "Task": "FM_14_EXP_01_container",
         "ExclusiveTerritory": 0,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_EXP_02_objective",
@@ -2469,7 +2617,8 @@
         "Task": "FM_14_EXP_02_container",
         "ExclusiveTerritory": 0,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     },
     {
         "ObjectiveID": "FM_14_EXP_03_objective",
@@ -2481,6 +2630,7 @@
         "Task": "FM_14_EXP_03_container",
         "ExclusiveTerritory": 0,
         "Repeatable": 0,
-        "CanBeAbandoned": true
+        "CanBeAbandoned": true,
+        "HideIncompleteTurninMarker": false
     }
 ]

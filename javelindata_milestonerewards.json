@@ -242,18 +242,6 @@
         "Name": "@TerritoryRecommendation_7"
     },
     {
-        "RewardID": "ChallengeDaily",
-        "MilestoneType": "challenge",
-        "MilestoneLevel": 25,
-        "Name": "@ChallengeUnlockDaily"
-    },
-    {
-        "RewardID": "ChallengeWeekly",
-        "MilestoneType": "challenge",
-        "MilestoneLevel": 60,
-        "Name": "@ChallengeUnlockWeekly"
-    },
-    {
         "RewardID": "Expertise",
         "MilestoneLevel": 60,
         "Name": "@Expertise_Name",

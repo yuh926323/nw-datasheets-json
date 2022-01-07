@@ -1340,7 +1340,6 @@
         "RemoveOnDeath": 1,
         "RemoveOnDeathsDoor": 0,
         "IgnoreDiminishingReturns": false,
-        "EquipAbility": "Passive_Bow_Hunter_DmgOnFirst_Tracker",
         "IsNegative": false,
         "ABSStandard": 0,
         "ABSSiege": 0,

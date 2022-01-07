@@ -757,6 +757,7 @@
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
         "DefaultDialogue": "@1132_Sidney_3",
+        "RequiredProgression": "BlunderbussAbilityTable 9 0",
         "RequiredAchievement": "11_BBMastery_2",
         "LinearObjectiveId1": "1132_02_DiamondbackHustler"
     },
@@ -779,6 +780,7 @@
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
         "DefaultDialogue": "@1132_Sidney_6",
+        "RequiredProgression": "BlunderbussAbilityTable 19 0",
         "RequiredAchievement": "11_BBMastery_6",
         "LinearObjectiveId1": "1132_05_Shootout"
     },
@@ -786,7 +788,8 @@
         "ConversationStateId": "1132_Sidney_7",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
-        "DefaultDialogue": "@1132_Sidney_7"
+        "DefaultDialogue": "@1132_Sidney_7",
+        "RequiredAchievement": "11_BBMastery_7"
     },
     {
         "ConversationStateId": "1131_Megnolia_Default",
@@ -834,6 +837,7 @@
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
         "DefaultDialogue": "@1131_Megnolia_6",
+        "RequiredProgression": "BlunderbussAbilityTable 14 0",
         "RequiredAchievement": "11_BBMastery_5",
         "LinearObjectiveId1": "1131_02_GrampasGun"
     },
@@ -841,7 +845,8 @@
         "ConversationStateId": "1131_Megnolia_7",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
-        "DefaultDialogue": "@1131_Megnolia_7"
+        "DefaultDialogue": "@1131_Megnolia_7",
+        "RequiredAchievement": "11_BBMastery_7"
     },
     {
         "ConversationStateId": "1133_Stonefirth_Default",
@@ -854,6 +859,7 @@
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
         "DefaultDialogue": "@1133_Stonefirth_2",
+        "RequiredProgression": "BlunderbussAbilityTable 4 0",
         "RequiredLevel": "45",
         "LinearObjectiveId1": "1133_01_SnakeOil"
     },

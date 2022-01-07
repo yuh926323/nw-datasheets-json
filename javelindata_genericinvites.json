@@ -8,6 +8,7 @@
         "MaxDistance": 10,
         "AllowInSanctuary": false,
         "AllowInFtue": false,
+        "AllowInWarPrep": false,
         "AllowInWar": false,
         "AllowInArena": false,
         "DisallowInGameModes": "Dungeon,OutpostRush,Duel,",
@@ -22,6 +23,7 @@
         "MaxDistance": 10,
         "AllowInSanctuary": true,
         "AllowInFtue": false,
+        "AllowInWarPrep": true,
         "AllowInWar": false,
         "AllowInArena": false,
         "DisallowInGameModes": "OutpostRush,Duel,"

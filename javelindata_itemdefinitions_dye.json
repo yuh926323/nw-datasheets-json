@@ -20,9 +20,24 @@
         "NameNote": "Ship Gray"
     },
     {
+        "DyeItemId": "DyeA028",
+        "ColorIndex": 28,
+        "NameNote": "Soft Coal"
+    },
+    {
+        "DyeItemId": "DyeA029",
+        "ColorIndex": 29,
+        "NameNote": "Blemished pearl"
+    },
+    {
         "DyeItemId": "DyeA030",
         "ColorIndex": 30,
         "NameNote": "Sublime Bone"
+    },
+    {
+        "DyeItemId": "DyeA031",
+        "ColorIndex": 31,
+        "NameNote": "Sandalwood"
     },
     {
         "DyeItemId": "DyeA032",
@@ -50,6 +65,11 @@
         "NameNote": "Viola"
     },
     {
+        "DyeItemId": "DyeA037",
+        "ColorIndex": 37,
+        "NameNote": "Ageless Bronze"
+    },
+    {
         "DyeItemId": "DyeA038",
         "ColorIndex": 38,
         "NameNote": "Burnt Sienna"
@@ -58,6 +78,16 @@
         "DyeItemId": "DyeA039",
         "ColorIndex": 39,
         "NameNote": "Silt"
+    },
+    {
+        "DyeItemId": "DyeA040",
+        "ColorIndex": 40,
+        "NameNote": "Blond"
+    },
+    {
+        "DyeItemId": "DyeA041",
+        "ColorIndex": 41,
+        "NameNote": "Sushi Green"
     },
     {
         "DyeItemId": "DyeA042",
@@ -73,6 +103,11 @@
         "DyeItemId": "DyeA044",
         "ColorIndex": 44,
         "NameNote": "Green Grass"
+    },
+    {
+        "DyeItemId": "DyeA045",
+        "ColorIndex": 45,
+        "NameNote": "Mantis"
     },
     {
         "DyeItemId": "DyeA046",
@@ -95,6 +130,11 @@
         "NameNote": "Blued Steel"
     },
     {
+        "DyeItemId": "DyeA050",
+        "ColorIndex": 50,
+        "NameNote": "Supreme Saphire"
+    },
+    {
         "DyeItemId": "DyeA051",
         "ColorIndex": 51,
         "NameNote": "Fierce Cobalt"
@@ -103,6 +143,16 @@
         "DyeItemId": "DyeA052",
         "ColorIndex": 52,
         "NameNote": "Spring Grape"
+    },
+    {
+        "DyeItemId": "DyeA053",
+        "ColorIndex": 53,
+        "NameNote": "Butterfly Wing"
+    },
+    {
+        "DyeItemId": "DyeA054",
+        "ColorIndex": 54,
+        "NameNote": "Tranquil Blossom"
     },
     {
         "DyeItemId": "DyeA055",

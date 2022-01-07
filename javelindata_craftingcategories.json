@@ -2401,9 +2401,29 @@
         "DisplayText": "@ManaCooking_CategoryName"
     },
     {
+        "CategoryID": "Meat1",
+        "ImagePath": "Icons/Items/Drawing/meat",
+        "DisplayText": "@Meat_CategoryName"
+    },
+    {
+        "CategoryID": "Fruit1",
+        "ImagePath": "Icons/Items/Drawing/fruit",
+        "DisplayText": "@Fruit_CategoryName"
+    },
+    {
+        "CategoryID": "Vegetable1",
+        "ImagePath": "Icons/Items/Drawing/vegetable",
+        "DisplayText": "@Vegetable_CategoryName"
+    },
+    {
         "CategoryID": "Seasoning",
         "ImagePath": "Icons/Items/Drawing/seasoningpouch",
         "DisplayText": "@Seasoning_CategoryName"
+    },
+    {
+        "CategoryID": "Grain1",
+        "ImagePath": "Icons/Items/Drawing/grain",
+        "DisplayText": "@Grain_CategoryName"
     },
     {
         "CategoryID": "AlchemyMedicinal",
@@ -2431,6 +2451,11 @@
         "DisplayText": "@PerkItem_CategoryName"
     },
     {
+        "CategoryID": "ArcanaLife1",
+        "ImagePath": "Icons/Items/Drawing/alchemylife",
+        "DisplayText": "@ArcanaLife_GroupName"
+    },
+    {
         "CategoryID": "ArcanaDeath",
         "ImagePath": "Icons/Items/Drawing/alchemydeath",
         "DisplayText": "@ArcanaDeath_GroupName"
@@ -2444,6 +2469,16 @@
         "CategoryID": "ArcanaAir",
         "ImagePath": "Icons/Items/Drawing/alchemyair",
         "DisplayText": "@ArcanaAir_GroupName"
+    },
+    {
+        "CategoryID": "ArcanaWater1",
+        "ImagePath": "Icons/Items/Drawing/alchemywater",
+        "DisplayText": "@ArcanaWater_GroupName"
+    },
+    {
+        "CategoryID": "ArcanaFire1",
+        "ImagePath": "Icons/Items/Drawing/alchemyfire",
+        "DisplayText": "@ArcanaFire_GroupName"
     },
     {
         "CategoryID": "ArcanaEarth",
@@ -2579,6 +2614,18 @@
         "Description": "@Ingot_GroupDesc"
     },
     {
+        "CategoryID": "Leather1",
+        "ImagePath": "Icons/Items/Drawing/leather",
+        "DisplayText": "@CategoryData_Leather",
+        "Description": "@Leather_GroupDesc"
+    },
+    {
+        "CategoryID": "Cloth1",
+        "ImagePath": "Icons/Items/Drawing/cloth",
+        "DisplayText": "@CategoryData_Cloth",
+        "Description": "@Cloth_GroupDesc"
+    },
+    {
         "CategoryID": "IngotPrecious",
         "ImagePath": "Icons/Items/Drawing/ingotPrecious",
         "DisplayText": "@CategoryData_IngotPrecious",
@@ -2589,6 +2636,12 @@
         "ImagePath": "Icons/Items/Drawing/charcoal",
         "DisplayText": "@CategoryData_Charcoal",
         "Description": "@Charcoal_GroupDesc"
+    },
+    {
+        "CategoryID": "Metal1",
+        "ImagePath": "Icons/Items/Drawing/ingot",
+        "DisplayText": "@Metal_CategoryName",
+        "Description": "@Metal_CategoryName"
     },
     {
         "CategoryID": "Planks",
@@ -2911,6 +2964,18 @@
         "DisplayText": "@ProcPotionRegen_GroupName"
     },
     {
+        "CategoryID": "PotionEndurance1",
+        "DisplayText": "@PotionEndurance_GroupName"
+    },
+    {
+        "CategoryID": "PotionFocus1",
+        "DisplayText": "@PotionFocus_GroupName"
+    },
+    {
+        "CategoryID": "PotionEncumbrance1",
+        "DisplayText": "@PotionEncumbrance_GroupName"
+    },
+    {
         "CategoryID": "CoatingBeast",
         "ImagePath": "Icons/Items/Drawing/imbueBleed",
         "DisplayText": "@CoatingBeast_GroupName"
@@ -3147,6 +3212,10 @@
         "DisplayText": "@Concoctions_GroupName"
     },
     {
+        "CategoryID": "Storage1",
+        "DisplayText": "@Storage_GroupName"
+    },
+    {
         "CategoryID": "RepairKits",
         "DisplayText": "@RepairKits_GroupName"
     },
@@ -3165,6 +3234,10 @@
     {
         "CategoryID": "T1Meat",
         "DisplayText": "@T1Meat_GroupName"
+    },
+    {
+        "CategoryID": "BasicCooking1",
+        "DisplayText": "@BasicCooking_GroupName"
     },
     {
         "CategoryID": "Foods",
@@ -4121,6 +4194,10 @@
     {
         "CategoryID": "FoodComponents",
         "DisplayText": "@FoodComponents_GroupName"
+    },
+    {
+        "CategoryID": "Components1",
+        "DisplayText": "@Components_GroupName"
     },
     {
         "CategoryID": "Keys",

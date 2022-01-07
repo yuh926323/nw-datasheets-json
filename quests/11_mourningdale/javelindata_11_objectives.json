@@ -581,7 +581,7 @@
     {
         "ObjectiveID": "1110_0101_GreetTheNewcomers",
         "Type": "Journey",
-        "DifficultyLevel": 48,
+        "DifficultyLevel": 50,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -605,7 +605,7 @@
     {
         "ObjectiveID": "1110_0101_GreetTheNewcomers2",
         "Type": "Journey",
-        "DifficultyLevel": 48,
+        "DifficultyLevel": 50,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -629,7 +629,7 @@
     {
         "ObjectiveID": "1124_PierreGoHome",
         "Type": "Journey",
-        "DifficultyLevel": 47,
+        "DifficultyLevel": 50,
         "FlagPvp": false,
         "CanBeShared": false,
         "CanFastTravel": false,
@@ -652,7 +652,7 @@
     },
     {
         "ObjectiveID": "1130_01_EdgeOfTheWorld",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 10,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -675,7 +675,7 @@
     },
     {
         "ObjectiveID": "1130_02_CallBeyondTheVoid",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 20,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -699,7 +699,7 @@
     },
     {
         "ObjectiveID": "1130_03_StirsTheWatchful",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 30,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -723,7 +723,7 @@
     },
     {
         "ObjectiveID": "1130_04_TheBridge",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 40,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -747,7 +747,7 @@
     },
     {
         "ObjectiveID": "1130_05_SensounoKo",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 45,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -771,7 +771,7 @@
     },
     {
         "ObjectiveID": "1133_01_SnakeOil",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 45,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -794,7 +794,7 @@
     },
     {
         "ObjectiveID": "1132_01_ClaimJumper",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 45,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -818,7 +818,7 @@
     },
     {
         "ObjectiveID": "1132_02_DiamondbackHustler",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 45,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -842,7 +842,7 @@
     },
     {
         "ObjectiveID": "1132_03_RoomEnough",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 55,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -866,7 +866,7 @@
     },
     {
         "ObjectiveID": "1131_01_BigThunder",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 55,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -890,7 +890,7 @@
     },
     {
         "ObjectiveID": "1131_02_GrampasGun",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 50,
         "FlagPvp": false,
         "CanBeShared": false,
@@ -914,7 +914,7 @@
     },
     {
         "ObjectiveID": "1132_05_Shootout",
-        "Type": "Journey",
+        "Type": "SkillProgression",
         "DifficultyLevel": 60,
         "FlagPvp": false,
         "CanBeShared": false,

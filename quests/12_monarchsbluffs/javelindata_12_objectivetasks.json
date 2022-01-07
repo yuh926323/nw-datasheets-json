@@ -2129,8 +2129,45 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "SubTask1": "1205_0102_d_01_transport_npc_note",
-        "SubTask2": "1205_0102_d_02_have_npc_note"
+        "SubTask1": "1205_0102_d_01_transport_npc_note_returntomagistrate",
+        "SubTask2": "1205_0102_d_02_have_npc_note_returntomagistrate"
+    },
+    {
+        "TaskID": "1205_0102_d_01_transport_npc_note_returntomagistrate",
+        "Type": "TaskGiveAndTakeItem",
+        "FailOnCondition": 0,
+        "TargetQty": 1,
+        "ItemName": "MI_SummonsNote",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 100,
+        "EnforceLocationRequirement": true,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "TP_DescriptionTag": "@12_task_transport_generic",
+        "IsHidden": "1"
+    },
+    {
+        "TaskID": "1205_0102_d_02_have_npc_note_returntomagistrate",
+        "Type": "TaskHaveAndReturnItems",
+        "FailOnCondition": 0,
+        "StayActive": "1",
+        "TargetQty": 1,
+        "ItemName": "MI_SummonsNote",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 1,
+        "TP_DescriptionTag": "@12_task_transport_generic",
+        "IsHidden": "1"
     },
     {
         "TaskID": "1202_0202_d_00_container_introtoallfactions",
@@ -3617,6 +3654,7 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
+        "IsHidden": "1",
         "SubTask1": "1203_0302_d_02_KillTaskSneed",
         "SubTask2": "1203_0302_d_02_TaskGatherItems_Lakeside_Farm"
     },
@@ -4216,8 +4254,7 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "SubTask1": "1205_0301_d_01_TaskGoToPOITag_Undead_Bastion",
-        "SubTask2": "1203_0402_03_SliceSwap_1205_Artificer",
-        "SubTask3": "1205_0301_d_02_TaskHaveAndReturnItems_5_MI_BrokenWeapon_Undead_Bastion"
+        "SubTask2": "1205_0301_d_02_TaskHaveAndReturnItems_5_MI_BrokenWeapon_Undead_Bastion"
     },
     {
         "TaskID": "1205_0301_d_01_TaskGoToPOITag_Undead_Bastion",
@@ -4236,24 +4273,6 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@1205_0301_d_01_TaskGoToPOITag_Undead_Bastion"
-    },
-    {
-        "TaskID": "1203_0402_03_SliceSwap_1205_Artificer",
-        "Type": "TaskUnlockAchievement",
-        "FailOnCondition": 0,
-        "StayActive": "1",
-        "TargetQty": 1,
-        "ItemName": "SwapActive_1205_Artificer_Town_Off",
-        "ItemDropProbability": 0,
-        "ChestDropProbability": 0,
-        "EnforceLocationRequirement": false,
-        "TerritoryID": 0,
-        "AwardOnlyOnce": false,
-        "ShouldCheckPoints": false,
-        "GuranteedDropAttempts": false,
-        "Duration": 0,
-        "UseLargeItemDisplay": 0,
-        "IsHidden": "1"
     },
     {
         "TaskID": "1205_0301_d_02_TaskHaveAndReturnItems_5_MI_BrokenWeapon_Undead_Bastion",
@@ -4738,7 +4757,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreA"
+        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreA",
+        "OverrideLocation": "7689.774 3423.215 140.132"
     },
     {
         "TaskID": "1225_0101a_d_03_container_downpayment_campsite2",
@@ -4793,7 +4813,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreB"
+        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreB",
+        "OverrideLocation": "8157.283 3231.687 70.448"
     },
     {
         "TaskID": "1225_0101a_d_04_container_downpayment_chason",
@@ -4812,8 +4833,7 @@
         "IsHidden": "1",
         "SubTask1": "1225_0101a_d_04_01_GoToPOITag_ancient_ruins_40154",
         "SubTask2": "1225_0101a_d_04_02_TriggerArea_HousingChasonCamp",
-        "SubTask3": "1225_0101a_d_04_03_Interact_1225_ChasomCampChest",
-        "SubTask4": "1225_0101a_d_04_04_HaveAndReturnItems_1_GiacomoNotebook"
+        "SubTask3": "1225_0101a_d_04_03_00_container_downpayment_ChasonEncWrap"
     },
     {
         "TaskID": "1225_0101a_d_04_01_GoToPOITag_ancient_ruins_40154",
@@ -4854,10 +4874,47 @@
         "OverrideLocation": "8395.691 3613.931 162.173"
     },
     {
-        "TaskID": "1225_0101a_d_04_03_Interact_1225_ChasomCampChest",
+        "TaskID": "1225_0101a_d_04_03_00_container_downpayment_ChasonEncWrap",
+        "Type": "SimpleTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "InteractTag": "IO_1225_ChasonCampChest",
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1",
+        "SubTask1": "1225_0101a_d_04_03_container_downpayment_ChasonCampEnc",
+        "SubTask2": "1225_0101a_d_04_04_HaveAndReturnItems_1_GiacomoNotebook"
+    },
+    {
+        "TaskID": "1225_0101a_d_04_03_container_downpayment_ChasonCampEnc",
+        "Type": "PartialTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "OverrideLocation": "8395.691 3613.931 162.173",
+        "IsHidden": "1",
+        "SubTask1": "1225_0101a_d_04_03_01_Interact_1225_ChasomCampChest",
+        "SubTask2": "1225_0101a_d_04_03_02_HaveAndReturnItems_1_GiacomoNotebook"
+    },
+    {
+        "TaskID": "1225_0101a_d_04_03_01_Interact_1225_ChasomCampChest",
         "Type": "TaskGameEvent",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemDropProbability": 0,
         "ChestDropProbability": 0,
@@ -4874,10 +4931,28 @@
         "TP_DescriptionTag": "@1225_0101_downpayment_interact_ChasonCampChest"
     },
     {
+        "TaskID": "1225_0101a_d_04_03_02_HaveAndReturnItems_1_GiacomoNotebook",
+        "Type": "TaskHaveAndReturnItems",
+        "FailOnCondition": 0,
+        "TargetQty": 1,
+        "ItemName": "1225_0101_GiacomoNotebook",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": true,
+        "TerritoryID": 0,
+        "POITag": "ancient_ruins_40154",
+        "PauseAndClearLootOnTaskComplete": "1",
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1"
+    },
+    {
         "TaskID": "1225_0101a_d_04_04_HaveAndReturnItems_1_GiacomoNotebook",
         "Type": "TaskHaveAndReturnItems",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "1225_0101_GiacomoNotebook",
         "ItemDropVC": "Damned_Villager_Pickaxe_Named_00",
@@ -4892,7 +4967,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_recover_notebook"
+        "TP_DescriptionTag": "@1225_0101_downpayment_recover_notebook",
+        "OverrideLocation": "8395.691 3613.931 162.173"
     },
     {
         "TaskID": "1225_0101a_d_05_container_downpayment_swaps2",
@@ -5094,7 +5170,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreA"
+        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreA",
+        "OverrideLocation": "8630.979 1605.571 178.008"
     },
     {
         "TaskID": "1225_0101b_d_03_container_downpayment_campsite2",
@@ -5149,7 +5226,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreB"
+        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreB",
+        "OverrideLocation": "8305.233 2993.688 57.101"
     },
     {
         "TaskID": "1225_0101b_d_04_container_downpayment_chason",
@@ -5168,8 +5246,7 @@
         "IsHidden": "1",
         "SubTask1": "1225_0101b_d_04_01_GoToPOITag_ancient_ruins_40154",
         "SubTask2": "1225_0101b_d_04_02_TriggerArea_HousingChasonCamp",
-        "SubTask3": "1225_0101b_d_04_03_Interact_1225_ChasomCampChest",
-        "SubTask4": "1225_0101b_d_04_04_HaveAndReturnItems_1_GiacomoNotebook"
+        "SubTask3": "1225_0101b_d_04_03_00_container_downpayment_ChasonEncWrap"
     },
     {
         "TaskID": "1225_0101b_d_04_01_GoToPOITag_ancient_ruins_40154",
@@ -5210,10 +5287,47 @@
         "OverrideLocation": "8395.691 3613.931 162.173"
     },
     {
-        "TaskID": "1225_0101b_d_04_03_Interact_1225_ChasomCampChest",
+        "TaskID": "1225_0101b_d_04_03_00_container_downpayment_ChasonEncWrap",
+        "Type": "SimpleTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "InteractTag": "IO_1225_ChasonCampChest",
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1",
+        "SubTask1": "1225_0101b_d_04_03_container_downpayment_ChasonCampEnc",
+        "SubTask2": "1225_0101b_d_04_04_HaveAndReturnItems_1_GiacomoNotebook"
+    },
+    {
+        "TaskID": "1225_0101b_d_04_03_container_downpayment_ChasonCampEnc",
+        "Type": "PartialTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "OverrideLocation": "8395.691 3613.931 162.173",
+        "IsHidden": "1",
+        "SubTask1": "1225_0101b_d_04_03_01_Interact_1225_ChasomCampChest",
+        "SubTask2": "1225_0101b_d_04_03_02_HaveAndReturnItems_1_GiacomoNotebook"
+    },
+    {
+        "TaskID": "1225_0101b_d_04_03_01_Interact_1225_ChasomCampChest",
         "Type": "TaskGameEvent",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemDropProbability": 0,
         "ChestDropProbability": 0,
@@ -5230,10 +5344,28 @@
         "TP_DescriptionTag": "@1225_0101_downpayment_interact_ChasonCampChest"
     },
     {
+        "TaskID": "1225_0101b_d_04_03_02_HaveAndReturnItems_1_GiacomoNotebook",
+        "Type": "TaskHaveAndReturnItems",
+        "FailOnCondition": 0,
+        "TargetQty": 1,
+        "ItemName": "1225_0101_GiacomoNotebook",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": true,
+        "TerritoryID": 0,
+        "POITag": "ancient_ruins_40154",
+        "PauseAndClearLootOnTaskComplete": "1",
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1"
+    },
+    {
         "TaskID": "1225_0101b_d_04_04_HaveAndReturnItems_1_GiacomoNotebook",
         "Type": "TaskHaveAndReturnItems",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "1225_0101_GiacomoNotebook",
         "ItemDropVC": "Damned_Villager_Pickaxe_Named_00",
@@ -5248,7 +5380,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_recover_notebook"
+        "TP_DescriptionTag": "@1225_0101_downpayment_recover_notebook",
+        "OverrideLocation": "8395.691 3613.931 162.173"
     },
     {
         "TaskID": "1225_0101b_d_05_container_downpayment_swaps2",
@@ -5450,7 +5583,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreA"
+        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreA",
+        "OverrideLocation": "8831.789 3827.802 93.822"
     },
     {
         "TaskID": "1225_0101c_d_03_container_downpayment_campsite2",
@@ -5505,7 +5639,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreB"
+        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreB",
+        "OverrideLocation": "8702.100 3365.318 73.378"
     },
     {
         "TaskID": "1225_0101c_d_04_container_downpayment_chason",
@@ -5524,8 +5659,7 @@
         "IsHidden": "1",
         "SubTask1": "1225_0101c_d_04_01_GoToPOITag_ancient_ruins_40154",
         "SubTask2": "1225_0101c_d_04_02_TriggerArea_HousingChasonCamp",
-        "SubTask3": "1225_0101c_d_04_03_Interact_1225_ChasomCampChest",
-        "SubTask4": "1225_0101c_d_04_04_HaveAndReturnItems_1_GiacomoNotebook"
+        "SubTask3": "1225_0101c_d_04_03_00_container_downpayment_ChasonEncWrap"
     },
     {
         "TaskID": "1225_0101c_d_04_01_GoToPOITag_ancient_ruins_40154",
@@ -5566,10 +5700,47 @@
         "OverrideLocation": "8395.691 3613.931 162.173"
     },
     {
-        "TaskID": "1225_0101c_d_04_03_Interact_1225_ChasomCampChest",
+        "TaskID": "1225_0101c_d_04_03_00_container_downpayment_ChasonEncWrap",
+        "Type": "SimpleTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "InteractTag": "IO_1225_ChasonCampChest",
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1",
+        "SubTask1": "1225_0101c_d_04_03_container_downpayment_ChasonCampEnc",
+        "SubTask2": "1225_0101c_d_04_04_HaveAndReturnItems_1_GiacomoNotebook"
+    },
+    {
+        "TaskID": "1225_0101c_d_04_03_container_downpayment_ChasonCampEnc",
+        "Type": "PartialTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "OverrideLocation": "8395.691 3613.931 162.173",
+        "IsHidden": "1",
+        "SubTask1": "1225_0101c_d_04_03_01_Interact_1225_ChasomCampChest",
+        "SubTask2": "1225_0101c_d_04_03_02_HaveAndReturnItems_1_GiacomoNotebook"
+    },
+    {
+        "TaskID": "1225_0101c_d_04_03_01_Interact_1225_ChasomCampChest",
         "Type": "TaskGameEvent",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemDropProbability": 0,
         "ChestDropProbability": 0,
@@ -5586,10 +5757,28 @@
         "TP_DescriptionTag": "@1225_0101_downpayment_interact_ChasonCampChest"
     },
     {
+        "TaskID": "1225_0101c_d_04_03_02_HaveAndReturnItems_1_GiacomoNotebook",
+        "Type": "TaskHaveAndReturnItems",
+        "FailOnCondition": 0,
+        "TargetQty": 1,
+        "ItemName": "1225_0101_GiacomoNotebook",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": true,
+        "TerritoryID": 0,
+        "POITag": "ancient_ruins_40154",
+        "PauseAndClearLootOnTaskComplete": "1",
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1"
+    },
+    {
         "TaskID": "1225_0101c_d_04_04_HaveAndReturnItems_1_GiacomoNotebook",
         "Type": "TaskHaveAndReturnItems",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "1225_0101_GiacomoNotebook",
         "ItemDropVC": "Damned_Villager_Pickaxe_Named_00",
@@ -5604,7 +5793,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_recover_notebook"
+        "TP_DescriptionTag": "@1225_0101_downpayment_recover_notebook",
+        "OverrideLocation": "8395.691 3613.931 162.173"
     },
     {
         "TaskID": "1225_0101c_d_05_container_downpayment_swaps2",
@@ -5806,7 +5996,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreA"
+        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreA",
+        "OverrideLocation": "9020.905 2764.264 70.192"
     },
     {
         "TaskID": "1225_0101d_d_03_container_downpayment_campsite2",
@@ -5861,7 +6052,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreB"
+        "TP_DescriptionTag": "@1225_0101_downpayment_CampsiteLoreB",
+        "OverrideLocation": "8305.233 2993.688 57.101"
     },
     {
         "TaskID": "1225_0101d_d_04_container_downpayment_chason",
@@ -5880,8 +6072,7 @@
         "IsHidden": "1",
         "SubTask1": "1225_0101d_d_04_01_GoToPOITag_ancient_ruins_40154",
         "SubTask2": "1225_0101d_d_04_02_TriggerArea_HousingChasonCamp",
-        "SubTask3": "1225_0101d_d_04_03_Interact_1225_ChasomCampChest",
-        "SubTask4": "1225_0101d_d_04_04_HaveAndReturnItems_1_GiacomoNotebook"
+        "SubTask3": "1225_0101d_d_04_03_00_container_downpayment_ChasonEncWrap"
     },
     {
         "TaskID": "1225_0101d_d_04_01_GoToPOITag_ancient_ruins_40154",
@@ -5922,10 +6113,47 @@
         "OverrideLocation": "8395.691 3613.931 162.173"
     },
     {
-        "TaskID": "1225_0101d_d_04_03_Interact_1225_ChasomCampChest",
+        "TaskID": "1225_0101d_d_04_03_00_container_downpayment_ChasonEncWrap",
+        "Type": "SimpleTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "InteractTag": "IO_1225_ChasonCampChest",
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1",
+        "SubTask1": "1225_0101d_d_04_03_container_downpayment_ChasonCampEnc",
+        "SubTask2": "1225_0101d_d_04_04_HaveAndReturnItems_1_GiacomoNotebook"
+    },
+    {
+        "TaskID": "1225_0101d_d_04_03_container_downpayment_ChasonCampEnc",
+        "Type": "PartialTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "OverrideLocation": "8395.691 3613.931 162.173",
+        "IsHidden": "1",
+        "SubTask1": "1225_0101d_d_04_03_01_Interact_1225_ChasomCampChest",
+        "SubTask2": "1225_0101d_d_04_03_02_HaveAndReturnItems_1_GiacomoNotebook"
+    },
+    {
+        "TaskID": "1225_0101d_d_04_03_01_Interact_1225_ChasomCampChest",
         "Type": "TaskGameEvent",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemDropProbability": 0,
         "ChestDropProbability": 0,
@@ -5942,10 +6170,28 @@
         "TP_DescriptionTag": "@1225_0101_downpayment_interact_ChasonCampChest"
     },
     {
+        "TaskID": "1225_0101d_d_04_03_02_HaveAndReturnItems_1_GiacomoNotebook",
+        "Type": "TaskHaveAndReturnItems",
+        "FailOnCondition": 0,
+        "TargetQty": 1,
+        "ItemName": "1225_0101_GiacomoNotebook",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": true,
+        "TerritoryID": 0,
+        "POITag": "ancient_ruins_40154",
+        "PauseAndClearLootOnTaskComplete": "1",
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1"
+    },
+    {
         "TaskID": "1225_0101d_d_04_04_HaveAndReturnItems_1_GiacomoNotebook",
         "Type": "TaskHaveAndReturnItems",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "1225_0101_GiacomoNotebook",
         "ItemDropVC": "Damned_Villager_Pickaxe_Named_00",
@@ -5960,7 +6206,8 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@1225_0101_downpayment_recover_notebook"
+        "TP_DescriptionTag": "@1225_0101_downpayment_recover_notebook",
+        "OverrideLocation": "8395.691 3613.931 162.173"
     },
     {
         "TaskID": "1225_0101d_d_05_container_downpayment_swaps2",
@@ -6243,7 +6490,6 @@
         "TaskID": "1225_0301_d_03_01_SliceSwap_1225_GiacomoTravelersA_On",
         "Type": "TaskUnlockAchievement",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "SwapActive_1225_GiacomoTravelersA_On",
         "ItemDropProbability": 0,
@@ -6261,7 +6507,6 @@
         "TaskID": "1225_0301_d_03_02_SliceSwap_1225_TravelersAPropsA_On",
         "Type": "TaskUnlockAchievement",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "SwapActive_1225_TravelersAPropsA_On",
         "ItemDropProbability": 0,
@@ -6277,9 +6522,8 @@
     },
     {
         "TaskID": "1225_0301_d_03_03_SliceSwap_1225_GiacomoChason_Off",
-        "Type": "TaskTemporaryUnlockAchievement",
+        "Type": "TaskLockAchievement",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "SwapActive_1225_GiacomoChason_On",
         "ItemDropProbability": 0,
@@ -6615,7 +6859,7 @@
     },
     {
         "TaskID": "1225_0401_d_01_03_04_01_SliceSwap_1225_TravelersA_Stage1_Off",
-        "Type": "TaskTemporaryUnlockAchievement",
+        "Type": "TaskLockAchievement",
         "FailOnCondition": 0,
         "TargetQty": 1,
         "ItemName": "SwapActive_1225_TravelersA_Stage1_On",
@@ -6725,9 +6969,8 @@
     },
     {
         "TaskID": "1225_0401_d_03_01_SliceSwap_1225_TravelersA_Stage2_On",
-        "Type": "TaskTemporaryUnlockAchievement",
+        "Type": "TaskLockAchievement",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "SwapActive_1225_TravelersA_Stage2_On",
         "ItemDropProbability": 0,
@@ -6745,7 +6988,6 @@
         "TaskID": "1225_0401_d_03_02_SliceSwap_1225_TravelersA_Stage3_On",
         "Type": "TaskUnlockAchievement",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "SwapActive_1225_TravelersA_Stage3_On",
         "ItemDropProbability": 0,
@@ -6763,7 +7005,6 @@
         "TaskID": "1225_0401_d_03_03_SliceSwap_1225_TravelersB_Stage3_On",
         "Type": "TaskUnlockAchievement",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "SwapActive_1225_TravelersB_Stage3_On",
         "ItemDropProbability": 0,
@@ -6781,7 +7022,6 @@
         "TaskID": "1225_0501_d_03_04_SliceSwap_1225_GiacomoTravelersB_On",
         "Type": "TaskUnlockAchievement",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "SwapActive_1225_GiacomoTravelersB_On",
         "ItemDropProbability": 0,
@@ -6865,8 +7105,25 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "IsHidden": "1",
-        "SubTask1": "1225_0501_d_02_01_container_mandatoryimprovements_bronzegrove",
-        "SubTask2": "1225_0501_d_02_02_container_mandatoryimprovements_theuppers"
+        "SubTask1": "1225_0501_d_02_01a_container_mandatoryimprovements_collapseA",
+        "SubTask2": "1225_0501_d_02_02a_container_mandatoryimprovements_collapseB"
+    },
+    {
+        "TaskID": "1225_0501_d_02_01a_container_mandatoryimprovements_collapseA",
+        "Type": "ConsecutiveTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1",
+        "SubTask1": "1225_0501_d_02_01_container_mandatoryimprovements_bronzegrove"
     },
     {
         "TaskID": "1225_0501_d_02_01_container_mandatoryimprovements_bronzegrove",
@@ -6927,6 +7184,23 @@
         "Duration": 0,
         "UseLargeItemDisplay": 0,
         "TP_DescriptionTag": "@1225_0501_mandatoryimprovements_gather_item_from_IO"
+    },
+    {
+        "TaskID": "1225_0501_d_02_02a_container_mandatoryimprovements_collapseB",
+        "Type": "ConsecutiveTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1",
+        "SubTask1": "1225_0501_d_02_02_container_mandatoryimprovements_theuppers"
     },
     {
         "TaskID": "1225_0501_d_02_02_container_mandatoryimprovements_theuppers",
@@ -7220,8 +7494,7 @@
         "UseLargeItemDisplay": 0,
         "IsHidden": "1",
         "SubTask1": "1225_0601_d_04_01_GoToPOITag_abandoned_village_60409",
-        "SubTask2": "1225_0601_d_04_02_GameEvent_1225_HibbotsfeldPack",
-        "SubTask3": "1225_0601_d_04_03_HaveAndReturnItems_1_GiacomoPlumbum"
+        "SubTask2": "1225_0601_d_04_02_00_container_downpayment_HibbotsfeldEncWrap"
     },
     {
         "TaskID": "1225_0601_d_04_01_GoToPOITag_abandoned_village_60409",
@@ -7242,10 +7515,46 @@
         "TP_DescriptionTag": "@1225_0601_closingcost_goto_hibbotsfeld"
     },
     {
-        "TaskID": "1225_0601_d_04_02_GameEvent_1225_HibbotsfeldPack",
+        "TaskID": "1225_0601_d_04_02_00_container_downpayment_HibbotsfeldEncWrap",
+        "Type": "SimpleTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "InteractTag": "IO_1225_HibbotsfeldPack",
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1",
+        "SubTask1": "1225_0601_d_04_02_container_closingcost_HibbotsfeldEnc",
+        "SubTask2": "1225_0601_d_04_03_HaveAndReturnItems_1_GiacomoPlumbum"
+    },
+    {
+        "TaskID": "1225_0601_d_04_02_container_closingcost_HibbotsfeldEnc",
+        "Type": "PartialTaskContainer",
+        "FailOnCondition": 0,
+        "TargetQty": 0,
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1",
+        "SubTask1": "1225_0601_d_04_02_01_GameEvent_1225_HibbotsfeldPack",
+        "SubTask2": "1225_0601_d_04_02_02_HaveAndReturnItems_1_GiacomoPlumbum"
+    },
+    {
+        "TaskID": "1225_0601_d_04_02_01_GameEvent_1225_HibbotsfeldPack",
         "Type": "TaskGameEvent",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemDropProbability": 0,
         "ChestDropProbability": 0,
@@ -7263,10 +7572,28 @@
         "OverrideLocation": "13426.187 8599.404 191.352"
     },
     {
+        "TaskID": "1225_0601_d_04_02_02_HaveAndReturnItems_1_GiacomoPlumbum",
+        "Type": "TaskHaveAndReturnItems",
+        "FailOnCondition": 0,
+        "TargetQty": 1,
+        "ItemName": "1225_0601_GiacomoPlumbum",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": true,
+        "TerritoryID": 0,
+        "POITag": "abandoned_village",
+        "PauseAndClearLootOnTaskComplete": "1",
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1"
+    },
+    {
         "TaskID": "1225_0601_d_04_03_HaveAndReturnItems_1_GiacomoPlumbum",
         "Type": "TaskHaveAndReturnItems",
         "FailOnCondition": 0,
-        "StayActive": "1",
         "TargetQty": 1,
         "ItemName": "1225_0601_GiacomoPlumbum",
         "ItemDropVC": "Damned_Villager_Hammer_Named_00",
@@ -7398,7 +7725,8 @@
         "UseLargeItemDisplay": 0,
         "SubTask1": "1224_0201_d_swordandshield_talkto_sister",
         "SubTask2": "1224_0201_d_swordandshield_goto_stonereach",
-        "SubTask3": "1224_0201_d_container_swordandshield_stonereach"
+        "SubTask3": "1224_0201_d_container_swordandshield_stonereach",
+        "SubTask4": "1224_0201_d_swap_swordgirlEF"
     },
     {
         "TaskID": "1224_0201_d_swordandshield_talkto_sister",
@@ -7517,6 +7845,23 @@
         "TP_DescriptionTag": "@12_task_search_chests_POITag_generic"
     },
     {
+        "TaskID": "1224_0201_d_swap_swordgirlEF",
+        "Type": "TaskUnlockAchievement",
+        "FailOnCondition": 0,
+        "TargetQty": 1,
+        "ItemName": "SwapActive_1224_swordgirlEF_OnOff",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1"
+    },
+    {
         "TaskID": "1224_0301_d_container_swordandshield",
         "Type": "ConsecutiveTaskContainer",
         "FailOnCondition": 0,
@@ -7530,8 +7875,27 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "SubTask1": "1224_0301_d_swordandshield_goto_sherveysmill",
-        "SubTask2": "1224_0301_d_container_swordandshield_sherveysmill"
+        "SubTask1": "1224_0301_d_swap_swordgirl",
+        "SubTask2": "1224_0301_d_swordandshield_goto_sherveysmill",
+        "SubTask3": "1224_0301_d_container_swordandshield_sherveysmill",
+        "SubTask4": "1224_0301_d_swap_swordgirlMD"
+    },
+    {
+        "TaskID": "1224_0301_d_swap_swordgirl",
+        "Type": "TaskUnlockAchievement",
+        "FailOnCondition": 0,
+        "TargetQty": 1,
+        "ItemName": "SwapActive_1224_swordgirl_Off",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1"
     },
     {
         "TaskID": "1224_0301_d_swordandshield_goto_sherveysmill",
@@ -7609,6 +7973,23 @@
         "TP_DescriptionTag": "@objective_mission_kill_with_sword"
     },
     {
+        "TaskID": "1224_0201_d_swap_swordgirlMD",
+        "Type": "TaskUnlockAchievement",
+        "FailOnCondition": 0,
+        "TargetQty": 1,
+        "ItemName": "SwapActive_1224_swordgirlMD_OnOff",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1"
+    },
+    {
         "TaskID": "1224_0401_d_container_swordandshield",
         "Type": "ConsecutiveTaskContainer",
         "FailOnCondition": 0,
@@ -7622,7 +8003,25 @@
         "GuranteedDropAttempts": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "SubTask1": "1224_0401_d_swordandshield_defeat_brother"
+        "SubTask1": "1224_0301_d_swap_swordgirlMD",
+        "SubTask2": "1224_0401_d_swordandshield_defeat_brother"
+    },
+    {
+        "TaskID": "1224_0301_d_swap_swordgirlMD",
+        "Type": "TaskUnlockAchievement",
+        "FailOnCondition": 0,
+        "TargetQty": 1,
+        "ItemName": "SwapActive_1224_swordgirlEF_OnOff",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 0,
+        "EnforceLocationRequirement": false,
+        "TerritoryID": 0,
+        "AwardOnlyOnce": false,
+        "ShouldCheckPoints": false,
+        "GuranteedDropAttempts": false,
+        "Duration": 0,
+        "UseLargeItemDisplay": 0,
+        "IsHidden": "1"
     },
     {
         "TaskID": "1224_0401_d_swordandshield_defeat_brother",

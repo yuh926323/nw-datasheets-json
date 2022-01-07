@@ -19860,11 +19860,6 @@
         "Category": "CampSkin"
     },
     {
-        "AchievementID": "0424_0102_MakeBagAppear",
-        "AchievementIndex": 3877,
-        "Category": "Objective"
-    },
-    {
         "AchievementID": "S_downpayment",
         "AchievementIndex": 3879,
         "Category": "Objective"
@@ -20033,6 +20028,46 @@
         "AchievementIndex": 3911,
         "Category": "Journal",
         "GameEventId": "Read_LoreItem"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_01",
+        "AchievementIndex": 3912,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_02",
+        "AchievementIndex": 3913,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_03",
+        "AchievementIndex": 3914,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_04",
+        "AchievementIndex": 3915,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_05",
+        "AchievementIndex": 3916,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_06",
+        "AchievementIndex": 3917,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_07",
+        "AchievementIndex": 3918,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_08",
+        "AchievementIndex": 3919,
+        "Category": "Objective"
     },
     {
         "AchievementID": "Lore_unlock_KubikirisBurden_Title_01_01",
@@ -20425,5 +20460,45 @@
         "AchievementIndex": 4090,
         "Category": "Map",
         "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "99_MSQ_36_B",
+        "AchievementIndex": 4057,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "99_MSQ_36_B_Unlock",
+        "AchievementIndex": 4058,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "SwapActive_1224_swordgirl_Off",
+        "AchievementIndex": 4059,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "SwapActive_1224_swordgirlMD_OnOff",
+        "AchievementIndex": 4060,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "SwapActive_1224_swordgirlEF_OnOff",
+        "AchievementIndex": 4061,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "99_MSQ_52_b",
+        "AchievementIndex": 4062,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "99_MSQ_52_b_Unlock",
+        "AchievementIndex": 4063,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "SliceSwap_1526_09_04_Lore_On",
+        "AchievementIndex": 4096,
+        "Category": "Objective"
     }
 ]

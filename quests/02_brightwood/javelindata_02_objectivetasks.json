@@ -1810,60 +1810,6 @@
         "TP_DescriptionTag": "@0232_0201_d_02_Task_Gather_postrekhin_leaves"
     },
     {
-        "TaskID": "0232_0201_d_01a_Container_asimpletea",
-        "Type": "PartialTaskContainer",
-        "StayActive": 0,
-        "TargetQty": 0,
-        "ItemDropProbability": 0,
-        "ChestDropProbability": 0,
-        "EnforceLocationRequirement": false,
-        "PauseAndClearLootOnTaskComplete": false,
-        "AwardOnlyOnce": false,
-        "ShouldCheckPoints": false,
-        "Duration": 0,
-        "UseLargeItemDisplay": 0,
-        "IsHidden": "1",
-        "SubTask1": "0232_0201_d_02_Task_GatherItem",
-        "SubTask2": "0232_0201_d_03_Task_GatherItem",
-        "SubTask3": "0232_0201_d_04_Task_GatherItem"
-    },
-    {
-        "TaskID": "0232_0201_d_03_Task_GatherItem",
-        "Type": "TaskGatherItems",
-        "StayActive": 1,
-        "TargetQty": 7,
-        "ItemName": "0232_0201_PostrehkinLeaves",
-        "ItemDropVC": "BushMedium",
-        "ItemDropProbability": 100,
-        "ChestDropProbability": 0,
-        "EnforceLocationRequirement": true,
-        "POITag": "green_defile_40268",
-        "PauseAndClearLootOnTaskComplete": true,
-        "AwardOnlyOnce": false,
-        "ShouldCheckPoints": false,
-        "Duration": 0,
-        "UseLargeItemDisplay": 0,
-        "IsHidden": "1"
-    },
-    {
-        "TaskID": "0232_0201_d_04_Task_GatherItem",
-        "Type": "TaskGatherItems",
-        "StayActive": 1,
-        "TargetQty": 7,
-        "ItemName": "0232_0201_PostrehkinLeaves",
-        "ItemDropVC": "BushLarge",
-        "ItemDropProbability": 100,
-        "ChestDropProbability": 0,
-        "EnforceLocationRequirement": true,
-        "POITag": "green_defile_40268",
-        "PauseAndClearLootOnTaskComplete": true,
-        "AwardOnlyOnce": false,
-        "ShouldCheckPoints": false,
-        "Duration": 0,
-        "UseLargeItemDisplay": 0,
-        "IsHidden": "1"
-    },
-    {
         "TaskID": "0232_0202_d_00_Container_hiddensecrets",
         "Type": "ConsecutiveTaskContainer",
         "StayActive": 0,
@@ -6951,7 +6897,8 @@
         "ShouldCheckPoints": false,
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@98_C_03_thepathtodarkness_goto_POI"
+        "TP_DescriptionTag": "@98_C_03_thepathtodarkness_goto_POI",
+        "OverrideLocation": "9785, 9091, 499"
     },
     {
         "TaskID": "98_C_03_d_02_kill_ExcubitorLuca_rifteast",
@@ -6969,7 +6916,8 @@
         "KillEnemyType": "Damned_Acolyte_Named_FR_Cov_01",
         "Duration": 0,
         "UseLargeItemDisplay": 0,
-        "TP_DescriptionTag": "@98_C_03_thepathtodarkness_killtarget_eliminate_AI"
+        "TP_DescriptionTag": "@98_C_03_thepathtodarkness_killtarget_eliminate_AI",
+        "OverrideLocation": "9872 9093 512"
     },
     {
         "TaskID": "FM_02_PVP_Spy_Marauder_container",

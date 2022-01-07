@@ -14,7 +14,8 @@
         "InteractionEvent": "slices/WorldEvents/Reekwater/Interact/PowderkegA/Enc_WorldEvent_05WC06_PirateWave_00.dynamicslice",
         "InteractTag": "IO_0511_PowderkegA",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0901_Barley",
@@ -33,7 +34,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_0901_Barley",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0905_BloodTracking_A",
@@ -50,7 +52,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_0905_BloodTracking_A",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0905_BloodTracking_B",
@@ -67,7 +70,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_0905_BloodTracking_B",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0905_BloodTracking_C",
@@ -84,7 +88,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_0905_BloodTracking_C",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0905_BloodTracking_D",
@@ -101,7 +106,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_0905_BloodTracking_D",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1225_HighpassCamp",
@@ -114,7 +120,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_1225_HighpassCamp",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 3
+        "DetectionVolumeSphereRadius": 3,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1524_DoubloonA",
@@ -130,7 +137,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_1524_DoubloonA",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1524_DoubloonB",
@@ -146,7 +154,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_1524_DoubloonB",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1524_DoubloonC",
@@ -162,7 +171,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_1524_DoubloonC",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1524_DoubloonD",
@@ -178,7 +188,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_1524_DoubloonD",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1524_DoubloonE",
@@ -194,7 +205,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_1524_DoubloonE",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1524_DoubloonF",
@@ -210,7 +222,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_1524_DoubloonF",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1524_DoubloonG",
@@ -226,7 +239,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_1524_DoubloonG",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1524_DoubloonH",
@@ -242,7 +256,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_1524_DoubloonH",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1524_DoubloonI",
@@ -258,7 +273,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_1524_DoubloonI",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 2
+        "DetectionVolumeSphereRadius": 2,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0017_Weapons",
@@ -273,7 +289,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0017_Weapons",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 8
+        "DetectionVolumeSphereRadius": 8,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0017_Corruption",
@@ -290,7 +307,8 @@
         "depletedVFX_Offset_Z": 2,
         "InteractTag": "IO_MSQ_0017_Corruption",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 8
+        "DetectionVolumeSphereRadius": 8,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0090_FindYrsa1_Proximity",
@@ -304,7 +322,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0090_FindYrsa1_Proximity",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 3.25
+        "DetectionVolumeSphereRadius": 3.25,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0090_FindYrsa2_Proximity",
@@ -318,7 +337,8 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0090_FindYrsa2_Proximity",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 3.25
+        "DetectionVolumeSphereRadius": 3.25,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0090_FindYrsa3_Optional_Proximity",
@@ -333,6 +353,35 @@
         "depletedVFX_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0090_FindYrsa3_Optional_Proximity",
         "InteractOnlyOnQuest": true,
-        "DetectionVolumeSphereRadius": 3.25
+        "DetectionVolumeSphereRadius": 3.25,
+        "IsStateControlledBySlayerScript": false
+    },
+    {
+        "VariantID": "CyclicExample_Black_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Black.dynamicslice",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractionRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "DetectionVolumeSphereRadius": 0,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "ProximityExample_Black_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Black.dynamicslice",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractionRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "DetectionVolumeSphereRadius": 0,
+        "IsStateControlledBySlayerScript": false
     }
 ]

@@ -202,7 +202,8 @@
         "POITag": "ancient_ruins_40154",
         "PauseAndClearLootOnTaskComplete": false,
         "GuranteedDropAttempts": 0,
-        "TP_DescriptionTag": "@9901_0008_oldstoneremembers_v2_GoTo_03"
+        "TP_DescriptionTag": "@9901_0008_oldstoneremembers_v2_GoTo_03",
+        "OverrideLocation": "8375.299 3653.712 169.289"
     },
     {
         "TaskID": "9901_0008_d_03_01_container_plaque_03_optional",
@@ -226,7 +227,7 @@
         "InteractTag": "IO_MSQ_0008_ClearingVines_E",
         "KillEnemyType": "MSQ_0008_ClearingVines_E_interact",
         "TP_DescriptionTag": "@9901_0008_oldstoneremembers_v2_clearvines_03",
-        "OverrideLocation": "8461.67 3552.17 131.71"
+        "OverrideLocation": "8375.299 3653.712 169.289"
     },
     {
         "TaskID": "9901_0008_d_03_01b_vines_Hidden_Optional_Interact",
@@ -1521,7 +1522,6 @@
         "ItemName": "MSQ_Heartgem",
         "ItemDropProbability": 100,
         "PauseAndClearLootOnTaskComplete": false,
-        "AwardOnlyOnce": "TRUE",
         "GuranteedDropAttempts": 0,
         "IsHidden": "1"
     },

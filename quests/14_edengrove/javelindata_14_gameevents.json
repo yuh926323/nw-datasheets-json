@@ -365,17 +365,6 @@
         "AzothRewardChance": 0
     },
     {
-        "EventID": "1432_0102_BelongingsScattered_Interact",
-        "Level": 0,
-        "CreatureType": "Quest",
-        "UniversalExpAmount": 0,
-        "CurrencyReward": 0,
-        "CategoricalProgressionReward": 0,
-        "EmitTelemetry": true,
-        "AzothReward": 0,
-        "AzothRewardChance": 0
-    },
-    {
         "EventID": "1432_0103_DogPrintTrail_Interact",
         "Level": 0,
         "CreatureType": "Quest",

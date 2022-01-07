@@ -2005,6 +2005,14 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "AncientGuardian_Mage_67_ELITE",
+        "DisplayName": "@VC_AncientGuardian_Mage_67_ELITE",
+        "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Mage_67_ELITE\">AncientGuardian_Mage_67_ELITE</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\skeleton_ancient_mage\\ancient_mage_var01_matGroup.mtl"
+    },
+    {
         "VitalsCategoryID": "AncientGuardian_Mage_DG_Everfall_00",
         "DisplayName": "@VC_AncientGuardian_Mage_DG_Everfall_00",
         "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Mage_DG_Everfall_00\">AncientGuardian_Mage_DG_Everfall_00</string>",
@@ -2053,6 +2061,14 @@
         "IsDynamicPoiTarget": true
     },
     {
+        "VitalsCategoryID": "AncientGuardian_Mage_Named_06SW03",
+        "DisplayName": "@VC_AncientGuardian_Mage_Named_06SW03",
+        "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Mage_Named_06SW03\">AncientGuardian_Mage_Named_06SW03</string>",
+        "GroupVitalsCategoryId": "Moonshadow",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true
+    },
+    {
         "VitalsCategoryID": "AncientGuardian_Mage_Named_10WS02",
         "DisplayName": "@VC_AncientGuardian_Mage_Named_10WS02",
         "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Mage_Named_10WS02\">AncientGuardian_Mage_Named_10WS02</string>",
@@ -2065,14 +2081,6 @@
         "DisplayName": "@VC_AncientGuardian_Mage_Named_10WS04",
         "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Mage_Named_10WS04\">AncientGuardian_Mage_Named_10WS04</string>",
         "GroupVitalsCategoryId": "Mossbone",
-        "IsNamed": true,
-        "IsDynamicPoiTarget": true
-    },
-    {
-        "VitalsCategoryID": "AncientGuardian_Mage_Named_06SW03",
-        "DisplayName": "@VC_AncientGuardian_Mage_Named_06SW03",
-        "LocStringGenerationHelper": "<string key=\"VC_AncientGuardian_Mage_Named_06SW03\">AncientGuardian_Mage_Named_06SW03</string>",
-        "GroupVitalsCategoryId": "Moonshadow",
         "IsNamed": true,
         "IsDynamicPoiTarget": true
     },
@@ -3416,6 +3424,36 @@
         "LocStringGenerationHelper": "<string key=\"VC_Bear_Black_Named_08QP06\">Bear_Black_Named_08QP06</string>",
         "IsNamed": true,
         "IsDynamicPoiTarget": true
+    },
+    {
+        "VitalsCategoryID": "Bear_Cub_Black_02BW08",
+        "DisplayName": "@VC_Bear_Cub_Black_02BW08",
+        "LocStringGenerationHelper": "<string key=\"VC_Bear_Cub_Black_02BW08\">Bear_Cub_Black_02BW08</string>",
+        "GroupVitalsCategoryId": "Greyvale",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Bear_Cub_Black_34",
+        "DisplayName": "@VC_Bear_Cub_Black_34",
+        "LocStringGenerationHelper": "<string key=\"VC_Bear_Cub_Black_34\">Bear_Cub_Black_34</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Bear_Cub_Grizzly_11MD10",
+        "DisplayName": "@VC_Bear_Cub_Grizzly_11MD10",
+        "LocStringGenerationHelper": "<string key=\"VC_Bear_Cub_Grizzly_11MD10\">Bear_Cub_Grizzly_11MD10</string>",
+        "GroupVitalsCategoryId": "High Pass",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Bear_Cub_Grizzly_50",
+        "DisplayName": "@VC_Bear_Cub_Grizzly_50",
+        "LocStringGenerationHelper": "<string key=\"VC_Bear_Cub_Grizzly_50\">Bear_Cub_Grizzly_50</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
     },
     {
         "VitalsCategoryID": "Bear_Damned",
@@ -9030,6 +9068,13 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "Damned_Cultist_GC_1132_Coy",
+        "DisplayName": "@VC_Damned_Cultist_GC_1132_Coy",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_Cultist_GC_1132_Coy\">Damned_Cultist_GC_1132_Coy</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Damned_Cultist_Named_00",
         "DisplayName": "@VC_Damned_Cultist_Named_00",
         "LocStringGenerationHelper": "<string key=\"VC_Damned_Cultist_Named_00\">Damned_Cultist_Named_00</string>",
@@ -9075,12 +9120,13 @@
         "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\hard\\female_damnedHard_var02_matGroup.mtl"
     },
     {
-        "VitalsCategoryID": "Damned_GreatAxeman",
-        "DisplayName": "@VC_Damned_GreatAxeman",
-        "LocStringGenerationHelper": "<string key=\"VC_Damned_GreatAxeman\">Damned_GreatAxeman</string>",
-        "GroupVitalsCategoryId": "BASE",
+        "VitalsCategoryID": "Damned_Great_Axeman_M-F_MDGreatAxe",
+        "DisplayName": "@VC_Damned_Great_Axeman_M-F_MDGreatAxe",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_Great_Axeman_M-F_MDGreatAxe\">Damned_Great_Axeman_M-F_MDGreatAxe</string>",
         "IsNamed": false,
-        "IsDynamicPoiTarget": false
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\hard\\male_damnedHard_var03_matGroup.mtl",
+        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\hard\\female_damnedHard_var03_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Damned_Great_Axeman_M-F_WWGreatAxe",
@@ -9092,13 +9138,12 @@
         "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\hard\\female_damnedHard_var03_matGroup.mtl"
     },
     {
-        "VitalsCategoryID": "Damned_Great_Axeman_M-F_MDGreatAxe",
-        "DisplayName": "@VC_Damned_Great_Axeman_M-F_MDGreatAxe",
-        "LocStringGenerationHelper": "<string key=\"VC_Damned_Great_Axeman_M-F_MDGreatAxe\">Damned_Great_Axeman_M-F_MDGreatAxe</string>",
+        "VitalsCategoryID": "Damned_GreatAxeman",
+        "DisplayName": "@VC_Damned_GreatAxeman",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_GreatAxeman\">Damned_GreatAxeman</string>",
+        "GroupVitalsCategoryId": "BASE",
         "IsNamed": false,
-        "IsDynamicPoiTarget": false,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\hard\\male_damnedHard_var03_matGroup.mtl",
-        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\hard\\female_damnedHard_var03_matGroup.mtl"
+        "IsDynamicPoiTarget": false
     },
     {
         "VitalsCategoryID": "Damned_Greataxeman_M-F_03GC05",
@@ -9801,6 +9846,26 @@
         "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var01_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "Damned_Rifleman_MD_Named_Coy",
+        "DisplayName": "@VC_Damned_Rifleman_MD_Named_Coy",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_Rifleman_MD_Named_Coy\">Damned_Rifleman_MD_Named_Coy</string>",
+        "GroupVitalsCategoryId": "Wardog",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var01_matGroup.mtl",
+        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var01_matGroup.mtl"
+    },
+    {
+        "VitalsCategoryID": "Damned_Rifleman_MD_Named_Digby",
+        "DisplayName": "@VC_Damned_Rifleman_MD_Named_Digby",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_Rifleman_MD_Named_Digby\">Damned_Rifleman_MD_Named_Digby</string>",
+        "GroupVitalsCategoryId": "Wardog",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false,
+        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var01_matGroup.mtl",
+        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var01_matGroup.mtl"
+    },
+    {
         "VitalsCategoryID": "Damned_Rifleman_M-F_03GC08",
         "DisplayName": "@VC_Damned_Rifleman_M-F_03GC08",
         "LocStringGenerationHelper": "<string key=\"VC_Damned_Rifleman_M-F_03GC08\">Damned_Rifleman_M-F_03GC08</string>",
@@ -9977,16 +10042,6 @@
         "GroupVitalsCategoryId": "Shipyard",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Damned_Rifleman_MD_Named_Digby",
-        "DisplayName": "@VC_Damned_Rifleman_MD_Named_Digby",
-        "LocStringGenerationHelper": "<string key=\"VC_Damned_Rifleman_MD_Named_Digby\">Damned_Rifleman_MD_Named_Digby</string>",
-        "GroupVitalsCategoryId": "Wardog",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false,
-        "MtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\male\\cloth\\male_damnedCloth_var01_matGroup.mtl",
-        "FemaleMtlOverride": "Objects\\Characters\\npc\\supernatural\\damned\\female\\cloth\\female_damnedCloth_var01_matGroup.mtl"
     },
     {
         "VitalsCategoryID": "Damned_Spearman",
@@ -10750,14 +10805,6 @@
         "IsDynamicPoiTarget": false
     },
     {
-        "VitalsCategoryID": "Damned_Villager_Hammer_Named_Digby",
-        "DisplayName": "@VC_Damned_Villager_Hammer_Named_Digby",
-        "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Hammer_Named_Digby\">Damned_Villager_Hammer_Named_Digby</string>",
-        "GroupVitalsCategoryId": "Wardog",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
         "VitalsCategoryID": "Damned_Villager_Hammer_25",
         "DisplayName": "@VC_Damned_Villager_Hammer_25",
         "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Hammer_25\">Damned_Villager_Hammer_25</string>",
@@ -10902,13 +10949,6 @@
         "IsDynamicPoiTarget": false
     },
     {
-        "VitalsCategoryID": "Damned_Villager_Hammer_Named_00",
-        "DisplayName": "@VC_Damned_Villager_Hammer_Named_00",
-        "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Hammer_Named_00\">Damned_Villager_Hammer_Named_00</string>",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
         "VitalsCategoryID": "Damned_Villager_Hammer_DG_Ebonscale_00",
         "DisplayName": "@VC_Damned_Villager_Hammer_DG_Ebonscale_00",
         "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Hammer_DG_Ebonscale_00\">Damned_Villager_Hammer_DG_Ebonscale_00</string>",
@@ -10921,6 +10961,21 @@
         "DisplayName": "@VC_Damned_Villager_Hammer_DG_Restless_00",
         "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Hammer_DG_Restless_00\">Damned_Villager_Hammer_DG_Restless_00</string>",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Damned_Villager_Hammer_Named_00",
+        "DisplayName": "@VC_Damned_Villager_Hammer_Named_00",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Hammer_Named_00\">Damned_Villager_Hammer_Named_00</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Damned_Villager_Hammer_Named_Digby",
+        "DisplayName": "@VC_Damned_Villager_Hammer_Named_Digby",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Hammer_Named_Digby\">Damned_Villager_Hammer_Named_Digby</string>",
+        "GroupVitalsCategoryId": "Wardog",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -11450,13 +11505,6 @@
         "IsDynamicPoiTarget": true
     },
     {
-        "VitalsCategoryID": "Damned_Villager_LumberAxe_Named_00",
-        "DisplayName": "@VC_Damned_Villager_LumberAxe_Named_00",
-        "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_LumberAxe_Named_00\">Damned_Villager_LumberAxe_Named_00</string>",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
         "VitalsCategoryID": "Damned_Villager_LumberAxe_02BW02",
         "DisplayName": "@VC_Damned_Villager_LumberAxe_02BW02",
         "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_LumberAxe_02BW02\">Damned_Villager_LumberAxe_02BW02</string>",
@@ -11605,6 +11653,13 @@
         "DisplayName": "@VC_Damned_Villager_LumberAxe_35",
         "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_LumberAxe_35\">Damned_Villager_LumberAxe_35</string>",
         "GroupVitalsCategoryId": "Generic",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Damned_Villager_LumberAxe_Named_00",
+        "DisplayName": "@VC_Damned_Villager_LumberAxe_Named_00",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_LumberAxe_Named_00\">Damned_Villager_LumberAxe_Named_00</string>",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -11961,17 +12016,17 @@
         "IsDynamicPoiTarget": false
     },
     {
-        "VitalsCategoryID": "Damned_Villager_Pickaxe_Named_00",
-        "DisplayName": "@VC_Damned_Villager_Pickaxe_Named_00",
-        "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Pickaxe_Named_00\">Damned_Villager_Pickaxe_Named_00</string>",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
         "VitalsCategoryID": "Damned_Villager_Pickaxe_DG_Restless_00",
         "DisplayName": "@VC_Damned_Villager_Pickaxe_DG_Restless_00",
         "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Pickaxe_DG_Restless_00\">Damned_Villager_Pickaxe_DG_Restless_00</string>",
         "GroupVitalsCategoryId": "Skerryshiv",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Damned_Villager_Pickaxe_Named_00",
+        "DisplayName": "@VC_Damned_Villager_Pickaxe_Named_00",
+        "LocStringGenerationHelper": "<string key=\"VC_Damned_Villager_Pickaxe_Named_00\">Damned_Villager_Pickaxe_Named_00</string>",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -16998,10 +17053,18 @@
         "IsDynamicPoiTarget": true
     },
     {
+        "VitalsCategoryID": "Dynasty_Maiden_08QP08",
+        "DisplayName": "@VC_Dynasty_Maiden_08QP08",
+        "LocStringGenerationHelper": "<string key=\"VC_Dynasty_Maiden_08QP08\">Dynasty_Maiden_08QP08</string>",
+        "GroupVitalsCategoryId": "Shipyard",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Dynasty_Maiden_DG_Ebonscale_00",
         "DisplayName": "@VC_Dynasty_Maiden_DG_Ebonscale_00",
         "LocStringGenerationHelper": "<string key=\"VC_Dynasty_Maiden_DG_Ebonscale_00\">Dynasty_Maiden_DG_Ebonscale_00</string>",
-        "GroupVitalsCategoryId": "Shipyard",
+        "GroupVitalsCategoryId": "DynastyLanding",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -17009,14 +17072,6 @@
         "VitalsCategoryID": "Dynasty_Maiden_Named_08QP06",
         "DisplayName": "@VC_Dynasty_Maiden_Named_08QP06",
         "LocStringGenerationHelper": "<string key=\"VC_Dynasty_Maiden_Named_08QP06\">Dynasty_Maiden_Named_08QP06</string>",
-        "GroupVitalsCategoryId": "Serenity",
-        "IsNamed": true,
-        "IsDynamicPoiTarget": true
-    },
-    {
-        "VitalsCategoryID": "Dynasty_Maiden_WWGreatAxe",
-        "DisplayName": "@VC_Dynasty_Maiden_WWGreatAxe",
-        "LocStringGenerationHelper": "<string key=\"VC_Dynasty_Maiden_WWGreatAxe\">Dynasty_Maiden_WWGreatAxe</string>",
         "GroupVitalsCategoryId": "Serenity",
         "IsNamed": true,
         "IsDynamicPoiTarget": true
@@ -17058,6 +17113,14 @@
         "DisplayName": "@VC_Dynasty_Maiden_Named_DG_Ebonscale_02",
         "LocStringGenerationHelper": "<string key=\"VC_Dynasty_Maiden_Named_DG_Ebonscale_02\">Dynasty_Maiden_Named_DG_Ebonscale_02</string>",
         "GroupVitalsCategoryId": "Shipyard",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true
+    },
+    {
+        "VitalsCategoryID": "Dynasty_Maiden_WWGreatAxe",
+        "DisplayName": "@VC_Dynasty_Maiden_WWGreatAxe",
+        "LocStringGenerationHelper": "<string key=\"VC_Dynasty_Maiden_WWGreatAxe\">Dynasty_Maiden_WWGreatAxe</string>",
+        "GroupVitalsCategoryId": "Serenity",
         "IsNamed": true,
         "IsDynamicPoiTarget": true
     },
@@ -17401,6 +17464,14 @@
         "GroupVitalsCategoryId": "Shipyard",
         "IsNamed": true,
         "IsDynamicPoiTarget": true
+    },
+    {
+        "VitalsCategoryID": "Dynasty_Trainee_08QP08",
+        "DisplayName": "@VC_Dynasty_Trainee_08QP08",
+        "LocStringGenerationHelper": "<string key=\"VC_Dynasty_Trainee_08QP08\">Dynasty_Trainee_08QP08</string>",
+        "GroupVitalsCategoryId": "DynastyLanding",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
     },
     {
         "VitalsCategoryID": "Dynasty_Trainee_DG_Ebonscale_00",
@@ -18352,6 +18423,14 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "Elk_Stag_06SW06",
+        "DisplayName": "@VC_Elk_Stag_06SW06",
+        "LocStringGenerationHelper": "<string key=\"VC_Elk_Stag_06SW06\">Elk_Stag_06SW06</string>",
+        "GroupVitalsCategoryId": "Eldergate",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Elk_Stag_10",
         "DisplayName": "@VC_Elk_Stag_10",
         "LocStringGenerationHelper": "<string key=\"VC_Elk_Stag_10\">Elk_Stag_10</string>",
@@ -18364,14 +18443,6 @@
         "DisplayName": "@VC_Elk_Stag_11",
         "LocStringGenerationHelper": "<string key=\"VC_Elk_Stag_11\">Elk_Stag_11</string>",
         "GroupVitalsCategoryId": "Generic",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Elk_Stag_06SW06",
-        "DisplayName": "@VC_Elk_Stag_06SW06",
-        "LocStringGenerationHelper": "<string key=\"VC_Elk_Stag_06SW06\">Elk_Stag_06SW06</string>",
-        "GroupVitalsCategoryId": "Eldergate",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -19598,6 +19669,13 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "Ghost_Frozen_07SM08",
+        "DisplayName": "@VC_Ghost_Frozen_07SM08",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Frozen_07SM08\">Ghost_Frozen_07SM08</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Ghost_Frozen_08QP07",
         "DisplayName": "@VC_Ghost_Frozen_08QP07",
         "LocStringGenerationHelper": "<string key=\"VC_Ghost_Frozen_08QP07\">Ghost_Frozen_08QP07</string>",
@@ -19620,19 +19698,26 @@
         "IsDynamicPoiTarget": true
     },
     {
-        "VitalsCategoryID": "Ghost_Frozen_EGGreatAxe",
-        "DisplayName": "@VC_Ghost_Frozen_EGGreatAxe",
-        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Frozen_EGGreatAxe\">Ghost_Frozen_EGGreatAxe</string>",
-        "IsNamed": true,
-        "IsDynamicPoiTarget": true
-    },
-    {
         "VitalsCategoryID": "Ghost_Frozen_58",
         "DisplayName": "@VC_Ghost_Frozen_58",
         "LocStringGenerationHelper": "<string key=\"VC_Ghost_Frozen_58\">Ghost_Frozen_58</string>",
         "GroupVitalsCategoryId": "Generic",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Frozen_65_Elite",
+        "DisplayName": "@VC_Ghost_Frozen_65_Elite",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Frozen_65_Elite\">Ghost_Frozen_65_Elite</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Frozen_EGGreatAxe",
+        "DisplayName": "@VC_Ghost_Frozen_EGGreatAxe",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Frozen_EGGreatAxe\">Ghost_Frozen_EGGreatAxe</string>",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": true
     },
     {
         "VitalsCategoryID": "Ghost_Frozen_Named_DG_Windsward_00",
@@ -19909,13 +19994,6 @@
         "IsDynamicPoiTarget": false
     },
     {
-        "VitalsCategoryID": "Ghost_Shackled_Named_06_EGGreatAxe",
-        "DisplayName": "@VC_Ghost_Shackled_Named_06_EGGreatAxe",
-        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shackled_Named_06_EGGreatAxe\">Ghost_Shackled_Named_06_EGGreatAxe</string>",
-        "IsNamed": true,
-        "IsDynamicPoiTarget": false
-    },
-    {
         "VitalsCategoryID": "Ghost_Shackled_02BW03",
         "DisplayName": "@VC_Ghost_Shackled_02BW03",
         "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shackled_02BW03\">Ghost_Shackled_02BW03</string>",
@@ -20078,49 +20156,16 @@
         "IsDynamicPoiTarget": true
     },
     {
+        "VitalsCategoryID": "Ghost_Shackled_Named_06_EGGreatAxe",
+        "DisplayName": "@VC_Ghost_Shackled_Named_06_EGGreatAxe",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shackled_Named_06_EGGreatAxe\">Ghost_Shackled_Named_06_EGGreatAxe</string>",
+        "IsNamed": true,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Ghost_Shipwrecked",
         "DisplayName": "@VC_Ghost_Shipwrecked",
         "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked\">Ghost_Shipwrecked</string>",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Ghost_Shipwrecked_RE1",
-        "DisplayName": "@VC_Ghost_Shipwrecked_RE1",
-        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE1\">Ghost_Shipwrecked_RE1</string>",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Ghost_Shipwrecked_RE2",
-        "DisplayName": "@VC_Ghost_Shipwrecked_RE2",
-        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE2\">Ghost_Shipwrecked_RE2</string>",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Ghost_Shipwrecked_RE1_Named",
-        "DisplayName": "@VC_Ghost_Shipwrecked_RE1_Named",
-        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE1_Named\">Ghost_Shipwrecked_RE1_Named</string>",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Ghost_Shipwrecked_RE2_Named",
-        "DisplayName": "@VC_Ghost_Shipwrecked_RE2_Named",
-        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE2_Named\">Ghost_Shipwrecked_RE2_Named</string>",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Ghost_Shipwrecked_RE3_Named",
-        "DisplayName": "@VC_Ghost_Shipwrecked_RE3_Named",
-        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE3_Named\">Ghost_Shipwrecked_RE3_Named</string>",
         "GroupVitalsCategoryId": "BASE",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
@@ -20349,6 +20394,46 @@
         "IsDynamicPoiTarget": true
     },
     {
+        "VitalsCategoryID": "Ghost_Shipwrecked_RE1",
+        "DisplayName": "@VC_Ghost_Shipwrecked_RE1",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE1\">Ghost_Shipwrecked_RE1</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Shipwrecked_RE1_Named",
+        "DisplayName": "@VC_Ghost_Shipwrecked_RE1_Named",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE1_Named\">Ghost_Shipwrecked_RE1_Named</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Shipwrecked_RE2",
+        "DisplayName": "@VC_Ghost_Shipwrecked_RE2",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE2\">Ghost_Shipwrecked_RE2</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Shipwrecked_RE2_Named",
+        "DisplayName": "@VC_Ghost_Shipwrecked_RE2_Named",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE2_Named\">Ghost_Shipwrecked_RE2_Named</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Shipwrecked_RE3_Named",
+        "DisplayName": "@VC_Ghost_Shipwrecked_RE3_Named",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Shipwrecked_RE3_Named\">Ghost_Shipwrecked_RE3_Named</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Ghost_Starved_02BW",
         "DisplayName": "@VC_Ghost_Starved_02BW",
         "LocStringGenerationHelper": "<string key=\"VC_Ghost_Starved_02BW\">Ghost_Starved_02BW</string>",
@@ -20448,6 +20533,14 @@
         "DisplayName": "@VC_Ghost_Starved_09FL10",
         "LocStringGenerationHelper": "<string key=\"VC_Ghost_Starved_09FL10\">Ghost_Starved_09FL10</string>",
         "GroupVitalsCategoryId": "Ebony_Hawk",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Ghost_Starved_10WS07",
+        "DisplayName": "@VC_Ghost_Starved_10WS07",
+        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Starved_10WS07\">Ghost_Starved_10WS07</string>",
+        "GroupVitalsCategoryId": "Waterlogged Spirit",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -22106,6 +22199,14 @@
         "MtlOverride": "Objects\\Characters\\npc\\natural\\mountainLion\\mountainLion_alt1_matGroup.mtl"
     },
     {
+        "VitalsCategoryID": "Mountain_Lion_04NW11",
+        "DisplayName": "@VC_Mountain_Lion_04NW11",
+        "LocStringGenerationHelper": "<string key=\"VC_Mountain_Lion_04NW11\">Mountain_Lion_04NW11</string>",
+        "GroupVitalsCategoryId": "Salthollow",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Mountain_Lion_05WC02",
         "DisplayName": "@VC_Mountain_Lion_05WC02",
         "LocStringGenerationHelper": "<string key=\"VC_Mountain_Lion_05WC02\">Mountain_Lion_05WC02</string>",
@@ -22126,14 +22227,6 @@
         "DisplayName": "@VC_Mountain_Lion_05WC07",
         "LocStringGenerationHelper": "<string key=\"VC_Mountain_Lion_05WC07\">Mountain_Lion_05WC07</string>",
         "GroupVitalsCategoryId": "Lushwilds",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Mountain_Lion_04NW11",
-        "DisplayName": "@VC_Mountain_Lion_04NW11",
-        "LocStringGenerationHelper": "<string key=\"VC_Mountain_Lion_04NW11\">Mountain_Lion_04NW11</string>",
-        "GroupVitalsCategoryId": "Salthollow",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -32895,14 +32988,6 @@
         "MtlOverride": "Objects\\Characters\\npc\\supernatural\\undead_berserker\\undead_berserker_var01_matGroup.mtl"
     },
     {
-        "VitalsCategoryID": "Undead_Bloated_Corpse_RE1",
-        "DisplayName": "@VC_Undead_Bloated_Corpse_RE1",
-        "LocStringGenerationHelper": "<string key=\"VC_Undead_Bloated_Corpse_RE1\">Undead_Bloated_Corpse_RE1</string>",
-        "GroupVitalsCategoryId": "Grubby_Rebels",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
         "VitalsCategoryID": "Undead_Bloated_Corpse_10WS09",
         "DisplayName": "@VC_Undead_Bloated_Corpse_10WS09",
         "LocStringGenerationHelper": "<string key=\"VC_Undead_Bloated_Corpse_10WS09\">Undead_Bloated_Corpse_10WS09</string>",
@@ -32914,6 +32999,14 @@
         "VitalsCategoryID": "Undead_Bloated_Corpse_10WS09_ELITE",
         "DisplayName": "@VC_Undead_Bloated_Corpse_10WS09_ELITE",
         "LocStringGenerationHelper": "<string key=\"VC_Undead_Bloated_Corpse_10WS09_ELITE\">Undead_Bloated_Corpse_10WS09_ELITE</string>",
+        "GroupVitalsCategoryId": "Grubby_Rebels",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Undead_Bloated_Corpse_RE1",
+        "DisplayName": "@VC_Undead_Bloated_Corpse_RE1",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_Bloated_Corpse_RE1\">Undead_Bloated_Corpse_RE1</string>",
         "GroupVitalsCategoryId": "Grubby_Rebels",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
@@ -32938,22 +33031,6 @@
         "VitalsCategoryID": "Undead_GraveDigger",
         "DisplayName": "@VC_Undead_GraveDigger",
         "LocStringGenerationHelper": "<string key=\"VC_Undead_GraveDigger\">Undead_GraveDigger</string>",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Undead_GraveDigger_RE1",
-        "DisplayName": "@VC_Undead_GraveDigger_RE1",
-        "LocStringGenerationHelper": "<string key=\"VC_Undead_GraveDigger_RE1\">Undead_GraveDigger_RE1</string>",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Undead_GraveDigger_RE2",
-        "DisplayName": "@VC_Undead_GraveDigger_RE2",
-        "LocStringGenerationHelper": "<string key=\"VC_Undead_GraveDigger_RE2\">Undead_GraveDigger_RE2</string>",
         "GroupVitalsCategoryId": "BASE",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
@@ -33262,6 +33339,22 @@
         "LocStringGenerationHelper": "<string key=\"VC_Undead_GraveDigger_Named_04\">Undead_GraveDigger_Named_04</string>",
         "IsNamed": true,
         "IsDynamicPoiTarget": true
+    },
+    {
+        "VitalsCategoryID": "Undead_GraveDigger_RE1",
+        "DisplayName": "@VC_Undead_GraveDigger_RE1",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_GraveDigger_RE1\">Undead_GraveDigger_RE1</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Undead_GraveDigger_RE2",
+        "DisplayName": "@VC_Undead_GraveDigger_RE2",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_GraveDigger_RE2\">Undead_GraveDigger_RE2</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
     },
     {
         "VitalsCategoryID": "Undead_Grenadier",
@@ -34355,14 +34448,6 @@
         "IsDynamicPoiTarget": false
     },
     {
-        "VitalsCategoryID": "Undead_Hunter_RE1",
-        "DisplayName": "@VC_Undead_Hunter_RE1",
-        "LocStringGenerationHelper": "<string key=\"VC_Undead_Hunter_RE1\">Undead_Hunter_RE1</string>",
-        "GroupVitalsCategoryId": "BASE",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
         "VitalsCategoryID": "Undead_Hunter_02BW",
         "DisplayName": "@VC_Undead_Hunter_02BW",
         "LocStringGenerationHelper": "<string key=\"VC_Undead_Hunter_02BW\">Undead_Hunter_02BW</string>",
@@ -34736,6 +34821,14 @@
         "LocStringGenerationHelper": "<string key=\"VC_Undead_Hunter_Named_FR_Syn_01\">Undead_Hunter_Named_FR_Syn_01</string>",
         "IsNamed": true,
         "IsDynamicPoiTarget": true
+    },
+    {
+        "VitalsCategoryID": "Undead_Hunter_RE1",
+        "DisplayName": "@VC_Undead_Hunter_RE1",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_Hunter_RE1\">Undead_Hunter_RE1</string>",
+        "GroupVitalsCategoryId": "BASE",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
     },
     {
         "VitalsCategoryID": "Undead_Javelineer_02BW",
@@ -37828,14 +37921,6 @@
         "IsDynamicPoiTarget": false
     },
     {
-        "VitalsCategoryID": "Undead_Shaman_Named_10WS03",
-        "DisplayName": "@VC_Undead_Shaman_Named_10WS03",
-        "LocStringGenerationHelper": "<string key=\"VC_Undead_Shaman_Named_10WS03\">Undead_Shaman_Named_10WS03</string>",
-        "GroupVitalsCategoryId": "Rothoard",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
         "VitalsCategoryID": "Undead_Shaman_10WS09",
         "DisplayName": "@VC_Undead_Shaman_10WS09",
         "LocStringGenerationHelper": "<string key=\"VC_Undead_Shaman_10WS09\">Undead_Shaman_10WS09</string>",
@@ -37952,6 +38037,14 @@
         "DisplayName": "@VC_Undead_Shaman_15EC04e",
         "LocStringGenerationHelper": "<string key=\"VC_Undead_Shaman_15EC04e\">Undead_Shaman_15EC04e</string>",
         "GroupVitalsCategoryId": "Damnation",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
+        "VitalsCategoryID": "Undead_Shaman_Named_10WS03",
+        "DisplayName": "@VC_Undead_Shaman_Named_10WS03",
+        "LocStringGenerationHelper": "<string key=\"VC_Undead_Shaman_Named_10WS03\">Undead_Shaman_Named_10WS03</string>",
+        "GroupVitalsCategoryId": "Rothoard",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     },
@@ -40550,6 +40643,13 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "Wolf_Elemental_Ice_03GC10",
+        "DisplayName": "@VC_Wolf_Elemental_Ice_03GC10",
+        "LocStringGenerationHelper": "<string key=\"VC_Wolf_Elemental_Ice_03GC10\">Wolf_Elemental_Ice_03GC10</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Wolf_Elemental_Ice_25",
         "DisplayName": "@VC_Wolf_Elemental_Ice_25",
         "LocStringGenerationHelper": "<string key=\"VC_Wolf_Elemental_Ice_25\">Wolf_Elemental_Ice_25</string>",
@@ -41362,6 +41462,13 @@
         "IsDynamicPoiTarget": false
     },
     {
+        "VitalsCategoryID": "Yeti_Named_07SM08b",
+        "DisplayName": "@VC_Yeti_Named_07SM08b",
+        "LocStringGenerationHelper": "<string key=\"VC_Yeti_Named_07SM08b\">Yeti_Named_07SM08b</string>",
+        "IsNamed": false,
+        "IsDynamicPoiTarget": false
+    },
+    {
         "VitalsCategoryID": "Yeti_Named_08QP06",
         "DisplayName": "@VC_Yeti_Named_08QP06",
         "LocStringGenerationHelper": "<string key=\"VC_Yeti_Named_08QP06\">Yeti_Named_08QP06</string>",
@@ -41401,57 +41508,6 @@
         "DisplayName": "@VC_Yonas_MSQ",
         "LocStringGenerationHelper": "<string key=\"VC_Yonas_MSQ\">Yonas_MSQ</string>",
         "GroupVitalsCategoryId": "BASE",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Ghost_Frozen_65_Elite",
-        "DisplayName": "@VC_Ghost_Frozen_65_Elite",
-        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Frozen_65_Elite\">Ghost_Frozen_65_Elite</string>",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Ghost_Frozen_07SM08",
-        "DisplayName": "@VC_Ghost_Frozen_07SM08",
-        "LocStringGenerationHelper": "<string key=\"VC_Ghost_Frozen_07SM08\">Ghost_Frozen_07SM08</string>",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Bear_Cub_Grizzly_50",
-        "DisplayName": "@VC_Bear_Cub_Grizzly_50",
-        "LocStringGenerationHelper": "<string key=\"VC_Bear_Cub_Grizzly_50\">Bear_Cub_Grizzly_50</string>",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Bear_Cub_Grizzly_11MD10",
-        "DisplayName": "@VC_Bear_Cub_Grizzly_11MD10",
-        "LocStringGenerationHelper": "<string key=\"VC_Bear_Cub_Grizzly_11MD10\">Bear_Cub_Grizzly_11MD10</string>",
-        "GroupVitalsCategoryId": "High Pass",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Wolf_Elemental_Ice_03GC10",
-        "DisplayName": "@VC_Wolf_Elemental_Ice_03GC10",
-        "LocStringGenerationHelper": "<string key=\"VC_Wolf_Elemental_Ice_03GC10\">Wolf_Elemental_Ice_03GC10</string>",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Bear_Cub_Black_34",
-        "DisplayName": "@VC_Bear_Cub_Black_34",
-        "LocStringGenerationHelper": "<string key=\"VC_Bear_Cub_Black_34\">Bear_Cub_Black_34</string>",
-        "IsNamed": false,
-        "IsDynamicPoiTarget": false
-    },
-    {
-        "VitalsCategoryID": "Bear_Cub_Black_02BW08",
-        "DisplayName": "@VC_Bear_Cub_Black_02BW08",
-        "LocStringGenerationHelper": "<string key=\"VC_Bear_Cub_Black_02BW08\">Bear_Cub_Black_02BW08</string>",
-        "GroupVitalsCategoryId": "Greyvale",
         "IsNamed": false,
         "IsDynamicPoiTarget": false
     }

@@ -461,6 +461,18 @@
         "AzothRewardChance": 1
     },
     {
+        "EventID": "9901_0036_masterofthetempest_solo_success",
+        "Level": 0,
+        "CreatureType": "MSQ-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "CategoricalProgressionReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
+    },
+    {
         "EventID": "9919_0037_planb_success",
         "Level": 41,
         "CreatureType": "MSQ",
@@ -696,6 +708,18 @@
         "EmitTelemetry": true,
         "AzothReward": 100,
         "AzothRewardChance": 1
+    },
+    {
+        "EventID": "9902_0052_saboteur_solo_success",
+        "Level": 0,
+        "CreatureType": "MSQ-",
+        "UniversalExpAmount": 0,
+        "CurrencyReward": 0,
+        "CategoricalProgressionReward": 0,
+        "TerritoryStanding": 0,
+        "EmitTelemetry": true,
+        "AzothReward": 0,
+        "AzothRewardChance": 0
     },
     {
         "EventID": "9907_0053_blessingofearth_success",

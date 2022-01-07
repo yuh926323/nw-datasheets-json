@@ -7,6 +7,7 @@
         "Icon": "lyshineui/images/icons/abilities/bowAbility5.png",
         "Sound": "Play_UI_WeaponSkills_Bow_Ability_1",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 2,
         "TreeColumnPosition": 0,
@@ -44,7 +45,8 @@
         "Duration": 0,
         "CooldownId": "Ability_Bow_PoisonShot",
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_PoisonShot_PoisonDmg",
@@ -53,6 +55,7 @@
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility5_mod1.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 3,
         "TreeColumnPosition": 0,
@@ -90,15 +93,17 @@
         "Duration": 0,
         "CooldownId": "Ability_Bow_PoisonShot",
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_PoisonShot_DirectDmg",
         "DisplayName": "@Upgrade_Bow_PoisonShot_DirectDmg",
         "Description": "@Upgrade_Bow_PoisonShot_DirectDmg_description",
         "UICategory": "Ranged Damage",
-        "Icon": "lyshineui/images/icons/abilities/hatchetAbility1.png",
+        "Icon": "lyshineui/images/icons/abilities/bowAbility5_mod2.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 4,
         "TreeColumnPosition": 0,
@@ -138,7 +143,8 @@
         "Duration": 0,
         "CooldownId": "Ability_Bow_PoisonShot",
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Ability_Bow_EvadeShot",
@@ -148,6 +154,7 @@
         "Icon": "lyshineui/images/icons/abilities/bowAbility2.png",
         "Sound": "Play_UI_WeaponSkills_Bow_Ability_2",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 0,
         "TreeColumnPosition": 2,
@@ -185,7 +192,8 @@
         "Duration": 0,
         "CooldownId": "Ability_Bow_EvadeShot",
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_EvasiveShot_Knockback",
@@ -194,6 +202,7 @@
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/bowAbility2_mod1.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "RequiredAbilityId": "Ability_Bow_EvadeShot",
         "TreeId": 0,
         "TreeRowPosition": 1,
@@ -234,7 +243,8 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_EvasiveShot_Haste",
@@ -243,6 +253,7 @@
         "UICategory": "Buff",
         "Icon": "lyshineui/images/icons/abilities/bowAbility2_mod2.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "RequiredAbilityId": "Ability_Bow_EvadeShot",
         "TreeId": 0,
         "TreeRowPosition": 3,
@@ -280,7 +291,8 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Ability_Bow_RainofArrows",
@@ -290,6 +302,7 @@
         "Icon": "lyshineui/images/icons/abilities/bowAbility6.png",
         "Sound": "Play_UI_WeaponSkills_Bow_Ability_3",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 1,
         "TreeColumnPosition": 4,
@@ -327,15 +340,17 @@
         "Duration": 0,
         "CooldownId": "Ability_Bow_RainofArrows",
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_RainofArrows_Bleed",
         "DisplayName": "@Upgrade_Bow_RainofArrows_Bleed",
         "Description": "@Upgrade_Bow_RainofArrows_Bleed_description",
         "UICategory": "Ranged Damage",
-        "Icon": "lyshineui/images/icons/abilities/Rapier_BloodMasterPass4_BleedDamage.png",
+        "Icon": "lyshineui/images/icons/abilities/bowAbility6_mod1.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "RequiredAbilityId": "Ability_Bow_RainofArrows",
         "TreeId": 0,
         "TreeRowPosition": 2,
@@ -375,7 +390,8 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_RainofArrows_Slow",
@@ -384,6 +400,7 @@
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility6_mod2.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "RequiredAbilityId": "Ability_Bow_RainofArrows",
         "TreeId": 0,
         "TreeRowPosition": 4,
@@ -423,7 +440,8 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Skirmish_DodgeDmg",
@@ -432,6 +450,7 @@
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive5.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 0,
         "TreeColumnPosition": 3,
@@ -470,15 +489,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 2,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Skirmish_HasteWhenFoesNear",
         "DisplayName": "@Passive_Bow_Skirmish_HasteWhenFoesNear",
         "Description": "@Passive_Bow_Skirmish_HasteWhenFoesNear_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/GreatAxe_ReaperPass5_Pursuit.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive1.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 0,
         "TreeColumnPosition": 4,
@@ -517,15 +538,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Skirmish_CDRVsLow",
         "DisplayName": "@Passive_Bow_Skirmish_CDRVsLow",
         "Description": "@Passive_Bow_Skirmish_CDRVsLow_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/Rapier_Ability4Mod2_Priority.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive3.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 1,
         "TreeColumnPosition": 3,
@@ -563,15 +586,17 @@
         "Duration": -1,
         "CDRImmediatelyOptions": "ActiveWeapon",
         "CooldownTimer": -0.05000000074505806,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Skirmish_SlowFull",
         "DisplayName": "@Passive_Bow_Skirmish_SlowFull",
         "Description": "@Passive_Bow_Skirmish_SlowFull_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/bowAbility6_mod2.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive6.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 1,
         "TreeColumnPosition": 1,
@@ -610,7 +635,8 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Skirmish_StaminaVsDebuff",
@@ -619,6 +645,7 @@
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/BowPassive8.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 2,
         "TreeColumnPosition": 3,
@@ -657,7 +684,8 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Skirmish_DodgeHaste",
@@ -666,6 +694,7 @@
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive12.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 2,
         "TreeColumnPosition": 1,
@@ -704,15 +733,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 2,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Skirmish_HasteOnSwap",
         "DisplayName": "@Passive_Bow_Skirmish_HasteOnSwap",
         "Description": "@Passive_Bow_Skirmish_HasteOnSwap_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/firestaffAbility4_mod3.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive11.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 3,
         "TreeColumnPosition": 3,
@@ -749,15 +780,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 2,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Skirmish_DmgVsDebuff",
         "DisplayName": "@Passive_Bow_Skirmish_DmgVsDebuff",
         "Description": "@Passive_Bow_Skirmish_DmgVsDebuff_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/firestaffAbility4_mod1.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive9.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 4,
         "TreeColumnPosition": 1,
@@ -795,15 +828,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Skirmish_DebuffDur",
         "DisplayName": "@Passive_Bow_Skirmish_DebuffDur",
         "Description": "@Passive_Bow_Skirmish_DebuffDur_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/bowAbility5_mod2.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive10.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 4,
         "TreeColumnPosition": 3,
@@ -842,7 +877,8 @@
         "TargetStatusEffectDurationMult": 0.20000000298023224,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Ultimate_Bow_Skirmish",
@@ -852,6 +888,7 @@
         "Icon": "lyshineui/images/icons/abilities/bowPassive7.png",
         "Sound": "Play_UI_WeaponSkills_Bow_Ultimate_1",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 0,
         "TreeRowPosition": 5,
         "TreeColumnPosition": 2,
@@ -889,7 +926,8 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Ability_Bow_RapidShot",
@@ -899,6 +937,7 @@
         "Icon": "lyshineui/images/icons/abilities/bowAbility1.png",
         "Sound": "Play_UI_WeaponSkills_Bow_Ability_4",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 2,
         "TreeColumnPosition": 0,
@@ -936,7 +975,8 @@
         "Duration": 0,
         "CooldownId": "Ability_Bow_RapidShot",
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_RapidAccuracy_CDROnLast",
@@ -945,6 +985,7 @@
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility1_Mod1.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "RequiredAbilityId": "Ability_Bow_RapidShot",
         "TreeId": 1,
         "TreeRowPosition": 3,
@@ -986,7 +1027,8 @@
         "CooldownId": "Ability_Bow_RapidShot",
         "CDRImmediatelyOptions": "AbilitySpecific",
         "CooldownTimer": -0.5,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_RapidAccuracy_DmgOnLast",
@@ -995,6 +1037,7 @@
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility1_Mod2.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "RequiredAbilityId": "Ability_Bow_RapidShot",
         "TreeId": 1,
         "TreeRowPosition": 4,
@@ -1034,7 +1077,8 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Ability_Bow_PenetratingShot",
@@ -1044,6 +1088,7 @@
         "Icon": "lyshineui/images/icons/abilities/bowAbility3.png",
         "Sound": "Play_UI_WeaponSkills_Bow_Ability_5",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 0,
         "TreeColumnPosition": 2,
@@ -1081,7 +1126,8 @@
         "Duration": 0,
         "CooldownId": "Ability_Bow_PenetratingShot",
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_PenetratingShot_DmgPerHit",
@@ -1090,6 +1136,7 @@
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility3_mod1.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "RequiredAbilityId": "Ability_Bow_PenetratingShot",
         "TreeId": 1,
         "TreeRowPosition": 1,
@@ -1129,7 +1176,8 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_PenetratingShot_DmgPerDist",
@@ -1138,6 +1186,7 @@
         "UICategory": "Ranged Damage",
         "Icon": "lyshineui/images/icons/abilities/bowAbility3_mod2.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "RequiredAbilityId": "Ability_Bow_PenetratingShot",
         "TreeId": 1,
         "TreeRowPosition": 2,
@@ -1177,7 +1226,8 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Ability_Bow_SplinterShot",
@@ -1187,6 +1237,7 @@
         "Icon": "lyshineui/images/icons/abilities/bowAbility4.png",
         "Sound": "Play_UI_WeaponSkills_Bow_Ability_6",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 1,
         "TreeColumnPosition": 4,
@@ -1224,15 +1275,17 @@
         "Duration": 0,
         "CooldownId": "Ability_Bow_SplinterShot",
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_SplinterShot_FiveA",
         "DisplayName": "@Upgrade_Bow_SplinterShot_FiveA",
         "Description": "@Upgrade_Bow_SplinterShot_FiveA_description",
         "UICategory": "Ranged Damage",
-        "Icon": "lyshineui/images/icons/abilities/bowAbility4_mod2.png",
+        "Icon": "lyshineui/images/icons/abilities/bowAbility4_mod1.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "RequiredAbilityId": "Ability_Bow_SplinterShot",
         "TreeId": 1,
         "TreeRowPosition": 2,
@@ -1270,15 +1323,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Upgrade_Bow_SplinterShot_CDRPerHIt",
         "DisplayName": "@Upgrade_Bow_SplinterShot_CDRPerHIt",
         "Description": "@Upgrade_Bow_SplinterShot_CDRPerHIt_description",
         "UICategory": "Ranged Damage",
-        "Icon": "lyshineui/images/icons/abilities/hatchetAbility5_mod4.png",
+        "Icon": "lyshineui/images/icons/abilities/bowAbility4_mod2.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "RequiredAbilityId": "Ability_Bow_SplinterShot",
         "TreeId": 1,
         "TreeRowPosition": 4,
@@ -1319,7 +1374,8 @@
         "CooldownId": "Ability_Bow_SplinterShot",
         "CDRImmediatelyOptions": "AbilitySpecific",
         "CooldownTimer": -0.10000000149011612,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Hunter_DmgVsDist",
@@ -1328,6 +1384,7 @@
         "UICategory": "Passive",
         "Icon": "lyshineui/images/icons/abilities/bowPassive4.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 0,
         "TreeColumnPosition": 1,
@@ -1365,15 +1422,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Hunter_HeavyDmg",
         "DisplayName": "@Passive_Bow_Hunter_HeavyDmg",
         "Description": "@Passive_Bow_Hunter_HeavyDmg_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/bowAbility4_mod1.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive2.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 0,
         "TreeColumnPosition": 3,
@@ -1411,15 +1470,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Hunter_ArmorAimHeavy",
         "DisplayName": "@Passive_Bow_Hunter_ArmorAimHeavy",
         "Description": "@Passive_Bow_Hunter_ArmorAimHeavy_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/swordPassive14.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive13.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 1,
         "TreeColumnPosition": 3,
@@ -1457,15 +1518,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Hunter_DmgVsLow",
         "DisplayName": "@Passive_Bow_Hunter_DmgVsLow",
         "Description": "@Passive_Bow_Hunter_DmgVsLow_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/lifestaffPassive12.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive20.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 1,
         "TreeColumnPosition": 1,
@@ -1502,15 +1565,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Hunter_HeavyDmgVsFull",
         "DisplayName": "@Passive_Bow_Hunter_HeavyDmgVsFull",
         "Description": "@Passive_Bow_Hunter_HeavyDmgVsFull_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/swordPassive5.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive14.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 2,
         "TreeColumnPosition": 3,
@@ -1549,15 +1614,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Hunter_DmgOnFirst",
         "DisplayName": "@Passive_Bow_Hunter_DmgOnFirst",
         "Description": "@Passive_Bow_Hunter_DmgOnFirst_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/bowPassive2.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive15.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 3,
         "TreeColumnPosition": 1,
@@ -1598,15 +1665,64 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
+    },
+    {
+        "AbilityID": "Passive_Bow_Hunter_DmgOnFirst_Tracker",
+        "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 1,
+        "TreeId": 0,
+        "RequiredEquippedAbilityId": "Passive_Bow_Hunter_DmgOnFirst",
+        "TreeRowPosition": 0,
+        "TreeColumnPosition": 0,
+        "IsActiveAbility": false,
+        "IsGlobalAbility": false,
+        "OnKill": false,
+        "OnExecuted": false,
+        "OnHit": true,
+        "OnBlockedHit": false,
+        "OnCrit": false,
+        "OnHeadShot": false,
+        "OnLegShot": false,
+        "OnHitTaken": false,
+        "OnBlockBreak": false,
+        "OnTargetBlockBreak": false,
+        "OnDeath": false,
+        "OnDeathsDoor": false,
+        "RequireReaction": false,
+        "NumSuccessfulHits": 0,
+        "NumConsecutiveHits": 0,
+        "MaxConsecutiveHits": 0,
+        "TrackHitCount": false,
+        "MaxTrackedHitCounts": 0,
+        "ResetConsecutiveOnSuccess": false,
+        "IgnoreResetConsecutiveOnDeath": false,
+        "DamageIsRanged": false,
+        "StatusEffect": "Status_Passive_Bow_Hunter_DmgOnFirst_SelfTracker",
+        "TargetStatusEffect": "Status_Passive_Bow_Hunter_DmgOnFirst_Tracker",
+        "TargetHealthPercent": 0,
+        "DistFromDefender": 0,
+        "NumAroundMe": 0,
+        "InActionTime": 0,
+        "BaseDamage": 0,
+        "CritChance": 0,
+        "DmgPctToHealth": 0,
+        "OtherApplyStatusEffect": "Status_Passive_Bow_Hunter_DmgOnFirst_Tracker",
+        "TargetStatusEffectDurationMult": 0,
+        "Duration": 0,
+        "CooldownTimer": 0,
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Hunter_Accuracy",
         "DisplayName": "@Passive_Bow_Hunter_Accuracy",
         "Description": "@Passive_Bow_Hunter_Accuracy_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/musketAbility5.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive16.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 3,
         "TreeColumnPosition": 3,
@@ -1645,15 +1761,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Hunter_HealOnFive",
         "DisplayName": "@Passive_Bow_Hunter_HealOnFive",
         "Description": "@Passive_Bow_Hunter_HealOnFive_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/swordPassive13.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive17.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 4,
         "TreeColumnPosition": 1,
@@ -1690,15 +1808,17 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Passive_Bow_Hunter_Crit",
         "DisplayName": "@Passive_Bow_Hunter_Crit",
         "Description": "@Passive_Bow_Hunter_Crit_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/musketPassive4.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive18.png",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 4,
         "TreeColumnPosition": 3,
@@ -1735,16 +1855,18 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Ultimate_Bow_Hunter",
         "DisplayName": "@Ultimate_Bow_Hunter",
         "Description": "@Ultimate_Bow_Hunter_description",
         "UICategory": "Passive",
-        "Icon": "lyshineui/images/icons/abilities/musketPassive5.png",
+        "Icon": "lyshineui/images/icons/abilities/bowPassive19.png",
         "Sound": "Play_UI_WeaponSkills_Bow_Ultimate_2",
         "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 0,
         "TreeId": 1,
         "TreeRowPosition": 5,
         "TreeColumnPosition": 2,
@@ -1781,6 +1903,51 @@
         "TargetStatusEffectDurationMult": 0,
         "Duration": 0,
         "CooldownTimer": 0,
-        "RefundAmmoPercentChance": 0.5
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
+    },
+    {
+        "AbilityID": "Ultimate_Bow_Hunter_Refund",
+        "WeaponTag": "Bow",
+        "EquipWhenUnsheathed": 1,
+        "TreeId": 0,
+        "RequiredEquippedAbilityId": "Ultimate_Bow_Hunter",
+        "TreeRowPosition": 0,
+        "TreeColumnPosition": 0,
+        "IsActiveAbility": false,
+        "IsGlobalAbility": false,
+        "OnKill": false,
+        "OnExecuted": false,
+        "OnHit": false,
+        "OnBlockedHit": false,
+        "OnCrit": false,
+        "OnHeadShot": true,
+        "OnLegShot": false,
+        "OnHitTaken": false,
+        "OnBlockBreak": false,
+        "OnTargetBlockBreak": false,
+        "OnDeath": false,
+        "OnDeathsDoor": false,
+        "RequireReaction": false,
+        "NumSuccessfulHits": 0,
+        "NumConsecutiveHits": 0,
+        "MaxConsecutiveHits": 0,
+        "TrackHitCount": false,
+        "MaxTrackedHitCounts": 0,
+        "ResetConsecutiveOnSuccess": false,
+        "IgnoreResetConsecutiveOnDeath": false,
+        "DamageIsRanged": false,
+        "TargetHealthPercent": 0,
+        "DistFromDefender": 0,
+        "NumAroundMe": 0,
+        "InActionTime": 0,
+        "BaseDamage": 0,
+        "CritChance": 0,
+        "DmgPctToHealth": 0,
+        "TargetStatusEffectDurationMult": 0,
+        "Duration": 0,
+        "CooldownTimer": 0,
+        "RefundAmmoPercentChance": 0.5,
+        "ActivationCooldown": 2
     }
 ]

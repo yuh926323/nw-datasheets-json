@@ -231,7 +231,7 @@
 	<string key="1126_0102_TheLastMystery_start_Prompt" speaker="UI - Player Prompt">"What's that?"</string>
 	<string key="1126_0102_TheLastMystery_Proposal" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0102_TheLastMystery_Proposal" VO_Status="Needs Recording" dialogue-next="@1126_0102_TheLastMystery_Proposal_next">They fit together into a larger artifact. \n\nIt's got markings that I believe correspond to some Ancient sites I visited in my adventuring days.</string>
 	<string key="1126_0102_TheLastMystery_proposal_Prompt" speaker="UI - Player Prompt">"Do you think it might be a key?"</string>
-	<string key="1126_0102_TheLastMystery_Proposal_next" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0102_TheLastMystery_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1126_0102_TheLastMystery_proposal_Prompt">Ae, you may be right! \n\nWould you test that theory? Even if we are wrong it will make for a great story!</string>
+	<string key="1126_0102_TheLastMystery_Proposal_next" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0102_TheLastMystery_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1126_0102_TheLastMystery_proposal_Prompt">Aye, you may be right! \n\nWould you test that theory? Even if we are wrong it will make for a great story!</string>
 	<string key="1126_0102_TheLastMystery_Incomplete" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0102_TheLastMystery_Incomplete" VO_Status="Needs Recording">Have you tested that artifact yet? I'm sure it all means something. \n\nWhat mysteries still lie hidden out there?</string>
 	<string key="1126_0102_TheLastMystery_Complete_Available_Response" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0102_TheLastMystery_Complete_Available_Response" VO_Status="Needs Recording" dialogue-next="@1126_0102_TheLastMystery_Complete_Available_Response_next">Look, Pierre! Our stalwart returns! \n\nTell us, was it a key? What mysteries did it unlock?</string>
 	<string key="1126_0102_TheLastMystery_Complete_Available_Response_Prompt" speaker="UI - Player Prompt">"It activated the guardians!"</string>
@@ -244,13 +244,13 @@
 	<string key="1126_0103_AmateurAdventurer_Complete_Available_Response" speaker="Pierre2" name="PierreAuguste" VO="1126_0103_AmateurAdventurer_Complete_Available_Response" VO_Status="Needs Recording">Oh thank the heavens, it's you! \n\nI've been stuck here for days! C’est la galère!</string>
 	<string key="1126_KillQuest_1" speaker="UI">Defeat the Wardog Corrupted</string>
 	<string key="1125_0101_SongoftheSea_Title" speaker="UI  - Quest Title">Song of the Sea</string>
-	<string key="1125_0101_SongoftheSea_Description" speaker="UI - Quest Description">Find the Captain's lost Shanty Book and Hurdy Gurdy.</string>
+	<string key="1125_0101_SongoftheSea_Description" speaker="UI - Quest Description">Find the Captain's lost Shanty Book and Hurdy-Gurdy.</string>
 	<string key="1125_0101_SongoftheSea_start_Prompt" speaker="UI - Player Prompt">"If this is about money..."</string>
-	<string key="1125_0101_SongoftheSea_Proposal" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Proposal" VO_Status="Needs Recording" dialogue-next="@1125_0101_SongoftheSea_Proposal_next">Nothing like that. This be a tragic tale. \n\nMusic’s me soul, y'see. But me crewmates never fancied me shanties. Blamed 'em, in fact, for us having run aground on this rock. \n\nSo they stole me hurdygurdy an' threw me out!</string>
+	<string key="1125_0101_SongoftheSea_Proposal" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Proposal" VO_Status="Needs Recording" dialogue-next="@1125_0101_SongoftheSea_Proposal_next">Nothing like that. This be a tragic tale. \n\nMusic’s me soul, y'see. But me crewmates never fancied me shanties. Blamed 'em, in fact, for us having run aground on this rock. \n\nSo they stole me hurdy-gurdy an' threw me out!</string>
 	<string key="1125_0101_SongoftheSea_proposal_Prompt" speaker="UI - Player Prompt">"That is tragic!"</string>
-	<string key="1125_0101_SongoftheSea_Proposal_next" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1125_0101_SongoftheSea_proposal_Prompt">For them, aye! The scurvy lot ended up Lost while I'm still here. \n\nMe music's what saved me. We go together like salt an' the sea. \n\nBut without me hurdygurdy an' me songbook, I can't quite recall me tunes…</string>
+	<string key="1125_0101_SongoftheSea_Proposal_next" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1125_0101_SongoftheSea_proposal_Prompt">For them, aye! The scurvy lot ended up Lost while I'm still here. \n\nMe music's what saved me. We go together like salt an' the sea. \n\nBut without me hurdy-gurdy an' me songbook, I can't quite recall me tunes…</string>
 	<string key="1125_0101_SongoftheSea_Incomplete" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Incomplete" VO_Status="Needs Recording">I don't feel like meself these days. \n\nMe music be the only thing left to cling to out here. \n\nWithout it, I may just slip away like th' rest o' them…</string>
-	<string key="1125_0101_SongoftheSea_Complete_Available_Response" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Complete_Available_Response" VO_Status="Needs Recording">Dancing dolphins! Me hurdygurdy! Ye've found her! \n\nAn' me shanties as well! \n\nI don't know how I could repay ye.</string>
+	<string key="1125_0101_SongoftheSea_Complete_Available_Response" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Complete_Available_Response" VO_Status="Needs Recording">Dancing dolphins! Me hurdy-gurdy! Ye've found her! \n\nAn' me shanties as well! \n\nI don't know how I could repay ye.</string>
 	<string key="1128_0101_VillageChampion_Title" speaker="UI  - Quest Title">Village Champion</string>
 	<string key="1128_0101_VillageChampion_Description" speaker="UI - Quest Description">Recover Lerato's Heirloom armor and sword from the Corrupted in Ceremony and return them to her at the crossroads.</string>
 	<string key="1128_0101_VillageChampion_start_Prompt" speaker="UI - Player Prompt">"The Corrupted?"</string>
@@ -261,7 +261,7 @@
 	<string key="1128_0101_VillageChampion_Complete_Available_Response" speaker="Leilani - Mourningdale" name="Leilani" VO="1128_0101_VillageChampion_Complete_Available_Response" VO_Status="Needs Recording">You're back! \n\nAnd with my father's armor as well! I'd recognize it anywhere! \n\nYou've done me and my father a great kindness.</string>
 	<string key="1126_0102_travelto_site" speaker="UI">Travel to the town of Ceremony</string>
 	<string key="1127_0101_MalignDominion_Title" speaker="UI  - Quest Title">Malign Dominion</string>
-	<string key="1127_0101_MalignDominion_Description" speaker="UI - Quest Description">Find and destroy Malign Nodes at each of three Corrupt checkpoints along the road, then return to Harunobu at the crossroads.</string>
+	<string key="1127_0101_MalignDominion_Description" speaker="UI - Quest Description">Find and destroy Malign Nodes at each of three Corrupt checkpoints along the road, then return to Harunobu at the crossroads. Some of these nodes are out of reach, you may need to bring a ranged weapon.</string>
 	<string key="1127_0101_MalignDominion_start_Prompt" speaker="UI - Player Prompt">"Are they preparing for an invasion?"</string>
 	<string key="1127_0101_MalignDominion_Proposal" speaker="Harunobu - Mourningdale" name="HiraiHarunobu" VO="1127_0101_MalignDominion_Proposal" VO_Status="Needs Recording" dialogue-next="@1127_0101_MalignDominion_Proposal_next">They must be! \n\nI may be just a hog farmer from Hibbotsfeld, but I recognize purpose when I see it! \n\nThey've locked down the northern road like a Corrupted constabulary!</string>
 	<string key="1127_0101_MalignDominion_proposal_Prompt" speaker="UI - Player Prompt">"What's their insidious plan?"</string>
@@ -282,11 +282,11 @@
 	<string key="1129_0101_SoulMusic_Title" speaker="UI - Quest Title">Soul Music</string>
 	<string key="1129_0101_SoulMusic_Description" speaker="UI - Quest Description">Clear away the Withered around the Ancient Head so that Jan Jaansen can better hear the mysterious voice.</string>
 	<string key="1129_0101_SoulMusic_start_Prompt" speaker="UI - Player Prompt">"I don't hear anything."</string>
-	<string key="1129_0101_SoulMusic_Proposal" speaker="Jan Jaansen - Mourningdale" name="JanJaansen" VO="1129_0101_SoulMusic_Proposal" VO_Status="Needs Recording" dialogue-next="@1129_0101_SoulMusic_Proposal_next">Are you sure? It's right there, playing at the edge of my hearing. \n\nThose damned Withered are so loud. I can't hear myself think! \n\nIf only they were gone.</string>
+	<string key="1129_0101_SoulMusic_Proposal" speaker="Jan Jaansen - Mourningdale" name="JanJaansen" VO="1129_0101_SoulMusic_Proposal" VO_Status="Needs Recording" dialogue-next="@1129_0101_SoulMusic_Proposal_next">Are you sure? It's right there, playing at the edge of my hearing. \n\nBut those damned Withered are so loud. I can't hear myself think! \n\nIf only they were gone.</string>
 	<string key="1129_0101_SoulMusic_proposal_Prompt" speaker="UI - Player Prompt">"I could get rid of a few of them."</string>
 	<string key="1129_0101_SoulMusic_Proposal_next" speaker="Jan Jaansen - Mourningdale" name="JanJaansen" VO="1129_0101_SoulMusic_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1129_0101_SoulMusic_proposal_Prompt">That would be wonderful! \n\nI'm Jan Jaansen, bard of some note you know! \n\nMaybe I'll write a ballad about your heroics!</string>
 	<string key="1129_0101_SoulMusic_Incomplete" speaker="Jan Jaansen - Mourningdale" name="JanJaansen" VO="1129_0101_SoulMusic_Incomplete" VO_Status="Needs Recording">I almost had it for a moment! \n\nIf only those Withered were driven away… \n\nIt's something like a poem…</string>
-	<string key="1129_0101_SoulMusic_Complete_Available_Response" speaker="Jan Jaansen - Mourningdale" name="JanJaansen" VO="1129_0101_SoulMusic_Complete_Available_Response" VO_Status="Needs Recording">I heard it! For but a moment it was clear as the dawn! \n\nA song of epic proportions, a song of… \n\nWell I'm not sure exactly yet, but gracious am I inspired to figure it out!</string>
+	<string key="1129_0101_SoulMusic_Complete_Available_Response" speaker="Jan Jaansen - Mourningdale" name="JanJaansen" VO="1129_0101_SoulMusic_Complete_Available_Response" VO_Status="Needs Recording">I heard it! For but a moment it was clear as the dawn! \n\nA song of epic proportions, a song of… \n\nWell I'm not exactly sure yet, but gracious, am I inspired to figure it out!</string>
 	<string key="1129_0102_NewPerspective_Title" speaker="UI - Quest Title">New Perspective</string>
 	<string key="1129_0102_NewPerspective_Description" speaker="UI - Quest Description">Get to the end of Presage Pier and look for inspiration for the next stanza of Jan's epic.</string>
 	<string key="1129_0102_NewPerspective_start_Prompt" speaker="UI - Player Prompt">"I've been known to be heroic."</string>
@@ -319,10 +319,10 @@
 	<string key="1110_0101_GreetTheNewcomers_Title" speaker="UI  - Quest Title">Welcome to Mourningdale</string>
 	<string key="1110_0101_GreetTheNewcomers_Description" speaker="UI - Quest Description">Find Harunobu, recently of Hibbotsfeld.</string>
 	<string key="1110_0101_GreetTheNewcomers_start_Prompt" speaker="UI - Player Prompt">"The Corruption problem up north is bad!"</string>
-	<string key="1110_0101_GreetTheNewcomers_Proposal" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Proposal" VO_Status="Needs Recording" dialogue-next="@1110_0101_GreetTheNewcomers_Proposal_next">So I've heard.\n\nMore and more people falling through here lost their livlihoods.\n\nSome lost worse!</string>
+	<string key="1110_0101_GreetTheNewcomers_Proposal" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Proposal" VO_Status="Needs Recording" dialogue-next="@1110_0101_GreetTheNewcomers_Proposal_next">So I've heard. \n\nMore and more people falling through here lost their livelihoods. \n\nSome lost worse!</string>
 	<string key="1110_0101_GreetTheNewcomers_proposal_Prompt" speaker="UI - Player Prompt">"Worse?"</string>
 	<string key="1110_0101_GreetTheNewcomers_Proposal_next" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1110_0101_GreetTheNewcomers_proposal_Prompt">No use in dwelling on it.\n\nInstead, why not go greet a couple of them, welcome them to their new home?</string>
-	<string key="1110_0101_GreetTheNewcomers_Incomplete" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Incomplete" VO_Status="Needs Recording">Have you checked in with those newcomers yet?\n\nDon't want them feeling left out after all that's happened to them.\n\nLet's show them some Mourningdale hospitality!</string>
+	<string key="1110_0101_GreetTheNewcomers_Incomplete" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Incomplete" VO_Status="Needs Recording">Have you checked in with those newcomers yet?\n\nDon't want them feeling left out after all that's happened to them.\n\nLet's show them some Mourningdale hospitality, eh?</string>
 	<string key="1110_0101_GreetTheNewcomers_Complete_Available_Response" speaker="Harunobu2 - Mourningdale" name="HiraiHarunobu" VO="1110_0101_GreetTheNewcomers_Complete_Available_Response" VO_Status="Needs Recording">Hey it's {PlayerName}!\n\nGreat to see you again. Want to try some of this pork?\n\nThe facilities here are top notch!</string>
 	<string key="1110_0101_GreetHaru" speaker="UI">Welcome Harunobu to Mourningdale</string>
 	<string key="1110_0101_GreetTheNewcomers2_Title" speaker="UI  - Quest Title">The People in the Neighborhood</string>
@@ -332,13 +332,13 @@
 	<string key="1110_0101_GreetTheNewcomers2_proposal_Prompt" speaker="UI - Player Prompt">"That was kind of her."</string>
 	<string key="1110_0101_GreetTheNewcomers2_Proposal_next" speaker="Harunobu2 - Mourningdale" name="HiraiHarunobu" VO="1110_0101_GreetTheNewcomers2_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1110_0101_GreetTheNewcomers2_proposal_Prompt">Now, I'm doing much better. I may not be a hog farmer anymore, but I am a great hog roaster! \n\nDo you mind bringing some of this to good old Lerato? She's here in town.</string>
 	<string key="1110_0101_GreetTheNewcomers2_Incomplete" speaker="Harunobu2 - Mourningdale" name="HiraiHarunobu" VO="1110_0101_GreetTheNewcomers2_Incomplete" VO_Status="Needs Recording">Hey{PlayerName}! \n\nGet that meat to Lerato while it's still hot! \n\nIt gets a little greasy when it cools off.</string>
-	<string key="1110_0101_GreetTheNewcomers2_Complete_Available_Response" speaker="Lerato2 - Mourningdale" name="LeratoMolefe" VO="1110_0101_GreetTheNewcomers2_Complete_Available_Response" VO_Status="Needs Recording">Oh hello, what have you brought? \n\nAh, bless that Harunobu, he is so kind to me.</string>
+	<string key="1110_0101_GreetTheNewcomers2_Complete_Available_Response" speaker="Lerato2 - Mourningdale" name="LeratoMolefe" VO="1110_0101_GreetTheNewcomers2_Complete_Available_Response" VO_Status="Needs Recording">Oh hello, what have you brought me? \n\nAh, bless that Harunobu, he is so kind to me.</string>
 	<string key="1110_0101_GreetLerato" speaker="UI">Welcome Lerato to Mourningdale with a sample of Harunobu's roast pork.</string>
 	<string key="1128_0101_TravelTo_Site" speaker="UI">Head to the town of Ceremony.</string>
 	<string key="1129_0102_Janinthenorth_Title" speaker="UI  - Quest Title">Following the Bard's Song</string>
 	<string key="1129_0102_Janinthenorth_Description" speaker="UI - Quest Description">Search the coastal roads for Jan Jaansen</string>
 	<string key="1129_0102_Janinthenorth_start_Prompt" speaker="UI - Player Prompt">Read the note.</string>
-	<string key="1129_0102_Janinthenorth_Proposal" speaker="Jan's Note - Mourningdale" name="JanJaansen" VO="1129_0102_Janinthenorth_Proposal" VO_Status="Needs Recording">Thanks for the inspiration! \n\nHere's to the brave soul that helped me to find my way on the roads north of the Settlement! \nYou're a real inspiration. I may write a song just about your great deeds! \n\nThere are still heroes in this world! Let's cross paths again, perhaps in the north? \n\nJ. Jaansen</string>
+	<string key="1129_0102_Janinthenorth_Proposal" speaker="Jan's Note - Mourningdale" name="JanJaansen" VO="1129_0102_Janinthenorth_Proposal" VO_Status="Needs Recording">Thanks for the inspiration! \n\nHere's to the brave soul that helped me to find my way on the roads north of the Settlement! \nYou're a real muse. I may write a song just about your great deeds! \n\nThere are still heroes in this world! Let's cross paths again, perhaps in the north? \n\nJ. Jaansen</string>
 	<string key="1129_0102_Janinthenorth_Incomplete" speaker="Pierre's Note - Mourningdale" name="JanJaansen" VO="1129_0102_Janinthenorth_Incomplete" VO_Status="Needs Recording">(Jan Jaansen wrote this note. \n\nCould it be about you?)</string>
 	<string key="1129_0102_Janinthenorth_Complete_Available_Response" speaker="Jan Jaansen - Mourningdale" name="JanJaansen" VO="1129_0102_Janinthenorth_Complete_Available_Response" VO_Status="Needs Recording">It's as though you heard me calling for you from so far away.</string>
 	<string key="1124_PierreGoHome_Title" speaker="UI  - Quest Title">Seasoned Adventurer</string>
@@ -417,7 +417,7 @@
 	<string key="1130_05_SensounoKo_Proposal" speaker="SensonoKo - Edengrove" name="SensounoKo" VO_Status="Needs Recording">No more words!\n\nYour soul is mine!</string>
 	<string key="1130_05_SensounoKo_Incomplete" speaker="Tormented Spirits" name="TormentedSpirits" VO_Status="Needs Recording">Help us! Save us!\n\nThe demon torments us!\n\nYou must destroy him!</string>
 	<string key="1130_05_SensounoKo_Complete_Available_Response" speaker="Toshi2 - Mourningdale" name="ToshiHarada" VO_Status="Needs Recording">Truly you are brave to face Kubikiri's spirit, and the kami within the axe!\n\nCarry the blade with pride, let it be a mark of your valor.</string>
-	<string key="1133_01_SnakeOil_Title" speaker="UI  - Quest Title">Slick as Snake Oil</string>
+	<string key="1133_01_SnakeOil_Title" speaker="UI  - Quest Title">Come in from the Cold</string>
 	<string key="1133_01_SnakeOil_Description" speaker="UI - Quest Description">Travel north and find Megnolia Gingham and Sidney Nickles near their homestead in Mourningdale.</string>
 	<string key="1133_01_SnakeOil_start_Prompt" speaker="UI - Player Prompt">"It's {playerName}, and yours?"</string>
 	<string key="1133_01_SnakeOil_Proposal" speaker="StonefirthCoy - Mourningdale" name="StonefirthCoy" VO_Status="Needs Recording" dialogue-next="@1133_01_SnakeOil_Proposal_next">Why I'm Stonefirth Coy! Tellin' me you've never heard? You must be new.\n\nNow listen here. I have a proposal for you.</string>
@@ -428,10 +428,10 @@
 	<string key="1133_SnakeOil1" speaker="UI">Locate Megnolia Gingham and Sidney Nickles in North Mourningdale.</string>
 	<string key="1133_01_SnakeOil_Incomplete" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording">Please make haste {playerName}.\n\nWe wouldn't want to keep those nice ladies waiting.</string>
 	<string key="1133_01_SnakeOil_Complete_Available_Response" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording">Stonefirth Coy?\nOh I'm not sure. Should I?\n\nIt is dreadful here...</string>
-	<string key="1132_01_ClaimJumper_Title" speaker="UI - Quest Title">Claim Jumper</string>
-	<string key="1132_01_ClaimJumper_Description" speaker="UI - Quest Description">Travel to the Gingham's Homestead and search the Corrupt for a clue to their purpose</string>
+	<string key="1132_01_ClaimJumper_Title" speaker="UI - Quest Title">Bringing the Thunder</string>
+	<string key="1132_01_ClaimJumper_Description" speaker="UI - Quest Description">Travel to the Gingham's Homestead and search the Corrupted for clues about their purpose.</string>
 	<string key="1132_01_ClaimJumper_start_Prompt" speaker="UI - Player Prompt">"Want me to poke around?"</string>
-	<string key="1132_01_ClaimJumper_Proposal" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Would you? I wonder if there isn't some clue to what they're up to on our land.\n\nIt just don't make no sense!</string>
+	<string key="1132_01_ClaimJumper_Proposal" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Tell you what, on the 'stead, we trust one thing. Our scatterguns. If you've got a big problem, point a bigger gun at it. Right?\n\nI trust you know your way around a blunderbuss, do me a favor and take one up to the homestead and shoot those monsters until the truth falls out.\n\nIf nothing else the noise might drive 'em off.</string>
 	<string key="1132_01_ClaimJumper_Incomplete" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">I hate to send Meg away.\nThat land is her claim by all rights.\n\nI don't trust that Coy fellow either.</string>
 	<string key="1132_01_ClaimJumper_Complete_Available_Response" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Let me see those handbills!\nWhy, this feller was recruiting those monsters!\nI was right! There is a rat, and his name is Digby!</string>
 	<string key="1132_02_DiamondbackHustler_Title" speaker="UI - Quest Title">Diamondback Hustler</string>
@@ -446,9 +446,12 @@
 	<string key="1132_02_DiamondbackHustler_Incomplete" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Have you taught that Digby a lesson yet?\n\nThat Corrupted bully wouldn't know how to work the land, and I doubt his gang has any interest either.\n\nSo what's the idea?</string>
 	<string key="1132_02_DiamondbackHustler_Complete_Available_Response" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">You mean they were just goons for Stonefirth Coy!?\nWe have to tell Meg, she may be in danger!</string>
 	<string key="1132_01_Digby" speaker="UI">Seek out the Digby Gang's Hideout in Hibbotsfeld.</string>
-	<string key="1132_02_Digby" speaker="UI">Rouse the Digby Gang.</string>
+	<string key="1132_02_Digby" speaker="UI">Rouse the Digby Gang. (Optional)</string>
 	<string key="1132_03_Digby" speaker="UI">Defeat the Digby Gang with a Blunderbuss.</string>
 	<string key="1132_04_Digby" speaker="UI">Defeat Digby Stockburn.</string>
+	<string key="1132_05_Digby" speaker="UI">Defeat Digby's Guards.</string>
+	<string key="1132_06_Digby" speaker="UI">Defeat Digby's Dogs.</string>
+	<string key="1132_xx_Digby" speaker="UI">Challenge the Digby Gang.</string>
 	<string key="1132_Grampa1" speaker="UI">Search crates in the area for Grampa's Stock.</string>
 	<string key="1132_Grampa2" speaker="UI">Search crates in the area for Grampa's Mechanism.</string>
 	<string key="1132_Grampa3" speaker="UI">Recover Grampa's Barrel from Corrupted.</string>
@@ -465,6 +468,11 @@
 	<string key="1132_03_RoomEnough_Proposal_next2" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-prompt="@1132_03_RoomEnough_proposal_Prompt2">If only I could see the rat's face!\nBut I need to stay here and try to figure out what's next for me an' Meg.</string>
 	<string key="1132_03_RoomEnough_Incomplete" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">You've got to tell Stonefirth that we're onto him!\nMegnolia needs to leave that man's estate!</string>
 	<string key="1132_Shootout" speaker="UI">Travel to Stonefirth Coy's hideout in Nullcavity.</string>
+	<string key="1132_Shootout_Option" speaker="UI">Blow down the barricade on Coy's Retreat. (Optional)</string>
+	<string key="1132_Shootout_Waves" speaker="UI">Defeat Stonefirth Coy's gangmembers.</string>
+	<string key="1132_Shootout_Waves2" speaker="UI">Put down Stonefirth Coy.</string>
+	<string key="1132_Shootout_Sub" speaker="UI">Defeat Stonefirth Coy and his gang with a Blunderbuss.</string>
+	<string key="1132_Shootout_Sub2" speaker="UI">Defeat Stonefirth's Coy's Gang2.</string>
 	<string key="1132_TalkToMeg2" speaker="UI">Warn Meg about Stonefirth Coy's deceit.</string>
 	<string key="1132_TalkToMeg1" speaker="UI">Go to Megnolia in Mourningdale quickly!</string>
 	<string key="1132_03_RoomEnough_Complete_Available_Response" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording">You are a hyena!\nTo come in here blustering at me!\nHow dare you impugn my honor?</string>
@@ -484,11 +492,11 @@
 	<string key="1132_03_GrampasGun_start_Prompt" speaker="UI - Player Prompt">"Sidney said the same thing."</string>
 	<string key="1132_03_GrampasGun_Proposal" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-next="@1132_03_GrampasGun_Proposal_next">Shes as good a shot as my daddy was, that's for sure.\nHow good a shot are you?</string>
 	<string key="1132_03_GrampasGun_proposal_Prompt" speaker="UI - Player Prompt">"I'm keen to find out."</string>
-	<string key="1132_03_GrampasGun_Proposal_next" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-next="@1132_03_GrampasGun_Proposal_next2" dialogue-prompt="@1132_03_GrampasGun_proposal_Prompt">Well then, as I'm headed out to meet back up with Sidney, I reckon we might be wanting the services of my Grampa's Blunderbuss.</string>
+	<string key="1132_03_GrampasGun_Proposal_next" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-next="@1132_03_GrampasGun_Proposal_next2" dialogue-prompt="@1132_03_GrampasGun_proposal_Prompt">Well then, as I'm back up here with Sidney now, I reckon we might be wanting the services of my Grampa's Blunderbuss.</string>
 	<string key="1132_03_GrampasGun_proposal_Prompt2" speaker="UI - Player Prompt">"Where will I find it?"</string>
 	<string key="1132_03_GrampasGun_Proposal_next2" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-prompt="@1132_03_GrampasGun_proposal_Prompt2">My Gramp's place, I'm sure it's still up there.\nHe might have broken it down to keep it from the Corrupted.</string>
 	<string key="1132_03_GrampasGun_Incomplete" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording">Do hurry along {playerName}, I don't want to tarry any longer.</string>
-	<string key="1132_03_GrampasGun_Complete_Available_Response" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording">Oh, that's the one!\nI haven't held it since I was a girl.\nI'm starting to feel a lot better about that Stonefirth fella showing up.\nI think Sidney's got other plans though.</string>
+	<string key="1132_03_GrampasGun_Complete_Available_Response" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording">Oh, that's the one! I haven't held it since I was a girl.\nI'm starting to feel a lot better about that Stonefirth fella showing up.\n\nI think Sidney's got other plans though.</string>
 	<string key="1132_05_Shootout_Title" speaker="UI  - Quest Title">Snake Pit Shootout</string>
 	<string key="1132_05_Shootout_Description" speaker="UI - Quest Description">Go to Stonefirth's Hideout and smoke him and his gangsters out, then blow them away with a Blunderbuss.</string>
 	<string key="1132_05_Shootout_start_Prompt" speaker="UI - Player Prompt">"What have you learned?"</string>
@@ -497,8 +505,9 @@
 	<string key="1132_05_Shootout_Proposal_next" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_05_Shootout_Proposal_next2" dialogue-prompt="@1132_05_Shootout_proposal_Prompt">Exactly what I was thinking partner.\n\nI know where they're holed up.\n\nI say we smoke 'em out, then let 'em have both barrels!</string>
 	<string key="1132_05_Shootout_proposal_Prompt2" speaker="UI - Player Prompt">"Point me the right direction. I'm locked and loaded."</string>
 	<string key="1132_05_Shootout_Proposal_next2" speaker="StonefirthCoy" name="SidneyNickles" VO_Status="Needs Recording" dialogue-prompt="@1132_05_Shootout_proposal_Prompt2">Make sure you arm up with a Blunderbuss,\nThe Ginghams have traditions y'know.\nLet 'em know you're striking this blow for Meg and me.</string>
-	<string key="1132_05_Shootout_Incomplete" speaker="StonefirthCoy" name="SidneyNickles" VO_Status="Needs Recording">Every minute that you're not shooting up that nest of snakes, they get stronger {playerName}\nGo drive 'em out!</string>
+	<string key="1132_05_Shootout_Incomplete" speaker="StonefirthCoy" name="SidneyNickles" VO_Status="Needs Recording">Every minute that you're not shooting up that nest of snakes, they get stronger {playerName}\n\nGo drive 'em out!</string>
 	<string key="1132_05_Shootout_Complete_Available_Response" speaker="MegnoliaGingham" name="SidneyNickles" VO_Status="Needs Recording">I don't know if I was there with you in spirit,\nor if that was just distant thunder.\nWe owe you, {playerName}.</string>
-	<string key="1133_Handbills" speaker="UI">Gather Clues from Corrupt.</string>
+	<string key="1133_Handbills" speaker="UI">Gather Clues from the Corrupted.</string>
+	<string key="1132_GrampaKills" speaker="UI">Blast the Corrupted with a Blunderbuss.</string>
 </resources>
 

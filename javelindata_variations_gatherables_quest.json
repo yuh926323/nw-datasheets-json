@@ -14,7 +14,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0402_GruelBarrel",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0403_GruelBarrel",
@@ -30,7 +31,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices/WorldEvents/Everfall/Gruel/Enc_WorldEvent_Gruel.dynamicslice",
         "InteractTag": "IO_0403_GruelBarrel",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0424_0108_YetiRune",
@@ -46,7 +48,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0424_0108_YetiRune",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0403_0201_AlphaLure",
@@ -62,7 +65,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0403_0201_AlphaLure",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0603_0201_AlphaLure",
@@ -78,7 +82,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0603_0201_AlphaLure",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0903_0201_AlphaLure",
@@ -94,7 +99,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0903_0201_AlphaLure",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1203_0201_AlphaLure",
@@ -110,7 +116,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1203_0201_AlphaLure",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "Default",
@@ -124,7 +131,8 @@
         "depletedVFX_Offset_Z": 0,
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "06_Grave",
@@ -139,7 +147,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices/WorldEvents/Windsward/Grenville/Enc_WorldEvent_06_Grave_00.dynamicslice",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "06_SpectralShrine",
@@ -157,7 +166,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Windsward\\SpectralShrine\\Enc_WorldEvent_06_SpectralShrine_00.dynamicslice",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0201_DirtPile",
@@ -175,7 +185,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0201_DirtPile",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0202_BoneDirtPile",
@@ -193,7 +204,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0202_BoneDirtPile",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0203_MossPuffball",
@@ -211,7 +223,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0203_MossPuffball",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0231_WolcottsEaselA",
@@ -228,7 +241,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0231_WolcottsEaselA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0231_WolcottsEaselB",
@@ -245,7 +259,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0231_WolcottsEaselB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0231_WolcottsEaselC",
@@ -262,7 +277,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0231_WolcottsEaselC",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0231_WolcottsEaselD",
@@ -279,7 +295,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0231_WolcottsEaselD",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0231_WolcottsEaselE",
@@ -296,7 +313,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0231_WolcottsEaselE",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0231_WolcottsEaselF",
@@ -313,7 +331,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0231_WolcottsEaselF",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0231_WolcottsEaselG",
@@ -330,7 +349,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0231_WolcottsEaselG",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0231_WolcottsEaselH",
@@ -347,7 +367,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0231_WolcottsEaselH",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0231_WolcottsEaselI",
@@ -364,7 +385,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0231_WolcottsEaselI",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "9801_PKTraceAbsorberA",
@@ -382,7 +404,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_9801_PKTraceAbsorberA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_01",
@@ -400,7 +423,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_9801_PKTraceAbsorberA_01",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_02",
@@ -418,7 +442,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_9801_PKTraceAbsorberA_02",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_03",
@@ -436,7 +461,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_9801_PKTraceAbsorberA_03",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_04",
@@ -454,7 +480,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_9801_PKTraceAbsorberA_04",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_05",
@@ -472,7 +499,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_9801_PKTraceAbsorberA_05",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "9801_PKTraceAbsorberA_06",
@@ -490,7 +518,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_9801_PKTraceAbsorberA_06",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "9801_PKTraceAbsorberB",
@@ -507,7 +536,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_9801_PKTraceAbsorberB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "9802_DryadTerminusPool",
@@ -524,7 +554,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_9802_DryadTerminusPool",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0301_BuriedChest",
@@ -542,7 +573,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0301_BuriedChest",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0301_BuriedChestA",
@@ -560,7 +592,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0301_BuriedChestA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0302_HidingBarrel",
@@ -579,7 +612,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0302_HidingBarrel",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0302_HidingBarrelA",
@@ -598,7 +632,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0302_HidingBarrelA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0303_StatueAzothOrbA",
@@ -616,7 +651,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0303_StatueAzothOrbA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0304_StatueAzothOrbB",
@@ -634,7 +670,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0304_StatueAzothOrbB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0305_StatueAzothOrbC",
@@ -652,7 +689,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0305_StatueAzothOrbC",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0306_CorrRitualPillar",
@@ -670,7 +708,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0306_CorrRitualPillar",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0425_Truffle",
@@ -688,7 +727,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0425_Truffle",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0404_CorruptedNoduleA",
@@ -704,7 +744,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0404_CorruptedNoduleA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0404_CorruptedNoduleB",
@@ -720,7 +761,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0404_CorruptedNoduleB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0404_CorruptedNoduleC",
@@ -736,7 +778,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0404_CorruptedNoduleC",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0404_CorruptedNoduleD",
@@ -752,7 +795,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0404_CorruptedNoduleD",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0604_CorruptedNoduleA",
@@ -768,7 +812,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0604_CorruptedNoduleA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0604_CorruptedNoduleB",
@@ -784,7 +829,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0604_CorruptedNoduleB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0604_CorruptedNoduleC",
@@ -800,7 +846,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0604_CorruptedNoduleC",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0604_CorruptedNoduleD",
@@ -816,7 +863,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0604_CorruptedNoduleD",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0904_CorruptedNoduleA",
@@ -832,7 +880,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0904_CorruptedNoduleA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0904_CorruptedNoduleB",
@@ -848,7 +897,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0904_CorruptedNoduleB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0904_CorruptedNoduleC",
@@ -864,7 +914,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0904_CorruptedNoduleC",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0904_CorruptedNoduleD",
@@ -880,7 +931,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0904_CorruptedNoduleD",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1204_CorruptedNoduleA",
@@ -896,7 +948,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1204_CorruptedNoduleA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1204_CorruptedNoduleB",
@@ -912,7 +965,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1204_CorruptedNoduleB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1204_CorruptedNoduleC",
@@ -928,7 +982,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1204_CorruptedNoduleC",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1204_CorruptedNoduleD",
@@ -944,7 +999,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1204_CorruptedNoduleD",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0501_BlightNodule",
@@ -964,7 +1020,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0501_BlightNodule",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0502_CrystalCluster",
@@ -982,7 +1039,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0502_CrystalCluster",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0503_DryadAltar",
@@ -1000,7 +1058,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0503_DryadAltar",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0504_AncientBookcase",
@@ -1018,7 +1077,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0504_AncientBookcase",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0505_TowerMural",
@@ -1035,7 +1095,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0505_TowerMural",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0506_RelicPile",
@@ -1054,7 +1115,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0506_RelicPile",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0507_AncientRubble",
@@ -1065,14 +1127,14 @@
         "DetectableRadius": 2.5,
         "MarkerRadius": 5,
         "SFX_depleted": "Play_Gather_Stones",
-        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
         "IdleVFX_Offset_Z": 0,
         "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
         "depletedVFX_Offset_Z": 0,
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0507_AncientRubble",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0508_HeartDevice",
@@ -1090,7 +1152,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0508_HeartDevice",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0509_StoneTablet_00",
@@ -1107,7 +1170,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0509_StoneTablet_00",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0509_StoneTablet_01",
@@ -1124,7 +1188,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0509_StoneTablet_01",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0509_StoneTablet_02",
@@ -1141,7 +1206,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0509_StoneTablet_02",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0509_StoneTablet_03",
@@ -1158,7 +1224,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0509_StoneTablet_03",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0510_AncientMap",
@@ -1178,7 +1245,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0510_AncientMap",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0511_PowderkegA",
@@ -1188,14 +1256,14 @@
         "InteractionRadius": 3.25,
         "DetectableRadius": 2.5,
         "MarkerRadius": 5,
-        "VFX_Idle": "cFX_Loot.Loot_Quest_Medium",
-        "IdleVFX_Offset_Z": 1,
+        "IdleVFX_Offset_Z": 0,
         "DepletedVFX": "cFX_Loot.Loot_Quest_Medium_Depleted",
         "depletedVFX_Offset_Z": 0,
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0511_PowderkegA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0512_PowderkegB",
@@ -1205,14 +1273,14 @@
         "InteractionRadius": 3.25,
         "DetectableRadius": 2.5,
         "MarkerRadius": 5,
-        "VFX_Idle": "cFX_Loot.Loot_Quest_Medium",
-        "IdleVFX_Offset_Z": 1,
+        "IdleVFX_Offset_Z": 0,
         "DepletedVFX": "cFX_Loot.Loot_Quest_Medium_Depleted",
         "depletedVFX_Offset_Z": 0,
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0512_PowderkegB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0513_LighthouseLure",
@@ -1223,14 +1291,14 @@
         "DetectableRadius": 2.5,
         "MarkerRadius": 5,
         "SFX_depleted": "Play_Gather_Stones",
-        "VFX_Idle": "cFX_Loot.Loot_Quest_Medium",
-        "IdleVFX_Offset_Z": 2,
+        "IdleVFX_Offset_Z": 0,
         "DepletedVFX": "cFX_Loot.Loot_Quest_Medium_Depleted",
         "depletedVFX_Offset_Z": 0,
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0513_LighthouseLure",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0514_StoneWallTablet",
@@ -1247,7 +1315,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0514_StoneWallTablet",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0517_AncientTowerDoor",
@@ -1263,7 +1332,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0517_AncientTowerDoor",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0518_SirenMachine",
@@ -1281,7 +1351,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0518_SirenMachine",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0519_EmptyAzothPowerSource",
@@ -1298,7 +1369,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0519_EmptyAzothPowerSource",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0520_StygianChannelSegmentA",
@@ -1315,7 +1387,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0520_StygianChannelSegmentA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0520_StygianChannelSegmentB",
@@ -1332,7 +1405,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0520_StygianChannelSegmentB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0520_StygianChannelSegmentC",
@@ -1349,7 +1423,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0520_StygianChannelSegmentC",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0520_StygianChannelSegmentD",
@@ -1366,7 +1441,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0520_StygianChannelSegmentD",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0521_WyrdwoodSeedPod",
@@ -1383,7 +1459,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0521_WyrdwoodSeedPod",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0601_DirtHole",
@@ -1400,7 +1477,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0601_DirtHole",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0601_DirtHoleB",
@@ -1417,7 +1495,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0601_DirtHoleB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0602_SpiceSackGreen",
@@ -1435,7 +1514,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0602_SpiceSackGreen",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0602_SpiceSackRed",
@@ -1453,7 +1533,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0602_SpiceSackRed",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0602_SpiceSackYellow",
@@ -1471,7 +1552,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0602_SpiceSackYellow",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0603_PrototypeAzothBomb",
@@ -1487,7 +1569,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0603_PrototypeAzothBomb",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0604_AncientArtifactA",
@@ -1505,7 +1588,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0604_AncientArtifactA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0605_AncientArtifactB",
@@ -1522,7 +1606,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0605_AncientArtifactB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0606_StripedPowderkeg",
@@ -1541,7 +1626,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0606_StripedPowderkeg",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0607_ClothTrailA",
@@ -1558,7 +1644,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0607_ClothTrailA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0607_ClothTrailB",
@@ -1575,7 +1662,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0607_ClothTrailB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0607_ClothTrailC",
@@ -1592,7 +1680,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0607_ClothTrailC",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0607_ClothTrailD",
@@ -1609,7 +1698,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0607_ClothTrailD",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0607_ClothTrailE",
@@ -1626,7 +1716,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0607_ClothTrailE",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0608_SabotagedCannon",
@@ -1644,7 +1735,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0608_SabotagedCannon",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0625_Truffle",
@@ -1662,7 +1754,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0625_Truffle",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0701_AntiCorruptionBomb",
@@ -1680,7 +1773,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0701_AntiCorruptionBomb",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0701_AntiCorruptionBombB",
@@ -1698,7 +1792,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0701_AntiCorruptionBombB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0702_BlightNodule",
@@ -1718,7 +1813,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0702_BlightNodule",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0703_BaetylusLuckstone",
@@ -1738,7 +1834,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": -1,
         "InteractTag": "IO_0703_BaetylusLuckstone",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0808_CorruptedScroll",
@@ -1756,7 +1853,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0808_CorruptedScroll",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0803_PowderKeg",
@@ -1774,7 +1872,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Windsward\\CorruptedCore\\WorldEvent_Hazard_CorruptedShell_Explosion.dynamicslice",
         "InteractTag": "IO_0803_PowderKeg",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_AltarOfTheDeparted",
@@ -1794,7 +1893,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_AltarOfTheDeparted.dynamicslice",
         "InteractTag": "IO_0804_AltarOfTheDeparted",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_GraveA",
@@ -1812,7 +1912,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_00.dynamicslice",
         "InteractTag": "IO_0804_GraveA",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_GraveA_01",
@@ -1830,7 +1931,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_01.dynamicslice",
         "InteractTag": "IO_0804_GraveA_01",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_GraveA_02",
@@ -1848,7 +1950,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_02.dynamicslice",
         "InteractTag": "IO_0804_GraveA_02",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_GraveA_03",
@@ -1866,7 +1969,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_03.dynamicslice",
         "InteractTag": "IO_0804_GraveA_03",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_GraveB",
@@ -1884,7 +1988,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveB_00.dynamicslice",
         "InteractTag": "IO_0804_GraveB",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_Junkpile",
@@ -1905,7 +2010,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_Junkpile.dynamicslice",
         "InteractTag": "IO_0804_Junkpile",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_Altar",
@@ -1922,7 +2028,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_00.dynamicslice",
         "InteractTag": "IO_0804_Altar",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_Altar_01",
@@ -1939,7 +2046,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_01.dynamicslice",
         "InteractTag": "IO_0804_Altar_01",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_Altar_02",
@@ -1956,7 +2064,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_02.dynamicslice",
         "InteractTag": "IO_0804_Altar_02",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_Altar_03",
@@ -1973,7 +2082,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_03.dynamicslice",
         "InteractTag": "IO_0804_Altar_03",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_Altar_04",
@@ -1990,7 +2100,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_04.dynamicslice",
         "InteractTag": "IO_0804_Altar_04",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_Furniture",
@@ -2007,7 +2118,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_00.dynamicslice",
         "InteractTag": "IO_0804_Furniture",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_Tomb",
@@ -2024,7 +2136,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_02.dynamicslice",
         "InteractTag": "IO_0804_Tomb",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_TombLocked",
@@ -2042,7 +2155,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Ebonscale\\HauntedCrypt\\Enc_WorldEvent_0804_GraveA_03.dynamicslice",
         "InteractTag": "IO_0804_TombLocked",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_BlueFlower",
@@ -2061,7 +2175,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0804_BlueFlower",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0801_CorrDynastyAltar",
@@ -2080,7 +2195,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0801_CorrDynastyAltar",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0825_CookingSupplies_01",
@@ -2100,7 +2216,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0825_CookingSupplies",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0825_CookingSupplies_02",
@@ -2120,7 +2237,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0825_CookingSupplies",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0826_TigerCage",
@@ -2141,7 +2259,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0826_TigerCage",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0828_Heirloom_01",
@@ -2159,7 +2278,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0828_Heirloom",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0828_Heirloom_02",
@@ -2177,7 +2297,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0828_Heirloom",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0828_Heirloom_03",
@@ -2195,7 +2316,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0828_Heirloom_b",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0828_Heirloom_04",
@@ -2213,7 +2335,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0828_Heirloom_b",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0901_Barley",
@@ -2234,7 +2357,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0901_Barley",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0902_GunpowderCask",
@@ -2252,7 +2376,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0902_GunpowderCask",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0903_HilltopHops",
@@ -2271,7 +2396,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0903_HilltopHops",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0904_FishTrap",
@@ -2292,7 +2418,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0904_FishTrap",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0906_CargoSupplies",
@@ -2310,7 +2437,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0906_CargoSupplies",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0907_SabotagedCannon",
@@ -2328,7 +2456,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0907_SabotagedCannon",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0925_Truffle",
@@ -2346,7 +2475,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0925_Truffle",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0908_Magnetite",
@@ -2364,7 +2494,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0908_Magnetite",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1001_LightningTrap",
@@ -2382,7 +2513,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1001_LightningTrap",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1002_AncientRelic_L",
@@ -2399,7 +2531,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1002_AncientRelic",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1002_AncientRelic_S",
@@ -2416,7 +2549,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1002_AncientRelic",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1003_PirateFigurehead",
@@ -2435,7 +2569,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1003_PirateFigurehead",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1101_SilverOrb",
@@ -2453,7 +2588,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1101_SilverOrb",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1102_StoneOrb",
@@ -2471,7 +2607,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1102_StoneOrb",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1103_CopperOrb",
@@ -2489,7 +2626,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1103_CopperOrb",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1104_MedallionChest",
@@ -2508,7 +2646,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1104_MedallionChest",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1105_CorruptedTotem",
@@ -2525,7 +2664,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1105_CorruptedTotem",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1201_JamJar",
@@ -2543,7 +2683,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1201_JamJar",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1202_AncientArtifact",
@@ -2560,7 +2701,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1202_AncientArtifact",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1203_HoneyLore",
@@ -2576,7 +2718,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\MonarchsBluffs\\Interact\\HoneyLore\\Enc_WorldEvent_12MB10_OuthouseAttack_00.dynamicslice",
         "InteractTag": "IO_1203_HoneyLore",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1225_Truffle",
@@ -2594,7 +2737,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1225_Truffle",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1225_StarTouchedWater",
@@ -2611,7 +2755,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1225_StarTouchedWater",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1225_GraveNettle",
@@ -2628,7 +2773,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1225_GraveNettle",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1225_AbandonedBags",
@@ -2645,7 +2791,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1225_AbandonedBags",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1225_ConstructPoint",
@@ -2661,7 +2808,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1225_ConstructPoint",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1225_ChasonCampChest",
@@ -2680,7 +2828,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1225_ChasonCampChest",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1225_HibbotsfeldPack",
@@ -2698,7 +2847,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1225_HibbotsfeldPack",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1301_ForgingTongs",
@@ -2716,7 +2866,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1301_ForgingTongs",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1302_ForgingBellows",
@@ -2734,7 +2885,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1302_ForgingBellows",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1303_ForgingHammer",
@@ -2752,7 +2904,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1303_ForgingHammer",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1304_EctoplasmA",
@@ -2770,7 +2923,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1304_EctoplasmA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1304_EctoplasmB",
@@ -2788,7 +2942,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1304_EctoplasmB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1304_EctoplasmC",
@@ -2806,7 +2961,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1304_EctoplasmC",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1304_EctoplasmD",
@@ -2824,7 +2980,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1304_EctoplasmD",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1305_CursedAltar",
@@ -2843,7 +3000,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1305_CursedAltar",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1401_BlightTinctureBomb",
@@ -2861,7 +3019,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1401_BlightTinctureBomb",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1402_CorruptedOre",
@@ -2880,7 +3039,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1402_CorruptedOre",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1403_WyrdwoodGrowth",
@@ -2899,7 +3059,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1403_WyrdwoodGrowth",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_ShipsLocker",
@@ -2917,7 +3078,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_ShipsLocker",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_Flag",
@@ -2935,7 +3097,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_Flag",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0001_ShipFlagStern",
@@ -2954,7 +3117,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0001_ShipFlagStern",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0002_ShipFlagBow",
@@ -2972,7 +3136,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0002_ShipFlagBow",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_SalvagePile_A",
@@ -2990,7 +3155,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_SalvagePile_A",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_SalvagePile_B",
@@ -3008,7 +3174,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_SalvagePile_B",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_SalvagePile_C",
@@ -3026,7 +3193,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_SalvagePile_C",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_OldStoneRemembers_Interact",
@@ -3043,7 +3211,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_OldStoneRemembers_Interact",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0012_OverSeaUnderStone_Interact",
@@ -3060,7 +3229,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0012_OverSeaUnderStone_Interact",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0008_AncientPlaqueA",
@@ -3077,7 +3247,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0008_AncientPlaqueA",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0008_AncientPlaqueB",
@@ -3094,7 +3265,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0008_AncientPlaqueB",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0025_AmrineAzothBarrier",
@@ -3109,7 +3281,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0025_AmrineAzothBarrier",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0025_AmrineAzothBarrier_Permanent",
@@ -3126,7 +3299,8 @@
         "InteractTag": "IO_MSQ_0025_AmrineAzothBarrier_Permanent",
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AmrineAzothBarrier_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0009_AzothWell",
@@ -3141,7 +3315,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0009_AzothWell",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0010_SoulwardenTomb",
@@ -3159,7 +3334,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0010_SoulwardenTomb",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0011_DefenseInteract",
@@ -3176,7 +3352,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0011_DefenseInteract",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0013_AmrineAnvil",
@@ -3193,7 +3370,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0013_AmrineAnvil",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0021_ForgeStaffAnimTest",
@@ -3210,7 +3388,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0021_ForgeStaffAnimTest",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0021_ForgeStaffD",
@@ -3227,7 +3406,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0021_ForgeStaffD",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0022_AmrineMachine",
@@ -3244,7 +3424,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0022_AmrineMachine",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0023_AmrineTempleAltar",
@@ -3261,7 +3442,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0023_AmrineTempleAltar",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0024_FightingPitDoor",
@@ -3276,7 +3458,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0024_FightingPitDoor",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0026_StormwallBattery",
@@ -3295,7 +3478,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0026_StormwallBattery",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0027_StormwallBarrier",
@@ -3310,7 +3494,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0027_StormwallBarrier",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0028_UrinePuddle",
@@ -3327,7 +3512,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0028_UrinePuddle",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0037_PlanB_Water_01",
@@ -3344,7 +3530,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0037_Water",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0037_PlanB_Water_02",
@@ -3361,7 +3548,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0037_Water",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0037_PlanB_Fire",
@@ -3379,7 +3567,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0037_Fire",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0037_PlanB_Fire_02",
@@ -3397,7 +3586,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0037_Fire",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0037_PlanB_Fire_Rima",
@@ -3415,7 +3605,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0037_Fire_Rima",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0039_YonasCaveDoor",
@@ -3430,7 +3621,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0039_YonasCaveDoor",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0048_Blightbombs1",
@@ -3448,7 +3640,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0048_Blightbombs1",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0048_Blightbombs2",
@@ -3466,7 +3659,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0048_Blightbombs2",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0048_Blightbombs3",
@@ -3484,7 +3678,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0048_Blightbombs3",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0048_Blightbombs4",
@@ -3502,7 +3697,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0048_Blightbombs4",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0048_Blightbombs5",
@@ -3520,7 +3716,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0048_Blightbombs5",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0050_Fungus1",
@@ -3540,7 +3737,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0050_Fungus1",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0050_Fungus2",
@@ -3560,7 +3758,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0050_Fungus2",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0050_Fungus3",
@@ -3580,7 +3779,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0050_Fungus3",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0050_Fungus4",
@@ -3600,7 +3800,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0050_Fungus4",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0052_BombShip",
@@ -3615,7 +3816,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0052_BombShip",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0052_BombShip2",
@@ -3630,7 +3832,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0052_BombShip2",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0052_BombShip3",
@@ -3645,7 +3848,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0052_BombShip3",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0052_BombShip4",
@@ -3660,7 +3864,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0052_BombShip4",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0054_Motherwell",
@@ -3678,7 +3883,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0054_Motherwell",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0054_MotherwellDoor",
@@ -3692,7 +3898,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0054_MotherwellDoor",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0090_FindYrsa1",
@@ -3708,7 +3915,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0090_FindYrsa1",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0090_FindYrsa2",
@@ -3724,7 +3932,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_MSQ_0090_FindYrsa2",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0202_0101_Inquisitor",
@@ -3740,7 +3949,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0202_0101_Inquisitor",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1125_SongoftheSea",
@@ -3758,7 +3968,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1125_SongoftheSea",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1126_AncientDevice_A",
@@ -3776,7 +3987,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1126_AncientDevice_A",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1126_AncientDevice_B",
@@ -3794,7 +4006,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1126_AncientDevice_B",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1126_AncientDevice_C",
@@ -3812,7 +4025,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1126_AncientDevice_C",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1124_VistaPoint1",
@@ -3829,7 +4043,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1124_VistaPoint1",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1124_VistaPoint2",
@@ -3846,7 +4061,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1124_VistaPoint2",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1124_VistaPoint3",
@@ -3863,7 +4079,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1124_VistaPoint3",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1124_VistaPoint4",
@@ -3880,7 +4097,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1124_VistaPoint4",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1132_GrampasGun",
@@ -3897,7 +4115,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1132_GrampasGun",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1132_Digby",
@@ -3914,24 +4133,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1132_Digby",
-        "InteractOnlyOnQuest": true
-    },
-    {
-        "VariantID": "1132_Shootout",
-        "GatherableEntryID": "1132_Shootout",
-        "GatheringRadius": 1,
-        "InteractionRadius": 3.25,
-        "DetectableRadius": 2.5,
-        "MarkerRadius": 5,
-        "SFX_depleted": "Play_Gather_Chest_Small",
-        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
-        "IdleVFX_Offset_Z": 0,
-        "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
-        "depletedVFX_Offset_Z": 0,
-        "gatheringVFX_Offzet_Z": 0,
-        "interactionMarker_Offset_Z": 0,
-        "InteractTag": "IO_1132_Shootout",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1124_PierresNote",
@@ -3946,7 +4149,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1124_Pierre_Town_off",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1129_Jaansen_Note",
@@ -3961,7 +4165,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "11_Jaansen_1",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "PVP_0001_DeadDropGiveItem",
@@ -3980,7 +4185,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_PVP_0001_DeadDropGiveItem",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "PVP_0001_DeadDropTakeItem",
@@ -3999,7 +4205,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_PVP_0001_DeadDropTakeItem",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "PVP_0002_DeadDropGiveItem",
@@ -4018,7 +4225,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_PVP_0002_DeadDropGiveItem",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "PVP_0002_DeadDropTakeItem",
@@ -4037,7 +4245,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_PVP_0002_DeadDropTakeItem",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "PVP_0003_DeadDropGiveItem",
@@ -4056,7 +4265,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_PVP_0003_DeadDropGiveItem",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "PVP_0003_DeadDropTakeItem",
@@ -4075,7 +4285,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_PVP_0003_DeadDropTakeItem",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_DaughterwellFountain",
@@ -4092,7 +4303,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_DaughterwellFountain"
+        "AchievementID": "SwapActive_DaughterwellFountain",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_FishermanYonas_Off",
@@ -4107,7 +4319,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_FishermanYonas_Off"
+        "AchievementID": "SwapActive_FishermanYonas_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_CanaryAdiana_Off",
@@ -4122,7 +4335,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_CanaryAdiana_Off"
+        "AchievementID": "SwapActive_CanaryAdiana_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_BrightwoodEmile_Off",
@@ -4137,7 +4351,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_BrightwoodEmile_Off"
+        "AchievementID": "SwapActive_BrightwoodEmile_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_WeaversTheo_Off",
@@ -4152,7 +4367,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_WeaversTheo_Off"
+        "AchievementID": "SwapActive_WeaversTheo_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_CutlassRima_Off",
@@ -4167,7 +4383,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_CutlassRima_Off"
+        "AchievementID": "SwapActive_CutlassRima_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_SpiritYonas_OnOff",
@@ -4182,7 +4399,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_SpiritYonas_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_AlazarYonas_OnOff",
@@ -4198,7 +4416,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AlazarYonas_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_AlazarRima1_OnOff",
@@ -4214,7 +4433,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AlazarRima1_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_AlazarRima2_OnOff",
@@ -4230,7 +4450,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AlazarRima2_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_AlazarEmile_OnOff",
@@ -4246,7 +4467,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AlazarEmile_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_AlazarTheo_OnOff",
@@ -4262,7 +4484,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_AlazarTheo_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_FtAlazarNormal_Off",
@@ -4277,7 +4500,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_FtAlazarBurning_On"
+        "AchievementID": "SwapActive_FtAlazarBurning_On",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_FtAlazarBurning_On",
@@ -4293,7 +4517,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_FtAlazarBurning_On"
+        "AchievementID": "SwapActive_FtAlazarBurning_On",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_FtWardenWalker_OnOff",
@@ -4309,7 +4534,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_WardenWalker_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_FtWardenConstance_OnOff",
@@ -4325,7 +4551,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_WardenConstance_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_FtWardenWayne_OnOff",
@@ -4341,7 +4568,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_WardenWayne_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_FtWardenEliza_OnOff",
@@ -4357,7 +4585,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_WardenElizaSamir_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_FtWardenSamir_OnOff",
@@ -4373,7 +4602,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_WardenElizaSamir_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_SWCaveEmile_OnOff",
@@ -4389,7 +4619,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_SWCaveEmile_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_RestlessEmile_OnOff",
@@ -4405,7 +4636,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_RestlessEmileTheo_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_RestlessTheo_OnOff",
@@ -4421,7 +4653,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_RestlessEmileTheo_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_RestlessRima_OnOff",
@@ -4437,7 +4670,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_RestlessRima_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_VillageAdiana_On",
@@ -4453,7 +4687,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_VillageAdiana_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_VillageTheo_OnOff",
@@ -4469,7 +4704,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_VillageTheo_OnOff",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_ShatteredRima_On",
@@ -4485,7 +4721,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MountainRimaEmile_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_ShatteredTheo_On",
@@ -4501,7 +4738,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MountainTheo_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_ShatteredEmile_On",
@@ -4517,7 +4755,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MountainRimaEmile_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SwapActive_0404_Constable_Off",
@@ -4531,7 +4770,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_0404_Constable_Off"
+        "AchievementID": "SwapActive_0404_Constable_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SwapActive_0404_Constable_On",
@@ -4546,7 +4786,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0404_Constable_Off",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_MSQ_0035_Lore_ThorpeChallenge",
@@ -4561,7 +4802,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MSQ_Lore_ThorpeChallenge",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1335_0203_NoraRuinsRock",
@@ -4576,7 +4818,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "13_Quest_22"
+        "AchievementID": "13_Quest_22",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1335_0203_NoraCamp",
@@ -4592,7 +4835,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "13_Quest_34",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_DryadYargui_On",
@@ -4609,7 +4853,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_DryadYargui_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_HumanYargui_Off",
@@ -4625,7 +4870,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_DryadYargui_On"
+        "AchievementID": "SwapActive_DryadYargui_On",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_SyndicateRankNPC_On",
@@ -4640,7 +4886,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_SyndicateRankNPC_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_SyndicateTargetNPC_Off",
@@ -4654,7 +4901,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_SyndicateRankNPC_On"
+        "AchievementID": "SwapActive_SyndicateRankNPC_On",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_MarauderRankNPC_On",
@@ -4669,7 +4917,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MarauderRankNPC_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_MarauderTargetNPC_Off",
@@ -4683,7 +4932,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_MarauderRankNPC_On"
+        "AchievementID": "SwapActive_MarauderRankNPC_On",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_CovenantRankNPC_On",
@@ -4698,7 +4948,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_CovenantRankNPC_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_CovenantTargetNPC_Off",
@@ -4712,7 +4963,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_CovenantRankNPC_On"
+        "AchievementID": "SwapActive_CovenantRankNPC_On",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_0425_HerbalistPath_Off",
@@ -4726,7 +4978,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_0425_HerbalistPath_Off"
+        "AchievementID": "SwapActive_0425_HerbalistPath_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_0425_HerbalistFLTown_On",
@@ -4741,7 +4994,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0425_HerbalistFLTown_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_0425_HerbalistWWTown_On",
@@ -4756,7 +5010,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0425_HerbalistWWTown_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_0425_HerbalistEFTown_On",
@@ -4771,7 +5026,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0425_HerbalistEFTown_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_0425_HerbalistMBTown_On",
@@ -4786,7 +5042,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0425_HerbalistMBTown_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_0902_MagistrateTown_Off",
@@ -4800,7 +5057,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_0902_MagistrateTown_Off"
+        "AchievementID": "SwapActive_0902_MagistrateTown_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_0902_MagistratePOI_On",
@@ -4815,7 +5073,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0902_MagistrateTown_Off",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_0903_SurvivalistTown_Off",
@@ -4829,7 +5088,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_0903_SurvivalistTown_Off"
+        "AchievementID": "SwapActive_0903_SurvivalistTown_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_0903_SurvivalistPOI_On",
@@ -4844,7 +5104,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_0903_SurvivalistTown_Off",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_9926_AbigailRoseA_Off",
@@ -4858,7 +5119,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_9926_AbigailRoseA_Off"
+        "AchievementID": "SwapActive_9926_AbigailRoseA_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_9926_AbigailRoseB_On",
@@ -4873,7 +5135,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_9926_AbigailRoseB_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_9927_ScoutsNote_Off",
@@ -4887,7 +5150,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_9927_ScoutsNote_Off"
+        "AchievementID": "SwapActive_9927_ScoutsNote_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_TravelersA_Stage0",
@@ -4901,7 +5165,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_1225_TravelersA_Stage0_Off"
+        "AchievementID": "SwapActive_1225_TravelersA_Stage0_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_TravelersA_Stage1",
@@ -4916,7 +5181,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersA_Stage1_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_TravelersA_Stage2",
@@ -4931,7 +5197,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersA_Stage2_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_TravelersA_Stage3",
@@ -4946,7 +5213,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersA_Stage3_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_TravelersB_Stage3",
@@ -4961,7 +5229,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersB_Stage3_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_WorkbenchA",
@@ -4976,7 +5245,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersAPropsA_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_WorkbenchB",
@@ -4991,7 +5261,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersAPropsA_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_WorkbenchC",
@@ -5006,7 +5277,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersAPropsB_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_WoodpileBProps",
@@ -5021,7 +5293,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersAPropsB_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_WoodpileAProps",
@@ -5036,7 +5309,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_TravelersB_Stage3_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_GiacomoStart_On",
@@ -5050,7 +5324,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_1225_GiacomoStart_Off"
+        "AchievementID": "SwapActive_1225_GiacomoStart_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_GiacomoChason_On",
@@ -5065,7 +5340,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_GiacomoChason_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_GiacomoTravelersA_On",
@@ -5080,7 +5356,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_GiacomoTravelersA_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_GiacomoTravelersB_On",
@@ -5095,7 +5372,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_GiacomoTravelersB_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_CampfireProp_MB",
@@ -5110,7 +5388,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_CampfirePropsMB_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_CampfireProp_EF",
@@ -5125,7 +5404,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_CampfirePropsEF_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_CampfireProp_FL",
@@ -5140,7 +5420,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_CampfirePropsFL_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_CampfireProp_WW",
@@ -5155,7 +5436,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_CampfirePropsWW_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_SunadireCamp",
@@ -5170,7 +5452,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_SunadireCamp_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_0101_LoreA",
@@ -5185,7 +5468,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_0101_LoreA_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_0101_LoreB",
@@ -5200,7 +5484,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_0101_LoreB_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_0301_LoreA",
@@ -5215,7 +5500,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_0301_LoreA_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_0401_LoreA",
@@ -5230,7 +5516,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_0401_LoreA_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1225_0601_LoreA",
@@ -5245,7 +5532,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1225_0601_LoreA_On",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "DefendObject_Test",
@@ -5262,7 +5550,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Defense_Encounter_Master.dynamicslice",
         "InteractTag": "IO_DefendObject_Test",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "CorruptedOrb",
@@ -5282,7 +5571,8 @@
         "gatheringVFX_Offzet_Z": 3.2021000385284424,
         "interactionMarker_Offset_Z": 3.2021000385284424,
         "InteractTag": "IO_CorruptedOrb",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "DungeonEdengrove_BlightedHallow",
@@ -5300,7 +5590,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractionEvent": "slices\\WorldEvents\\Windsward\\SpectralShrine\\Enc_WorldEvent_06_SpectralShrine_00.dynamicslice",
-        "InteractOnlyOnQuest": false
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1333_UpperStoneRubble_00",
@@ -5317,7 +5608,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1333_UpperStoneRubble_00",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1333_StoneRubble_00",
@@ -5334,7 +5626,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1333_StoneRubble_00",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0300_EpicWeapons_Periville",
@@ -5353,7 +5646,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0300_EpicWeapons_Periville",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0300_EpicWeapons_Scorpius",
@@ -5370,7 +5664,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0300_EpicWeapons_Scorpius",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0300_EpicWeapons_Malevolence",
@@ -5388,7 +5683,8 @@
         "gatheringVFX_Offzet_Z": 1,
         "interactionMarker_Offset_Z": 1,
         "InteractTag": "IO_0300_EpicWeapons_Malevolence",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0405_GlowingOre",
@@ -5405,7 +5701,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0405_GlowingOre",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0411_Armillary_00",
@@ -5423,7 +5720,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0411_Armillary_00",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0802_Airshrine",
@@ -5443,7 +5741,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0802_Airshrine",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0802_Earthshrine",
@@ -5463,7 +5762,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0802_Earthshrine",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0802_Watershrine",
@@ -5483,7 +5783,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0802_Watershrine",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0802_Fireshrine",
@@ -5503,7 +5804,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_0802_Fireshrine",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SwapActive_1524_Boatswain00_Original",
@@ -5518,7 +5820,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_1524_Boatswain00_Original"
+        "AchievementID": "SwapActive_1524_Boatswain00_Original",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SwapActive_1524_Boatswain01_Moved",
@@ -5534,7 +5837,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1524_Boatswain01_Moved",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SwapActive_1526_Naturalist_Off",
@@ -5549,7 +5853,24 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_1526_Naturalist_Off"
+        "AchievementID": "SwapActive_1526_Naturalist_Off",
+        "IsStateControlledBySlayerScript": false
+    },
+    {
+        "VariantID": "SliceSwap_1526_09_04_Lore",
+        "GatherableEntryID": "SliceSwap_NonInstanced",
+        "GatheringRadius": 1,
+        "InteractionRadius": 3.25,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "AchievementID": "SliceSwap_1526_09_04_Lore_On",
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1525_1519_Quiver",
@@ -5566,7 +5887,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1525_1519_Quiver",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1526_1521_LynxEvidence1",
@@ -5584,7 +5906,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1526_1521_LynxEvidence1",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1526_1521_LynxEvidence2",
@@ -5602,7 +5925,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1526_1521_LynxEvidence2",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1526_1521_LynxEvidence3",
@@ -5620,7 +5944,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1526_1521_LynxEvidence3",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1524_GoldenStash",
@@ -5630,13 +5955,15 @@
         "InteractionRadius": 3.25,
         "DetectableRadius": 2.5,
         "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Medium",
         "IdleVFX_Offset_Z": 0,
-        "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
+        "DepletedVFX": "cFX_Loot.Loot_Quest_Medium_Depleted",
         "depletedVFX_Offset_Z": 0,
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_1524_GoldenStash",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1205_Artificer_Town_Off",
@@ -5650,7 +5977,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_1205_Artificer_Town_Off"
+        "AchievementID": "SwapActive_1205_Artificer_Town_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1205_Artificer_POI",
@@ -5665,7 +5993,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1205_Artificer_Town_Off",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1203_Survivalist_Town_Off",
@@ -5679,7 +6008,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
-        "AchievementID": "SwapActive_1203_Survivalist_Town_Off"
+        "AchievementID": "SwapActive_1203_Survivalist_Town_Off",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_1203_Survivalist_POI",
@@ -5694,7 +6024,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1203_Survivalist_Town_Off",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "FM_PVP_War_Camp_Loot_Box",
@@ -5712,7 +6043,8 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
         "InteractTag": "IO_FM_PVP_War_Camp_Loot_Box",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SliceSwap_Lore_JanJaansenExit",
@@ -5727,7 +6059,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "11_Jaansen_3",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SwapSlice_Harunobu_Pork",
@@ -5742,7 +6075,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1127_Harunobu_Off",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SwapSlice_Perils1",
@@ -5757,7 +6091,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1124_Pierre_Town_off",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SwapSlice_Perils2",
@@ -5772,7 +6107,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1124_Pierre_Town_off",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "SwapSlice_Perils3",
@@ -5787,23 +6123,8 @@
         "interactionMarker_Offset_Z": 0,
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_1124_Pierre_Town_off",
-        "AchievementServerState": "Depleted"
-    },
-    {
-        "VariantID": "SwapSlice_Bag",
-        "Visual_Depleted": "slices\\Holiday\\WinterConvergence\\Activities\\WinterWanderer\\Village_WinterConv_GiftBag_Master.dynamicslice",
-        "GatherableEntryID": "SliceSwap_NonInstanced",
-        "GatheringRadius": 1,
-        "InteractionRadius": 3.25,
-        "DetectableRadius": 2.5,
-        "MarkerRadius": 5,
-        "IdleVFX_Offset_Z": 0,
-        "depletedVFX_Offset_Z": 0,
-        "gatheringVFX_Offzet_Z": 0,
-        "interactionMarker_Offset_Z": 0,
-        "InteractOnlyOnQuest": false,
-        "AchievementID": "0424_0102_MakeBagAppear",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1130_CursedAxe",
@@ -5820,10 +6141,30 @@
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": -1,
         "InteractTag": "IO_1130_CursedAxe",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
+    },
+    {
+        "VariantID": "0726_Gravestone",
+        "Visual_Healthy": "slices\\WorldEvents\\ShatteredMountain\\Interact\\IsabellasLair\\WorldEvent_Object_0726_Gravestone.dynamicslice",
+        "Visual_Depleted": "slices\\WorldEvents\\ShatteredMountain\\Interact\\IsabellasLair\\WorldEvent_Object_0726_Gravestone01.dynamicslice",
+        "GatherableEntryID": "0726_Gravestone",
+        "GatheringRadius": 0.30000001192092896,
+        "InteractionRadius": 3.25,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "VFX_Idle": "ENV_Dungeon_ShatterMtn.Memory_Idle",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractTag": "IO_0726_Gravestone",
+        "InteractOnlyOnQuest": true,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0726_BookOfIsabella",
+        "Visual_Healthy": "slices\\Housing\\Items\\Furniture\\Decor\\House_Writing_OpenBook.dynamicslice",
         "Visual_Depleted": "slices\\Housing\\Items\\Furniture\\Decor\\House_Writing_OpenBook.dynamicslice",
         "GatherableEntryID": "0726_BookOfIsabella",
         "GatheringRadius": 4,
@@ -5839,13 +6180,14 @@
         "InteractTag": "IO_0726_BookOfIsabella",
         "InteractOnlyOnQuest": false,
         "AchievementID": "SwapActive_MSQ_MaraBook",
-        "AchievementServerState": "Depleted"
+        "AchievementServerState": "Depleted",
+        "IsStateControlledBySlayerScript": false
     },
     {
-        "VariantID": "0424_GleamiteIO",
-        "Visual_Healthy": "slices\\WorldEvents\\Holiday\\WinterConvergence\\Activities\\WorldEvent_Object_0424_GleamiteIO.dynamicslice",
-        "GatherableEntryID": "0424_GleamiteIO",
-        "GatheringRadius": 0.30000001192092896,
+        "VariantID": "CyclicExample_White_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_White.dynamicslice",
+        "GatherableEntryID": "CyclicExample_White_Prisma",
+        "GatheringRadius": 4,
         "InteractionRadius": 3.25,
         "DetectableRadius": 2.5,
         "MarkerRadius": 5,
@@ -5854,14 +6196,14 @@
         "depletedVFX_Offset_Z": 0,
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
-        "InteractTag": "IO_0424_GleamiteIO",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": true
     },
     {
-        "VariantID": "0424_LostPresentIO",
-        "Visual_Healthy": "slices\\WorldEvents\\Holiday\\WinterConvergence\\Activities\\WorldEvent_Object_0424_LostPresentIO.dynamicslice",
-        "GatherableEntryID": "0424_LostPresentIO",
-        "GatheringRadius": 0.30000001192092896,
+        "VariantID": "CyclicExample_Red_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Red.dynamicslice",
+        "GatherableEntryID": "CyclicExample_White_Prisma",
+        "GatheringRadius": 4,
         "InteractionRadius": 3.25,
         "DetectableRadius": 2.5,
         "MarkerRadius": 5,
@@ -5870,7 +6212,119 @@
         "depletedVFX_Offset_Z": 0,
         "gatheringVFX_Offzet_Z": 0,
         "interactionMarker_Offset_Z": 0,
-        "InteractTag": "IO_0424_LostPresentIO",
-        "InteractOnlyOnQuest": true
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_Orange_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Orange.dynamicslice",
+        "GatherableEntryID": "CyclicExample_White_Prisma",
+        "GatheringRadius": 4,
+        "InteractionRadius": 3.25,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_Green_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Green.dynamicslice",
+        "GatherableEntryID": "CyclicExample_White_Prisma",
+        "GatheringRadius": 4,
+        "InteractionRadius": 3.25,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_Cyan_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Cyan.dynamicslice",
+        "GatherableEntryID": "CyclicExample_White_Prisma",
+        "GatheringRadius": 4,
+        "InteractionRadius": 3.25,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_Sapling",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Sapling.dynamicslice",
+        "GatherableEntryID": "CyclicExample_Mystic_Tree",
+        "GatheringRadius": 9,
+        "InteractionRadius": 8,
+        "DetectableRadius": 5,
+        "MarkerRadius": 10,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_ShortTree",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_ShortTree.dynamicslice",
+        "GatherableEntryID": "CyclicExample_Mystic_Tree",
+        "GatheringRadius": 9,
+        "InteractionRadius": 8,
+        "DetectableRadius": 5,
+        "MarkerRadius": 10,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_TallTree",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_TallTree.dynamicslice",
+        "GatherableEntryID": "CyclicExample_Mystic_Tree",
+        "GatheringRadius": 9,
+        "InteractionRadius": 8,
+        "DetectableRadius": 5,
+        "MarkerRadius": 10,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "RegularExample_Green_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Green.dynamicslice",
+        "GatherableEntryID": "CyclicExample_White_Prisma",
+        "GatheringRadius": 4,
+        "InteractionRadius": 3.25,
+        "DetectableRadius": 2.5,
+        "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "IsStateControlledBySlayerScript": false
     }
 ]

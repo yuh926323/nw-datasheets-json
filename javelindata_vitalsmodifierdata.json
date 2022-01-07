@@ -39,7 +39,7 @@
         "CategoryId": "Dungeon+",
         "CategoryDamageMod": 2.049999952316284,
         "CategoryHealthMod": 10,
-        "CategoryDropChanceMod": 0.15000000596046448
+        "CategoryDropChanceMod": 0.5
     },
     {
         "CategoryId": "DungeonBoss",

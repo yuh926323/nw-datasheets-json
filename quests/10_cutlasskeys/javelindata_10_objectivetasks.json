@@ -1034,7 +1034,7 @@
         "TaskID": "1001_0101_d_03_TaskHaveAndReturnItems_1_Coin",
         "Type": "TaskHaveItems",
         "FailOnCondition": 0,
-        "StayActive": 1,
+        "StayActive": 0,
         "TargetQty": 1,
         "ItemName": "1001_0101_touched_coin",
         "ItemDropVC": "Withered_Brute_Named_10WS07",
@@ -2224,11 +2224,11 @@
         "Duration": 0,
         "IsHidden": 1,
         "SubTask1": "1034_0202_d_02_kill",
-        "SubTask2": "1034_0203_d_03_have_item"
+        "SubTask2": "1034_0202_d_03_have_item"
     },
     {
         "TaskID": "1034_0202_d_02_kill",
-        "Type": "TaskHaveAndReturnItems",
+        "Type": "TaskKillContribution",
         "FailOnCondition": 0,
         "StayActive": 1,
         "TargetQty": 3,
@@ -2245,19 +2245,21 @@
         "IsHidden": 0
     },
     {
-        "TaskID": "1034_0203_d_03_have_item",
+        "TaskID": "1034_0202_d_03_have_item",
+        "Type": "TaskHaveAndReturnItems",
         "FailOnCondition": 0,
         "StayActive": 1,
         "TargetQty": 1,
         "ItemName": "1034_0202_astrolabe",
         "ItemDropProbability": 0,
-        "ChestDropProbability": 0,
+        "ChestDropProbability": 100,
         "EnforceLocationRequirement": true,
         "TerritoryID": "windswardshores8",
         "POITag": "windswardshores8",
         "PauseAndClearLootOnTaskComplete": true,
         "Duration": 0,
-        "TP_DescriptionTag": "@1034_0203_d_03_have_item",
+        "TP_DescriptionTag": "@1034_0202_d_03_have_item",
+        "OverrideLocation": "6784.0 146.0 41.0",
         "IsHidden": 0
     },
     {
@@ -2322,6 +2324,24 @@
         "KillEnemyType": "Lost",
         "Duration": 0,
         "TP_DescriptionTag": "@1034_0203_d_02_kill",
+        "OverrideLocation": "7538.0 189.0 40.1",
+        "IsHidden": 0
+    },
+    {
+        "TaskID": "1034_0203_d_03_have_item",
+        "Type": "TaskHaveAndReturnItems",
+        "FailOnCondition": 0,
+        "StayActive": 1,
+        "TargetQty": 1,
+        "ItemName": "1034_0203_seachart",
+        "ItemDropProbability": 0,
+        "ChestDropProbability": 100,
+        "EnforceLocationRequirement": true,
+        "TerritoryID": "windswardshores9",
+        "POITag": "windswardshores9",
+        "PauseAndClearLootOnTaskComplete": true,
+        "Duration": 0,
+        "TP_DescriptionTag": "@1034_0203_d_03_have_item",
         "OverrideLocation": "7538.0 189.0 40.1",
         "IsHidden": 0
     },

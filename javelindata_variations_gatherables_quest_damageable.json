@@ -1,27 +1,5 @@
 [
     {
-        "VariantID": "LostPresent01",
-        "Visual_Healthy": "slices\\Holiday\\WinterConvergence\\Activities\\LostPresent\\WinterConv_Activity_LostPresent_VisualHealthy.slice",
-        "GatherableEntryID": "LostPresent01",
-        "InteractPromptRadius": 1,
-        "DetectableRadius": 1,
-        "MarkerRadius": 1,
-        "AudioPreload_depleted": "RarePresent",
-        "SFX_depleted": "Play_SFX_RarePresent_Depleted",
-        "AudioPreload_idle": "RarePresent",
-        "SFX_Idle": "Play_SFX_RarePresent_Lp",
-        "VFX_Idle": "Event_Winter_Convergence.Present.Idle_Rare",
-        "IdleVFX_Offset_Z": 10,
-        "DepletedVFX": "Event_Winter_Convergence.Present.End_Rare",
-        "depletedVFX_Offset_Z": 10,
-        "gatheringVFX_Offzet_Z": 10,
-        "interactionMarker_Offset_Z": 10,
-        "InteractOnlyOnQuest": false,
-        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\basesphere.cgf",
-        "Collision_Offset_Z": 10,
-        "VisualHealthy_Offset_Z": 10
-    },
-    {
         "VariantID": "0404_CorruptedNoduleA",
         "Visual_Healthy": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Healthy.dynamicslice",
         "Visual_Depleted": "slices\\WorldEvents\\Shared\\WorldEvent_Object_Onboarding_CorruptedNodule_Visual_Depleted.dynamicslice",
@@ -44,7 +22,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0404_CorruptedNoduleB",
@@ -69,7 +48,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0404_CorruptedNoduleC",
@@ -94,7 +74,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0404_CorruptedNoduleD",
@@ -119,7 +100,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0511_PowderkegA",
@@ -140,7 +122,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_b.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0604_CorruptedNoduleA",
@@ -165,7 +148,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0604_CorruptedNoduleB",
@@ -190,7 +174,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0604_CorruptedNoduleC",
@@ -215,7 +200,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0604_CorruptedNoduleD",
@@ -240,7 +226,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0804_CorruptedNodule",
@@ -260,7 +247,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0901_Barley",
@@ -284,7 +272,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_b.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0904_CorruptedNoduleA",
@@ -309,7 +298,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0904_CorruptedNoduleB",
@@ -334,7 +324,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0904_CorruptedNoduleC",
@@ -359,7 +350,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "0904_CorruptedNoduleD",
@@ -384,7 +376,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1204_CorruptedNoduleA",
@@ -409,7 +402,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1204_CorruptedNoduleB",
@@ -434,7 +428,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1204_CorruptedNoduleC",
@@ -459,7 +454,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1204_CorruptedNoduleD",
@@ -484,7 +480,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 1.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1127_MalignNodeA",
@@ -509,7 +506,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1127_MalignNodeB",
@@ -534,7 +532,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1127_MalignNodeC",
@@ -559,12 +558,14 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_A",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_A.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_A.dynamicslice",
         "GatherableEntryID": "MSQ_0008_ClearingVines_A",
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
@@ -579,12 +580,14 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\nature\\veg_bushes\\Bushes_Forest\\Cranberry\\jav_fst_cranberrybush_b.cgf",
         "Collision_Offset_Z": -0.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_B",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "GatherableEntryID": "MSQ_0008_ClearingVines_B",
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
@@ -599,12 +602,14 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Ancient_Crater_bridge_broken\\jav_struc_ruins_Crater_mileMarker_b_btm_Brk_02.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_C",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_C.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_C.dynamicslice",
         "GatherableEntryID": "MSQ_0008_ClearingVines_C",
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
@@ -619,12 +624,14 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\nature\\veg_bushes\\Bushes_Forest\\Cranberry\\jav_fst_cranberrybush_b.cgf",
         "Collision_Offset_Z": -0.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_D",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "GatherableEntryID": "MSQ_0008_ClearingVines_D",
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
@@ -639,12 +646,14 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Ancient_Crater_bridge_broken\\jav_struc_ruins_Crater_mileMarker_b_btm_Brk_02.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_E",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_E.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Actual_E.dynamicslice",
         "GatherableEntryID": "MSQ_0008_ClearingVines_E",
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
@@ -659,12 +668,14 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\nature\\veg_bushes\\Bushes_Forest\\Cranberry\\jav_fst_cranberrybush_b.cgf",
         "Collision_Offset_Z": -0.5,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "MSQ_0008_ClearingVines_F",
         "Visual_Healthy": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "Visual_Depleted": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Depleted.dynamicslice",
+        "Visual_NotOnRequiredQuest": "slices/WorldEvents/MainStoryQuest/ObscuringVines/WorldEvent_Object_MSQ_0008_ObscuringVine_Fake.dynamicslice",
         "GatherableEntryID": "MSQ_0008_ClearingVines_F",
         "InteractPromptRadius": 3,
         "DetectableRadius": 5,
@@ -679,7 +690,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Ancient_Crater_bridge_broken\\jav_struc_ruins_Crater_mileMarker_b_btm_Brk_02.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1130_ArcaneFocus1",
@@ -699,7 +711,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1130_ArcaneFocus2",
@@ -719,7 +732,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1130_ArcaneFocus3",
@@ -739,7 +753,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "1130_ArcaneFocus4",
@@ -759,7 +774,8 @@
         "InteractOnlyOnQuest": true,
         "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
         "Collision_Offset_Z": 0,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     },
     {
         "VariantID": "Dynasty_Gong",
@@ -777,6 +793,118 @@
         "InteractOnlyOnQuest": false,
         "CollisionAssetOverride": "Objects\\Crafting\\Architecture\\Living_Structures\\Dynasty\\dynasty_struc_deco_gong_large_AB.cgf",
         "Collision_Offset_Z": 6.340000152587891,
-        "VisualHealthy_Offset_Z": 0
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
+    },
+    {
+        "VariantID": "1132_Shootout",
+        "Visual_Healthy": "slices\\POIs\\Assembly\\Crafting\\Props\\Doors_Windows\\PRP_Door_Barricade_A.dynamicslice",
+        "Visual_Depleted": "slices\\Debris\\Wood\\debris_wood_group_01a.dynamicslice",
+        "GatherableEntryID": "1132_Shootout",
+        "InteractPromptRadius": 5,
+        "DetectableRadius": 7,
+        "MarkerRadius": 10,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": -0.25,
+        "DepletedVFX": "cFX_Loot.Loot_Quest_Small_Depleted",
+        "depletedVFX_Offset_Z": -0.25,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractTag": "IO_1132_Shootout",
+        "InteractOnlyOnQuest": true,
+        "CollisionAssetOverride": "Objects\\Crafting\\BaseMaterials\\BaseSphere.cgf",
+        "Collision_Offset_Z": 1.5,
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
+    },
+    {
+        "VariantID": "CyclicExample_Purple_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Purple.dynamicslice",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractPromptRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "Collision_Offset_Z": 0,
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_Blue_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Blue.dynamicslice",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractPromptRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "Collision_Offset_Z": 0,
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_Turquoise_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Cyan.dynamicslice",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractPromptRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "Collision_Offset_Z": 0,
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "CyclicExample_Yellow_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Yellow.dynamicslice",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractPromptRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "Collision_Offset_Z": 0,
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": true
+    },
+    {
+        "VariantID": "DamageableExample_Purple_Prisma",
+        "Visual_Healthy": "slices\\Test\\CyclicExample_Prisma_Purple.dynamicslice",
+        "GatherableEntryID": "CyclicExample_Black_Prisma",
+        "InteractPromptRadius": 4,
+        "DetectableRadius": 3.25,
+        "MarkerRadius": 5,
+        "VFX_Idle": "cFX_Loot.Loot_Quest_Small",
+        "IdleVFX_Offset_Z": 0,
+        "depletedVFX_Offset_Z": 0,
+        "gatheringVFX_Offzet_Z": 0,
+        "interactionMarker_Offset_Z": 0,
+        "InteractOnlyOnQuest": false,
+        "CollisionAssetOverride": "Objects\\Landmarks\\Corruption_Core\\jav_lm_corruption_core_a.cgf",
+        "Collision_Offset_Z": 0,
+        "VisualHealthy_Offset_Z": 0,
+        "IsStateControlledBySlayerScript": false
     }
 ]

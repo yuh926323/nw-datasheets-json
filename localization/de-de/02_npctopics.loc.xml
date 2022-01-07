@@ -1,2 +1,5 @@
-<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<string key="0223_Fisher_ExplainHotspots_Prompt" speaker="UI - player prompt"/>
+	<string key="0223_Fisher_ExplainHotspots_Response" speaker="Park Jennet" name="Park Jennet"/>
+</resources>
 

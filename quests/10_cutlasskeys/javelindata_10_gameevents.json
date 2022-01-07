@@ -427,18 +427,6 @@
         "AzothRewardChance": 1
     },
     {
-        "EventID": "1004_0103_Weapon_Keen_Temper_success",
-        "Level": 47,
-        "CreatureType": "Quest+",
-        "UniversalExpAmount": 2740,
-        "CurrencyReward": 13475,
-        "CategoricalProgressionReward": 0,
-        "TerritoryStanding": 250,
-        "EmitTelemetry": true,
-        "AzothReward": 20,
-        "AzothRewardChance": 1
-    },
-    {
         "EventID": "1002_0104_Shrouded_Intent_Gear_success",
         "Level": 55,
         "CreatureType": "Quest+",
@@ -545,6 +533,18 @@
         "TerritoryStanding": 100,
         "EmitTelemetry": true,
         "AzothReward": 0,
+        "AzothRewardChance": 1
+    },
+    {
+        "EventID": "1004_0103_Weapon_Keen_Temper_success",
+        "Level": 50,
+        "CreatureType": "Quest+",
+        "UniversalExpAmount": 2890,
+        "CurrencyReward": 14000,
+        "CategoricalProgressionReward": 0,
+        "TerritoryStanding": 250,
+        "EmitTelemetry": true,
+        "AzothReward": 20,
         "AzothRewardChance": 1
     },
     {

@@ -1876,7 +1876,7 @@
         "IgnoreDiminishingReturns": true,
         "IsNegative": false,
         "EffectDurationMods": "Debuff=-1.0",
-        "EffectPotencyMods": "Debuff=-1.0",
+        "RemoveStatusEffects": "Debuff",
         "ABSStandard": 1,
         "ABSSiege": 1,
         "ABSStrike": 1,

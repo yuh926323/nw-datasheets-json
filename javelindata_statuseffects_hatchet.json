@@ -706,7 +706,6 @@
         "IgnoreDiminishingReturns": false,
         "IsNegative": false,
         "EffectDurationMods": "Burn=-1.0+Bleed=-1.0+Poison=-1.0",
-        "EffectPotencyMods": "Burn=-1.0+Bleed=-1.0+Poison=-1.0",
         "ABSStandard": 0,
         "ABSSiege": 0,
         "ABSStrike": 0,

@@ -169,7 +169,7 @@
 	<string key="1420_0501_d_02_02_02_Task_Kill" speaker="UI">Vaincre les dryades d'Éridan à : {POITags}</string>
 	<string key="1420_0501_d_02_03_01_Task_GoTo" speaker="UI">Récupérez une base absorbant les chocs auprès des altérés de : {POITags}</string>
 	<string key="1420_0501_d_02_03_02_Task_Kill" speaker="UI">Vaincre les altérés à : {POITags}</string>
-	<string key="1420_0501_d_02_04_01_Task_GoTo" speaker="UI">S'aventurer à : {POITags} afin de récupérer des matériaux pour votre stock de munitions</string>
+	<string key="1420_0501_d_02_04_01_Task_GoTo" speaker="UI">S'aventurer à : {POITags} afin de récupérer des matériaux pour votre crosse d'arme</string>
 	<string key="1420_0501_d_02_04_02_Task_Kill" speaker="UI">Vaincre les dryades d'Alcazar à : {POITags}</string>
 	<string key="1420_0501_d_01_02_03_Task_KillToken" speaker="UI">Vaincre les revenants de Periville à : {POITags} pour récupérer : {itemName}</string>
 	<string key="1420_0501_d_01_03_03_Task_KillToken" speaker="UI">Vaincre les altérés de Myrkgard à : {POITags} pour récupérer : {itemName}</string>

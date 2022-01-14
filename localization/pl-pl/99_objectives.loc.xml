@@ -672,7 +672,7 @@
 	<string key="9902_0052_saboteur_complete_available_response_prompt2" speaker="UI - Player Prompt">"Nie zawiodę".</string>
 	<string key="9902_0052_saboteur_complete_available_response_next2" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="9902_0052_saboteur_complete_available_response_prompt2" VO_Status="Recorded" dialogue-prompt="@9902_0052_saboteur_complete_available_response_prompt2">Prosisz o zbyt wiele zaufania. O więcej niż wściekła ziemia kiedykolwiek okazała człowiekowi. \n\nAle jak dotąd wszystko wskazuje, że na to zaufanie zasługujesz.</string>
 	<string key="9902_0052_d_00_container_partial_Expedition" speaker="UI">LUB:</string>
-	<string key="9902_0052_SabotageTheEmpress" speaker="UI">Dokonaj sabotażu floty na ekspedycji do Myrkgardu</string>
+	<string key="9902_0052_SabotageTheEmpress" speaker="UI">Dokonaj sabotażu floty podczas ekspedycji do Myrkgardu</string>
 	<string key="9904_0052_deployblightbombs" speaker="UI">Umieść bomby zarazy w ładunku przeznaczonym dla floty</string>
 	<string key="9904_0052_deployblightbombs2" speaker="UI">Umieść bombę zarazy w ładunku</string>
 	<string key="9904_0052_deployblightbombs3" speaker="UI">Umieść bombę zarazy w ładunku</string>
@@ -688,7 +688,7 @@
 	<string key="9902_0052_d_00_task_TalkToAdiana">Porozmawiaj z Adianą na temat opcji [solo]</string>
 	<string key="9902_0052_d_00_CompleteSolo">Ukończ zadanie: Feralny ładunek [solo]</string>
 	<string key="9902_0052_saboteur_solo_objective_title" speaker="UI">Feralny ładunek</string>
-	<string key="9902_0052_saboteur_solo_objective_desc" speaker="UI">Zamiast przypuszczać bezpośredni atak na cesarzową i jej flotę, zabierz bomby zarazy i umieść je w ładunku, który ma trafić do floty zacumowanej w dokach. Przy okazji pokonaj generałów dowodzących flotą, by osłabić zdolności przywódcze wroga.</string>
+	<string key="9902_0052_saboteur_solo_objective_desc" speaker="UI">Zamiast przypuszczać bezpośredni atak na cesarzową i jej flotę, zabierz bomby zarazy i umieść je w ładunku, który ma trafić z doków na statki. Przy okazji pokonaj generałów dowodzących flotą, by osłabić zdolności przywódcze wroga.</string>
 	<string key="9907_0053_blessingofearth_objective_title" speaker="UI - Quest Title">Błogosławieństwo ziemi</string>
 	<string key="9907_0053_BlessingsOfTheEarth" speaker="UI">Zdobądź uznanie mieszkańców polany</string>
 	<string key="9907_0053_blessingofearth_objective_desc" speaker="UI - Quest Description">Złóż ofiary mieszkańcom, by zyskać ich przychylność.</string>

@@ -6582,7 +6582,7 @@
         "BuyCategoricalProgressionCost": 10000,
         "BuyCurrencyCost": 100000,
         "BuyCurrencyItemCost": 0,
-        "BuyCooldownSeconds": 0,
+        "BuyCooldownSeconds": 604800,
         "SellCategoricalProgressionCost": 0,
         "SellCurrencyCost": 0,
         "InContracts": false
@@ -6600,7 +6600,7 @@
         "BuyCategoricalProgressionCost": 3000,
         "BuyCurrencyCost": 1000,
         "BuyCurrencyItemCost": 0,
-        "BuyCooldownSeconds": 604800,
+        "BuyCooldownSeconds": 0,
         "SellCategoricalProgressionCost": 0,
         "SellCurrencyCost": 0,
         "InContracts": false

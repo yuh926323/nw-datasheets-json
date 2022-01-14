@@ -1286,5 +1286,43 @@
         "CanPlaceCamp": false,
         "Containers": 0,
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/POI/mapTooltip_poi_icecave.png"
+    },
+    {
+        "TerritoryID": 40175,
+        "NameLocalizationKey": "@ui_poi_spiritshrine_03_40175",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
+        "DiscoveryRadius": 150,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": 1,
+        "ChartedAchievement": "spiritshrine_03_40175_charted",
+        "POITag": "spiritshrine_03_40175",
+        "AudioGroup": "Music_POI",
+        "AudioState": "watchtower",
+        "CanPlaceCamp": false,
+        "DevName": "Spirit Shrine",
+        "Containers": 0,
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
+    },
+    {
+        "TerritoryID": 40176,
+        "NameLocalizationKey": "@ui_poi_spiritshrine_04_40176",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
+        "DiscoveryRadius": 150,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": 1,
+        "ChartedAchievement": "spiritshrine_04_40176_charted",
+        "POITag": "spiritshrine_04_40176",
+        "AudioGroup": "Music_POI",
+        "AudioState": "watchtower",
+        "CanPlaceCamp": false,
+        "DevName": "Spirit Shrine",
+        "Containers": 0,
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
     }
 ]

@@ -8251,7 +8251,7 @@
         "ItemClass": "LifeStaff+Armor",
         "Channel": 1,
         "ExclusiveLabels": "Skill+LifeStaff",
-        "ScalingPerGearScore": 0.01272727269679308,
+        "ScalingPerGearScore": 0.007272727321833372,
         "DisplayName": "@PerkID_Ability_LifeStaff_OrbOfProtection_Name",
         "Description": "@PerkID_Ability_LifeStaff_OrbOfProtection_Description",
         "Tier": 0,

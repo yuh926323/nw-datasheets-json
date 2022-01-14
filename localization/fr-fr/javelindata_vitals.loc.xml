@@ -2030,7 +2030,7 @@
 	<string key="DamnedHound_VitalsName" comment="BASE" speaker="Vitals Sheet">Chien altéré</string>
 	<string key="Darkness_Corruption_Eruption_Shell_VitalsName" comment="Darkness" speaker="Vitals Sheet">Éruption d'altération</string>
 	<string key="Darkness_Corruption_Eruption_VitalsName" comment="Darkness" speaker="Vitals Sheet">Éruption d'altération</string>
-	<string key="Darkness_Hive_Membrane_03GC03_60_ELITE_VitalsName" comment="Darkness" speaker="Vitals Sheet">La Bouche fléau</string>
+	<string key="Darkness_Hive_Membrane_03GC03_60_ELITE_VitalsName" comment="Darkness" speaker="Vitals Sheet">Gueule de Tourmenfer</string>
 	<string key="Darkness_Hive_Membrane_11MD12_50_ELITE_VitalsName" comment="Darkness" speaker="Vitals Sheet">Gueule infernale</string>
 	<string key="Darkness_Hive_Membrane_15_VitalsName" comment="Darkness" speaker="Vitals Sheet">Membrane</string>
 	<string key="Darkness_Hive_Membrane_5_VitalsName" comment="Darkness" speaker="Vitals Sheet">Membrane</string>
@@ -5318,7 +5318,7 @@
 	<string key="VC_Bear_Black_Named_08QP06" comment="Named Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Mâcheur</string>
 	<string key="VC_Bear_Cub_Black_02BW08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Ourson du Val d'Acier</string>
 	<string key="VC_Bear_Cub_Black_34" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Ourson</string>
-	<string key="VC_Bear_Cub_Grizzly_11MD10" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Ourson endeuillé</string>
+	<string key="VC_Bear_Cub_Grizzly_11MD10" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Ourson du Val des Larmes</string>
 	<string key="VC_Bear_Cub_Grizzly_50" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Jeune grizzly</string>
 	<string key="VC_Bear_Damned" comment="BASE" speaker="VitalsCategory Sheet">Ours altéré</string>
 	<string key="VC_Bear_Damned_03GC05_ELITE" comment="ELITE Level Variant - Mission Target Display Name" speaker="VitalsCategory Sheet">Ourse frigorifiée</string>
@@ -5997,7 +5997,7 @@
 	<string key="VC_Damned_Bowman_11MD00h" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Archer du Haut-col</string>
 	<string key="VC_Damned_Bowman_11MD00i" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Archer charognard</string>
 	<string key="VC_Damned_Bowman_11MD07a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Archer de Grue</string>
-	<string key="VC_Damned_Bowman_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Archer de Capitulum</string>
+	<string key="VC_Damned_Bowman_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Archer de Rochevue</string>
 	<string key="VC_Damned_Bowman_11MD10a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Archer de Rite</string>
 	<string key="VC_Damned_Bowman_13WF05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Archer de Camp-Sanglant</string>
 	<string key="VC_Damned_Bowman_25" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Archer altéré</string>
@@ -6097,7 +6097,7 @@
 	<string key="VC_Damned_Hound_11MD00i" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chien charognard</string>
 	<string key="VC_Damned_Hound_11MD00j" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chien coriace</string>
 	<string key="VC_Damned_Hound_11MD07a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chien de Grue</string>
-	<string key="VC_Damned_Hound_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chien de Capitulum</string>
+	<string key="VC_Damned_Hound_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chien de Rochevue</string>
 	<string key="VC_Damned_Hound_11MD10a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chien de Rite</string>
 	<string key="VC_Damned_Hound_13WF05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chien de Camp-Sanglant</string>
 	<string key="VC_Damned_Hound_32" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Bâtard altéré</string>
@@ -6202,7 +6202,7 @@
 	<string key="VC_Damned_Villager_AxeThrower_M-F_11MD00g" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chasseur œil-ardent</string>
 	<string key="VC_Damned_Villager_AxeThrower_M-F_11MD00h" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chasseur du Haut-col</string>
 	<string key="VC_Damned_Villager_AxeThrower_M-F_11MD00i" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chasseur charognard</string>
-	<string key="VC_Damned_Villager_AxeThrower_M-F_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chasseur de Capitulum</string>
+	<string key="VC_Damned_Villager_AxeThrower_M-F_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chasseur de Rochevue</string>
 	<string key="VC_Damned_Villager_AxeThrower_M-F_11MD10a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chasseur du rite</string>
 	<string key="VC_Damned_Villager_AxeThrower_M-F_13" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Lanceur de hachette altéré</string>
 	<string key="VC_Damned_Villager_AxeThrower_M-F_13WF05" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Chasseur de Camp-Sanglant</string>
@@ -6278,7 +6278,7 @@
 	<string key="VC_Damned_Villager_Hammer_11MD00g" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Artisan œil-ardent</string>
 	<string key="VC_Damned_Villager_Hammer_11MD00h" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Artisan du Haut-col</string>
 	<string key="VC_Damned_Villager_Hammer_11MD00i" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Artisan charognard</string>
-	<string key="VC_Damned_Villager_Hammer_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Artisan de Capitulum</string>
+	<string key="VC_Damned_Villager_Hammer_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Artisan de Rochevue</string>
 	<string key="VC_Damned_Villager_Hammer_11MD10a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Artisan du rite</string>
 	<string key="VC_Damned_Villager_Hammer_25" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Charpentier altéré</string>
 	<string key="VC_Damned_Villager_Hammer_26" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Charpentier altéré</string>
@@ -6447,7 +6447,7 @@
 	<string key="VC_Damned_Villager_Rake_07SM01" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Peón de Faille-de-Guerre</string>
 	<string key="VC_Damned_Villager_Rake_11MD00i" comment="Mission Target Display Name" speaker="Vitals Sheet">Travailleur charognard</string>
 	<string key="VC_Damned_Villager_Rake_11MD07a" comment="Mission Target Display Name" speaker="Vitals Sheet">Travailleur de Grue</string>
-	<string key="VC_Damned_Villager_Rake_11MD07b" comment="Mission Target Display Name" speaker="Vitals Sheet">Travailleur de Capitulum</string>
+	<string key="VC_Damned_Villager_Rake_11MD07b" comment="Mission Target Display Name" speaker="Vitals Sheet">Travailleur de Rochevue</string>
 	<string key="VC_Damned_Villager_Rake_36" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Serf des Champs de glace</string>
 	<string key="VC_Damned_Villager_Rake_40" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Manouvrier altéré</string>
 	<string key="VC_Damned_Villager_Shovel_03GC07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Travailleur de mine à ciel ouvert</string>
@@ -6463,7 +6463,7 @@
 	<string key="VC_Damned_Villager_Shovel_11MD00h" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Travailleur du Haut-col</string>
 	<string key="VC_Damned_Villager_Shovel_11MD00i" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Travailleur charognard</string>
 	<string key="VC_Damned_Villager_Shovel_11MD07a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Travailleur de Grue</string>
-	<string key="VC_Damned_Villager_Shovel_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Travailleur de Capitulum</string>
+	<string key="VC_Damned_Villager_Shovel_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Travailleur de Rochevue</string>
 	<string key="VC_Damned_Villager_Shovel_11MD10a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Travailleur du rite</string>
 	<string key="VC_Damned_Villager_Shovel_38" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Travailleur de mine à ciel ouvert</string>
 	<string key="VC_Damned_Villager_Shovel_40" comment="Generic Level Variant" speaker="VitalsCategory Sheet">Travailleur altéré</string>
@@ -6498,7 +6498,7 @@
 	<string key="VC_Damned_Villager_Skinning_Knife_11MD00h" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Trappeur du Haut-col</string>
 	<string key="VC_Damned_Villager_Skinning_Knife_11MD00i" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Fermier charognard</string>
 	<string key="VC_Damned_Villager_Skinning_Knife_11MD07a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Trappeur de Grue</string>
-	<string key="VC_Damned_Villager_Skinning_Knife_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Trappeur de Capitulum</string>
+	<string key="VC_Damned_Villager_Skinning_Knife_11MD07b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Trappeur de Rochevue</string>
 	<string key="VC_Damned_Villager_Skinning_Knife_11MD10a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Trappeur du rite</string>
 	<string key="VC_Damned_Villager_Skinning_Knife_DG_Restless_00" comment="Mission Target Display Name" speaker="VitalsCategory Sheet">Trappeur de Tranchécueil</string>
 	<string key="VC_DamnedHound" comment="BASE" speaker="VitalsCategory Sheet">Chien altéré</string>
@@ -9868,9 +9868,9 @@
 	<string key="VC_Withered_Beetle_11MD00c" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée pleureur</string>
 	<string key="VC_Withered_Beetle_11MD00g" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée œil-ardent</string>
 	<string key="VC_Withered_Beetle_11MD00j" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée de Dorado</string>
-	<string key="VC_Withered_Beetle_11MD06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée endeuillé</string>
-	<string key="VC_Withered_Beetle_11MD07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée endeuillé</string>
-	<string key="VC_Withered_Beetle_11MD08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée endeuillé</string>
+	<string key="VC_Withered_Beetle_11MD06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée du Val des Larmes</string>
+	<string key="VC_Withered_Beetle_11MD07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée du Val des Larmes</string>
+	<string key="VC_Withered_Beetle_11MD08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée du Val des Larmes</string>
 	<string key="VC_Withered_Beetle_12MB03a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée de Ruinebile</string>
 	<string key="VC_Withered_Beetle_12MB03b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée des Confins</string>
 	<string key="VC_Withered_Beetle_12MB03c" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Scarabée des Berges du lac</string>
@@ -10000,9 +10000,9 @@
 	<string key="VC_Withered_Swarmancer_11MD00c" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur pleureur</string>
 	<string key="VC_Withered_Swarmancer_11MD00g" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur œil-ardent</string>
 	<string key="VC_Withered_Swarmancer_11MD00j" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur de Dorado</string>
-	<string key="VC_Withered_Swarmancer_11MD06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur endeuillé</string>
-	<string key="VC_Withered_Swarmancer_11MD07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur endeuillé</string>
-	<string key="VC_Withered_Swarmancer_11MD08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur endeuillé</string>
+	<string key="VC_Withered_Swarmancer_11MD06" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur du Val des Larmes</string>
+	<string key="VC_Withered_Swarmancer_11MD07" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur du Val des Larmes</string>
+	<string key="VC_Withered_Swarmancer_11MD08" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur du Val des Larmes</string>
 	<string key="VC_Withered_Swarmancer_12MB03a" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur de Ruinebile</string>
 	<string key="VC_Withered_Swarmancer_12MB03b" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur des Confins</string>
 	<string key="VC_Withered_Swarmancer_12MB03c" comment="Mission Target Display Name" speaker="VitalsCategory Sheet" rel_version="AI_Variation_Sub_L20">Essaimeur des Berges du lac</string>

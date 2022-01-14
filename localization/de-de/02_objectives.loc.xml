@@ -390,7 +390,7 @@
 	<string key="98_S_Reach_NextSyndicateRank" speaker="UI - Tracker Text">Erlange Fraktionsansehen, um dich der Prüfung für den nächsten Rang zu stellen</string>
 	<string key="98_S_0001_CompleteTrial_Scrivener" speaker="UI - Tracker Text">Reise nach Lichtholz und schließe die Skriptorenprüfung ab\n(Empfohlene Stufe: 25)</string>
 	<string key="98_S_0102_RankUp_title" speaker="UI - Quest Title">Syndikatsaufstieg: Chronist</string>
-	<string key="98_S_0102_RankUp_description" speaker="UI - Tracker Text"/>
+	<string key="98_S_0102_RankUp_description" speaker="UI - Tracker Text">Erlange genug Fraktionsansehen, um dich für den Rang eines Chronisten zu qualifizieren, und schließe dann die Aufgabe "Chronistenprüfung" des Fraktionsvertreters in Webermoor ab.</string>
 	<string key="98_S_0102_CompleteTrial_Chronicler" speaker="UI - Tracker Text">Reise nach Webermoor und schließe die Chronistenprüfung ab\n(Empfohlene Stufe: 35)</string>
 	<string key="98_S_0203_RankUp_title" speaker="UI - Quest Title">Syndikatsaufstieg: Kabbalist</string>
 	<string key="98_S_0203_RankUp_description" speaker="UI - Tracker Text">Erlange genug Fraktionsansehen, um dich für den Rang eines Kabbalisten zu qualifizieren, und schließe dann die Aufgabe "Kabbalistenprüfung" des Fraktionsvertreters in Klagental ab.</string>

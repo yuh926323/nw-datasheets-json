@@ -138,7 +138,7 @@
 	<string key="Passive_Bow_Hunter_Crit" comment="BOW + PASSIVE">Bullseye</string>
 	<string key="Passive_Bow_Hunter_Crit_description" comment="BOW + PASSIVE">Increases critical chance of bow shots by {[BowAbilityTable.Passive_Bow_Hunter_Crit.CritChance * 100]}%.</string>
 	<string key="Ultimate_Bow_Hunter" comment="BOW + PASSIVE">Concussion</string>
-	<string key="Ultimate_Bow_Hunter_description" comment="BOW + PASSIVE">When you land a headshot, deal {[BowAbilityTable.Ultimate_Bow_Hunter.BaseDamage * 100]}% more damage and have a {[BowAbilityTable.Ultimate_Bow_Hunter_Refund.RefundAmmoPercentChance * 100]}% chance to get your arrow back.</string>
+	<string key="Ultimate_Bow_Hunter_description" comment="BOW + PASSIVE">When you land a headshot, deal {[BowAbilityTable.Ultimate_Bow_Hunter.HeadshotDamage * 100]}% more damage and have a {[BowAbilityTable.Ultimate_Bow_Hunter_Refund.RefundAmmoPercentChance * 100]}% chance to get your arrow back.</string>
 	<string key="Ability_Greataxe_Charge" comment="GREATAXE + ACTIVE">Charge</string>
 	<string key="Ability_Greataxe_Charge_description" comment="GREATAXE + ACTIVE">Charge 10m and deal {[DamageTable.GreatAxe_Engage1.DmgCoef * 100]}% weapon damage when you reach a target. Press LMB to stop charging and attack early. \n\nThis ability has grit. (Grit prevents you from being staggered by incoming attacks.)</string>
 	<string key="Upgrade_Greataxe_Charge_DmgPerDistance" comment="GREATAXE + MOD">Frenzied Momentum</string>

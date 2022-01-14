@@ -348,7 +348,8 @@
         "ConversationStateId": "1123_01_BLANK",
         "ConversationType": "Linear_Objective",
         "IsInitialState": true,
-        "DefaultDialogue": "@1123_01_DefaultDialogue"
+        "DefaultDialogue": "@1123_01_DefaultDialogue",
+        "TopicId1": "1123_Fisher_ExplainHotspots"
     },
     {
         "ConversationStateId": "1123_02_BLANK",
@@ -356,14 +357,16 @@
         "IsInitialState": false,
         "DefaultDialogue": "@1123_02_DefaultDialogue",
         "RequiredAchievement": "FishingQuest_09",
-        "LinearObjectiveId1": "1123_0101_FQ10"
+        "LinearObjectiveId1": "1123_0101_FQ10",
+        "TopicId1": "1123_Fisher_ExplainHotspots"
     },
     {
         "ConversationStateId": "1123_03_BLANK",
         "ConversationType": "Linear_Objective",
         "IsInitialState": false,
         "DefaultDialogue": "@1123_03_DefaultDialogue",
-        "RequiredAchievement": "FishingQuest_10"
+        "RequiredAchievement": "FishingQuest_10",
+        "TopicId1": "1123_Fisher_ExplainHotspots"
     },
     {
         "ConversationStateId": "1124_PierreAuguste_Default",
@@ -644,246 +647,5 @@
         "DefaultDialogue": "@1129_Jaansen_Note_1",
         "RequiredAchievement": "11_Jaansen_1",
         "LinearObjectiveId1": "1129_0102_jaanseninthenorth"
-    },
-    {
-        "ConversationStateId": "1130_Tosti_Default",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": true,
-        "DefaultDialogue": "@1130_Tosti_Default"
-    },
-    {
-        "ConversationStateId": "1130_Tosti_2",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1130_Tosti_2",
-        "RequiredProgression": "GreatAxeAbilityTable 4 0",
-        "RequiredLevel": "5",
-        "LinearObjectiveId1": "1130_01_EdgeOfTheWorld"
-    },
-    {
-        "ConversationStateId": "1130_Tosti_3",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1130_Tosti_3",
-        "RequiredAchievement": "11_Tosti_1"
-    },
-    {
-        "ConversationStateId": "1130_Tosti_4",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1130_Tosti_4",
-        "RequiredProgression": "GreatAxeAbilityTable 9 0",
-        "RequiredLevel": "5",
-        "LinearObjectiveId1": "1130_02_CallBeyondTheVoid"
-    },
-    {
-        "ConversationStateId": "1130_Tosti_5",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1130_Tosti_5",
-        "RequiredAchievement": "11_Tosti_2"
-    },
-    {
-        "ConversationStateId": "1130_Tosti_6",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1130_Tosti_6",
-        "RequiredProgression": "GreatAxeAbilityTable 14 0",
-        "RequiredLevel": "15",
-        "RequiredAchievement": "11_Tosti_2",
-        "LinearObjectiveId1": "1130_03_StirsTheWatchful"
-    },
-    {
-        "ConversationStateId": "1130_Tosti2_Default",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": true,
-        "DefaultDialogue": "@1130_Tosti2_Default"
-    },
-    {
-        "ConversationStateId": "1130_Tosti_7",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1130_Tosti_7",
-        "RequiredProgression": "GreatAxeAbilityTable 19 0",
-        "RequiredLevel": "20",
-        "RequiredAchievement": "11_Tosti_3",
-        "LinearObjectiveId1": "1130_04_TheBridge"
-    },
-    {
-        "ConversationStateId": "1130_Tosti_8",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1130_Tosti_8",
-        "RequiredAchievement": "11_Tosti_4"
-    },
-    {
-        "ConversationStateId": "1130_Tosti_9",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1130_Tosti_9",
-        "RequiredLevel": "20",
-        "RequiredAchievement": "11_Tosti_5"
-    },
-    {
-        "ConversationStateId": "1130_Sensou_Default",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": true,
-        "DefaultDialogue": "@1130_Sensou_Default"
-    },
-    {
-        "ConversationStateId": "1130_Sensou_1",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1130_Sensou_1",
-        "RequiredAchievement": "11_Tosti_4",
-        "LinearObjectiveId1": "1130_05_SensounoKo"
-    },
-    {
-        "ConversationStateId": "1132_Sidney_Default",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": true,
-        "DefaultDialogue": "@1132_Sidney_Default"
-    },
-    {
-        "ConversationStateId": "1132_Sidney_2",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1132_Sidney_2",
-        "RequiredAchievement": "11_BBMastery_1",
-        "LinearObjectiveId1": "1132_01_ClaimJumper"
-    },
-    {
-        "ConversationStateId": "1132_Sidney_3",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1132_Sidney_3",
-        "RequiredProgression": "BlunderbussAbilityTable 9 0",
-        "RequiredAchievement": "11_BBMastery_2",
-        "LinearObjectiveId1": "1132_02_DiamondbackHustler"
-    },
-    {
-        "ConversationStateId": "1132_Sidney_4",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1132_Sidney_4",
-        "RequiredAchievement": "11_BBMastery_3",
-        "LinearObjectiveId1": "1132_03_RoomEnough"
-    },
-    {
-        "ConversationStateId": "1132_Sidney_5",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1132_Sidney_5"
-    },
-    {
-        "ConversationStateId": "1132_Sidney_6",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1132_Sidney_6",
-        "RequiredProgression": "BlunderbussAbilityTable 19 0",
-        "RequiredAchievement": "11_BBMastery_6",
-        "LinearObjectiveId1": "1132_05_Shootout"
-    },
-    {
-        "ConversationStateId": "1132_Sidney_7",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1132_Sidney_7",
-        "RequiredAchievement": "11_BBMastery_7"
-    },
-    {
-        "ConversationStateId": "1131_Megnolia_Default",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": true,
-        "DefaultDialogue": "@1131_Megnolia_Default"
-    },
-    {
-        "ConversationStateId": "1131_Megnolia_2",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1131_Megnolia_2",
-        "RequiredAchievement": "11_BBMastery_1"
-    },
-    {
-        "ConversationStateId": "1131_Megnolia2_Default",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": true,
-        "DefaultDialogue": "@1131_Megnolia2_Default"
-    },
-    {
-        "ConversationStateId": "1131_Megnolia_3",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1131_Megnolia_3",
-        "RequiredAchievement": "11_BBMastery_4",
-        "LinearObjectiveId1": "1131_01_BigThunder"
-    },
-    {
-        "ConversationStateId": "1131_Megnolia_4",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1131_Megnolia_4",
-        "RequiredActiveObjectiveId": "1132_03_RoomEnough",
-        "RequiredActiveTaskId": "1132_TalkToMeg"
-    },
-    {
-        "ConversationStateId": "1131_Megnolia_5",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1131_Megnolia_5"
-    },
-    {
-        "ConversationStateId": "1131_Megnolia_6",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1131_Megnolia_6",
-        "RequiredProgression": "BlunderbussAbilityTable 14 0",
-        "RequiredAchievement": "11_BBMastery_5",
-        "LinearObjectiveId1": "1131_02_GrampasGun"
-    },
-    {
-        "ConversationStateId": "1131_Megnolia_7",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1131_Megnolia_7",
-        "RequiredAchievement": "11_BBMastery_7"
-    },
-    {
-        "ConversationStateId": "1133_Stonefirth_Default",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": true,
-        "DefaultDialogue": "@1133_Stonefirth_Default"
-    },
-    {
-        "ConversationStateId": "1133_Stonefirth_2",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1133_Stonefirth_2",
-        "RequiredProgression": "BlunderbussAbilityTable 4 0",
-        "RequiredLevel": "45",
-        "LinearObjectiveId1": "1133_01_SnakeOil"
-    },
-    {
-        "ConversationStateId": "1133_Stonefirth_3",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1133_Stonefirth_3",
-        "RequiredAchievement": "11_BBMastery_1"
-    },
-    {
-        "ConversationStateId": "1133_Stonefirth_4",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1133_Stonefirth_4",
-        "RequiredAchievement": "11_BBMastery_4"
-    },
-    {
-        "ConversationStateId": "1133_Stonefirth_5",
-        "ConversationType": "Linear_Objective",
-        "IsInitialState": false,
-        "DefaultDialogue": "@1133_Stonefirth_5",
-        "RequiredAchievement": "11_BBMastery_3",
-        "RequiredActiveObjectiveId": "1132_03_RoomEnough",
-        "RequiredActiveTaskId": "1132_TalkToMeg"
     }
 ]

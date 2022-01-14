@@ -89,10 +89,10 @@
 	<string key="1035_Chef_DefaultDialogue_00" comment="Default" speaker="Chef Decima Opimius - Cutlass Keys" name="DecimaOpimius" gender="f" VO="1035_Chef_DefaultDialogue_00" VO_Status="Needs Recording">Ich bin Decima Opimius, Bäckerin der Extraklasse. \n\nWie du dir vorstellen kannst, teile ich meine Berufsgeheimnisse nicht mit jedem.</string>
 	<string key="1035_Chef_DefaultDialogue_01" comment="1035_0201_cookiecrumbles" speaker="Chef Decima Opimius - Cutlass Keys" name="DecimaOpimius" gender="f" VO="1035_Chef_DefaultDialogue_01" VO_Status="Needs Recording">Dieser Swampy gewinnt jedes Jahr den Kochwettbewerb im Entermesserriff. \n\nFür uns Gourmets ist es einfach nur eine Tragödie!</string>
 	<string key="1035_Chef_DefaultDialogue_02" comment="Final" speaker="Chef Decima Opimius - Cutlass Keys" name="DecimaOpimius" gender="f" VO="1035_Chef_DefaultDialogue_02" VO_Status="Needs Recording">Dank deiner Hilfe wird der Name Opimius wieder gleichbedeutend mit den besten Bäckern sein.</string>
-	<string key="Dungeon_BrokenLever_Default_00" comment="Default" speaker="" name="" gender="" VO="" VO_Status=""/>
-	<string key="Dungeon_CutlassKeys00_Scalleywag_DefaultDialogue_00" comment="Default" speaker="" name="Antonio" gender="M" VO="" VO_Status=""/>
-	<string key="Dungeon_CutlassKeys00_Scalleywag_DefaultDialogue_01" comment="Default" speaker="" name="Antonio" gender="M" VO="" VO_Status=""/>
-	<string key="Dungeon_CutlassKeys00_Mariner_DefaultDialogue_00" comment="Default" speaker="" name="Tye" gender="M" VO="" VO_Status=""/>
-	<string key="Dungeon_CutlassKeys00_Mariner_DefaultDialogue_01" comment="Default" speaker="" name="Tye" gender="M" VO="" VO_Status=""/>
+	<string key="Dungeon_BrokenLever_Default_00" comment="Default" speaker="" name="" gender="" VO="" VO_Status="">Der Hebel ist zwar kaputt, aber vielleicht ist hier in der Nähe noch ein anderer.</string>
+	<string key="Dungeon_CutlassKeys00_Scalleywag_DefaultDialogue_00" comment="Default" speaker="" name="Antonio" gender="M" VO="" VO_Status="">Lass uns reden, nachdem du dich um die da drüben gekümmert hast.</string>
+	<string key="Dungeon_CutlassKeys00_Scalleywag_DefaultDialogue_01" comment="Default" speaker="" name="Antonio" gender="M" VO="" VO_Status="">Wenn du auf den Schatz aus bist, vergeude keine Zeit. Er ist verflucht. Admiral Schwarzpulver und seine Mannschaft bewachen ihn in dieser Bucht. Sie beschuldigen die Sirene, ihn verflucht zu haben, wobei niemand wirklich weiß, wer oder was dafür verantwortlich ist.</string>
+	<string key="Dungeon_CutlassKeys00_Mariner_DefaultDialogue_00" comment="Default" speaker="" name="Tye" gender="M" VO="" VO_Status="">Stör mich nicht. Sprich mich gleich noch mal an.</string>
+	<string key="Dungeon_CutlassKeys00_Mariner_DefaultDialogue_01" comment="Default" speaker="" name="Tye" gender="M" VO="" VO_Status="">Ich hätte nicht erwartet, hier jemandem zu begegnen. Außer Untoten. Hat Sie dich auch hierher gerufen? Ich habe die wunderschöne Sirene im Traum erblickt und bin hergekommen, um ihr näher zu sein und ihr Gedichte zu schreiben. Diese dummen Untoten haben versucht, ihre Tür aufzubrechen.</string>
 </resources>
 

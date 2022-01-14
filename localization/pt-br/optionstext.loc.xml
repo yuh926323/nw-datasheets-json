@@ -178,7 +178,7 @@
 	<string key="ui_options_TwitchStreamerSpotlight_desc">Habilite o Destaque de Streamers da Twitch. Permite que outros jogadores vejam que você está transmitindo na Twitch (funciona apenas quando estiver transmitindo).</string>
 	<string key="ui_options_TwitchHideOtherStreamers">Ocultar Outros Streamers</string>
 	<string key="ui_options_TwitchHideOtherStreamers_desc">Permite ocultar o status de Destaque de Streamer de outros jogadores enquanto você estiver transmitindo e tiver o Destaque de Streamer habilitado.</string>
-	<string key="ui_options_TwitchSubArmy">Tropa de Inscritos na Twitch</string>
+	<string key="ui_options_TwitchSubArmy">Tropa Inscrita na Twitch</string>
 	<string key="ui_options_TwitchSubArmy_desc">Permite que você recrute seus inscritos e seguidores na Twitch para seu grupo ou companhia.</string>
 	<string key="ui_textSize">Tamanho do Texto</string>
 	<string key="ui_textSize_desc">Aumente o tamanho das Exibições de Nome e das dicas de Interação.</string>

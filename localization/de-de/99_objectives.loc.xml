@@ -182,7 +182,7 @@
 	<string key="9901_0013_argentandaether_proposal" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0013_argentandaether_ProposalResponse" VO_Status="Recorded" dialogue-next="@9901_0013_argentandaether_proposal_next">Nirgendwo. Wir mussten sie alle einschmelzen, um Waffen für den Krieg schmieden zu können.\n\nDie gute Nachricht ist, dass du stark genug und schlau genug bist, um selbst eins zu schmieden.</string>
 	<string key="9901_0013_argentandaether_proposal_prompt" speaker="UI - Player Prompt">"Schön. Sag mir einfach, was ich brauche."</string>
 	<string key="9901_0013_argentandaether_proposal_next" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0013_argentandaether_CompleteNext" VO_Status="Needs Re-recording" dialogue-prompt="@9901_0013_argentandaether_proposal_prompt">Silber. Eine beträchtliche Menge. Dann musst du es in der Mirador-Schmiede schmieden.\n\nIn der uralten Schmiede, die wir schon dafür nutzten. Ich erinnere mich noch an ihr Glühen im Dämmerlicht, an den Schmiedemeister Ezra ... Ich habe keine Ahnung, in welchem Zustand sie heute ist.</string>
-	<string key="9901_0013_argentandaether_incomplete" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0013_argentandaether_InProgResponse" VO_Status="Needs Re-recording"/>
+	<string key="9901_0013_argentandaether_incomplete" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0013_argentandaether_InProgResponse" VO_Status="Needs Re-recording">Hast du dir schon das Kreuzstück geschmiedet? \n\nHoffentlich hat die Mirador-Schmiede etwas ihrer früheren Größe bewahrt. \n\nVergiss nicht, deine Silberbarren mitzubringen.</string>
 	<string key="9901_0013_argentandaether_complete_available_response" speaker="Yonas Alazar" name="YonasAlazar" gender="M" VO="MSQYonas_9901_0013_argentandaether_AvailResponse" VO_Status="Recorded">Oho, das verheißene Kind kehrt zurück und bringt sogar ein Kreuzstück aus strahlendem Silber mit! Das sieht sehr gut aus.\n\nSag, war ... war der alte Ezra dort? Er hasste es, wenn die Schmiede erkaltete. Vielleicht hast du ihm eine Art Erlösung verschafft.</string>
 	<string key="9901_0013_argentandaether_objective_desc" speaker="UI  - Quest Description">Für das Kreuzstück benötigst du Silber. Du kannst es nur in einer Schmiede mit übernatürlichen Kräften schmieden. Beschaffe Silberbarren und reise dann zur Mirador-Schmiede, um das Kreuzstück anzufertigen.</string>
 	<string key="9901_0013_argentandaether_acquiresilver" speaker="UI - Tracker Text">Beschaffe Silberbarren für das Kreuzstück deines Azoth-Stabs.</string>
@@ -672,23 +672,23 @@
 	<string key="9902_0052_saboteur_complete_available_response_prompt2" speaker="UI - Player Prompt">"Ich werde nicht versagen."</string>
 	<string key="9902_0052_saboteur_complete_available_response_next2" speaker="Adiana Theron" name="AdianaTheron" gender="F" VO="9902_0052_saboteur_complete_available_response_prompt2" VO_Status="Recorded" dialogue-prompt="@9902_0052_saboteur_complete_available_response_prompt2">Du verlangst einen großen Vertrauensvorschuss von uns. Mehr Vertrauen, als eine Zornige Erdkreatur je einem Menschen entgegengebracht hat. \n\nDu hast dich aber bisher als sehr zuverlässig bewiesen.</string>
 	<string key="9902_0052_d_00_container_partial_Expedition" speaker="UI">ODER:</string>
-	<string key="9902_0052_SabotageTheEmpress" speaker="UI"/>
-	<string key="9904_0052_deployblightbombs" speaker="UI"/>
-	<string key="9904_0052_deployblightbombs2" speaker="UI"/>
-	<string key="9904_0052_deployblightbombs3" speaker="UI"/>
-	<string key="9902_KillGenerals" speaker="UI"/>
-	<string key="9902_0052_TravelTo_Empress" speaker="UI"/>
-	<string key="9902_0052_TravelTo_Empress2" speaker="UI"/>
+	<string key="9902_0052_SabotageTheEmpress" speaker="UI">Sabotiere auf der Düsterheim-Expedition die Flotte.</string>
+	<string key="9904_0052_deployblightbombs" speaker="UI">Platziere Fäulnisbomben in Frachthaufen für die Flotte.</string>
+	<string key="9904_0052_deployblightbombs2" speaker="UI">Platziere eine Fäulnisbombe im Frachthaufen.</string>
+	<string key="9904_0052_deployblightbombs3" speaker="UI">Platziere eine Fäulnisbombe im Frachthaufen.</string>
+	<string key="9902_KillGenerals" speaker="UI">Besiege die Streitkräfte der Kaiserin.</string>
+	<string key="9902_0052_TravelTo_Empress" speaker="UI">Sabotiere die Flotte auf der Schiffswerft der Dynastie [Gruppe].</string>
+	<string key="9902_0052_TravelTo_Empress2" speaker="UI">Begib dich auf die Expedition zur Schiffswerft der Dynastie [Gruppe].</string>
 	<string key="9902_0052_interactship1" speaker="UI">Sabotiere das erste Schiff.</string>
 	<string key="9902_0052_interactship2" speaker="UI">Sabotiere das zweite Schiff.</string>
 	<string key="9902_0052_interactship3" speaker="UI">Sabotiere das dritte Schiff.</string>
 	<string key="9902_0052_interactship4" speaker="UI">Sabotiere das letzte Schiff der Verderbtenflotte.</string>
 	<string key="9902_0052_ChallengeDynasty" speaker="UI">Fordere die Kaiserin direkt heraus.</string>
-	<string key="9902_0052_d_00_container_partial_SoloQuest"/>
-	<string key="9902_0052_d_00_task_TalkToAdiana"/>
-	<string key="9902_0052_d_00_CompleteSolo">Aufgabe abschließen: </string>
-	<string key="9902_0052_saboteur_solo_objective_title" speaker="UI"/>
-	<string key="9902_0052_saboteur_solo_objective_desc" speaker="UI"/>
+	<string key="9902_0052_d_00_container_partial_SoloQuest">Stifte Fäulnis und Chaos unter den Streitkräften der Kaiserin:</string>
+	<string key="9902_0052_d_00_task_TalkToAdiana">Lote deine Optionen mit Adiana aus [Solo]</string>
+	<string key="9902_0052_d_00_CompleteSolo">Aufgabe abschließen: Greife die Decks an [Solo]</string>
+	<string key="9902_0052_saboteur_solo_objective_title" speaker="UI">Greife die Decks an</string>
+	<string key="9902_0052_saboteur_solo_objective_desc" speaker="UI">Anstatt die Kaiserin und ihre Flotte auf der Düsterheim-Expedition anzugreifen, kannst du auch die Fäulnisbomben zwischen der Fracht auslegen, die an den Docks darauf wartet, zur Flotte gebracht zu werden. Besiege dort die Flottengeneräle, um die Befehlskette zu unterbrechen.</string>
 	<string key="9907_0053_blessingofearth_objective_title" speaker="UI - Quest Title">Segen der Erde</string>
 	<string key="9907_0053_BlessingsOfTheEarth" speaker="UI">Erlange die Gunst der Bewohner der Lichtung.</string>
 	<string key="9907_0053_blessingofearth_objective_desc" speaker="UI - Quest Description">Bringe den Dorfbewohnern Opfergaben, um ihre Gunst zu erlangen.</string>
@@ -824,18 +824,18 @@
 	<string key="9927_0102_VisionsOfInvaders_complete_available_response_prompt" speaker="UI - Player Prompt" rel_version="AI_Evil_Knights_P1">"Was sollen wir tun?"</string>
 	<string key="9927_0102_VisionsOfInvaders_complete_available_response_next" speaker="Survivalist Riches - First Light" name="SurvivalistRiches" VO="9927_0102_VisionsOfInvaders_complete_available_response_next" VO_Status="Needs Recording" dialogue-prompt="@9927_0102_VisionsOfInvaders_complete_available_response_prompt" rel_version="AI_Evil_Knights_P1">Im Moment nicht viel. Da die Bedrohung der Verderbnis anscheinend eine ernste Notlage darstellt, sollten wir uns darauf konzentrieren.\n\nAber keine Sorge, bald offenbart sich mir eine weitere Vision zu diesen Varangianern und dann wird unser Weg klar sein.</string>
 	<string key="9927_VK_ScoutsNote_Examine">Untersuchen</string>
-	<string key="9926_0103_LostScarecrow_objective_title" rel_version="AI_Evil_Knights_P1"/>
-	<string key="9926_0103_LostScarecrow_objective_desc" rel_version="AI_Evil_Knights_P1"/>
+	<string key="9926_0103_LostScarecrow_objective_title" rel_version="AI_Evil_Knights_P1">Die verlorene Vogelscheuche</string>
+	<string key="9926_0103_LostScarecrow_objective_desc" rel_version="AI_Evil_Knights_P1">Beschreibung</string>
 	<string key="9926_0103_LostScarecrow_start_prompt" rel_version="AI_Evil_Knights_P1">(Weiterlesen)</string>
-	<string key="9926_0103_LostScarecrow_proposal" rel_version="AI_Evil_Knights_P2"/>
-	<string key="9926_0103_LostScarecrow_incomplete" rel_version="AI_Evil_Knights_P2"/>
-	<string key="9926_0103_LostScarecrow_complete_available_response" rel_version="AI_Evil_Knights_P2"/>
-	<string key="9932_0104_RelicReclamation_objective_title" rel_version="AI_Evil_Knights_P1"/>
-	<string key="9932_0104_RelicReclamation_objective_desc" rel_version="AI_Evil_Knights_P1"/>
+	<string key="9926_0103_LostScarecrow_proposal" rel_version="AI_Evil_Knights_P2">Die verlorene Vogelscheuche – Vorschlag</string>
+	<string key="9926_0103_LostScarecrow_incomplete" rel_version="AI_Evil_Knights_P2">Die verlorene Vogelscheuche – nicht abgeschlossen</string>
+	<string key="9926_0103_LostScarecrow_complete_available_response" rel_version="AI_Evil_Knights_P2">Die verlorene Vogelscheuche – abgeschlossen</string>
+	<string key="9932_0104_RelicReclamation_objective_title" rel_version="AI_Evil_Knights_P1">Reliktrückgewinnung</string>
+	<string key="9932_0104_RelicReclamation_objective_desc" rel_version="AI_Evil_Knights_P1">Beschreibung</string>
 	<string key="9932_0104_RelicReclamation_start_prompt" rel_version="AI_Evil_Knights_P1">(Weiterlesen)</string>
-	<string key="9932_0104_RelicReclamation_proposal" rel_version="AI_Evil_Knights_P2"/>
+	<string key="9932_0104_RelicReclamation_proposal" rel_version="AI_Evil_Knights_P2">Reliktrückgewinnung – Vorschlag</string>
 	<string key="9932_0104_RelicReclamation_incomplete" rel_version="AI_Evil_Knights_P2">[LEER]</string>
-	<string key="9932_0104_RelicReclamation_complete_available_response" rel_version="AI_Evil_Knights_P2"/>
+	<string key="9932_0104_RelicReclamation_complete_available_response" rel_version="AI_Evil_Knights_P2">Reliktrückgewinnung – abgeschlossen</string>
 	<string key="9905_0059_InMemoriam_objective_title" speaker="UI - Quest Title">Im Gedenken</string>
 	<string key="9905_0059_InMemoriam_objective_desc" speaker="UI - Quest Description">Sammle Zeichen der Erinnerung von deinen Kameraden und lege sie bei der Gedenkstätte für Yonas bei der Anglerbiegung ab.</string>
 	<string key="9905_0059_InMemoriam_start_prompt" speaker="UI - Player Prompt">Wenn wir keine Hoffnung haben, was haben wir dann?</string>

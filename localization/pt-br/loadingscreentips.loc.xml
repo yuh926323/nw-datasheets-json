@@ -38,7 +38,7 @@
 	<string key="tip_overworld_combat_weaponMastery01-title">Maestria em Armas</string>
 	<string key="tip_overworld_combat_weaponMastery01-content">Derrotar um inimigo com 2 armas diferentes concederá metade dos pontos de Maestria em Armas para cada uma delas.</string>
 	<string key="tip_overworld_combat_weaponMastery02-title">Maestria em Armas</string>
-	<string key="tip_overworld_combat_weaponMastery02-content">As realocações de Maestria em armas são gratuitas até você chegar ao nível 10 da arma em questão. Descubra o que funciona melhor para você.</string>
+	<string key="tip_overworld_combat_weaponMastery02-content">As realocações de Maestria em Armas são gratuitas até você chegar ao nível 10 da arma em questão. Descubra o que funciona melhor para você.</string>
 	<string key="tip_overworld_combat_damageNumbers01-title">Números de Dano</string>
 	<string key="tip_overworld_combat_damageNumbers01-content">Se seus números de dano estiverem azuis, isso indica que o inimigo é resistente ao seu tipo de dano. Experimente usar outra arma para causar mais dano!</string>
 	<string key="tip_overworld_combat_damageNumbers02-title">Números de Dano Intenso e Fraco</string>
@@ -62,7 +62,7 @@
 	<string key="tip_overworld_combat_pvpFlagging02-title">Sinalização PvP</string>
 	<string key="tip_overworld_combat_pvpFlagging02-content">Antes de deixar um Território, lembre-se de verificar se você está sinalizado para PvP!</string>
 	<string key="tip_overworld_combat_npcNameplates01-title">Exibições de nomes de Inimigos</string>
-	<string key="tip_overworld_combat_npcNameplates01-content">Se o inimigo tiver uma caveira sobre a barra de saúde, não ataque! Isso indica um nível e dificuldade muito maior do que o seu. Aeturnum não tem misericórdia.</string>
+	<string key="tip_overworld_combat_npcNameplates01-content">Se o inimigo tiver uma caveira sobre a barra de saúde, não ataque! Isso indica um nível e dificuldade muito maior do que o seu. Não há misericórdia em Aeternum.</string>
 	<string key="tip_overworld_combat_weaponCoatings01-title">Revestimentos de Arma</string>
 	<string key="tip_overworld_combat_weaponCoatings01-content">Os Revestimentos de Arma são buffs poderosos de curto prazo que você pode aplicar a uma arma para ter vantagem contra certo grupo de inimigos, como os Corrompidos ou os Anciões. Os revestimentos também funcionam em armas mágicas e de ataque a distância!</string>
 	<string key="tip_overworld_combat_grit01-title">Afinco</string>
@@ -76,7 +76,7 @@
 	<string key="tip_overworld_combat_spear01-title">A Lança</string>
 	<string key="tip_overworld_combat_spear01-content">As habilidades em zona e o escalonamento baseado em Destreza da Lança fazem dela um bom complemento para armas a distância.</string>
 	<string key="tip_overworld_combat_greatAxe01-title">O Machadão</string>
-	<string key="tip_overworld_combat_greatAxe01-content">O Machadão é excelente para controlar lutas menores, com opções tanto para causar dano a grupos inimigos quanto para afastar poderosos atiradores de seus companheiros.</string>
+	<string key="tip_overworld_combat_greatAxe01-content">O Machadão é excelente para controlar lutas menores, com opções tanto para causar dano a grupos de inimigos quanto para afastar inimigos mais poderosos de seus companheiros.</string>
 	<string key="tip_overworld_combat_warHammer01-title">O Martelo de Guerra</string>
 	<string key="tip_overworld_combat_warHammer01-content">O Martelo de Guerra causa Dano Contundente, que é eficiente contra Anciões e Perdidos.</string>
 	<string key="tip_overworld_combat_bow01-title">O Arco</string>
@@ -94,7 +94,7 @@
 	<string key="tip_overworld_combat_voidGaunlet01-title">A Manopla Imaterial</string>
 	<string key="tip_overworld_combat_voidGaunlet01-content">Os numerosos buffs e debuffs da Manopla Imaterial a tornam muito efetiva no combate em grupo.</string>
 	<string key="tip_overworld_combat_ai01-title">Inimigos em Retirada</string>
-	<string key="tip_overworld_combat_ai01-content">Os inimigos no mundo vão recuar e se tornar temporariamente invulneráveis se forem levados para muito longe ou não puderem alcançá-lo.</string>
+	<string key="tip_overworld_combat_ai01-content">Os inimigos no mundo vão recuar e se tornar temporariamente invulneráveis se forem levados para muito longe ou não puderem alcançar você.</string>
 	<string key="tip_overworld_company_benefits01-title">Companhias</string>
 	<string key="tip_overworld_company_benefits01-content">Entre em uma Companhia e lute ao lado dos seus amigos contra os Corrompidos. Além disso, ataque Territórios de Facções adversárias.</string>
 	<string key="tip_overworld_company_benefits02-title">Companhias</string>
@@ -120,7 +120,7 @@
 	<string key="tip_overworld_crafting_perks01-title">Vantagens de Confecção</string>
 	<string key="tip_overworld_crafting_perks01-content">Se quiser ver todas as vantagens existentes no jogo, vá até um Entreposto Comercial e escolha “Selecionar Vantagens” na aba Consultar.</string>
 	<string key="tip_overworld_crafting_azoth01-title">Confecção</string>
-	<string key="tip_overworld_crafting_azoth01-content">O limite superior do alcance de pontuação do equipamento potencial para um item confeccionado aumenta à medida que sua Habilidade Mercante aumenta, permitindo que você adicione mais Azoth para melhorar sua confecção.</string>
+	<string key="tip_overworld_crafting_azoth01-content">O máximo de pontuação do equipamento para um item confeccionado aumenta à medida que sua Habilidade Mercante aumenta, permitindo que você adicione mais Azoth para melhorar sua confecção.</string>
 	<string key="tip_overworld_darkness_events01-title">Trevas</string>
 	<string key="tip_overworld_darkness_events01-content">[Marcador]</string>
 	<string key="tip_overworld_death_respawning01-title">Juntos Somos Mais Fortes</string>
@@ -144,13 +144,13 @@
 	<string key="tip_overworld_equipment_dyes01-title">Tinturas</string>
 	<string key="tip_overworld_equipment_dyes01-content">Tinturas podem ser aplicadas em diferentes partes de cada item. Lembre-se de experimentar diferentes combinações antes de se comprometer com um esquema de cores.</string>
 	<string key="tip_overworld_equipment_rarity01-title">A Utilidade Determina o Valor</string>
-	<string key="tip_overworld_equipment_rarity01-content">Itens com maior raridade geralmente possuem efeitos especiais ou soquetes de gemas. Lembre-se de pesar todos os benefícios, não apenas a pontuação do equipamento.</string>
+	<string key="tip_overworld_equipment_rarity01-content">Itens com maior raridade geralmente possuem efeitos especiais ou soquetes de gemas. Lembre-se de considerar todos os benefícios, não apenas a pontuação do equipamento.</string>
 	<string key="tip_overworld_equipment_gems01-title">Gemas</string>
 	<string key="tip_overworld_equipment_gems01-content">Quer jogar como tanque? Coloque uma Gema Cornalina num soquete de arma para desbloquear Provocações em algumas habilidades.</string>
 	<string key="tip_overworld_equipment_salvage01-title">Tempos Difíceis, Escolhas Fáceis</string>
 	<string key="tip_overworld_equipment_salvage01-content">Sucatear itens dá a você peças de reparos e às vezes pode reduzir o peso geral. Lembre-se de sucatear as armas e armaduras que não está usando.</string>
 	<string key="tip_overworld_equipment_storage01-title">Totalmente Abastecido</string>
-	<string key="tip_overworld_equipment_storage01-content">Confeccionar em um assentamento pode extrair recursos do inventário ou armazenamento, sem a necessidade de transportar todos esses ingredientes.</string>
+	<string key="tip_overworld_equipment_storage01-content">Confeccionar em um assentamento pode extrair recursos do inventário ou do armazenamento, sem a necessidade de transportar todos esses ingredientes.</string>
 	<string key="tip_overworld_equipment_damage01-title">Dano de Equipamento</string>
 	<string key="tip_overworld_equipment_damage01-content">Itens equipados sofrem dano ao serem usados, mas todos os equipamentos em seu inventário são danificados quando você morre.</string>
 	<string key="tip_overworld_equipment_repairing01-title">Reparo Rápido e Sucatear</string>
@@ -378,7 +378,7 @@
 	<string key="tip_overworld_zone_windsward_eliteStronghold01-title">Guardaventos</string>
 	<string key="tip_overworld_zone_windsward_eliteStronghold01-content">[Marcador]</string>
 	<string key="tip_overworld_zone_monarchsBluff_lore01-title">O Monarca das Falésias</string>
-	<string key="tip_overworld_zone_monarchsBluff_lore01-content">Restam apenas lendas de um aparente “Rei Supremo” que uma vez buscou unificar toda Aeternum sob seu governo.</string>
+	<string key="tip_overworld_zone_monarchsBluff_lore01-content">Restam apenas lendas de um aparente “Grande Rei” que uma vez buscou unificar toda Aeternum sob seu governo.</string>
 	<string key="tip_overworld_zone_monarchsBluff_eliteStronghold01-title">Enseada do Defunto</string>
 	<string key="tip_overworld_zone_monarchsBluff_eliteStronghold01-content">Eletrospíritos torturados vagam pela Enseada do Defunto durante a noite. Tenha muito cuidado, ou visite durante o dia quando o local é mais seguro.</string>
 	<string key="tip_overworld_zone_everfall_lore01-title">Queda Eterna</string>
@@ -490,11 +490,11 @@
 	<string key="tip_dungeon_lazarusInstrumentality_bossTip01-title">Serpente Forte</string>
 	<string key="tip_dungeon_lazarusInstrumentality_bossTip01-content">O buff de Força Anciã de Cilla aumenta muito seu Dano Físico e pode ser eliminado ao atraí-la com poças de arcana.</string>
 	<string key="tip_dungeon_lazarusInstrumentality_lore01-title">Chardis</string>
-	<string key="tip_dungeon_lazarusInstrumentality_lore01-content">Os Anciões não criaram apenas os Guardiões esqueléticos. Por exemplo, os Construtos: autômatos vivos de rocha e pedra, Chardis é o maior exemplo deles.</string>
+	<string key="tip_dungeon_lazarusInstrumentality_lore01-content">Os Anciões criaram outros seres além dos Guardiões esqueléticos. Os Construtos, autômatos vivos de rocha e pedra, são uma dessas outras criações, com Chardis sendo o maior exemplo deles.</string>
 	<string key="tip_dungeon_dynastyShipyard_mechanics01-title">Estaleiro da Dinastia</string>
 	<string key="tip_dungeon_dynastyShipyard_mechanics01-content">[Marcador]</string>
 	<string key="tip_dungeon_dynastyShipyard_bossTip01-title">Encrenca Dupla</string>
-	<string key="tip_dungeon_dynastyShipyard_bossTip01-content">Os tigres da Tempestade, Joven e Oro, aplicam efeitos de status negativos diferentes. Separe-os para impedir que os efeitos sejam aplicados no mesmo alvo.</string>
+	<string key="tip_dungeon_dynastyShipyard_bossTip01-content">Os tigres da Tempestade, Jovén e Oro, aplicam efeitos de status negativos diferentes. Separe-os para impedir que os efeitos sejam aplicados no mesmo alvo.</string>
 	<string key="tip_dungeon_dynastyShipyard_bossTip02-title">Queda de Dragões</string>
 	<string key="tip_dungeon_dynastyShipyard_bossTip02-content">Embora ela sustente que detém a graça dos Dragões, a confiança da Imperatriz na Corrupção desvirtuou seus dragões para um estado irreconhecível.</string>
 	<string key="tip_dungeon_dynastyShipyard_lore01-title">Estaleiro da Dinastia</string>

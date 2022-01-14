@@ -384,14 +384,14 @@
 	<string key="ui_subarmy_decline_tooltip">Prośba o możliwość dołączenia do armii subskrybentów streamera została odrzucona.</string>
 	<string key="ui_subarmy_waiting">Oczekiwanie na decyzję streamera…</string>
 	<string key="ui_subarmy_pending">Oczekiwanie…</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_screen_header">Wyszukiwanie grupy – ekspedycja</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_screen_header">Wyszukiwanie grupy na ekspedycję</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_requiredearscore">Wymagane punkty wyposażenia: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{level}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voippreference">Czat głosowy: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{preference}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_size">Minimalna liczba graczy: &lt;font face="lyshineui/fonts/Nimbus_Semibold.font"&gt;{amount}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_recommendedgearscore">Zalecana liczba pkt wyposażenia: &lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;600 – {score}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_recommendedlevel">Zalecany poziom: &lt;font face="lyshineui/fonts/Nimbus_bold.font"&gt;{level}&lt;/font&gt;</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group">Nie znaleziono grupy dla tego lochu.</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group_at_level">Nie znaleziono grupy dla poziomu trudności ({level}) tego lochu.</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_no_group_at_level">Nie znaleziono grupy dla poziomu trudności {level} tego lochu.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_your_group">Twoja grupa ekspedycyjna</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_difficulty">Poziom trudności: {level}</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_only_accept">Akceptuj tylko</string>
@@ -400,10 +400,10 @@
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_gearscore_short">Pkt wyposaż.</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_header_stats">Statystyki</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_create_group_title">Stwórz nową grupę</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voip_preferred">Preferencje</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voip_not_required">Nie wymagane</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_level">Min. poziom:</string>
-	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_gear_score">Min. pkt wyposażenia:</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voip_preferred">Preferowane</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_voip_not_required">Niewymagane</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_level">Min. poziom</string>
+	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_min_gear_score">Min. pkt wyposażenia</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_accepted_roles_label">Akceptuj tylko</string>
 	<string rel_version="Feature_Group_Finder" key="ui_groupfinder_select_role_label">Wybierz rolę</string>
 </resources>

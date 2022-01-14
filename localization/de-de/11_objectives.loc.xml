@@ -157,9 +157,9 @@
 	<string key="1102_0401_d_02c_Task" speaker="UI">Besiege: {targetName} (Gebiet: {POITags})</string>
 	<string key="1102_0401_d_01a_Task" speaker="UI">Erkunde Orte im Norden, die von den Kriegshunden eingenommen wurden.</string>
 	<string key="1102_0401_d_02a_Task" speaker="UI">Reise nach: {POITags}</string>
-	<string key="1128_0101_Armor1" speaker="UI"/>
-	<string key="1128_0101_Armor2" speaker="UI"/>
-	<string key="1128_0101_Armor3" speaker="UI"/>
+	<string key="1128_0101_Armor1" speaker="UI">Finde Leratos Familienhelm in Kisten in Zeremonie.</string>
+	<string key="1128_0101_Armor2" speaker="UI">Beschaffe Leratos Familienbrustplatte von den Verderbten in Zeremonie.</string>
+	<string key="1128_0101_Armor3" speaker="UI">Beschaffe Leratos Familienschwert von den Verderbten in Zeremonie.</string>
 	<string key="1125_0101_GatherBook" speaker="UI">Finde Kapitän McKeys Liederbuch</string>
 	<string key="1125_0101_GatherHurdy" speaker="UI">Beschaffe Kapitän McKeys Drehleier von den Geistern in der Schmugglerhöhle</string>
 	<string key="1124_TravelTo_Site1" speaker="UI">Reise zum ersten Ort in Pierres Reiseführer</string>
@@ -201,7 +201,7 @@
 	<string key="1126_0101_StoneColdSecrets_Incomplete" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0101_StoneColdSecrets_Incomplete" VO_Status="Needs Recording">Machst du eine Pause? Hast du gerade etwas Zeit? \n\nSag Bescheid, wenn du herausgefunden fast, welche Geheimnisse sich in diesen Monumenten verbergen.</string>
 	<string key="1126_0101_StoneColdSecrets_Complete_Available_Response" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0101_StoneColdSecrets_Complete_Available_Response" VO_Status="Needs Recording">Schau dir das mal an, Pierre! Die Rückkehr unserer Muse! \n\nUnd zwar mit einem zufriedenen Grinsen. \n\nSag schnell, was du entdeckt hast!</string>
 	<string key="1126_0103_TravelTo_Site1" speaker="UI">Suche beim Seelenschrein hoch im Norden nach Pierre.</string>
-	<string key="1126_KillQuest_Sunadire" speaker="UI"/>
+	<string key="1126_KillQuest_Sunadire" speaker="UI">Besiege Sunadire-Ahnen, die die Stätte verteidigen.</string>
 	<string key="1126_StoneColdSecrets" speaker="UI">Suche an drei Orten nach Artefakten der Ahnen.</string>
 	<string key="1126_0103_TravelTo_Site2" speaker="UI">Suche am Ort {POITags} nach Pierre.</string>
 	<string key="1126_0103_FindEvidence1" speaker="UI">Finde Hinweise dafür, dass Pierre hier vorbeigekommen ist.</string>
@@ -231,7 +231,7 @@
 	<string key="1126_0102_TheLastMystery_start_Prompt" speaker="UI - Player Prompt">"Was ist das?"</string>
 	<string key="1126_0102_TheLastMystery_Proposal" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0102_TheLastMystery_Proposal" VO_Status="Needs Recording" dialogue-next="@1126_0102_TheLastMystery_Proposal_next">Sie passen zusammen und bilden ein größeres Artefakt. \n\nDarauf sind Markierungen, die zu einigen Orten der Ahnen passen, die ich damals als Abenteurer besucht habe.</string>
 	<string key="1126_0102_TheLastMystery_proposal_Prompt" speaker="UI - Player Prompt">"Meinst du, es könnte ein Schlüssel sein?"</string>
-	<string key="1126_0102_TheLastMystery_Proposal_next" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0102_TheLastMystery_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1126_0102_TheLastMystery_proposal_Prompt"> \n\nKönntest du diese Theorie überprüfen? Selbst wenn wir falschliegen, wird das eine tolle Geschichte abgeben!</string>
+	<string key="1126_0102_TheLastMystery_Proposal_next" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0102_TheLastMystery_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1126_0102_TheLastMystery_proposal_Prompt">Aye, du könntest recht haben! \n\nKönntest du diese Theorie überprüfen? Selbst wenn wir falschliegen, wird das eine tolle Geschichte abgeben!</string>
 	<string key="1126_0102_TheLastMystery_Incomplete" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0102_TheLastMystery_Incomplete" VO_Status="Needs Recording">Hast du das Artefakt schon ausprobiert? Ich bin sicher, dass all das etwas zu bedeuten hat. \n\nWelche Geheimnisse liegen dort wohl verborgen?</string>
 	<string key="1126_0102_TheLastMystery_Complete_Available_Response" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0102_TheLastMystery_Complete_Available_Response" VO_Status="Needs Recording" dialogue-next="@1126_0102_TheLastMystery_Complete_Available_Response_next">Schau, Pierre! Unsere Muse ist wieder da! \n\nSag uns, war es ein Schlüssel? Welche Geheimnisse hat er geöffnet?</string>
 	<string key="1126_0102_TheLastMystery_Complete_Available_Response_Prompt" speaker="UI - Player Prompt">"Er hat die Wächter erweckt!"</string>
@@ -244,13 +244,13 @@
 	<string key="1126_0103_AmateurAdventurer_Complete_Available_Response" speaker="Pierre2" name="PierreAuguste" VO="1126_0103_AmateurAdventurer_Complete_Available_Response" VO_Status="Needs Recording">Oh, den Himmeln sei Dank, du bist es! \n\nIch stecke hier seit Tagen fest! C’est la galère!</string>
 	<string key="1126_KillQuest_1" speaker="UI">Besiege den Kriegshund-Verderbten.</string>
 	<string key="1125_0101_SongoftheSea_Title" speaker="UI  - Quest Title">Lied der See</string>
-	<string key="1125_0101_SongoftheSea_Description" speaker="UI - Quest Description"/>
+	<string key="1125_0101_SongoftheSea_Description" speaker="UI - Quest Description">Finde das verlorene Liederbuch und die Drehleier des Kapitäns.</string>
 	<string key="1125_0101_SongoftheSea_start_Prompt" speaker="UI - Player Prompt">"Wenn es hier wieder um Geld geht …"</string>
-	<string key="1125_0101_SongoftheSea_Proposal" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Proposal" VO_Status="Needs Recording" dialogue-next="@1125_0101_SongoftheSea_Proposal_next">Absolut nicht. Das ist eine tragische Geschichte. \n\nDu musst wissen, Musik ist meine Seele. Doch meine Mannschaft wusste meine Lieder nie zu schätzen. Sie gaben mir die Schuld daran, dass wir auf diesem Felsen gestrandet sind. </string>
+	<string key="1125_0101_SongoftheSea_Proposal" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Proposal" VO_Status="Needs Recording" dialogue-next="@1125_0101_SongoftheSea_Proposal_next">Absolut nicht. Das ist eine tragische Geschichte. \n\nDu musst wissen, Musik ist meine Seele. Doch meine Mannschaft wusste meine Lieder nie zu schätzen. Sie gaben mir die Schuld daran, dass wir auf diesem Felsen gestrandet sind. \n\nDeshalb haben sie meine Drehleier geklaut und mich rausgeworfen!</string>
 	<string key="1125_0101_SongoftheSea_proposal_Prompt" speaker="UI - Player Prompt">"Sehr tragisch!"</string>
-	<string key="1125_0101_SongoftheSea_Proposal_next" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1125_0101_SongoftheSea_proposal_Prompt">Für die auf jeden Fall. Das Pack ist zu Verlorenen geworden, aber ich bin noch hier und heil. \n\nMeine Musik hat mich gerettet. Wir gehören einfach zusammen wie das Salz und das Meer. </string>
+	<string key="1125_0101_SongoftheSea_Proposal_next" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1125_0101_SongoftheSea_proposal_Prompt">Für die auf jeden Fall. Das Pack ist zu Verlorenen geworden, aber ich bin noch hier und heil. \n\nMeine Musik hat mich gerettet. Wir gehören einfach zusammen wie das Salz und das Meer. \n\nAber ohne meine Drehleier und mein Liederbuch kann ich mich nicht an die Melodien erinnern …</string>
 	<string key="1125_0101_SongoftheSea_Incomplete" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Incomplete" VO_Status="Needs Recording">In letzter Zeit bin ich einfach nicht mehr ich selbst. \n\nDie Musik ist das Einzige, an dem ich mich festhalten kann. \n\nOhne sie werde ich wahrscheinlich verschwinden wie die anderen.</string>
-	<string key="1125_0101_SongoftheSea_Complete_Available_Response" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Complete_Available_Response" VO_Status="Needs Recording">Tanzende Delfine!  Du hast sie gefunden! \n\nUnd meine Lieder auch! \n\nIch weiß nicht, wie ich das wiedergutmachen kann.</string>
+	<string key="1125_0101_SongoftheSea_Complete_Available_Response" speaker="Captain McKeys - Mourningdale" name="CaptainMcKeys" VO="1125_0101_SongoftheSea_Complete_Available_Response" VO_Status="Needs Recording">Tanzende Delfine! Meine Drehleier! Du hast sie gefunden! \n\nUnd meine Lieder auch! \n\nIch weiß nicht, wie ich das wiedergutmachen kann.</string>
 	<string key="1128_0101_VillageChampion_Title" speaker="UI  - Quest Title">Verteidiger des Dorfes</string>
 	<string key="1128_0101_VillageChampion_Description" speaker="UI - Quest Description">Beschaffe Leratos Erbstücke (die Rüstung und das Schwert) von den Verderbten in Zeremonie und bringe sie zu ihr an der Kreuzung zurück.</string>
 	<string key="1128_0101_VillageChampion_start_Prompt" speaker="UI - Player Prompt">"Verderbte?"</string>
@@ -261,7 +261,7 @@
 	<string key="1128_0101_VillageChampion_Complete_Available_Response" speaker="Leilani - Mourningdale" name="Leilani" VO="1128_0101_VillageChampion_Complete_Available_Response" VO_Status="Needs Recording">Du bist zurück! \n\nUnd du hast die Rüstung meines Vaters dabei, die erkenne ich überall wieder! \n\nDu hast mir und meinem Vater einen großen Dienst erwiesen.</string>
 	<string key="1126_0102_travelto_site" speaker="UI">Begib dich in die Stadt Zeremonie.</string>
 	<string key="1127_0101_MalignDominion_Title" speaker="UI  - Quest Title">Bösartige Herrschaft</string>
-	<string key="1127_0101_MalignDominion_Description" speaker="UI - Quest Description">Finde und zerstöre bösartige Knoten an jedem der drei verderbten Wegpunkte auf der Straße. Kehre anschließend zu Harunobu bei der Kreuzung zurück. </string>
+	<string key="1127_0101_MalignDominion_Description" speaker="UI - Quest Description">Finde und zerstöre bösartige Knoten an jedem der drei verderbten Wegpunkte auf der Straße. Kehre anschließend zu Harunobu bei der Kreuzung zurück. Einige dieser Knoten befinden sich außerhalb deiner Reichweite, du solltest eine Fernkampfwaffe mitnehmen.</string>
 	<string key="1127_0101_MalignDominion_start_Prompt" speaker="UI - Player Prompt">"Bereiten die sich auf eine Invasion vor?"</string>
 	<string key="1127_0101_MalignDominion_Proposal" speaker="Harunobu - Mourningdale" name="HiraiHarunobu" VO="1127_0101_MalignDominion_Proposal" VO_Status="Needs Recording" dialogue-next="@1127_0101_MalignDominion_Proposal_next">Das müssen sie! \n\nIch bin vielleicht nur ein Schweinezüchter aus Hibbotsfeld, aber ich bin ja nicht blind! \n\nDie haben die Nordstraße gesperrt wie eine verderbte Wachtruppe!</string>
 	<string key="1127_0101_MalignDominion_proposal_Prompt" speaker="UI - Player Prompt">"Welchen niederträchtigen Plan verfolgen sie?"</string>
@@ -319,7 +319,7 @@
 	<string key="1110_0101_GreetTheNewcomers_Title" speaker="UI  - Quest Title">Willkommen in Klagental</string>
 	<string key="1110_0101_GreetTheNewcomers_Description" speaker="UI - Quest Description">Finde Harunobu, der sich vor Kurzem in Hibbotsfeld aufhielt.</string>
 	<string key="1110_0101_GreetTheNewcomers_start_Prompt" speaker="UI - Player Prompt">"Die Probleme mit der Verderbnis oben im Norden sind echt schlimm!"</string>
-	<string key="1110_0101_GreetTheNewcomers_Proposal" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Proposal" VO_Status="Needs Recording" dialogue-next="@1110_0101_GreetTheNewcomers_Proposal_next"/>
+	<string key="1110_0101_GreetTheNewcomers_Proposal" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Proposal" VO_Status="Needs Recording" dialogue-next="@1110_0101_GreetTheNewcomers_Proposal_next">Habe ich auch gehört. \n\nImmer mehr Leute kommen hier an, die ihre Lebensgrundlage verloren haben. \n\nManche sogar noch mehr als das!</string>
 	<string key="1110_0101_GreetTheNewcomers_proposal_Prompt" speaker="UI - Player Prompt">"Noch mehr?"</string>
 	<string key="1110_0101_GreetTheNewcomers_Proposal_next" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1110_0101_GreetTheNewcomers_proposal_Prompt">Beschäftigen wir uns lieber mit etwas anderem.\n\nWie wär‘s, warum begrüßt du nicht ein paar von ihnen und heißt sie in ihrem neuen Zuhause willkommen?</string>
 	<string key="1110_0101_GreetTheNewcomers_Incomplete" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Incomplete" VO_Status="Needs Recording">Hast du schon bei den Neuankömmlingen vorbeigeschaut?\n\nSie sollen sich doch wohlfühlen nach allem, was sie durchgemacht haben.\n\nZeigen wir ihnen, wie gastfreundlich wir hier in Klagental sind, ja?</string>
@@ -348,166 +348,6 @@
 	<string key="1124_PierreGoHome_Incomplete" speaker="Pierre - Mourningdale" name="PierreAuguste" VO="1124_PierreGoHome_Incomplete" VO_Status="Needs Recording">Ich habe nur meine Schnürsenkel nachgezogen und meine Taschen kontrolliert. \n\nIch bin bald aufbruchsbereit. \n\nWas wird Leilani nur denken, wenn wir zurückkommen und ihr unsere Geschichte erzählen?</string>
 	<string key="1124_PierreGoHome_Complete_Available_Response" speaker="Pierre - Mourningdale" name="PierreAuguste" VO="1124_PierreGoHome_Complete_Available_Response" VO_Status="Needs Recording">Sehr schön! Du hast es zurückgeschafft! \n\nIch dachte schon, du wärst schneller gewesen als ich, aber hier stehen wir also! \n\nDiese bläulichen Schreine machen das Reisen wirklich angenehm, nicht wahr?</string>
 	<string key="1124_PierreGoHome" speaker="UI">Bringe Pierre schleunigst nach Hause zur Klagental-Siedlung.</string>
-	<string key="1130_01_TravelTo_Site1" speaker="UI">Finde den ersten Teil von Kubikiris Memoiren.</string>
-	<string key="1130_01_TravelTo_Site2" speaker="UI">Finde den zweiten Teil von Kubikiris Memoiren.</string>
-	<string key="1130_01_TravelTo_Site3" speaker="UI">Finde den dritten Teil von Kubikiris Memoiren.</string>
-	<string key="1130_01_TravelTo_Site4" speaker="UI">Finde den vierten Teil von Kubikiris Memoiren.</string>
-	<string key="1130_Stirs_TravelTo_Site" speaker="UI">Finde den erwachten Halsabschneider entlang der Straßen im Süden von Klagental.</string>
-	<string key="1130_DefeatGorm" speaker="UI">Bette den erwachten Halsabschneider zur letzten Ruhe.</string>
-	<string key="1130_02_interact_nodes1" speaker="UI">Zerstöre das arkane Zentrum.</string>
-	<string key="1130_02_interact_nodes2" speaker="UI">Zerstöre das arkane Zentrum.</string>
-	<string key="1130_02_interact_nodes3" speaker="UI">Zerstöre das arkane Zentrum.</string>
-	<string key="1130_02_interact_nodes4" speaker="UI">Zerstöre das arkane Zentrum.</string>
-	<string key="1130_01_return" speaker="UI">Kehre mit den Übersetzungen zu Toshi Harada zurück.</string>
-	<string key="1130_thebridge_travelto_site" speaker="UI">Sprich mit Toshi Harada über die Axt und die Geister.</string>
-	<string key="1130_01_EdgeOfTheWorld_Title" speaker="UI  - Quest Title">Am Ende der Welt</string>
-	<string key="1130_01_EdgeOfTheWorld_Description" speaker="UI - Quest Description">Finde die Briefe, die Kubikiri bei den Schreinen zurückgelassen hat, die man überall in den Gebieten findet. Es handelt sich um in Runenschrift verfasste Geschichten von Kubikiri, in denen der Ort genannt wird, an dem sich die legendäre Axt befindet.</string>
-	<string key="1130_01_EdgeOfTheWorld_start_Prompt" speaker="UI - Player Prompt">"Es gehört {playerName} und dir?"</string>
-	<string key="1130_01_EdgeOfTheWorld_Proposal" speaker="Toshi1 - Windsward" name="ToshiHarada" VO_Status="Needs Recording" dialogue-next="@1130_01_EdgeOfTheWorld_Proposal_next">Toshi, Mitglied der Familie Harada.\nIch suche einen meisterhaften Axtkämpfer, der keine Angst vor Geistern oder Legenden hat.\n\nHast du schon mal die Geschichte von der Streitaxt Sensou no Ko gehört?</string>
-	<string key="1130_01_EdgeOfTheWorld_proposal_Prompt" speaker="UI - Player Prompt">"Nein, noch nicht. Aber mich ängstigt man nicht schnell."</string>
-	<string key="1130_01_EdgeOfTheWorld_Proposal_next" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording" dialogue-next="@1130_01_EdgeOfTheWorld_Proposal_next2" dialogue-prompt="@1130_01_EdgeOfTheWorld_proposal_Prompt">Dann bist du entweder sehr mutig\noder sehr leichtsinnig.\n\nSensou no Ko ist eine legendäre Axt, die von einem berüchtigten Henker geschwungen wurde. Wer es wagt, sie aufzunehmen, muss sich einer harten Prüfung stellen. Wer zu schwach ist, muss sterben.</string>
-	<string key="1130_01_EdgeOfTheWorld_proposal_Prompt2" speaker="UI - Player Prompt">"Warum sollte man so etwas besitzen wollen?"</string>
-	<string key="1130_01_EdgeOfTheWorld_Proposal_next2" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording" dialogue-prompt="@1130_01_EdgeOfTheWorld_proposal_Prompt2">Sensou no Ko ist ein Meisterwerk.\n\nNie hat eine herrlichere Axt die Hälse von Verurteilten durchtrennt.\n\nKumikiri der Henker hat sie nach Aeternum gebracht.\nGlücklicherweise ist dieser mörderische Lump verschwunden.\nAber ich glaube, er hat uns Hinweise hinterlassen. Ich habe Notizen bei Schreinen auf der Insel gesehen und glaube, sie stammen von ihm.</string>
-	<string key="1130_01_EdgeOfTheWorld_Incomplete" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording">Hast du Kubikiris Schreine gefunden?\n\nNoch nicht mal ich kenne den Standort von allen.</string>
-	<string key="1130_01_EdgeOfTheWorld_Complete_Available_Response" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording">Oh.\nDas hatte ich nicht erwartet. Kubikiris Memoiren verraten uns nichts über den Ort, an dem die Axt liegt, herrje.\n\nSie beschreiben einen Fluch!\n\nWer es wagt, das Kind des Krieges aufzuheben, soll zu einem Leben voll Streit und Kampf verdammt sein. Die Axt soll auf ewig verloren bleiben!</string>
-	<string key="1130_02_CallBeyondTheVoid_Title" speaker="UI  - Quest Title">Ruf aus der Leere</string>
-	<string key="1130_02_CallBeyondTheVoid_Description" speaker="UI - Quest Description">Besiege Lee Da-Jae und Dong-Geun und unterbrich anschließend ihr profanes Beschwörungsritual, indem du die vier arkanen Zentren vernichtest.</string>
-	<string key="1130_02_CallBeyondTheVoid_start_Prompt" speaker="UI - Player Prompt">"Immer mit der Ruhe. Was geht hier vor sich?"</string>
-	<string key="1130_02_CallBeyondTheVoid_Proposal" speaker="Toshi1 - Windsward" name="ToshiHarada" VO_Status="Needs Recording" dialogue-next="@1130_02_CallBeyondTheVoid_Proposal_next">Eine Hexe hat herausgefunden, dass Sensou no Ko nach Aeternum gekommen ist. Sie hat einen axtschwingenden Söldner angeheuert.\n\nSie wollen den Geist von Kubikiri dem Henker anrufen und herausfinden, wo sich die verfluchte Axt befindet!</string>
-	<string key="1130_02_CallBeyondTheVoid_proposal_Prompt" speaker="UI - Player Prompt">"Was ist mit den Kami? Was ist mit dem Fluch?"</string>
-	<string key="1130_02_CallBeyondTheVoid_Proposal_next" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording" dialogue-prompt="@1130_02_CallBeyondTheVoid_proposal_Prompt">Entweder hat sie keine Ahnung oder es ist ihr egal.\nVielleicht nimmt sie den Söldner als Opfer für ihn her.\nDer arme Trottel.\n\nAber egal, so oder so müssen wir sie aufhalten.</string>
-	<string key="1130_02_CallBeyondTheVoid_Incomplete" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording">Hast du nicht gehört!?\n\nDie Hexe und ihr Handlanger versuchen gerade, den Geist dieses mörderischen Henkers zu beschwören!\nSie dürfen ihre bösartige Zeremonie nicht vollenden!</string>
-	<string key="1130_02_CallBeyondTheVoid_Complete_Available_Response" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording">Wenn die verfluchte Hexe wiederaufersteht, wird sie nicht zögern, es erneut zu versuchen.\n\nDa nun bekannt ist, an welchem Ort die Axt liegt, müssen wir wachsam bleiben.\n\nDanke für alles, was du getan hast.</string>
-	<string key="1130_StopTheRitual" speaker="UI">Unterbrich das Beschwörungsritual.</string>
-	<string key="1130_FindTheSummoner" speaker="UI">Finde die Ritualstätte.</string>
-	<string key="1130_DefeatSummoning" speaker="UI">Besiege Lee Da-Jae und ihren Söldner Dong-Geun.</string>
-	<string key="1130_DefeatMerc" speaker="UI">Besiege den Söldner Dong-Geun.</string>
-	<string key="1130_DefeatLee" speaker="UI">Besiege die Beschwörerin Lee Da-Jae.</string>
-	<string key="1130_ReturnTheAxe" speaker="UI">Beschaffe dir die Verfluchte Axt vom erwachten Halsabschneider.</string>
-	<string key="1130_interact_focus1" speaker="UI">Zerstöre die arkanen Zentren.</string>
-	<string key="1130_interact_focus2" speaker="UI">Zerstöre das arkane Zentrum im Südwesten.</string>
-	<string key="1130_interact_focus3" speaker="UI">Zerstöre das arkane Zentrum im Nordwesten.</string>
-	<string key="1130_interact_focus4" speaker="UI">Zerstöre das arkane Zentrum im Nordosten.</string>
-	<string key="1130_03_StirsTheWatchful_Title" speaker="UI - Quest Title">Aufregung unter den Erwachten</string>
-	<string key="1130_03_StirsTheWatchful_Description" speaker="UI - Quest Description">Vernichte den verderbten Axtkämpfer, den Erwachten Halsabschneider.</string>
-	<string key="1130_03_StirsTheWatchful_start_Prompt" speaker="UI - Player Prompt">"Was für einen Gefallen?"</string>
-	<string key="1130_03_StirsTheWatchful_Proposal" speaker="Toshi - Windsward" name="ToshiHarada" VO_Status="Needs Recording" dialogue-next="@1130_03_StirsTheWatchful_Proposal_next">Ich habe die Axt Sensou no Ko gesehen, allerdings nicht in den Händen dieses furchtbaren Kumikiri oder des Lakaien der Beschwörerin!\n\nJemand anders hat die Axt aufgehoben und ist zweifellos dem Einfluss der Kami erlegen.</string>
-	<string key="1130_03_StirsTheWatchful_proposal_Prompt" speaker="UI - Player Prompt">"Dann werde ich tun, was getan werden muss."</string>
-	<string key="1130_03_StirsTheWatchful_Proposal_next" speaker="Toshi - Windsward" name="ToshiHarada" VO_Status="Needs Recording" dialogue-prompt="@1130_03_StirsTheWatchful_proposal_Prompt">Sehr gut.\n\nIch wusste, dass ich dir trauen kann. Wer auch immer Sensou no Ko bei sich trägt, treibt entlang der Straßen im Süden von Klagental als Verderbter sein Unwesen.\n\nDas ist vielleicht unsere größte Chance, die Axt an uns zu bringen und sie von ihrem üblen Einfluss zu befreien.\n\nKomm zu mir ins Dörfchen Klagental, wenn du Sensou no Ko erlangt hast.</string>
-	<string key="1130_03_StirsTheWatchful_Incomplete" speaker="Toshi - Windsward" name="ToshiHarada" VO_Status="Needs Recording">Das ist unsere größte Chance, Sensou no Ko zu erhalten!\n\nBitte, {playerName}, bereite diesem verderbten Axtschwinger ein Ende und bring die Axt an dich!</string>
-	<string key="1130_03_StirsTheWatchful_Complete_Available_Response" speaker="Toshi - Windsward" name="ToshiHarada" VO_Status="Needs Recording">Danke für alles, was du getan hast.\n\nVielleicht kann ich jetzt herausfinden, was wir tun müssen, um den Geist in der Axt endlich zur ewigen Ruhe zu betten.</string>
-	<string key="1130_04_TheBridge_Title" speaker="UI - Quest Title">Die verfluchte Klinge</string>
-	<string key="1130_04_TheBridge_Wave1" speaker="UI - Quest Title">Der Beginn der Säuberung</string>
-	<string key="1130_04_TheBridge_Description" speaker="UI - Quest Description">Finde die verfluchte Axt Sensou no Ko in der Ritualstätte.</string>
-	<string key="1130_04_TheBridge_start_Prompt" speaker="UI - Player Prompt">"Also ist die Zeit gekommen?"</string>
-	<string key="1130_04_TheBridge_Proposal" speaker="Toshi2 - Mourningdale" name="ToshiHarada" VO_Status="Needs Recording">Das ist sie, {playerName}.\nLange habe ich geforscht und endlich glaube ich, einen Weg gefunden zu haben, wie du die Kami in der Axt läutern kannst.\n\nIch habe einen Ort in Edenhain entdeckt, an dem der Schleier besonders dünn ist und wo die Geister in der Axt besonders anfällig sein werden.\n\nGehe dorthin und läutere die Axt.</string>
-	<string key="1130_04_TheBridge_Incomplete" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording">Hast du es vollbracht? Weilt die verfluchte Klinge noch immer in unserer Welt?</string>
-	<string key="1130_04_TheBridge_Complete_Available_Response" speaker="SensonoKo - Edengrove" name="SensounoKo" VO_Status="Needs Recording">Narr!\nDu bist nicht stark genug, um dich meinem Willen zu widersetzen!\n\nSchon bald bist du meine Fleischpuppe und ich werde mich wieder am strömenden Blut laben!</string>
-	<string key="1130_04_Enc_Stage_02_Intermission" speaker="UI">Unterbrechung</string>
-	<string key="1130_04_Enc_Stage_03" speaker="UI">Besiege den Henker.</string>
-	<string key="1130_goto_toshi" speaker="UI">Kehre zu Toshi nach Klagental zurück.</string>
-	<string key="1130_goto_bridge" speaker="UI">Mache dich auf den Weg zur Ritualstätte.</string>
-	<string key="1130_04_traveltask" speaker="UI">Zerstöre ein arkanes Zentrum.</string>
-	<string key="1130_05_Option" speaker="UI">(Optional) Beginne das Läuterungsritual.</string>
-	<string key="1130_05_ReleasedSpirits" speaker="UI">Besiege die befreiten Geister.</string>
-	<string key="1130_05_ReturnAxe" speaker="UI">Besiege Kubikiris Geist, um die geläuterte Sensou no Ko zurückzuerlangen.</string>
-	<string key="1130_05_SensounoKo_Title" speaker="UI - Quest Title">Sensou no Ko</string>
-	<string key="1130_05_SensounoKo_Description" speaker="UI - Quest Description">Läutere die verfluchte Axt von den darin gefesselten Geistern und den Kami, die von ihrer Lebenskraft zehren.</string>
-	<string key="1130_05_SensounoKo_start_Prompt" speaker="UI - Player Prompt">"Streng dich an, Dämon! Ich werde deine Gefangenen befreien!"</string>
-	<string key="1130_05_SensounoKo_Proposal" speaker="SensonoKo - Edengrove" name="SensounoKo" VO_Status="Needs Recording">Schluss mit dem Geseiere!\n\nDeine Seele gehört mir!</string>
-	<string key="1130_05_SensounoKo_Incomplete" speaker="Tormented Spirits" name="TormentedSpirits" VO_Status="Needs Recording">Hilf uns! Rette uns!\n\nDer Dämon foltert uns!\n\nDu musst ihn vernichten!</string>
-	<string key="1130_05_SensounoKo_Complete_Available_Response" speaker="Toshi2 - Mourningdale" name="ToshiHarada" VO_Status="Needs Recording">Dass du gegen Kubikiris Geist und die Kami in der Axt angetreten bist, beweist deine Tapferkeit.\n\nTrage die Waffe mit Stolz. Sie soll deinen Heldenmut bezeugen.</string>
-	<string key="1133_01_SnakeOil_Title" speaker="UI  - Quest Title"/>
-	<string key="1133_01_SnakeOil_Description" speaker="UI - Quest Description">Reise nach Norden und suche Megnolia Gingham und Sidney Nickles bei ihrem Zuhause in Klagental.</string>
-	<string key="1133_01_SnakeOil_start_Prompt" speaker="UI - Player Prompt">"Es gehört {playerName} und dir?"</string>
-	<string key="1133_01_SnakeOil_Proposal" speaker="StonefirthCoy - Mourningdale" name="StonefirthCoy" VO_Status="Needs Recording" dialogue-next="@1133_01_SnakeOil_Proposal_next">Ich bin Stonefirth Coy! Sag bloß, du hast noch nie von mir gehört? Du musst neu hier sein.\n\nDann sperr mal die Lauscher auf! Ich habe einen Vorschlag für dich.</string>
-	<string key="1133_01_SnakeOil_proposal_Prompt" speaker="UI - Player Prompt">"Was für ein Vorschlag?"</string>
-	<string key="1133_01_SnakeOil_Proposal_next" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording" dialogue-next="@1133_01_SnakeOil_Proposal_next2" dialogue-prompt="@1133_01_SnakeOil_proposal_Prompt">  Sie kennen den alten Stonefirth schon sehr lange.</string>
-	<string key="1133_01_SnakeOil_proposal_Prompt2" speaker="UI - Player Prompt">"Ich werde es ihnen ausrichten."</string>
-	<string key="1133_01_SnakeOil_Proposal_next2" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording" dialogue-prompt="@1133_01_SnakeOil_proposal_Prompt2">Dann spute dich besser.\n\nIch glaube, von Norden her zieht ein Sturm auf!</string>
-	<string key="1133_SnakeOil1" speaker="UI"/>
-	<string key="1133_01_SnakeOil_Incomplete" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording">Beeile dich bitte, {playerName}.\n\nWir wollen die zwei Damen doch nicht warten lassen.</string>
-	<string key="1133_01_SnakeOil_Complete_Available_Response" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording">Stonefirth Coy?\nOh, ich bin mir da nicht so sicher. Sollte ich?\n\nHier ist es grauenvoll …</string>
-	<string key="1132_01_ClaimJumper_Title" speaker="UI - Quest Title"/>
-	<string key="1132_01_ClaimJumper_Description" speaker="UI - Quest Description"/>
-	<string key="1132_01_ClaimJumper_start_Prompt" speaker="UI - Player Prompt">"Soll ich mich etwas umsehen?"</string>
-	<string key="1132_01_ClaimJumper_Proposal" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording"/>
-	<string key="1132_01_ClaimJumper_Incomplete" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording"/>
-	<string key="1132_01_ClaimJumper_Complete_Available_Response" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Zeig mal die Flugblätter her.\nBitte was? Der Arsch hat die Monster angeheuert?!\nIch hatte doch recht! </string>
-	<string key="1132_02_DiamondbackHustler_Title" speaker="UI - Quest Title">Diamantgauner</string>
-	<string key="1132_02_DiamondbackHustler_Description" speaker="UI - Quest Description"/>
-	<string key="1132_02_DiamondbackHustler_start_Prompt" speaker="UI - Player Prompt">"Das ist also Digbys Gang?"</string>
-	<string key="1132_02_DiamondbackHustler_Proposal" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_02_DiamondbackHustler_Proposal_next">Steht jedenfalls auf den Fetzen, die du von Megs Hof mitgebracht hast.</string>
-	<string key="1132_02_DiamondbackHustler_proposal_Prompt" speaker="UI - Player Prompt">"Was meinst du, was die wollen?"</string>
-	<string key="1132_02_DiamondbackHustler_Proposal_next" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_02_DiamondbackHustler_Proposal_next2" dialogue-prompt="@1132_02_DiamondbackHustler_proposal_Prompt">Ich habe da so einen Verdacht, aber kann es nicht beweisen.\nIch verstehe überhaupt nicht, was Digby auf Megs Land will.</string>
-	<string key="1133_gotoblunder" speaker="UI"/>
-	<string key="1132_02_DiamondbackHustler_proposal_Prompt2" speaker="UI - Player Prompt">"Mal sehen, was ich herausfinden kann."</string>
-	<string key="1132_02_DiamondbackHustler_Proposal_next2" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-prompt="@1132_02_DiamondbackHustler_proposal_Prompt2"/>
-	<string key="1132_02_DiamondbackHustler_Incomplete" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording"/>
-	<string key="1132_02_DiamondbackHustler_Complete_Available_Response" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Willst du etwa sagen, dass sie nur Söldner für Stonefirth Coy sind?!\nDas müssen wir Meg sagen. Sie könnte in Gefahr schweben!</string>
-	<string key="1132_01_Digby" speaker="UI"/>
-	<string key="1132_02_Digby" speaker="UI"/>
-	<string key="1132_03_Digby" speaker="UI"/>
-	<string key="1132_04_Digby" speaker="UI"/>
-	<string key="1132_05_Digby" speaker="UI"/>
-	<string key="1132_06_Digby" speaker="UI"/>
-	<string key="1132_xx_Digby" speaker="UI"/>
-	<string key="1132_Grampa1" speaker="UI"/>
-	<string key="1132_Grampa2" speaker="UI"/>
-	<string key="1132_Grampa3" speaker="UI"/>
-	<string key="1132_Grampa4" speaker="UI"/>
-	<string key="1132_GrampaMeta" speaker="UI"/>
-	<string key="1132_GrampaMeta2" speaker="UI"/>
-	<string key="1132_03_RoomEnough_Title" speaker="UI - Quest Title">Genug Platz für uns beide</string>
-	<string key="1132_03_RoomEnough_Description" speaker="UI - Quest Description"/>
-	<string key="1132_03_RoomEnough_start_Prompt" speaker="UI - Player Prompt">"Ich sorge dafür, dass er die Nachricht versteht."</string>
-	<string key="1132_03_RoomEnough_Proposal" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_03_RoomEnough_Proposal_next">Oh, das will ich auch hoffen. Wenn ich es ihm sagen müsste, würde ich meine Donnerbüchse sprechen lassen, damit jeder weiß, wer ihn erledigt hat.</string>
-	<string key="1132_03_RoomEnough_proposal_Prompt" speaker="UI - Player Prompt">"Muss es eine Donnerbüchse sein?"</string>
-	<string key="1132_03_RoomEnough_Proposal_next" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_03_RoomEnough_Proposal_next2" dialogue-prompt="@1132_03_RoomEnough_proposal_Prompt">Die Donnerbüchse ist das Markenzeichen der Gingham-Familie.\nIst in jedem Heim eine Hilfe!</string>
-	<string key="1132_03_RoomEnough_proposal_Prompt2" speaker="UI - Player Prompt">"Ich sorge dafür, dass er die Nachricht versteht."</string>
-	<string key="1132_03_RoomEnough_Proposal_next2" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-prompt="@1132_03_RoomEnough_proposal_Prompt2">Wie gerne hätte ich das Gesicht dieser Ratte gesehen!\nAber ich muss mich hier darum kümmern, wie es jetzt für Meg und mich weitergehen soll.</string>
-	<string key="1132_03_RoomEnough_Incomplete" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Du musst Stonefirth sagen, dass wir ihm auf der Spur sind!\nMegnolia muss von seinem Anwesen verschwinden!</string>
-	<string key="1132_Shootout" speaker="UI"/>
-	<string key="1132_Shootout_Option" speaker="UI"/>
-	<string key="1132_Shootout_Waves" speaker="UI"/>
-	<string key="1132_Shootout_Waves2" speaker="UI"/>
-	<string key="1132_Shootout_Sub" speaker="UI"/>
-	<string key="1132_Shootout_Sub2" speaker="UI"/>
-	<string key="1132_TalkToMeg2" speaker="UI"/>
-	<string key="1132_TalkToMeg1" speaker="UI"/>
-	<string key="1132_03_RoomEnough_Complete_Available_Response" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording">Du bist unverschämt!\nStürmst hier einfach so rein und schießt auf mich!\nWie kannst du es wagen, meine Ehre zu beschmutzen?!</string>
-	<string key="1131_01_BigThunder_Title" speaker="UI - Quest Title">Großer Donner</string>
-	<string key="1131_01_BigThunder_Description" speaker="UI - Quest Description">Sage Stonefirth das Megnolia Gingham auf ihren Hof zurückkehren und darum kämpfen wird.</string>
-	<string key="1131_01_BigThunder_start_Prompt" speaker="UI - Player Prompt">"Ich verdeutliche es ihm klipp und klar."</string>
-	<string key="1131_01_BigThunder_Proposal" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-next="@1131_01_BigThunder_Proposal_next">Oh, verdeutliche es ihm so richtig!\n\nZuerst war er zuckersüß, aber dann … grabsch!\n\nUnd als ich ihn zurückwies? Wurde er wütend und hat mich sogar bedroht!</string>
-	<string key="1131_01_BigThunder_proposal_Prompt" speaker="UI - Player Prompt">"Das ist inakzeptabel!"</string>
-	<string key="1131_01_BigThunder_Proposal_next" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-next="@1131_01_BigThunder_Proposal_next2" dialogue-prompt="@1131_01_BigThunder_proposal_Prompt">Klar wie Kloßbrühe ist das inakzeptabel!\n\nIch werde jetzt endgültig gehen, also richte ihm gerne von mir meinen Gruß aus.</string>
-	<string key="1131_01_BigThunder_proposal_Prompt2" speaker="UI - Player Prompt">"Er wird dich nicht mehr behelligen."</string>
-	<string key="1131_01_BigThunder_Proposal_next2" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-prompt="@1131_01_BigThunder_proposal_Prompt2">Das hoffe ich doch.\nMeine Familie erledigt Schlangen sonst einfach mit der Schrotflinte!</string>
-	<string key="1131_01_BigThunder_Incomplete" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording">Sage Coy unmissverständlich, dass er mich nie wiedersehen wird. Ich muss jetzt fertig packen.\n\nAber falls du mal im Norden bist, schau mal bei uns vorbei! Auf dem Hof werden tüchtige Helfer gern gesehen, vor allem bewaffnete Helfer!</string>
-	<string key="1131_01_BigThunder_Complete_Available_Response" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording">Von den Moment an, als du hereingestürmt kamst, wusste ich, das du nur Ärger machen wirst.\nLass dir gesagt sein, dass ich mir das Anwesen holen werde!\nIch bekomme es so oder so.</string>
-	<string key="1131_TellStone" speaker="UI"/>
-	<string key="1132_03_GrampasGun_Title" speaker="UI  - Quest Title">Opas Knarre</string>
-	<string key="1132_03_GrampasGun_Description" speaker="UI - Quest Description">Gehe zum alten Zuhause von Megnolias Großvater und repariere die Gingham-Familiendonnerbüchse.</string>
-	<string key="1132_03_GrampasGun_start_Prompt" speaker="UI - Player Prompt">"Sidney hat dasselbe gesagt."</string>
-	<string key="1132_03_GrampasGun_Proposal" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-next="@1132_03_GrampasGun_Proposal_next">Sie schießt genau so gut wie mein Papa früher.\nWie gut kannst du denn schießen?</string>
-	<string key="1132_03_GrampasGun_proposal_Prompt" speaker="UI - Player Prompt">"Ich würde es gern rausfinden."</string>
-	<string key="1132_03_GrampasGun_Proposal_next" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-next="@1132_03_GrampasGun_Proposal_next2" dialogue-prompt="@1132_03_GrampasGun_proposal_Prompt"/>
-	<string key="1132_03_GrampasGun_proposal_Prompt2" speaker="UI - Player Prompt">"Wo finde ich die?"</string>
-	<string key="1132_03_GrampasGun_Proposal_next2" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-prompt="@1132_03_GrampasGun_proposal_Prompt2">Wo mein Opa gelebt hat. Ich denke, die Büchse sollte noch dort sein.\nKönnte aber sein, dass er sie auseinandergebaut hat, um sie vor den Verderbten zu verstecken.</string>
-	<string key="1132_03_GrampasGun_Incomplete" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording">Bitte beeile dich, {playerName}. Ich will das nicht länger hinauszögern.</string>
-	<string key="1132_03_GrampasGun_Complete_Available_Response" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording"/>
-	<string key="1132_05_Shootout_Title" speaker="UI  - Quest Title">Schießerei im Schlangennest</string>
-	<string key="1132_05_Shootout_Description" speaker="UI - Quest Description">Gehe zu Stonefirths Versteck und treibe sie raus wie die Ratten. Mache ihnen dann mit der Donnerbüchse Feuer unter ihren Hintern.</string>
-	<string key="1132_05_Shootout_start_Prompt" speaker="UI - Player Prompt">"Was hast du herausgefunden?"</string>
-	<string key="1132_05_Shootout_Proposal" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_05_Shootout_Proposal_next">Dieser Räuberbaron hat einen letzten großen Angriff auf mich geplant … also auf uns, da Meg ja wieder bei mir ist.</string>
-	<string key="1132_05_Shootout_proposal_Prompt" speaker="UI - Player Prompt">"Warum schlagen wir nicht zuerst zu?"</string>
-	<string key="1132_05_Shootout_Proposal_next" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_05_Shootout_Proposal_next2" dialogue-prompt="@1132_05_Shootout_proposal_Prompt"/>
-	<string key="1132_05_Shootout_proposal_Prompt2" speaker="UI - Player Prompt">"Wo muss ich hin? Hab alles geladen und bin bereit."</string>
-	<string key="1132_05_Shootout_Proposal_next2" speaker="StonefirthCoy" name="SidneyNickles" VO_Status="Needs Recording" dialogue-prompt="@1132_05_Shootout_proposal_Prompt2">Denk dran, dir eine Donnerbüchse zu holen.\nDie Ginghams haben einen Ruf zu verteidigen.\nLass sie unmissverständlich wissen, dass du denen für Meg und mich Feuer unterm Hintern machst.</string>
-	<string key="1132_05_Shootout_Incomplete" speaker="StonefirthCoy" name="SidneyNickles" VO_Status="Needs Recording">Mit jeder Minute, die du das Schlangennest weiter ignorierst, wird die Räuberbrut dort stärker, {playerName}.\n\nLos, räucher sie aus!</string>
-	<string key="1132_05_Shootout_Complete_Available_Response" speaker="MegnoliaGingham" name="SidneyNickles" VO_Status="Needs Recording">Ich weiß nicht, ob ich im Geiste bei dir war,\noder ob das nur ein fernes Donnergrollen war.\nWir schulden dir was, {playerName}.</string>
-	<string key="1133_Handbills" speaker="UI"/>
-	<string key="1132_GrampaKills" speaker="UI"/>
+	<string key="1132_GrampaKills" speaker="UI">Brenne den Verderbten mit einer Donnerbüchse einen auf den Pelz.</string>
 </resources>
 

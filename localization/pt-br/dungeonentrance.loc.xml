@@ -79,7 +79,7 @@
 	<string key="ui_dungeon_mutator_difficulty_10" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;10&lt;/font&gt; (Elite)</string>
 	<string key="ui_dungeon_mutator_string" rel_version="Feature_Dungeon_Mutators">Mutação semanal</string>
 	<string key="ui_dungeon_mutator_multiplier_description" rel_version="Feature_Dungeon_Mutators">Multiplica a &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;pontuação total&lt;/font&gt; pelo &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;número de requisitos&lt;/font&gt; atendidos abaixo.</string>
-	<string key="ui_dungeon_mutator_clear_time" rel_version="Feature_Dungeon_Mutators">Tempo para Eliminar:</string>
+	<string key="ui_dungeon_mutator_clear_time" rel_version="Feature_Dungeon_Mutators">Tempo para Concluir:</string>
 	<string key="ui_dungeon_mutator_normal_enemies_killed" rel_version="Feature_Dungeon_Mutators">Inimigos derrotados:</string>
 	<string key="ui_dungeon_mutator_named_enemies_killed" rel_version="Feature_Dungeon_Mutators">Inimigos nomeados derrotados:</string>
 	<string key="ui_dungeon_mutator_team_wipes" rel_version="Feature_Dungeon_Mutators">Derrotas da equipe toda:</string>

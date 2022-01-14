@@ -618,7 +618,7 @@
 	<string key="url_primegaming">https://gaming.amazon.com/loot/newworld</string>
 	<string key="ui_open_link">Open Link</string>
 	<string key="Bundle_Decor_Lunar_name" rel_version="Housing_LunarNewYear_MTX_Pack_2022">Lunar New Year Décor Bundle</string>
-	<string key="Bundle_Decor_Lunar_description" rel_version="Housing_LunarNewYear_MTX_Pack_2022">"Welcome in the new year!" Housing Décor Set</string>
+	<string key="Bundle_Decor_Lunar_description" rel_version="Housing_LunarNewYear_MTX_Pack_2022">"Welcome in the new year!"</string>
 	<string key="Pet_LunarTiger_name" rel_version="Housing_LunarNewYear_MTX_Pack_2022">Lunar Tiger</string>
 	<string key="Pet_LunarTiger_description" rel_version="Housing_LunarNewYear_MTX_Pack_2022">"A mystical being that has gifted you with its presence and its protection."</string>
 	<string key="Bundle_Crest_Lunar_name" rel_version="Crest_Pack_Lunar">Lunar New Year Crest Pack</string>

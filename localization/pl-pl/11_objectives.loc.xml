@@ -201,7 +201,7 @@
 	<string key="1126_0101_StoneColdSecrets_Incomplete" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0101_StoneColdSecrets_Incomplete" VO_Status="Needs Recording">Odpoczywasz? Pomiędzy zadaniami? \n\nDaj znać, gdy znajdziesz sekrety, jakie skrywają te pomniki.</string>
 	<string key="1126_0101_StoneColdSecrets_Complete_Available_Response" speaker="Leilani - Mourningdale" name="Leilani" VO="1126_0101_StoneColdSecrets_Complete_Available_Response" VO_Status="Needs Recording">Popatrz tylko, Pierre! Wraca nasza awanturnicza dusza! \n\nA do tego idzie dumnym krokiem. \n\nPowiedz, co udało ci się odkryć!</string>
 	<string key="1126_0103_TravelTo_Site1" speaker="UI">Poszukaj Pierre'a przy kapliczce ducha znajdującej się daleko na północy.</string>
-	<string key="1126_KillQuest_Sunadire" speaker="UI">Pokonaj pradawnych Sunadire strzegących tego miejsca.</string>
+	<string key="1126_KillQuest_Sunadire" speaker="UI">Pokonaj pradawnych z Sunadire strzegących tego miejsca.</string>
 	<string key="1126_StoneColdSecrets" speaker="UI">Poszukaj pradawnych artefaktów w trzech miejscach</string>
 	<string key="1126_0103_TravelTo_Site2" speaker="UI">Poszukaj Pierre'a w: {POITags}</string>
 	<string key="1126_0103_FindEvidence1" speaker="UI">Znajdź dowód na to, że Pierre tędy przechodził</string>
@@ -319,7 +319,7 @@
 	<string key="1110_0101_GreetTheNewcomers_Title" speaker="UI  - Quest Title">Witamy w Żałobnicy</string>
 	<string key="1110_0101_GreetTheNewcomers_Description" speaker="UI - Quest Description">Znajdź Harunobu z Hibbotsfeld.</string>
 	<string key="1110_0101_GreetTheNewcomers_start_Prompt" speaker="UI - Player Prompt">"Na północy skażenie jest sporym problemem!"</string>
-	<string key="1110_0101_GreetTheNewcomers_Proposal" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Proposal" VO_Status="Needs Recording" dialogue-next="@1110_0101_GreetTheNewcomers_Proposal_next">Tak też słyszałem. \n\nZ dnia na dzień przybywa tu coraz więcej osób, które straciły dorobek swojego życia. \n\nAlbo gorzej!</string>
+	<string key="1110_0101_GreetTheNewcomers_Proposal" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Proposal" VO_Status="Needs Recording" dialogue-next="@1110_0101_GreetTheNewcomers_Proposal_next">Tak też słyszałem. \n\nZ dnia na dzień przybywa tu coraz więcej osób, które straciły dorobek swojego życia. \n\nAlbo więcej!</string>
 	<string key="1110_0101_GreetTheNewcomers_proposal_Prompt" speaker="UI - Player Prompt">"Gorzej?"</string>
 	<string key="1110_0101_GreetTheNewcomers_Proposal_next" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Proposal_next" VO_Status="Needs Recording" dialogue-prompt="@1110_0101_GreetTheNewcomers_proposal_Prompt">Nie ma co się nad tym rozwodzić.\n\nMoże zamiast tego przywitamy kilku uchodźców? Pokażmy im, że są tu mile widziani.</string>
 	<string key="1110_0101_GreetTheNewcomers_Incomplete" speaker="Bartender - Mourningdale" name="BarkeepBrewell" VO="1110_0101_GreetTheNewcomers_Incomplete" VO_Status="Needs Recording">Jak wygląda sytuacja z przybyszami?\n\nNie chcę, żeby po tym, co przeszli, czuli się tu obco.\n\nPokażmy im sławetną gościnność Żałobnicy!</string>
@@ -348,166 +348,6 @@
 	<string key="1124_PierreGoHome_Incomplete" speaker="Pierre - Mourningdale" name="PierreAuguste" VO="1124_PierreGoHome_Incomplete" VO_Status="Needs Recording">Zawiązałem sznurowadła i sprawdziłem kieszenie. \n\nWkrótce będę gotowy do drogi. \n\nCiekawe, jak zareaguje Leilani, gdy wrócimy i opowiemy jej o naszych przygodach.</string>
 	<string key="1124_PierreGoHome_Complete_Available_Response" speaker="Pierre - Mourningdale" name="PierreAuguste" VO="1124_PierreGoHome_Complete_Available_Response" VO_Status="Needs Recording">Proszę, proszę! Jesteś! \n\nMyślałem, że mnie prześcigniesz, ale jednak nie! \n\nTe niebieskawe kapliczki ułatwiają podróżowanie, nieprawdaż?</string>
 	<string key="1124_PierreGoHome" speaker="UI">Ścigaj się z Pierre'em do osady w Żałobnicy</string>
-	<string key="1130_01_TravelTo_Site1" speaker="UI">Znajdź pierwszą część pamiętnika Kubikiriego</string>
-	<string key="1130_01_TravelTo_Site2" speaker="UI">Znajdź drugą część pamiętnika Kubikiriego</string>
-	<string key="1130_01_TravelTo_Site3" speaker="UI">Znajdź trzecią część pamiętnika Kubikiriego</string>
-	<string key="1130_01_TravelTo_Site4" speaker="UI">Znajdź czwartą część pamiętnika Kubikiriego</string>
-	<string key="1130_Stirs_TravelTo_Site" speaker="UI">Znajdź Zbudzonego Podrzynacza Gardeł przy drogach na południu Żałobnicy</string>
-	<string key="1130_DefeatGorm" speaker="UI">Pokonaj Zbudzonego Podrzynacza Gardeł</string>
-	<string key="1130_02_interact_nodes1" speaker="UI">Zniszcz magiczny fokus</string>
-	<string key="1130_02_interact_nodes2" speaker="UI">Zniszcz magiczny fokus</string>
-	<string key="1130_02_interact_nodes3" speaker="UI">Zniszcz magiczny fokus</string>
-	<string key="1130_02_interact_nodes4" speaker="UI">Zniszcz magiczny fokus</string>
-	<string key="1130_01_return" speaker="UI">Wróć do Toshiego Harady z tłumaczeniami</string>
-	<string key="1130_thebridge_travelto_site" speaker="UI">Porozmawiaj z Toshim Haradą o toporze i duchach</string>
-	<string key="1130_01_EdgeOfTheWorld_Title" speaker="UI  - Quest Title">Skraj świata</string>
-	<string key="1130_01_EdgeOfTheWorld_Description" speaker="UI - Quest Description">Znajdź listy Kubikiriego pozostawione w kapliczkach znajdujących się na różnych terytoriach. Historie runiczne pozostawione przez Kubikiriego wyjawią miejsce, w którym znajduje się legendarny topór.</string>
-	<string key="1130_01_EdgeOfTheWorld_start_Prompt" speaker="UI - Player Prompt">"Jestem {playerName}. A ciebie jak zwą?"</string>
-	<string key="1130_01_EdgeOfTheWorld_Proposal" speaker="Toshi1 - Windsward" name="ToshiHarada" VO_Status="Needs Recording" dialogue-next="@1130_01_EdgeOfTheWorld_Proposal_next">Toshi z domu Harada.\nSzukam mistrza topora. Kogoś, kto nie boi się ani duchów, ani legend.\n\nCzy znasz opowieść o toporze dwuręcznym Sensou no Ko?</string>
-	<string key="1130_01_EdgeOfTheWorld_proposal_Prompt" speaker="UI - Player Prompt">"Nie. Ale niełatwo mnie przestraszyć".</string>
-	<string key="1130_01_EdgeOfTheWorld_Proposal_next" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording" dialogue-next="@1130_01_EdgeOfTheWorld_Proposal_next2" dialogue-prompt="@1130_01_EdgeOfTheWorld_proposal_Prompt">W takim razie masz serce pełne odwagi.\nAlbo nierówno pod sufitem.\n\nSensou no Ko to legendarny topór, którym pewien niesławny kat przelał morze krwi. Każdy, kto ośmieli się go dobyć, zostanie poddany próbie. Ci, którzy jej nie sprostają, zginą marnie.</string>
-	<string key="1130_01_EdgeOfTheWorld_proposal_Prompt2" speaker="UI - Player Prompt">"Dlaczego ktoś miałby tak ryzykować?"</string>
-	<string key="1130_01_EdgeOfTheWorld_Proposal_next2" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording" dialogue-prompt="@1130_01_EdgeOfTheWorld_proposal_Prompt2">Dlatego, że Sensou no Ko jest arcydziełem.\n\nNie ma wspanialszego topora, który ścinałby głowy skazańców.\n\nKat Kubikiri przywiózł go ze sobą na Aeternum.\nNa szczęście ten morderczy szubrawiec zniknął.\nAle zdaje się, że zostawił nam kilka wskazówek. W kapliczkach na terenie wyspy widziałem notatki sporządzone prawdopodobnie przez niego.</string>
-	<string key="1130_01_EdgeOfTheWorld_Incomplete" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording">Udało ci się znaleźć kapliczki Kubikiriego?\n\nNawet ja nie wiem, gdzie są wszystkie.</string>
-	<string key="1130_01_EdgeOfTheWorld_Complete_Available_Response" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording">Och.\nNie tego się spodziewałem. Pamiętnik Kubikiriego nic nam nie powiedział o lokalizacji topora.\n\nAle wspomina o klątwie!\n\nNiech ten, kto dzierży Dziecię Wojny, nie zazna w życiu pokoju. Niechaj topór pozostanie zapomniany. Na wieki!</string>
-	<string key="1130_02_CallBeyondTheVoid_Title" speaker="UI  - Quest Title">Zew z próżni</string>
-	<string key="1130_02_CallBeyondTheVoid_Description" speaker="UI - Quest Description">Pokonaj Lee Da-Jae i Dong-Geuna, a następnie przerwij ich plugawy rytuał, niszcząc cztery fokusy.</string>
-	<string key="1130_02_CallBeyondTheVoid_start_Prompt" speaker="UI - Player Prompt">"Powoli. Co się dzieje?"</string>
-	<string key="1130_02_CallBeyondTheVoid_Proposal" speaker="Toshi1 - Windsward" name="ToshiHarada" VO_Status="Needs Recording" dialogue-next="@1130_02_CallBeyondTheVoid_Proposal_next">Pewna czarodziejka dowiedziała się, że na Aeternum przybył Sensou no Ko. Wynajęła najemnego topornika…\n\nZamierzają przyzwać ducha kata Kubikiriego i wyciągnąć od niego lokalizację nawiedzonego topora, którym niegdyś władał!</string>
-	<string key="1130_02_CallBeyondTheVoid_proposal_Prompt" speaker="UI - Player Prompt">"A co z kami? Co z klątwą?"</string>
-	<string key="1130_02_CallBeyondTheVoid_Proposal_next" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording" dialogue-prompt="@1130_02_CallBeyondTheVoid_proposal_Prompt">Albo o niej nie wie, albo ma to gdzieś.\nByć może planuje poświęcić najemnika.\nBiedny drań.\n\nTo nieistotne. Musimy ją powstrzymać.</string>
-	<string key="1130_02_CallBeyondTheVoid_Incomplete" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording">Słyszysz mnie?!\n\nCzarodziejka i jej sługus zamierzają przyzwać ducha tego morderczego kata!\nNie możemy im pozwolić, by przeprowadzili tę plugawą ceremonię!</string>
-	<string key="1130_02_CallBeyondTheVoid_Complete_Available_Response" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording">Gdy ta przeklęta czarodziejka wróci do żywych, na pewno znów będzie próbowała szczęścia.\n\nTopór się ujawnił, musimy więc zachować czujność.\n\nDziękuję za wszystko.</string>
-	<string key="1130_StopTheRitual" speaker="UI">Przerwij rytuał przywołania</string>
-	<string key="1130_FindTheSummoner" speaker="UI">Znajdź miejsce rytuału</string>
-	<string key="1130_DefeatSummoning" speaker="UI">Pokonaj Lee Da-Jae i jej najemnika, Dong-Geuna</string>
-	<string key="1130_DefeatMerc" speaker="UI">Pokonaj najemnika Dong-Geuna</string>
-	<string key="1130_DefeatLee" speaker="UI">Pokonaj zaklinaczkę Lee Da-Jae</string>
-	<string key="1130_ReturnTheAxe" speaker="UI">Zdobądź przeklęty topór od Zbudzonego Podrzynacza Gardeł</string>
-	<string key="1130_interact_focus1" speaker="UI">Zniszcz magiczne fokusy</string>
-	<string key="1130_interact_focus2" speaker="UI">Zniszcz magiczny fokus na południowym zachodzie</string>
-	<string key="1130_interact_focus3" speaker="UI">Zniszcz magiczny fokus na północnym zachodzie</string>
-	<string key="1130_interact_focus4" speaker="UI">Zniszcz magiczny fokus na północnym wschodzie</string>
-	<string key="1130_03_StirsTheWatchful_Title" speaker="UI - Quest Title">Uśpienie Zbudzonego</string>
-	<string key="1130_03_StirsTheWatchful_Description" speaker="UI - Quest Description">Pokonaj skażonego topornika, Zbudzonego Podrzynacza Gardeł.</string>
-	<string key="1130_03_StirsTheWatchful_start_Prompt" speaker="UI - Player Prompt">"O co chodzi tym razem?"</string>
-	<string key="1130_03_StirsTheWatchful_Proposal" speaker="Toshi - Windsward" name="ToshiHarada" VO_Status="Needs Recording" dialogue-next="@1130_03_StirsTheWatchful_Proposal_next">Widziałem topór Sensou no Ko, ale nie dzierżył go ani straszliwy Kubikiri, ani sługus zaklinaczki!\n\nKtoś inny znalazł tę broń i z całą pewnością uległ wpływom kami, które go nawiedza.</string>
-	<string key="1130_03_StirsTheWatchful_proposal_Prompt" speaker="UI - Player Prompt">"W takim razie zrobię, co trzeba".</string>
-	<string key="1130_03_StirsTheWatchful_Proposal_next" speaker="Toshi - Windsward" name="ToshiHarada" VO_Status="Needs Recording" dialogue-prompt="@1130_03_StirsTheWatchful_proposal_Prompt">Tak.\n\nWiedziałem, że można ci ufać. Ten, kto dzierży Sensou no Ko, szaleje na południowych drogach Żałobnicy. Jest skażonym.\n\nTo być może nasza najlepsza szansa na odzyskanie topora. Może nawet uda nam się go oczyścić.\n\nSpotkajmy się w osadzie w Żałobnicy, gdy odzyskasz Sensou no Ko.</string>
-	<string key="1130_03_StirsTheWatchful_Incomplete" speaker="Toshi - Windsward" name="ToshiHarada" VO_Status="Needs Recording">To najlepsza szansa na odzyskanie Sensou no Ko!\n\nProszę, {playerName}, poślij tego skażonego topornika na spoczynek i odzyskaj topór!</string>
-	<string key="1130_03_StirsTheWatchful_Complete_Available_Response" speaker="Toshi - Windsward" name="ToshiHarada" VO_Status="Needs Recording">Dziękuję za wszystko.\n\nByć może uda mi się znaleźć sposób na permanentne wypędzenie z topora tego złego ducha.</string>
-	<string key="1130_04_TheBridge_Title" speaker="UI - Quest Title">Przeklęty oręż</string>
-	<string key="1130_04_TheBridge_Wave1" speaker="UI - Quest Title">Rozpocznij oczyszczanie</string>
-	<string key="1130_04_TheBridge_Description" speaker="UI - Quest Description">Znajdź przeklęty topór Sensou no Ko w miejscu rytuału.</string>
-	<string key="1130_04_TheBridge_start_Prompt" speaker="UI - Player Prompt">"Już czas?"</string>
-	<string key="1130_04_TheBridge_Proposal" speaker="Toshi2 - Mourningdale" name="ToshiHarada" VO_Status="Needs Recording">W rzeczy samej, {playerName}.\nZajęło mi to dużo czasu i wysiłku, ale chyba wreszcie znalazłem sposób na wypędzenie kami z topora.\n\nJest takie miejsce w Rajskim Gaju, gdzie zasłona oddzielająca dwa światy jest cienka. Duchy nawiedzające topór walczyły tam zaciekle.\n\nRuszaj oczyścić topór.</string>
-	<string key="1130_04_TheBridge_Incomplete" speaker="ToshiHarada" name="ToshiHarada" VO_Status="Needs Recording">Udało się? Czy ten przeklęty oręż wciąż jest na tym świecie?</string>
-	<string key="1130_04_TheBridge_Complete_Available_Response" speaker="SensonoKo - Edengrove" name="SensounoKo" VO_Status="Needs Recording">Miernoto!\nNie zdołasz oprzeć się mej woli!\n\nWkrótce będziesz moją marionetką. Wkrótce znów skosztuję krwi!</string>
-	<string key="1130_04_Enc_Stage_02_Intermission" speaker="UI">Antrakt</string>
-	<string key="1130_04_Enc_Stage_03" speaker="UI">Pokonaj kata</string>
-	<string key="1130_goto_toshi" speaker="UI">Spotkaj się z Toshim w Żałobnicy</string>
-	<string key="1130_goto_bridge" speaker="UI">Znajdź miejsce rytuału</string>
-	<string key="1130_04_traveltask" speaker="UI">Zniszcz magiczny fokus</string>
-	<string key="1130_05_Option" speaker="UI">Rozpocznij rytuał oczyszczenia (opcjonalne)</string>
-	<string key="1130_05_ReleasedSpirits" speaker="UI">Pokonaj uwolnione duchy</string>
-	<string key="1130_05_ReturnAxe" speaker="UI">Pokonaj ducha Kubikiriego, by odzyskać oczyszczony Sensou no Ko</string>
-	<string key="1130_05_SensounoKo_Title" speaker="UI - Quest Title">Sensou no Ko</string>
-	<string key="1130_05_SensounoKo_Description" speaker="UI - Quest Description">Oczyść przeklęty topór z uwięzionych w nim duchów oraz z kami, które żywi się ich siłą życiową.</string>
-	<string key="1130_05_SensounoKo_start_Prompt" speaker="UI - Player Prompt">"Pokaż, na co cię stać, demonie! Uwolnię twoich więźniów!"</string>
-	<string key="1130_05_SensounoKo_Proposal" speaker="SensonoKo - Edengrove" name="SensounoKo" VO_Status="Needs Recording">Dość gadania!\n\nTwoja dusza będzie moja!</string>
-	<string key="1130_05_SensounoKo_Incomplete" speaker="Tormented Spirits" name="TormentedSpirits" VO_Status="Needs Recording">Pomóż nam! Uratuj nas!\n\nDemon nas dręczy!\n\nMusisz go zniszczyć!</string>
-	<string key="1130_05_SensounoKo_Complete_Available_Response" speaker="Toshi2 - Mourningdale" name="ToshiHarada" VO_Status="Needs Recording">Nie brakło ci odwagi, by zmierzyć się z duchem Kubikiriego i kami, które nawiedza topór!\n\nNoś ten oręż z dumą, niechaj świadczy o twym męstwie.</string>
-	<string key="1133_01_SnakeOil_Title" speaker="UI  - Quest Title">Czym chata bogata</string>
-	<string key="1133_01_SnakeOil_Description" speaker="UI - Quest Description">Udaj się na północ i znajdź Megnolię Gingham i Sidney Nickles nieopodal ich gospodarstwa w Żałobnicy.</string>
-	<string key="1133_01_SnakeOil_start_Prompt" speaker="UI - Player Prompt">"Jestem {playerName}. A ciebie jak zwą?"</string>
-	<string key="1133_01_SnakeOil_Proposal" speaker="StonefirthCoy - Mourningdale" name="StonefirthCoy" VO_Status="Needs Recording" dialogue-next="@1133_01_SnakeOil_Proposal_next">Nazywam się Stonefirth Coy! Mówisz, że nie masz w ogóle o mnie pojęcia? Pewnie jesteś tu od niedawna.\n\nPosłuchaj no. Mam dla ciebie propozycję.</string>
-	<string key="1133_01_SnakeOil_proposal_Prompt" speaker="UI - Player Prompt">"Co to za propozycja?"</string>
-	<string key="1133_01_SnakeOil_Proposal_next" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording" dialogue-next="@1133_01_SnakeOil_Proposal_next2" dialogue-prompt="@1133_01_SnakeOil_proposal_Prompt">Dwie znane mi panie przechodzą ostatnio ciężkie chwile. Do tego zaczęli się im naprzykrzać skażeni. Co tu dużo mówić, żal mi ich.\n\nCzy możesz dla mnie dowiedzieć się, gdzie też na północy się teraz ukrywają, a także zaprosić je do zamieszkania w mojej posiadłości? Znają starego, dobrego Stonefirtha nie od dziś.</string>
-	<string key="1133_01_SnakeOil_proposal_Prompt2" speaker="UI - Player Prompt">"Przekażę im to".</string>
-	<string key="1133_01_SnakeOil_Proposal_next2" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording" dialogue-prompt="@1133_01_SnakeOil_proposal_Prompt2">Lepiej ruszaj bez zwłoki.\n\nChyba z północy nadchodzi burza!</string>
-	<string key="1133_SnakeOil1" speaker="UI">Znajdź Megnolię Gingham i Sidney Nickles na północy Żałobnicy.</string>
-	<string key="1133_01_SnakeOil_Incomplete" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording">Pośpiesz się, {playerName}.\n\nNie chcemy przecież, żeby te miłe panie czekały.</string>
-	<string key="1133_01_SnakeOil_Complete_Available_Response" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording">Stonefirth Coy?\nOch, sama nie wiem. Czy powinnam?\n\nJest tutaj strasznie…</string>
-	<string key="1132_01_ClaimJumper_Title" speaker="UI - Quest Title">Nadciągająca burza</string>
-	<string key="1132_01_ClaimJumper_Description" speaker="UI - Quest Description">Udaj się do gospodarstwa Ginghamów i przeszukaj skażonych w celu określenia ich pobudek.</string>
-	<string key="1132_01_ClaimJumper_start_Prompt" speaker="UI - Player Prompt">"Mam się rozejrzeć?"</string>
-	<string key="1132_01_ClaimJumper_Proposal" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">W tych stronach ufamy tylko jednemu: naszej broni palnej. Jeśli masz duży problem, wyceluj w niego jeszcze większą spluwą. I po sprawie.\n\nWydaje mi się, że potrafisz posługiwać się garłaczem. Zrób mi przysługę: idź do gospodarstwa i powystrzelaj te maszkarony.\n\nMoże znajdziesz przy nich jakieś wskazówki. Jeśli nawet nie, to może huk wystrzałów sprawi, że się stamtąd wyniosą.</string>
-	<string key="1132_01_ClaimJumper_Incomplete" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Nie chcę odsyłać Meg.\nTa ziemia się jej należy.\n\nTemu całemu Coyowi też nie ufam.</string>
-	<string key="1132_01_ClaimJumper_Complete_Available_Response" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Pokaż mi te broszury!\nCoś takiego, ten jegomość rekrutował te potwory!\nMiałam rację! Mamy tutaj szczura! Nazywa się Digby.</string>
-	<string key="1132_02_DiamondbackHustler_Title" speaker="UI - Quest Title">Diamentowy kanciarz</string>
-	<string key="1132_02_DiamondbackHustler_Description" speaker="UI - Quest Description">Znajdź zgraję skażonych pod przywództwem Digby'ego i rozpraw się z nimi za pomocą garłacza w imieniu Ginghamów.</string>
-	<string key="1132_02_DiamondbackHustler_start_Prompt" speaker="UI - Player Prompt">"Więc to sprawka zgrai Digby'ego?"</string>
-	<string key="1132_02_DiamondbackHustler_Proposal" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_02_DiamondbackHustler_Proposal_next">Tego właśnie dowodzą skrawki przyniesione przez ciebie z gospodarstwa Meg.</string>
-	<string key="1132_02_DiamondbackHustler_proposal_Prompt" speaker="UI - Player Prompt">"Czego oni mogą twoim zdaniem chcieć?"</string>
-	<string key="1132_02_DiamondbackHustler_Proposal_next" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_02_DiamondbackHustler_Proposal_next2" dialogue-prompt="@1132_02_DiamondbackHustler_proposal_Prompt">Mam pewne domysły, ale nie mam jak ich udowodnić.\nNie mam absolutnie pojęcia dlaczego ten Digby miałby być zainteresowany ziemią Meg.</string>
-	<string key="1133_gotoblunder" speaker="UI">Udaj się do gospodarstwa Ginghamów w Cragview</string>
-	<string key="1132_02_DiamondbackHustler_proposal_Prompt2" speaker="UI - Player Prompt">"Zobaczę, czego uda mi się dowiedzieć".</string>
-	<string key="1132_02_DiamondbackHustler_Proposal_next2" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-prompt="@1132_02_DiamondbackHustler_proposal_Prompt2">To nie będzie zbyt trudne, ich obóz jest zaznaczony na tych broszurach.\n\nTylko pamiętaj, żeby użyć garłacza – chcę, żeby ten szczur wiedział, w czyim imieniu działasz.</string>
-	<string key="1132_02_DiamondbackHustler_Incomplete" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Czy Digby dostał już od ciebie nauczkę?\n\nTen skażony bandzior nie ma pojęcia o uprawie ziemi, a jego zgraja też raczej nie byłaby tym zainteresowana.\n\nO co w tym wszystkim chodzi?</string>
-	<string key="1132_02_DiamondbackHustler_Complete_Available_Response" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Więc to były tylko bandziory wynajęte przez Stonefirtha Coya?\nMusimy powiedzieć o tym Meg, może być w niebezpieczeństwie!</string>
-	<string key="1132_01_Digby" speaker="UI">Znajdź kryjówkę zgrai Digby'ego w Hibbotsfeld.</string>
-	<string key="1132_02_Digby" speaker="UI">Zbudź zgraję Digby'ego. (opcjonalne)</string>
-	<string key="1132_03_Digby" speaker="UI">Pokonaj zgraję Digby'ego za pomocą garłacza.</string>
-	<string key="1132_04_Digby" speaker="UI">Pokonaj Digby'ego Stockburna.</string>
-	<string key="1132_05_Digby" speaker="UI">Pokonaj strażników Digby'ego.</string>
-	<string key="1132_06_Digby" speaker="UI">Pokonaj psy Digby'ego.</string>
-	<string key="1132_xx_Digby" speaker="UI">Staw czoło zgrai Digby'ego.</string>
-	<string key="1132_Grampa1" speaker="UI">Poszukaj w okolicznych skrzyniach łoża dziadka.</string>
-	<string key="1132_Grampa2" speaker="UI">Poszukaj w okolicznych skrzyniach mechanizmu dziadka.</string>
-	<string key="1132_Grampa3" speaker="UI">Zdobądź lufę dziadka od skażonych.</string>
-	<string key="1132_Grampa4" speaker="UI">Złóż broń dziadka w jego kuźni.</string>
-	<string key="1132_GrampaMeta" speaker="UI">Zdobądź wszystkie części Rozjemcy, broni dziadka.</string>
-	<string key="1132_GrampaMeta2" speaker="UI">Złóż broń dziadka.</string>
-	<string key="1132_03_RoomEnough_Title" speaker="UI - Quest Title">Dość miejsca dla obojga</string>
-	<string key="1132_03_RoomEnough_Description" speaker="UI - Quest Description">Udaj się do Żałobnicy i ostrzeż Megnolię Gingham o planie Stonefirtha Coy'a, a potem powiedz Stonefirthowi, że znasz jego zamiary.</string>
-	<string key="1132_03_RoomEnough_start_Prompt" speaker="UI - Player Prompt">"Zadbam, żeby wiadomość do niego dotarła".</string>
-	<string key="1132_03_RoomEnough_Proposal" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_03_RoomEnough_Proposal_next">Och, niech spróbuje nie przyjąć tego do wiadomości. Gdybym to ja miała mu to przekazać, zrobiłabym to garłaczem, więc wszyscy by wiedzieli, czyja to sprawka.</string>
-	<string key="1132_03_RoomEnough_proposal_Prompt" speaker="UI - Player Prompt">"To musi być garłacz?"</string>
-	<string key="1132_03_RoomEnough_Proposal_next" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_03_RoomEnough_Proposal_next2" dialogue-prompt="@1132_03_RoomEnough_proposal_Prompt">Garłacz to znak rozpoznawczy Ginghamów.\nPrzydatny w gospodarstwie!</string>
-	<string key="1132_03_RoomEnough_proposal_Prompt2" speaker="UI - Player Prompt">"Upewnię się, że wie".</string>
-	<string key="1132_03_RoomEnough_Proposal_next2" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-prompt="@1132_03_RoomEnough_proposal_Prompt2">Gdybym tylko mogła zobaczyć minę tego szczura!\nAle muszę zostać tutaj i zadbać o przyszłość dla siebie i Meg.</string>
-	<string key="1132_03_RoomEnough_Incomplete" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording">Musisz powiedzieć Stonefirthowi, że wiemy o jego knowaniach!\nMegnolia musi opuścić posiadłość tego człowieka!</string>
-	<string key="1132_Shootout" speaker="UI">Udaj się do kryjówki Stonefirtha Coy'a w Pustej Jaskini.</string>
-	<string key="1132_Shootout_Option" speaker="UI">Wysadź barykadę w kryjówce Coya. (opcjonalne)</string>
-	<string key="1132_Shootout_Waves" speaker="UI">Pokonaj kamratów Stonefirtha Coy'a.</string>
-	<string key="1132_Shootout_Waves2" speaker="UI">Pokonaj Stonefirtha Coy'a.</string>
-	<string key="1132_Shootout_Sub" speaker="UI">Pokonaj Stonefirtha Coy'a i jego kamratów za pomocą garłacza.</string>
-	<string key="1132_Shootout_Sub2" speaker="UI">Pokonaj kamratów Stonefirtha Coy'a.</string>
-	<string key="1132_TalkToMeg2" speaker="UI">Ostrzeż Meg o oszustwie Stonefirtha Coy'a.</string>
-	<string key="1132_TalkToMeg1" speaker="UI">Spotkaj się z Megnolią w Żałobnicy. Spiesz się!</string>
-	<string key="1132_03_RoomEnough_Complete_Available_Response" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording">Hiena z ciebie!\nMasz czelność nachodzić mnie z wrzaskiem!\nJak śmiesz kwestionować mój honor?</string>
-	<string key="1131_01_BigThunder_Title" speaker="UI - Quest Title">Wielki grzmot</string>
-	<string key="1131_01_BigThunder_Description" speaker="UI - Quest Description">Powiedz Stonefirthowi Coyowi, że Megnolia Gingham wraca do siebie, by walczyć o swoje gospodarstwo.</string>
-	<string key="1131_01_BigThunder_start_Prompt" speaker="UI - Player Prompt">"Wyjaśnię mu to".</string>
-	<string key="1131_01_BigThunder_Proposal" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-next="@1131_01_BigThunder_Proposal_next">Tak, wyjaśnij to temu bufonowi!\n\nNajpierw był słodki, aż mdliło, ale potem? Łapska!\n\nA gdy odrzuciłam jego końskie zaloty? Rozzłościł się i zaczął burczeć zawoalowane groźby pod moim adresem!</string>
-	<string key="1131_01_BigThunder_proposal_Prompt" speaker="UI - Player Prompt">"To niedopuszczalne!"</string>
-	<string key="1131_01_BigThunder_Proposal_next" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-next="@1131_01_BigThunder_Proposal_next2" dialogue-prompt="@1131_01_BigThunder_proposal_Prompt">To jasne jak słońce, że to niedopuszczalne!\n\nW tej chwili odchodzę. Przekaż mu, dlaczego to robię!</string>
-	<string key="1131_01_BigThunder_proposal_Prompt2" speaker="UI - Player Prompt">"Nie będzie cię już niepokoił".</string>
-	<string key="1131_01_BigThunder_Proposal_next2" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-prompt="@1131_01_BigThunder_proposal_Prompt2">Oby!\nMoja rodzina z wężami radzi sobie bronią palną!</string>
-	<string key="1131_01_BigThunder_Incomplete" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording">Przekaż panu Coyowi, że nie mam zamiaru już go widzieć na oczy. Muszę skończyć się pakować.\n\nJeśli znów zajdziesz na północ, odwiedź nas! Na farmie zawsze przyda się dodatkowa para rąk do pracy. Albo dodatkowy garłacz!</string>
-	<string key="1131_01_BigThunder_Complete_Available_Response" speaker="StonefirthCoy" name="StonefirthCoy" VO_Status="Needs Recording">Wiedziałem, że po twoim najściu będę miał same problemy!\nWiedz, że ta posiadłość będzie moja!\nNie cofnę się przed niczym!</string>
-	<string key="1131_TellStone" speaker="UI">Powiedz Stonefirthowi, żeby odczepił się od Ginghamów, albo pożałuje!</string>
-	<string key="1132_03_GrampasGun_Title" speaker="UI  - Quest Title">Broń dziadka</string>
-	<string key="1132_03_GrampasGun_Description" speaker="UI - Quest Description">Udaj się do starego domu dziadka Megnolii, znajdź i złóż z powrotem rodzinny garłacz Ginghamów.</string>
-	<string key="1132_03_GrampasGun_start_Prompt" speaker="UI - Player Prompt">"Sidney powiedziała to samo".</string>
-	<string key="1132_03_GrampasGun_Proposal" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-next="@1132_03_GrampasGun_Proposal_next">Strzela równie dobrze, jak mój tatko, to prawda.\nA tobie jak idzie strzelanie?</string>
-	<string key="1132_03_GrampasGun_proposal_Prompt" speaker="UI - Player Prompt">"Chętnie się dowiem".</string>
-	<string key="1132_03_GrampasGun_Proposal_next" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-next="@1132_03_GrampasGun_Proposal_next2" dialogue-prompt="@1132_03_GrampasGun_proposal_Prompt">Cóż, skoro jestem już z Sidney, podejrzewam że przyda się nam garłacz mojego dziadka.</string>
-	<string key="1132_03_GrampasGun_proposal_Prompt2" speaker="UI - Player Prompt">"Gdzie go znajdę?"</string>
-	<string key="1132_03_GrampasGun_Proposal_next2" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording" dialogue-prompt="@1132_03_GrampasGun_proposal_Prompt2">Jestem pewna, że wciąż jest w domu dziadka.\nMoże rozłożył go na części, żeby skażeni go nie dopadli.</string>
-	<string key="1132_03_GrampasGun_Incomplete" speaker="MegnoliaGingham - Mourningdale" name="MegnoliaGingham" VO_Status="Needs Recording">{playerName}, pospiesz się. Nie mam zamiaru czekać ani chwili dłużej.</string>
-	<string key="1132_03_GrampasGun_Complete_Available_Response" speaker="MegnoliaGingham" name="MegnoliaGingham" VO_Status="Needs Recording">O, to właśnie ta broń! Ostatni raz trzymałam ją, kiedy byłam małą dziewczynką.\nOd razu czuję się pewniej na wypadek spotkania tego całego Stonefirtha.\n\nAle Sidney ma chyba inne plany.</string>
-	<string key="1132_05_Shootout_Title" speaker="UI  - Quest Title">Strzelanina w jamie węży</string>
-	<string key="1132_05_Shootout_Description" speaker="UI - Quest Description">Udaj się do kryjówki Stonefirtha, wykurz go i jego bandytów, po czym wykończ ich garłaczem.</string>
-	<string key="1132_05_Shootout_start_Prompt" speaker="UI - Player Prompt">"Czego się dowiedziałaś?"</string>
-	<string key="1132_05_Shootout_Proposal" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_05_Shootout_Proposal_next">Ten rabuś planuje ostatni wielki atak na mnie, to znaczy na nas, skoro Meg wróciła.</string>
-	<string key="1132_05_Shootout_proposal_Prompt" speaker="UI - Player Prompt">"A jeśli to my uderzymy szybciej?"</string>
-	<string key="1132_05_Shootout_Proposal_next" speaker="SidneyNickles - Mourningdale" name="SidneyNickles" VO_Status="Needs Recording" dialogue-next="@1132_05_Shootout_Proposal_next2" dialogue-prompt="@1132_05_Shootout_proposal_Prompt">Właśnie to mi po głowie chodziło.\n\nWiem, gdzie się zaszyli.\n\nWykurzmy ich, a potem dajmy im popalić z obydwu luf!</string>
-	<string key="1132_05_Shootout_proposal_Prompt2" speaker="UI - Player Prompt">"Pokaż mi tylko gdzie. Mam załadowaną i odbezpieczoną broń".</string>
-	<string key="1132_05_Shootout_Proposal_next2" speaker="StonefirthCoy" name="SidneyNickles" VO_Status="Needs Recording" dialogue-prompt="@1132_05_Shootout_proposal_Prompt2">Pamiętaj, żeby użyć garłacza.\nGinghamowie mają swoje tradycje.\nDaj im znać, że twoje kule to przesyłka od Meg i ode mnie.</string>
-	<string key="1132_05_Shootout_Incomplete" speaker="StonefirthCoy" name="SidneyNickles" VO_Status="Needs Recording">Z każdą chwilą, kiedy nie prujesz w to gniazdo węży, oni stają się silniejsi.\n\n{playerName}, ruszaj i wykurz ich!</string>
-	<string key="1132_05_Shootout_Complete_Available_Response" speaker="MegnoliaGingham" name="SidneyNickles" VO_Status="Needs Recording">Nie wiem, czy byłam tam z tobą w duchu\nczy też był to tylko odległy grom.\n{playerName}, mamy u ciebie dług wdzięczności.</string>
-	<string key="1133_Handbills" speaker="UI">Znajdź wskazówki u skażonych.</string>
-	<string key="1132_GrampaKills" speaker="UI">Załatw skażonych za pomocą garłacza.</string>
+	<string key="1132_GrampaKills" speaker="UI">Załatw skażonych za pomocą garłacza</string>
 </resources>
 

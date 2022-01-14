@@ -686,8 +686,8 @@
 	<string key="9902_0052_ChallengeDynasty" speaker="UI">Desafie a Imperatriz diretamente</string>
 	<string key="9902_0052_d_00_container_partial_SoloQuest">Semeie a mácula e a desordem entre as forças da Imperatriz:</string>
 	<string key="9902_0052_d_00_task_TalkToAdiana">Fale com Adiana para saber suas Opções [Solo]</string>
-	<string key="9902_0052_d_00_CompleteSolo">Conclua a Jornada: Vá para o Convés [Solo]</string>
-	<string key="9902_0052_saboteur_solo_objective_title" speaker="UI">Vá para o Convés</string>
+	<string key="9902_0052_d_00_CompleteSolo">Conclua a Jornada: Todos no Convés [Solo]</string>
+	<string key="9902_0052_saboteur_solo_objective_title" speaker="UI">Todos no Convés</string>
 	<string key="9902_0052_saboteur_solo_objective_desc" speaker="UI">Como uma alternativa para atacar a Imperatriz e sua frota na Expedição de Myrkgard, pegue as bombas maculadas e coloque-as na carga que está sendo trazida das docas para a frota. Enquanto estiver lá, derrote os Generais da frota para interromper sua liderança.</string>
 	<string key="9907_0053_blessingofearth_objective_title" speaker="UI - Quest Title">Aprovações da Terra</string>
 	<string key="9907_0053_BlessingsOfTheEarth" speaker="UI">Ganhe a estima dos habitantes da clareira</string>

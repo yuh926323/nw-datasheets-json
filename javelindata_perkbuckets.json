@@ -28706,89 +28706,89 @@
     {
         "PerkBucketID": "PerkBucket_SmolderingWeaponShardT5",
         "PerkType": "Generated",
-        "PerkChance": 0,
+        "PerkChance": 1,
         "Perk1": "PerkID_Weapon_Attunement_Fire"
     },
     {
         "PerkBucketID": "PerkBucket_SmolderingWeaponShardT5_Weights",
-        "PerkChance": 1,
+        "PerkChance": 0,
         "Perk1": "1"
     },
     {
         "PerkBucketID": "PerkBucket_SmolderingArmorShardT5",
         "PerkType": "Generated",
-        "PerkChance": 0,
+        "PerkChance": 1,
         "Perk1": "PerkID_Armor_Conditioning_Fire"
     },
     {
         "PerkBucketID": "PerkBucket_SmolderingArmorShardT5_Weights",
-        "PerkChance": 1,
+        "PerkChance": 0,
         "Perk1": "1"
     },
     {
         "PerkBucketID": "PerkBucket_FrozenWeaponShardT5",
         "PerkType": "Generated",
-        "PerkChance": 0,
+        "PerkChance": 1,
         "Perk1": "PerkID_Weapon_Attunement_Ice"
     },
     {
         "PerkBucketID": "PerkBucket_FrozenWeaponShardT5_Weights",
-        "PerkChance": 1,
+        "PerkChance": 0,
         "Perk1": "1"
     },
     {
         "PerkBucketID": "PerkBucket_FrozenArmorShardT5",
         "PerkType": "Generated",
-        "PerkChance": 0,
+        "PerkChance": 1,
         "Perk1": "PerkID_Armor_Conditioning_Ice"
     },
     {
         "PerkBucketID": "PerkBucket_FrozenArmorShardT5_Weights",
-        "PerkChance": 1,
+        "PerkChance": 0,
         "Perk1": "1"
     },
     {
         "PerkBucketID": "PerkBucket_EvergreenWeaponShardT5",
         "PerkType": "Generated",
-        "PerkChance": 0,
+        "PerkChance": 1,
         "Perk1": "PerkID_Weapon_Attunement_Nature"
     },
     {
         "PerkBucketID": "PerkBucket_EvergreenWeaponShardT5_Weights",
-        "PerkChance": 1,
+        "PerkChance": 0,
         "Perk1": "1"
     },
     {
         "PerkBucketID": "PerkBucket_EvergreenArmorShardT5",
         "PerkType": "Generated",
-        "PerkChance": 0,
+        "PerkChance": 1,
         "Perk1": "PerkID_Armor_Conditioning_Nature"
     },
     {
         "PerkBucketID": "PerkBucket_EvergreenArmorShardT5_Weights",
-        "PerkChance": 1,
+        "PerkChance": 0,
         "Perk1": "1"
     },
     {
         "PerkBucketID": "PerkBucket_HollowWeaponShardT5",
         "PerkType": "Generated",
-        "PerkChance": 0,
+        "PerkChance": 1,
         "Perk1": "PerkID_Weapon_Attunement_Void"
     },
     {
         "PerkBucketID": "PerkBucket_HollowWeaponShardT5_Weights",
-        "PerkChance": 1,
+        "PerkChance": 0,
         "Perk1": "1"
     },
     {
         "PerkBucketID": "PerkBucket_HollowArmorShardT5",
         "PerkType": "Generated",
-        "PerkChance": 0,
+        "PerkChance": 1,
         "Perk1": "PerkID_Armor_Conditioning_Void"
     },
     {
         "PerkBucketID": "PerkBucket_HollowArmorShardT5_Weights",
-        "PerkChance": 1,
+        "PerkChance": 0,
         "Perk1": "1"
     },
     {

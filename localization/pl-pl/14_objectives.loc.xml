@@ -148,9 +148,9 @@
 	<string key="1416_0301_d_01_Task" speaker="UI">1416_0301_d_01_Task</string>
 	<string key="1416_0301_d_02_Task" speaker="UI">1416_0301_d_02_Task</string>
 	<string key="1434_Pyre_Enc_Title">Wołanie o miłość</string>
-	<string key="1434_Pyre_Enc_Stage_02_Title">Wołanie o miłość: Faza 1/3</string>
-	<string key="1434_Pyre_Enc_Stage_03_Title">Wołanie o miłość: Faza 2/3</string>
-	<string key="1434_Pyre_Enc_Stage_04_Title">Wołanie o miłość: Faza 3/3</string>
+	<string key="1434_Pyre_Enc_Stage_02_Title">Wołanie o miłość: faza 1/3</string>
+	<string key="1434_Pyre_Enc_Stage_03_Title">Wołanie o miłość: faza 2/3</string>
+	<string key="1434_Pyre_Enc_Stage_04_Title">Wołanie o miłość: faza 3/3</string>
 	<string key="1420_0501_d_00_Containter_weaponwrapperquest" speaker="UI">Głos Ludu</string>
 	<string key="1420_0501_d_01_Containter_weaponwrapperquest_sub_01" speaker="UI">Zbieranie zapasów</string>
 	<string key="1420_0501_d_02_Containter_weaponwrapperquest_sub_02" speaker="UI">Zbieranie zapasów</string>

@@ -79,7 +79,7 @@
 	<string key="ui_dungeon_mutator_difficulty_10" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;10&lt;/font&gt; (Elitarny)</string>
 	<string key="ui_dungeon_mutator_string" rel_version="Feature_Dungeon_Mutators">Tygodniowa mutacja</string>
 	<string key="ui_dungeon_mutator_multiplier_description" rel_version="Feature_Dungeon_Mutators">Mnoży &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;łączny wynik&lt;/font&gt; przez &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;liczbę spełnionych wymagań&lt;/font&gt; wymienionych poniżej.</string>
-	<string key="ui_dungeon_mutator_clear_time" rel_version="Feature_Dungeon_Mutators">Kończy się za:</string>
+	<string key="ui_dungeon_mutator_clear_time" rel_version="Feature_Dungeon_Mutators">Czas ukończenia:</string>
 	<string key="ui_dungeon_mutator_normal_enemies_killed" rel_version="Feature_Dungeon_Mutators">Zabici wrogowie:</string>
 	<string key="ui_dungeon_mutator_named_enemies_killed" rel_version="Feature_Dungeon_Mutators">Zabici nazwani wrogowie:</string>
 	<string key="ui_dungeon_mutator_team_wipes" rel_version="Feature_Dungeon_Mutators">Klęski drużyny:</string>
@@ -153,12 +153,12 @@
 	<string key="Mut_Fir_Death_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Zabici wrogowie wybuchają, zadając obrażenia od ognia na niewielkim obszarze.</string>
 	<string key="Mut_Voi_Damage_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Pewien procent obrażeń zadawanych przez wrogów przekształca się w obrażenia od próżni.</string>
 	<string key="Mut_Voi_Resist_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Wrogowie dysponują pochłanianiem obrażeń od próżni</string>
-	<string key="Mut_Voi_Resist_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Wrogowie dysponują pochłanianiem obrażeń od próżni</string>
+	<string key="Mut_Voi_Resist_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Wrogowie dysponują pochłanianiem obrażeń od próżni.</string>
 	<string key="Mut_Voi_Leech_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Wrogowie nakładają przy trafieniu wyssanie, zadające obrażenia od próżni i zapewniające wrogowi leczenie czasowe.</string>
 	<string key="Mut_Voi_Leech_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Wrogowie nakładają przy trafieniu wyssanie, zadające obrażenia od próżni i zapewniające wrogowi leczenie czasowe.</string>
 	<string key="Mut_Voi_Stacks_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Trafieni wrogowie nakładają kumulujące się efekty paranoi. Gdy liczba efektów wyniesie {[Type_StatusEffectData.Mut_Voi_Stacks_1_Effect.AddOnStackSize]}, cel otrzyma obrażenia od próżni.</string>
 	<string key="Mut_Voi_Stacks_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Trafieni wrogowie nakładają kumulujące się efekty paranoi. Gdy liczba efektów wyniesie {[Type_StatusEffectData.Mut_Voi_Stacks_2_Effect.AddOnStackSize]}, cel otrzyma obrażenia od próżni.</string>
-	<string key="Mut_Voi_Death_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Po śmierci wrogowie rzucają zaklęcie, zapewniające innym okolicznym wrogom nasączenie mocą próżni.</string>
+	<string key="Mut_Voi_Death_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Po śmierci wrogowie rzucają zaklęcie zapewniające innym okolicznym wrogom nasączenie mocą próżni.</string>
 	<string key="Mut_Fir_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Okresowo wybiera gracza z najmniejszą procentowo ilością zdrowia. Po kilku sekundach wybrany gracz rzuca łańcuch ognia, zadając obrażenia pobliskim graczom i SI.</string>
 	<string key="Mut_Voi_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Okresowo wybiera gracza z najmniejszą procentowo ilością zdrowia. Po kilku sekundach wybrany gracz rzuca łańcuch próżni, zadając obrażenia pobliskim graczom i SI.</string>
 	<string key="Mut_Fir_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Gdy gracz z najniższym poziomem zdrowia zostanie wybrany, na pozostałych graczy zostanie nałożone zeschnięte osłabienie. Wybrany gracz otrzyma aurę, która usuwa zeschnięte osłabienie.</string>
@@ -167,6 +167,6 @@
 	<string key="Mut_Fir_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Używanie umiejętności wyczerpuje globalną dolegliwość. Gdy zostaje ona wyczerpana, na wszystkich graczy rzucana jest strefa wyciszająca graczy znajdujących się w jej obrębie. Gdy dolegliwość przestaje działać, strefy eksplodują, zadając obrażenia od ognia zarówno wrogom, jak i graczom znajdującym się w promieniu rażenia.</string>
 	<string key="Mut_Voi_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Używanie umiejętności wyczerpuje globalną dolegliwość. Gdy zostaje ona wyczerpana, na wszystkich graczy rzucana jest strefa wyciszająca graczy znajdujących się w jej obrębie. Gdy dolegliwość przestaje działać, strefy eksplodują, zadając obrażenia od próżni zarówno wrogom, jak i graczom znajdującym się w promieniu rażenia.</string>
 	<string key="ui_dungeon_mutator_highest_rank_tooltip" rel_version="Feature_Dungeon_Mutators">Najwyższa ranga osiągnięta na tym poziomie trudności: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank}&lt;/font&gt;</string>
-	<string key="ui_dungeon_survive_for">Przetrwaj przez:</string>
+	<string key="ui_dungeon_survive_for">Przetrwaj przez</string>
 </resources>
 

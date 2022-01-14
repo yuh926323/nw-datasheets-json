@@ -1469,18 +1469,6 @@
 	<string key="1128_Helmet_Description">Un casque joliment ouvragé dans un style classique.</string>
 	<string key="1128_Sword">Épée écossaise de qualité</string>
 	<string key="1128_Sword_Description">Une épée robuste, au tranchant cruel.</string>
-	<string key="1130_SensouNoKo">Sensou no ko</string>
-	<string key="1130_SensouNoKo_Description">Le tranchant étincelant de cette arme émet une lueur malveillante. Des motifs huileux sur la lame révèlent ce qui semble être des milliers de visages hurlant de tourment.</string>
-	<string key="1132_Peacemaker">Le « Pacificateur » : tromblon de grand-père</string>
-	<string key="1132_Peacemaker_Description">La célèbre solution aux problèmes de frontière de la famille Gingham.</string>
-	<string key="1132_Stock">Crosse du tromblon de grand-père</string>
-	<string key="1132_Stock_Description">Patiné par l'âge et l'utilisation, grêlé par les brûlures de poudre.</string>
-	<string key="1132_Mechanism">Mécanisme du tromblon de grand-père</string>
-	<string key="1132_Mechanism_Description">Parfaitement huilé. Simple, mais efficace.</string>
-	<string key="1132_Barrel">Canon du tromblon de grand-père</string>
-	<string key="1132_Barrel_Description">Un canon lisse et évasé. Vieux, mais bien entretenu.</string>
-	<string key="1130_SensouNoKo2">Sensou no ko</string>
-	<string key="1130_SensouNoKo2_Description">Cette lame funeste est cruellement tranchante. Quand vous soulevez cette œuvre d'art, vous sentez la force jaillir en vous.</string>
 	<string key="1201_0104_ShipsFlag_Description">Un pavillon arraché à une épave abandonnée [Objet de mission]</string>
 	<string key="1201_0104_ShipsFlag_MasterName">Pavillon de navire</string>
 	<string key="1202_0501_PiratedWeapons">Armes de contrebande</string>
@@ -2554,13 +2542,13 @@
 	<string key="1hGauntletVoidDrownedEliteT5_Description" rel_version="Weapon_Void_Gauntlet">La force écrasante du néant le plus profond.</string>
 	<string key="1hGauntletVoidDrownedEliteT5_MasterName" rel_version="Weapon_Void_Gauntlet">Poing des profondeurs nocturnes</string>
 	<string key="1hGauntletVoidDrownedT2_Description" rel_version="Weapon_Void_Gauntlet">« Un chien mouillé ne pue pas comparé à un pirate mort et trempé. »</string>
-	<string key="1hGauntletVoidDrownedT2_MasterName" rel_version="Weapon_Void_Gauntlet">Gantelets de glace trempés</string>
+	<string key="1hGauntletVoidDrownedT2_MasterName" rel_version="Weapon_Void_Gauntlet"/>
 	<string key="1hGauntletVoidDrownedT3_Description" rel_version="Weapon_Void_Gauntlet">« Un chien mouillé ne pue pas comparé à un pirate mort et trempé. »</string>
-	<string key="1hGauntletVoidDrownedT3_MasterName" rel_version="Weapon_Void_Gauntlet">Gantelets de glace trempés</string>
+	<string key="1hGauntletVoidDrownedT3_MasterName" rel_version="Weapon_Void_Gauntlet"/>
 	<string key="1hGauntletVoidDrownedT4_Description" rel_version="Weapon_Void_Gauntlet">« Un chien mouillé ne pue pas comparé à un pirate mort et trempé. »</string>
-	<string key="1hGauntletVoidDrownedT4_MasterName" rel_version="Weapon_Void_Gauntlet">Gantelets de glace trempés</string>
+	<string key="1hGauntletVoidDrownedT4_MasterName" rel_version="Weapon_Void_Gauntlet"/>
 	<string key="1hGauntletVoidDrownedT5_Description" rel_version="Weapon_Void_Gauntlet">« Un chien mouillé ne pue pas comparé à un pirate mort et trempé. »</string>
-	<string key="1hGauntletVoidDrownedT5_MasterName" rel_version="Weapon_Void_Gauntlet">Gantelets de glace trempés</string>
+	<string key="1hGauntletVoidDrownedT5_MasterName" rel_version="Weapon_Void_Gauntlet"/>
 	<string key="1hGauntletVoidDungeon1T3_Description" rel_version="Weapon_Void_Gauntlet">Des gantelets du néant trouvés dans les profondeurs du temple amrine.</string>
 	<string key="1hGauntletVoidDungeon1T3_MasterName" rel_version="Weapon_Void_Gauntlet">Gantelets du néant du temple amrine</string>
 	<string key="1hGauntletVoidDungeon2T3_Description" rel_version="Weapon_Void_Gauntlet">Des gantelets du néant trouvés à l'Obélisque brisé.</string>
@@ -11056,12 +11044,12 @@
 	<string key="CampCookingT2_MasterName">Feu de camp II</string>
 	<string key="CampEngineeringT2_Description">UTILISATION : Placer un établi portable permet de créer des munitions, des potions de base et de réparer tout objet.</string>
 	<string key="CampEngineeringT2_MasterName">Établi portable</string>
-	<string key="campskin_winter01_a_description" rel_version="CampSkin_Winter1">Un refuge chaud et confortable.</string>
-	<string key="campskin_winter01_a_mastername" rel_version="CampSkin_Winter1">Apparence de bivouac en tissu de qualité</string>
-	<string key="campskin_winter02_a_description" rel_version="CampSkin_Winter2">Protégez-vous des hivers glacials d'Aeternum dans une tente haute.</string>
-	<string key="campskin_winter02_a_mastername" rel_version="CampSkin_Winter2">Étoile d'hiver</string>
-	<string key="campskin_winter03_a_description" rel_version="CampSkin_Winter3">Profitez de la vue dans l'élégance avec cette tente haute.</string>
-	<string key="campskin_winter03_a_mastername" rel_version="CampSkin_Winter3">Opulence hivernale</string>
+	<string key="campskin_winter01_a_description" comment="Player Camp Skin" rel_version="CampSkin_Winter1">Un refuge chaud et confortable.</string>
+	<string key="campskin_winter01_a_mastername" comment="Player Camp Skin" rel_version="CampSkin_Winter1">Apparence de bivouac en tissu de qualité</string>
+	<string key="campskin_winter02_a_description" comment="Player Camp Skin" rel_version="CampSkin_Winter2">Protégez-vous des hivers glacials d'Aeternum dans une tente haute.</string>
+	<string key="campskin_winter02_a_mastername" comment="Player Camp Skin" rel_version="CampSkin_Winter2">Étoile d'hiver</string>
+	<string key="campskin_winter03_a_description" comment="Player Camp Skin" rel_version="CampSkin_Winter3">Profitez de la vue dans l'élégance avec cette tente haute.</string>
+	<string key="campskin_winter03_a_mastername" comment="Player Camp Skin" rel_version="CampSkin_Winter3">Opulence hivernale</string>
 	<string key="CampT1_Description">Fabriquez des réserves basiques et créez un point de réapparition ici.</string>
 	<string key="CampT1_MasterName">Bivouac &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;I&lt;/font&gt;</string>
 	<string key="CampT2_Description">Fabriquez des réserves basiques et créez un point de réapparition ici.</string>
@@ -13195,8 +13183,8 @@
 	<string key="EarringT4_TrinketofTheodora_MasterName">Talisman de Theodora</string>
 	<string key="EarringT5_CoiledSentinelEarring_MasterName">Boucle d'oreille de sentinelle torsadée</string>
 	<string key="EarringT5_DoomsChanceEarring_MasterName">Boucle d'oreille de la chance du sort</string>
-	<string key="EarringT5_DS_Mut_Description" rel_version="Feature_Dungeon_Mutators">Un accessoire ordinaire provenant d'une contrée lointaine.</string>
-	<string key="EarringT5_DS_Mut_MasterName" rel_version="Feature_Dungeon_Mutators">Boucle d'oreille de chantier naval</string>
+	<string key="RingT5_DS_Mut_Description" rel_version="Feature_Dungeon_Mutators">Un accessoire ordinaire provenant d'une contrée lointaine.</string>
+	<string key="RingT5_DS_Mut_MasterName" rel_version="Feature_Dungeon_Mutators"/>
 	<string key="EarringT5_EarringoftheHallowedSoul_MasterName">Boucle d'oreille de l'âme sanctifiée</string>
 	<string key="EarringT5_EvangelineProphecyHook_MasterName">Crochet de la prophétie d'Évangeline</string>
 	<string key="EarringT5_FelixFollowToken_MasterName">Jeton de la piste de Felix</string>
@@ -15043,6 +15031,8 @@
 	<string key="FoodCONINTT5_MasterName">Riz sauté à la poitrine de porc</string>
 	<string key="FoodCONLUCT5_Description">Augmente la forme de {[Type_StatusEffectData.FoodCONLUCT5.MODConstitution * {ConsumablePotency}]} et la chance de {[Type_StatusEffectData.FoodCONLUCT5.GlobalRollMod * {ConsumablePotency} / 100]} % pendant {[Type_StatusEffectData.FoodCONLUCT5.BaseDuration / 60]} minutes. Votre santé se régénère lentement pendant la durée de l'effet. La puissance de cet objet s'ajuste à votre niveau.</string>
 	<string key="FoodCONLUCT5_MasterName">Dîner au dindon monstrueux rôti</string>
+	<string key="RabbitSeasonTotem_MasterName" rel_version="Feature_RabbitSeason"/>
+	<string key="RabbitSeasonTotem_Description" rel_version="Feature_RabbitSeason">  La puissance de cet objet s'ajuste à votre niveau.</string>
 	<string key="FoodCONSTRT2_Description">Augmente la forme de {[Type_StatusEffectData.FoodCONSTRT2.MODConstitution]} et la force de {[Type_StatusEffectData.FoodCONSTRT2.MODStrength]} pendant {[Type_StatusEffectData.FoodCONSTRT2.BaseDuration / 60]} minutes. Votre santé se régénère lentement pendant la durée de l'effet.</string>
 	<string key="FoodCONSTRT2_MasterName">Steak de venaison grillé</string>
 	<string key="FoodCONSTRT3_Description">Augmente la forme de {[Type_StatusEffectData.FoodCONSTRT3.MODConstitution]} et la force de {[Type_StatusEffectData.FoodCONSTRT3.MODStrength]} pendant {[Type_StatusEffectData.FoodCONSTRT3.BaseDuration / 60]} minutes. Votre santé se régénère lentement pendant la durée de l'effet.</string>
@@ -16810,7 +16800,7 @@
 	<string key="HeavyFeet_ElitePOI_HarbingerRobesT5_Description">« Le présage de mort est souvent le dernier que l'on reçoit... »</string>
 	<string key="HeavyFeet_ElitePOI_HarbingerRobesT5_MasterName">Présage du mal</string>
 	<string key="heavyfeet_eternal_mutt5_description" rel_version="Eternal_Inject_Armor">Après avoir passé du temps dans les néants éternels, cette armure a muté pour mieux s'adapter aux ténèbres dévorantes.</string>
-	<string key="heavyfeet_eternal_mutt5_mastername" rel_version="Eternal_Inject_Armor">Jambières éternelles</string>
+	<string key="heavyfeet_eternal_mutt5_mastername" rel_version="Eternal_Inject_Armor">Solerets éternels</string>
 	<string key="HeavyFeet_FanaticT5_Description">« Rien n'égalait sa volonté farouche de répandre le message de sa foi, sinon son empressement à condamner celles et ceux qui ne la partageaient pas. »</string>
 	<string key="HeavyFeet_FanaticT5_MasterName">Bottes de fanatique</string>
 	<string key="HeavyFeet_FurLinedT5_Description">Cette armure de qualité exceptionnelle est doublée de fourrure pour une protection accrue contre les éléments.</string>
@@ -16844,7 +16834,7 @@
 	<string key="HeavyFeet_HeavyT5_Description">Une armure de plates lourde. Très lourde, mais offre une excellente protection.</string>
 	<string key="HeavyFeet_HeavyT5_MasterName">Bottes lourdes en orichalque</string>
 	<string key="heavyfeet_hellfire_mutt5_description" rel_version="Hellfire_Inject_Armor">Après avoir passé du temps dans les feux de l'enfer, cette armure a muté pour mieux s'adapter à la chaleur.</string>
-	<string key="heavyfeet_hellfire_mutt5_mastername" rel_version="Hellfire_Inject_Armor">Jambières du feu infernal</string>
+	<string key="heavyfeet_hellfire_mutt5_mastername" rel_version="Hellfire_Inject_Armor">Solerets du feu infernal</string>
 	<string key="HeavyFeet_Invasion1T4_Description">Une armure remise à ceux qui ont tout risqué pour protéger les vies et les moyens de subsistance de ceux qui ne pouvaient pas combattre.</string>
 	<string key="HeavyFeet_Invasion1T4_MasterName">Bottes d'aspirant défenseur</string>
 	<string key="HeavyFeet_Invasion1T5_Description">Une armure remise à ceux qui ont résisté aux assauts des ténèbres, bien décidés à mourir un autre jour.</string>
@@ -17884,7 +17874,7 @@
 	<string key="HeavyLegs_ElitePOI_HarbingerRobesT5_Description">« Le présage de mort est souvent le dernier que l'on reçoit... »</string>
 	<string key="HeavyLegs_ElitePOI_HarbingerRobesT5_MasterName">Présage de malheur</string>
 	<string key="heavylegs_eternal_mutt5_description" rel_version="Eternal_Inject_Armor">Après avoir passé du temps dans les néants éternels, cette armure a muté pour mieux s'adapter aux ténèbres dévorantes.</string>
-	<string key="heavylegs_eternal_mutt5_mastername" rel_version="Eternal_Inject_Armor">Solerets éternels</string>
+	<string key="heavylegs_eternal_mutt5_mastername" rel_version="Eternal_Inject_Armor">Jambières éternelles</string>
 	<string key="HeavyLegs_FanaticT5_Description">« Rien n'égalait sa volonté farouche de répandre le message de sa foi, sinon son empressement à condamner celles et ceux qui ne la partageaient pas. »</string>
 	<string key="HeavyLegs_FanaticT5_MasterName">Jambières de fanatique</string>
 	<string key="HeavyLegs_FurLinedT5_Description">Cette armure de qualité exceptionnelle est doublée de fourrure pour une protection accrue contre les éléments.</string>
@@ -17918,7 +17908,7 @@
 	<string key="HeavyLegs_HeavyT5_Description">Une armure de plates lourde. Très lourde, mais offre une excellente protection.</string>
 	<string key="HeavyLegs_HeavyT5_MasterName">Jambières lourdes en orichalque</string>
 	<string key="heavylegs_hellfire_mutt5_description" rel_version="Hellfire_Inject_Armor">Après avoir passé du temps dans les feux de l'enfer, cette armure a muté pour mieux s'adapter à la chaleur.</string>
-	<string key="heavylegs_hellfire_mutt5_mastername" rel_version="Hellfire_Inject_Armor">Solerets du feu infernal</string>
+	<string key="heavylegs_hellfire_mutt5_mastername" rel_version="Hellfire_Inject_Armor">Jambières du feu infernal</string>
 	<string key="HeavyLegs_ImmovableLegguardsT5_Description">« Ces protège-jambes vous maintiennent au sol comme par magie pour une stabilité à la limite du possible. »</string>
 	<string key="HeavyLegs_ImmovableLegguardsT5_MasterName">Protège-jambes inébranlables</string>
 	<string key="HeavyLegs_Invasion1T4_Description">Une armure remise à ceux qui ont tout risqué pour protéger les vies et les moyens de subsistance de ceux qui ne pouvaient pas combattre.</string>
@@ -18662,6 +18652,7 @@
 	<string key="JewelcrafterCharmT3_MasterName">Charme du joaillier en orichalque</string>
 	<string key="JournalFloraT1_Description">Un journal décrivant l'étrange et merveilleuse flore d'Aeternum. Améliorez votre trophée de Récolte avec ceci.</string>
 	<string key="JournalFloraT1_MasterName">Journal de la flore d'Aeternum</string>
+	<string key="Tuning_Orb"/>
 	<string key="KeyAmrine_Desc">Un orbe d'accord qui vous permet d'accéder à l'expédition du site de fouilles amrine.</string>
 	<string key="KeyAmrine_Name">Orbe d'accord d'amrine</string>
 	<string key="KeyDepts_Desc">Un orbe d'accord qui vous permet d'accéder à l'expédition des Profondeurs.</string>
@@ -24624,10 +24615,22 @@
 	<string key="Playtest_Box_Oils_MasterName">Caisse d'huiles de roche et de laitages de testeur</string>
 	<string key="Playtest_Box_Gems_Description">Un sac contenant tous les types de gemmes adaptés au palier.</string>
 	<string key="Playtest_Box_Gems_MasterName">Sac de gemmes de testeur</string>
+	<string key="Playtest_Box_StandingVials_Description"/>
+	<string key="Playtest_Box_StandingVials_MasterName"/>
 	<string key="Playtest_Box_Tools_Description">Une caisse contenant des outils d'exploitation.</string>
 	<string key="Playtest_Box_Tools_MasterName">Caisse d'outils de testeur</string>
+	<string key="Playtest_Box_CraftingClothing_Description"> Attention </string>
+	<string key="Playtest_Box_CraftingClothing_MasterName"/>
+	<string key="Playtest_Box_RefiningClothing_Description"> Attention </string>
+	<string key="Playtest_Box_RefiningClothing_MasterName"/>
+	<string key="Playtest_Box_GatheringClothing_Description"> Attention </string>
+	<string key="Playtest_Box_GatheringClothing_MasterName"/>
+	<string key="Playtest_Box_Trophies_Description"/>
+	<string key="Playtest_Box_Trophies_MasterName"/>
 	<string key="Playtest_Box_TuningOrbs_Description">Une caisse contenant des orbes d'accord.</string>
 	<string key="Playtest_Box_TuningOrbs_MasterName">Caisse d'orbes d'accord de testeur</string>
+	<string key="Playtest_Box_KeyMutators_Description"/>
+	<string key="Playtest_Box_KeyMutators_MasterName"/>
 	<string key="Playtest_Box_Weapons_Damage_Description">Une caisse contenant des armes pour infliger des dégâts.</string>
 	<string key="Playtest_Box_Weapons_Damage_MasterName">Caisse d'armes de testeur (DPS)</string>
 	<string key="Playtest_Box_Weapons_Description">Une caisse contenant tous les types d'armes.</string>
@@ -24696,6 +24699,28 @@
 	<string key="Playtest_StaffFire_MasterName">Bâton de feu de testeur</string>
 	<string key="Playtest_StaffLife_Description">Confère aléatoirement des caractéristiques puissantes, un emplacement de gemme vide pour les DPS ou une gemme cornaline pour les tanks, ainsi que des atouts aléatoires.</string>
 	<string key="Playtest_StaffLife_MasterName">Bâton de vie de testeur</string>
+	<string key="Playtest_StandingVial_Brightwood_Description"/>
+	<string key="Playtest_StandingVial_Brightwood_MasterName"/>
+	<string key="Playtest_StandingVial_Everfall_Description"/>
+	<string key="Playtest_StandingVial_Everfall_MasterName"/>
+	<string key="Playtest_StandingVial_Reekwater_Description"/>
+	<string key="Playtest_StandingVial_Reekwater_MasterName"/>
+	<string key="Playtest_StandingVial_Windsward_Description"/>
+	<string key="Playtest_StandingVial_Windsward_MasterName"/>
+	<string key="Playtest_StandingVial_Ebonscale_Description"/>
+	<string key="Playtest_StandingVial_Ebonscale_MasterName"/>
+	<string key="Playtest_StandingVial_FirstLight_Description"/>
+	<string key="Playtest_StandingVial_FirstLight_MasterName"/>
+	<string key="Playtest_StandingVial_CutlassKeys_Description"/>
+	<string key="Playtest_StandingVial_CutlassKeys_MasterName"/>
+	<string key="Playtest_StandingVial_Mourningdale_Description"/>
+	<string key="Playtest_StandingVial_Mourningdale_MasterName"/>
+	<string key="Playtest_StandingVial_MonarchsBluffs_Description"/>
+	<string key="Playtest_StandingVial_MonarchsBluffs_MasterName"/>
+	<string key="Playtest_StandingVial_WeaversFen_Description"/>
+	<string key="Playtest_StandingVial_WeaversFen_MasterName"/>
+	<string key="Playtest_StandingVial_RestlessShore_Description"/>
+	<string key="Playtest_StandingVial_RestlessShore_MasterName"/>
 	<string key="Playtest_Warhammer_Description">Confère aléatoirement des caractéristiques puissantes, un emplacement de gemme vide pour les DPS ou une gemme cornaline pour les tanks, ainsi que des atouts aléatoires.</string>
 	<string key="Playtest_Warhammer_MasterName">Marteau d'armes de testeur</string>
 	<string key="PoisonStingerT5_Description">Un sac de venin d'une raie. Cette bourse venimeuse peut être utilisée en alchimie.</string>
@@ -26084,16 +26109,15 @@
 	<string key="RingT5_HoopofTheCursedSon_MasterName">Boucle du fils maudit</string>
 	<string key="RingT5_LI_Mut_Description" rel_version="Feature_Dungeon_Mutators">Élément d'une promesse ancienne engloutie par le temps.</string>
 	<string key="RingT5_LI_Mut_MasterName" rel_version="Feature_Dungeon_Mutators">Anneau de l'Instrument</string>
-	<string key="RingT5_M_Mut_Description" rel_version="Feature_Dungeon_Mutators">Accessoire altéré par des intentions malfaisantes.</string>
-	<string key="RingT5_M_Mut_MasterName" rel_version="Feature_Dungeon_Mutators">Anneau de Myrkgard</string>
+	<string key="EarringT5_M_Mut_Description" rel_version="Feature_Dungeon_Mutators">Accessoire altéré par des intentions malfaisantes.</string>
+	<string key="EarringT5_M_Mut_MasterName" rel_version="Feature_Dungeon_Mutators"/>
 	<string key="RingT5_RingofBloodyValentine_MasterName">Anneau de Valentine sanglante</string>
 	<string key="RingT5_RingofSeadogsWatch_MasterName">Anneau de la garde du loup de mer</string>
 	<string key="RingT5_RudigersJourneyBand_MasterName">Anneau du périple de Rudiger</string>
 	<string key="RingT5_SaintHernigusCrystalSignet_MasterName">Chevalière en cristal de Saint Hernigus</string>
 	<string key="RingT5_SaintsPilgramageHoop_MasterName">Boucle de pèlerinage du saint</string>
 	<string key="RingT5_TheIncubusHoop_MasterName">La boucle de l'incube</string>
-	<string key="ringt5_theringoftheforgerssignet _mastername">Chevalière du forgeron</string>
-	<string key="RingT5_TheRingoftheForgersSignet_MasterName">La chevalière du forgeron</string>
+	<string key="RingT5_TheRingoftheForgersSignet_MasterName">Chevalière du forgeron</string>
 	<string key="RingT5_ThriftersLostDiamond_MasterName">Diamant perdu de l'épargnant</string>
 	<string key="RingT5_TormentorsFingerCurse_MasterName">Malédiction de l'index du héraut</string>
 	<string key="RingT5_TravellersSolaceBand_MasterName">Anneau de réconfort du voyageur</string>
@@ -26600,9 +26624,9 @@
 	<string key="Skin_Hands_TwitchFisherman_Description" rel_version="Apparel_Fisherman_Twitch">Un ensemble pratique de tenues de pêche teinté de violet royal.</string>
 	<string key="Skin_Hands_TwitchFisherman_MasterName" rel_version="Apparel_Fisherman_Twitch">Gants de pêche royale</string>
 	<string key="Skin_Hands_Valentines01_Description" rel_version="Apparel_Valentines_MTX_1">Pour ceux qui sont souvent perdus dans des accès d'admiration et de pâmoison.</string>
-	<string key="Skin_Hands_Valentines01_MasterName" rel_version="Apparel_Valentines_MTX_1">Pieds du Fou d'amour</string>
+	<string key="Skin_Hands_Valentines01_MasterName" rel_version="Apparel_Valentines_MTX_1"/>
 	<string key="Skin_Hands_Valentines02_Description" rel_version="Apparel_Valentines_MTX_2">En enfilant cette armure, votre poitrine vous intime de protéger les innocents, les sans défense et les amants du monde.</string>
-	<string key="Skin_Hands_Valentines02_MasterName" rel_version="Apparel_Valentines_MTX_2">Pieds du Chevalier de la dévotion</string>
+	<string key="Skin_Hands_Valentines02_MasterName" rel_version="Apparel_Valentines_MTX_2"/>
 	<string key="skin_hands_vogue_description" rel_version="Apparel_Vogue">L'art véritable n'est jamais compris en son temps.</string>
 	<string key="skin_hands_vogue_mastername" rel_version="Apparel_Vogue">Gants hotte couture</string>
 	<string key="skin_hands_warspecial_description" rel_version="Apparel_War_Special">L'uniforme majestueux de la Mort elle-même, dont on raconte qu'elle arpente les champs de bataille d'Aeternum en maudissant les résurrections qui s'y produisent.</string>
@@ -27762,7 +27786,7 @@
 	<string key="WhisperwoodT1_MasterName">Chantebois</string>
 	<string key="wickedtyrant_description" rel_version="RoyalCourtSkins">« Le pouvoir corrompt. Le Tyran cruel vous donne ce genre de pouvoir. »</string>
 	<string key="wickedtyrant_mastername" rel_version="RoyalCourtSkins">Tyran cruel</string>
-	<string key="WildwoodT1_Description">Le bois sauvage tient son nom du fait qu'il pousse dans toutes les directions possibles.</string>
+	<string key="WildwoodT1_Description"/>
 	<string key="WildwoodT1_MasterName">Bois sauvage</string>
 	<string key="WindMillT2_Description">Moulin à céréales de niveau II. Transforme les céréales en nourriture pour animaux.</string>
 	<string key="WindMillT2_MasterName">Moulin à céréales II</string>
@@ -28549,5 +28573,47 @@
 	<string key="2hBlunderbuss_TheLandT5_Description" rel_version="Weapon_Blunderbuss">Vaste et majestueux.</string>
 	<string key="2hBlunderbuss_ColdClawT5_MasterName" rel_version="Weapon_Blunderbuss">Griffe froide</string>
 	<string key="2hBlunderbuss_ColdClawT5_Description" rel_version="Weapon_Blunderbuss">Vos doigts sont comme gelés lorsque vous les tendez.</string>
+	<string key="2hMusket_StinkysMusketT3_MasterName" rel_version="Feature_RewardingExploration"/>
+	<string key="2hMusket_StinkysMusketT3_Description" rel_version="Feature_RewardingExploration"/>
+	<string key="1hThrowingAxe_StinkysHatchetT3_MasterName" rel_version="Feature_RewardingExploration"/>
+	<string key="1hThrowingAxe_StinkysHatchetT3_Description" rel_version="Feature_RewardingExploration"/>
+	<string key="AmuletT3_StinkysKeepsake_MasterName" rel_version="Feature_RewardingExploration"/>
+	<string key="AmuletT3_StinkysKeepsake_Description" rel_version="Feature_RewardingExploration"/>
+	<string key="2hBlunderbuss_DemonsDemiseT4_MasterName" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbuss_DemonsDemiseT4_Description" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbuss_DemonicExecutionT5_MasterName" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbuss_DemonicExecutionT5_Description" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbuss_SwatheOfDarknessT5_MasterName" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbuss_SwatheOfDarknessT5_Description" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbuss_BlindingLightT5_MasterName" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbuss_BlindingLightT5_Description" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbuss_BrickBreakerT5_MasterName" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbuss_BrickBreakerT5_Description" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbuss_TheGardenerT5_MasterName" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbuss_TheGardenerT5_Description" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbussCraftedDungeon3T4_MasterName" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbussCraftedDungeon3T4_Description" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbussCraftedDungeon4T4_MasterName" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbussCraftedDungeon4T4_Description" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbussCraftedDungeon5T4_MasterName" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbussCraftedDungeon5T4_Description" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbussCraftedDungeon6T5_MasterName" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbussCraftedDungeon6T5_Description" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbussCraftedDungeon7T5_MasterName" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbussCraftedDungeon7T5_Description" rel_version="Weapon_Blunderbuss"/>
+	<string key="2hBlunderbussCraftedDungeon8T5_MasterName" rel_version="Expedition_BrimstoneSands_00">REMPLACEMENT</string>
+	<string key="2hBlunderbussCraftedDungeon8T5_Description" rel_version="Expedition_BrimstoneSands_00">REMPLACEMENT</string>
+	<string key="2hBlunderbussCraftedDungeon9T5_MasterName" rel_version="Expedition_ShatterMtn_00">REMPLACEMENT</string>
+	<string key="2hBlunderbussCraftedDungeon9T5_Description" rel_version="Expedition_ShatterMtn_00">REMPLACEMENT</string>
+	<string key="2hBlunderbussCraftedDungeon10T5_MasterName" rel_version="Expedition_MourningDale_00">REMPLACEMENT</string>
+	<string key="2hBlunderbussCraftedDungeon10T5_Description" rel_version="Expedition_MourningDale_00">REMPLACEMENT</string>
+	<string key="CampSkin_Floral01_A_MasterName" comment="Player Camp Skin" rel_version="CampSkin_Floral_1"/>
+	<string key="CampSkin_Floral01_A_Description" comment="Player Camp Skin" rel_version="CampSkin_Floral_1"/>
+	<string key="CampSkin_Love01_A_MasterName" comment="Player Camp Skin" rel_version="CampSkin_Love_1"/>
+	<string key="CampSkin_Love01_A_Description" comment="Player Camp Skin" rel_version="CampSkin_Love_1"/>
+	<string key="CampSkin_Fortune01_A_MasterName" comment="Player Camp Skin" rel_version="CampSkin_Fortune_1"/>
+	<string key="CampSkin_Fortune01_A_Description" comment="Player Camp Skin" rel_version="CampSkin_Fortune_1"/>
+	<string key="CampSkin_Fortune02_A_MasterName" comment="Player Camp Skin" rel_version="CampSkin_Fortune_2"/>
+	<string key="CampSkin_Fortune02_A_Description" comment="Player Camp Skin" rel_version="CampSkin_Fortune_2"/>
 </resources>
 

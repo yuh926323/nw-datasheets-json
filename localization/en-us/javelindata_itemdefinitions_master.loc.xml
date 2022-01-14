@@ -1469,18 +1469,6 @@
 	<string key="1128_Helmet_Description">A nicely worked helmet in an older style.</string>
 	<string key="1128_Sword">Fine Broadsword</string>
 	<string key="1128_Sword_Description">A stout blade, cruelly sharp.</string>
-	<string key="1130_SensouNoKo">Sensou no Ko</string>
-	<string key="1130_SensouNoKo_Description">The bright edge of this weapon gleams with malice. Oily patterns upon the blade reveal what appear to be thousands of faces, screaming in torment.</string>
-	<string key="1132_Peacemaker">Grampa's Blunderbuss "Peacemaker"</string>
-	<string key="1132_Peacemaker_Description">The famous Gingham family solution to frontier problems.</string>
-	<string key="1132_Stock">Grampa's Blunderbuss Stock</string>
-	<string key="1132_Stock_Description">Smooth with age and use, pockmarked with powder burns.</string>
-	<string key="1132_Mechanism">Grampa's Blunderbuss Mechanism</string>
-	<string key="1132_Mechanism_Description">Well-oiled, simple, but highly effective.</string>
-	<string key="1132_Barrel">Grampa's Blunderbuss Barrel</string>
-	<string key="1132_Barrel_Description">A flared smooth-bore barrel, old, but well cared for.</string>
-	<string key="1130_SensouNoKo2">Sensou no Ko</string>
-	<string key="1130_SensouNoKo2_Description">This wicked blade is cruelly sharp. Hefting the masterwork makes you feel strong.</string>
 	<string key="1201_0104_ShipsFlag_Description">A flag torn from a forlorn wreck [Mission Item]</string>
 	<string key="1201_0104_ShipsFlag_MasterName">Ship's Flag</string>
 	<string key="1202_0501_PiratedWeapons">Pirated Weapons</string>
@@ -13195,8 +13183,8 @@
 	<string key="EarringT4_TrinketofTheodora_MasterName">Trinket of Theodora</string>
 	<string key="EarringT5_CoiledSentinelEarring_MasterName">Coiled Sentinel Earring</string>
 	<string key="EarringT5_DoomsChanceEarring_MasterName">Doom's Chance Earring</string>
-	<string key="EarringT5_DS_Mut_Description" rel_version="Feature_Dungeon_Mutators">A normal accessory shipped in from a faraway land.</string>
-	<string key="EarringT5_DS_Mut_MasterName" rel_version="Feature_Dungeon_Mutators">Shipyard's Earring</string>
+	<string key="RingT5_DS_Mut_Description" rel_version="Feature_Dungeon_Mutators">A normal accessory shipped in from a faraway land.</string>
+	<string key="RingT5_DS_Mut_MasterName" rel_version="Feature_Dungeon_Mutators">Shipyard's Ring</string>
 	<string key="EarringT5_EarringoftheHallowedSoul_MasterName">Earring of the Hallowed Soul</string>
 	<string key="EarringT5_EvangelineProphecyHook_MasterName">Evangeline Prophecy Hook</string>
 	<string key="EarringT5_FelixFollowToken_MasterName">Felix Follow Token</string>
@@ -16810,7 +16798,7 @@
 	<string key="HeavyFeet_ElitePOI_HarbingerRobesT5_Description">"You never want to see the Harbinger of Death coming, as it's often the last thing you see."</string>
 	<string key="HeavyFeet_ElitePOI_HarbingerRobesT5_MasterName">Harbinger of Evil</string>
 	<string key="heavyfeet_eternal_mutt5_description" rel_version="Eternal_Inject_Armor">Due to the time spent within eternal voids, this armor has been mutated to better suit the consuming darkness.</string>
-	<string key="heavyfeet_eternal_mutt5_mastername" rel_version="Eternal_Inject_Armor">Eternal Greaves</string>
+	<string key="heavyfeet_eternal_mutt5_mastername" rel_version="Eternal_Inject_Armor">Eternal Sabatons</string>
 	<string key="HeavyFeet_FanaticT5_Description">"His eagerness to spread the message of his faith was equal only to his willingness to denouce those who did not share it."</string>
 	<string key="HeavyFeet_FanaticT5_MasterName">Fanatic's Boots</string>
 	<string key="HeavyFeet_FurLinedT5_Description">This masterfully crafted armor has been lined with fur to better protect from the elements.</string>
@@ -16844,7 +16832,7 @@
 	<string key="HeavyFeet_HeavyT5_Description">Heavy plate armor. Very heavy, but offers excellent protection.</string>
 	<string key="HeavyFeet_HeavyT5_MasterName">Orichalcum Heavy Boots</string>
 	<string key="heavyfeet_hellfire_mutt5_description" rel_version="Hellfire_Inject_Armor">Due to the time spent within hellfire, this armor has been mutated to better suit the heat.</string>
-	<string key="heavyfeet_hellfire_mutt5_mastername" rel_version="Hellfire_Inject_Armor">Hellfire Greaves</string>
+	<string key="heavyfeet_hellfire_mutt5_mastername" rel_version="Hellfire_Inject_Armor">Hellfire Sabatons</string>
 	<string key="HeavyFeet_Invasion1T4_Description">Armor awarded to those who risked it all to protect the lives and livelihoods of those who could not fight.</string>
 	<string key="HeavyFeet_Invasion1T4_MasterName">Hopeful Defender Boots</string>
 	<string key="HeavyFeet_Invasion1T5_Description">Armor awarded to those who stood against crashing waves of darkness and said "Not today."</string>
@@ -17884,7 +17872,7 @@
 	<string key="HeavyLegs_ElitePOI_HarbingerRobesT5_Description">"You never want to see the Harbinger of Death coming, as it's often the last thing you see."</string>
 	<string key="HeavyLegs_ElitePOI_HarbingerRobesT5_MasterName">Harbinger of Gloom</string>
 	<string key="heavylegs_eternal_mutt5_description" rel_version="Eternal_Inject_Armor">Due to the time spent within eternal voids, this armor has been mutated to better suit the consuming darkness.</string>
-	<string key="heavylegs_eternal_mutt5_mastername" rel_version="Eternal_Inject_Armor">Eternal Sabatons</string>
+	<string key="heavylegs_eternal_mutt5_mastername" rel_version="Eternal_Inject_Armor">Eternal Greaves</string>
 	<string key="HeavyLegs_FanaticT5_Description">"His eagerness to spread the message of his faith was equal only to his willingness to denouce those who did not share it."</string>
 	<string key="HeavyLegs_FanaticT5_MasterName">Fanatic's Greaves</string>
 	<string key="HeavyLegs_FurLinedT5_Description">This masterfully crafted armor has been lined with fur to better protect from the elements.</string>
@@ -17918,7 +17906,7 @@
 	<string key="HeavyLegs_HeavyT5_Description">Heavy plate armor. Very heavy, but offers excellent protection.</string>
 	<string key="HeavyLegs_HeavyT5_MasterName">Orichalcum Heavy Greaves</string>
 	<string key="heavylegs_hellfire_mutt5_description" rel_version="Hellfire_Inject_Armor">Due to the time spent within hellfire, this armor has been mutated to better suit the heat.</string>
-	<string key="heavylegs_hellfire_mutt5_mastername" rel_version="Hellfire_Inject_Armor">Hellfire Sabatons</string>
+	<string key="heavylegs_hellfire_mutt5_mastername" rel_version="Hellfire_Inject_Armor">Hellfire Greaves</string>
 	<string key="HeavyLegs_ImmovableLegguardsT5_Description">"These leggings anchor you to the ground as if with magic, providing incredible stability."</string>
 	<string key="HeavyLegs_ImmovableLegguardsT5_MasterName">Immovable Legguards</string>
 	<string key="HeavyLegs_Invasion1T4_Description">Armor awarded to those who risked it all to protect the lives and livelihoods of those who could not fight.</string>
@@ -18662,6 +18650,7 @@
 	<string key="JewelcrafterCharmT3_MasterName">Orichalcum Jewelcrafters Charm</string>
 	<string key="JournalFloraT1_Description">A journal the weird and wondeful flora of Aeternum. Improve your Harvesting trophy with this.</string>
 	<string key="JournalFloraT1_MasterName">Journal of Aeternum Flora</string>
+	<string key="Tuning_Orb">Tuning Orb</string>
 	<string key="KeyAmrine_Desc">A tuning orb that allows access to the Amrine Excavation expedition.</string>
 	<string key="KeyAmrine_Name">Amrine Tuning Orb</string>
 	<string key="KeyDepts_Desc">A tuning orb that allows access to The Depths expedition.</string>
@@ -24624,8 +24613,18 @@
 	<string key="Playtest_Box_Oils_MasterName">Playtester Oils and Dairy Box</string>
 	<string key="Playtest_Box_Gems_Description">A bag containing tier-appropriate gems of every type.</string>
 	<string key="Playtest_Box_Gems_MasterName">Playtester Gem Bag</string>
+	<string key="Playtest_Box_StandingVials_Description">Provides vials that grant a large amount of Territory Standing for each of the territories.</string>
+	<string key="Playtest_Box_StandingVials_MasterName">Playtester Territory Standing Vials</string>
 	<string key="Playtest_Box_Tools_Description">A box containing gathering tools.</string>
 	<string key="Playtest_Box_Tools_MasterName">Playtester Tool Box</string>
+	<string key="Playtest_Box_CraftingClothing_Description">A box containing crafting Trade Skill clothing. Warning! Contains lots of items.</string>
+	<string key="Playtest_Box_CraftingClothing_MasterName">Playtester Crafting Clothing</string>
+	<string key="Playtest_Box_RefiningClothing_Description">A box containing refining Trade Skill clothing. Warning! Contains lots of items.</string>
+	<string key="Playtest_Box_RefiningClothing_MasterName">Playtester Refining Clothing</string>
+	<string key="Playtest_Box_GatheringClothing_Description">A box containing gathering Trade Skill clothing. Warning! Contains lots of items.</string>
+	<string key="Playtest_Box_GatheringClothing_MasterName">Playtester Gathering Clothing</string>
+	<string key="Playtest_Box_Trophies_Description">Provides three of each Trophy.</string>
+	<string key="Playtest_Box_Trophies_MasterName">Playtester Housing Trophies</string>
 	<string key="Playtest_Box_TuningOrbs_Description">A box containing tuning orbs.</string>
 	<string key="Playtest_Box_TuningOrbs_MasterName">Playtester Tuning Orb Box</string>
 	<string key="Playtest_Box_KeyMutators_Description">A box containing mutated Tuning Orbs.</string>
@@ -24698,6 +24697,28 @@
 	<string key="Playtest_StaffFire_MasterName">Playtester Fire Staff</string>
 	<string key="Playtest_StaffLife_Description">Rolls strong attributes, an empty gem slot for DPS or Carnelian Gem for Tanks, and randomized perks.</string>
 	<string key="Playtest_StaffLife_MasterName">Playtester Life Staff</string>
+	<string key="Playtest_StandingVial_Brightwood_Description">Provides a large amount of Territory Standing for Brightwood.</string>
+	<string key="Playtest_StandingVial_Brightwood_MasterName">Playtester Brightwood Standing</string>
+	<string key="Playtest_StandingVial_Everfall_Description">Provides a large amount of Territory Standing for Everfall.</string>
+	<string key="Playtest_StandingVial_Everfall_MasterName">Playtester Everfall Standing</string>
+	<string key="Playtest_StandingVial_Reekwater_Description">Provides a large amount of Territory Standing for Reekwater.</string>
+	<string key="Playtest_StandingVial_Reekwater_MasterName">Playtester Reekwater Standing</string>
+	<string key="Playtest_StandingVial_Windsward_Description">Provides a large amount of Territory Standing for Windsward.</string>
+	<string key="Playtest_StandingVial_Windsward_MasterName">Playtester Windsward Standing</string>
+	<string key="Playtest_StandingVial_Ebonscale_Description">Provides a large amount of Territory Standing for Ebonscale Reach.</string>
+	<string key="Playtest_StandingVial_Ebonscale_MasterName">Playtester Ebonscale Reach Standing</string>
+	<string key="Playtest_StandingVial_FirstLight_Description">Provides a large amount of Territory Standing for First Light.</string>
+	<string key="Playtest_StandingVial_FirstLight_MasterName">Playtester First Light Standing</string>
+	<string key="Playtest_StandingVial_CutlassKeys_Description">Provides a large amount of Territory Standing for Cutlass Keys.</string>
+	<string key="Playtest_StandingVial_CutlassKeys_MasterName">Playtester Cutlass Keys Standing</string>
+	<string key="Playtest_StandingVial_Mourningdale_Description">Provides a large amount of Territory Standing for Mourningdale.</string>
+	<string key="Playtest_StandingVial_Mourningdale_MasterName">Playtester Mourningdale Standing</string>
+	<string key="Playtest_StandingVial_MonarchsBluffs_Description">Provides a large amount of Territory Standing for Monarch's Bluffs.</string>
+	<string key="Playtest_StandingVial_MonarchsBluffs_MasterName">Playtester Monarch's Bluffs Standing</string>
+	<string key="Playtest_StandingVial_WeaversFen_Description">Provides a large amount of Territory Standing for Weaver's Fen.</string>
+	<string key="Playtest_StandingVial_WeaversFen_MasterName">Playtester Weaver's Fen Standing</string>
+	<string key="Playtest_StandingVial_RestlessShore_Description">Provides a large amount of Territory Standing for Restless Shore.</string>
+	<string key="Playtest_StandingVial_RestlessShore_MasterName">Playtester Restless Shore Standing</string>
 	<string key="Playtest_Warhammer_Description">Rolls strong attributes, an empty gem slot for DPS or Carnelian Gem for Tanks, and randomized perks.</string>
 	<string key="Playtest_Warhammer_MasterName">Playtester War Hammer</string>
 	<string key="PoisonStingerT5_Description">A poison sac from a Sting Ray. This venemous pouch can be used in Alchemy.</string>
@@ -26086,8 +26107,8 @@
 	<string key="RingT5_HoopofTheCursedSon_MasterName">Hoop of The Cursed Son</string>
 	<string key="RingT5_LI_Mut_Description" rel_version="Feature_Dungeon_Mutators">Part of an ancient promise lost to time.</string>
 	<string key="RingT5_LI_Mut_MasterName" rel_version="Feature_Dungeon_Mutators">Instrumentality's Ring</string>
-	<string key="RingT5_M_Mut_Description" rel_version="Feature_Dungeon_Mutators">Corrupted with evil intent.</string>
-	<string key="RingT5_M_Mut_MasterName" rel_version="Feature_Dungeon_Mutators">Myrkgard's Ring</string>
+	<string key="EarringT5_M_Mut_Description" rel_version="Feature_Dungeon_Mutators">Corrupted with evil intent.</string>
+	<string key="EarringT5_M_Mut_MasterName" rel_version="Feature_Dungeon_Mutators">Myrkgard's Earring</string>
 	<string key="RingT5_RingofBloodyValentine_MasterName">Bloody Valentine's Ring</string>
 	<string key="RingT5_RingofSeadogsWatch_MasterName">Ring of Seadog's Watch</string>
 	<string key="RingT5_RudigersJourneyBand_MasterName">Rudiger's Journey Band</string>
@@ -26604,7 +26625,7 @@
 	<string key="Skin_Hands_Valentines01_Description" rel_version="Apparel_Valentines_MTX_1">For those who find themselves lost in frequent bouts of admiration and swooning.</string>
 	<string key="Skin_Hands_Valentines01_MasterName" rel_version="Apparel_Valentines_MTX_1">Fool For Love Gloves</string>
 	<string key="Skin_Hands_Valentines02_Description" rel_version="Apparel_Valentines_MTX_2">Upon donning this armor your chest swells with the urge to protect the innocent, the unguarded, and the lovers of the world.</string>
-	<string key="Skin_Hands_Valentines02_MasterName" rel_version="Apparel_Valentines_MTX_2">Knight of Devotion Feet</string>
+	<string key="Skin_Hands_Valentines02_MasterName" rel_version="Apparel_Valentines_MTX_2">Knight of Devotion Gloves</string>
 	<string key="skin_hands_vogue_description" rel_version="Apparel_Vogue">True art is never understood in its own time.</string>
 	<string key="skin_hands_vogue_mastername" rel_version="Apparel_Vogue">Court Couture Lofe</string>
 	<string key="skin_hands_warspecial_description" rel_version="Apparel_War_Special">The resplendent uniform of Death itself, said to stalk every battlefield in Aeternum cursing the island's resurrections.</string>

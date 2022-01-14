@@ -1751,5 +1751,19 @@
 	<string key="ui_poi_factionarea_30146">East Werna Beach</string>
 	<string key="ui_poi_factionarea_30147">Key to Werna</string>
 	<string key="ui_poi_factionarea_30148">Devil's Sea Arch</string>
+	<string key="ui_poi_spiritshrine_03_50152">Lazarus Shrine</string>
+	<string key="ui_poi_spiritshrine_03_50152_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_04_50153">Eternal Shrine</string>
+	<string key="ui_poi_spiritshrine_04_50153_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_05_50154">Melpomene's Shrine</string>
+	<string key="ui_poi_spiritshrine_05_50154_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_03_40175">Starstone Gate</string>
+	<string key="ui_poi_spiritshrine_03_40175_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_04_40176">Excavated Shrine</string>
+	<string key="ui_poi_spiritshrine_04_40176_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_04_50425">Genesis Shrine</string>
+	<string key="ui_poi_spiritshrine_04_50425_description">Spirit Shrine</string>
+	<string key="ui_poi_spiritshrine_02_60240">Shiresad Shrine</string>
+	<string key="ui_poi_spiritshrine_02_60240_description">Spirit Shrine</string>
 </resources>
 

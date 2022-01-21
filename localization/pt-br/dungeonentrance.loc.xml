@@ -10,7 +10,7 @@
 	<string key="ui_dungeon_requirements_gearscore">Nível Recomendado: {level}</string>
 	<string key="ui_flyout_recommended_groupsize">Jogadores Recomendados: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_equipment_warning">Para completar esta Expedição, seu grupo precisa ter pelo menos &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_reward_level">Os itens que você encontrar podem variar em relação aos listados, com base na Pontuação do Equipamento deles.</string>
+	<string key="ui_dungeon_reward_level"/>
 	<string key="ui_dungeon_level_requirement">Nível Necessário: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Tempo Transcorrido:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Tempo de espera estimado:</string>
@@ -64,7 +64,7 @@
 	<string key="ui_dungeon_mutation_promotion_description" rel_version="Feature_Dungeon_Mutators">Os &lt;font color="#ff9393" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Inimigos&lt;/font&gt; podem ter os seguintes &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Buffs:&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutation_curse_description" rel_version="Feature_Dungeon_Mutators">Os &lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Jogadores&lt;/font&gt; recebem os seguintes &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Debuffs:&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_expiration_text" rel_version="Feature_Dungeon_Mutators">Muda em: </string>
-	<string key="ui_dungeon_mutator_recommended_gearscore" rel_version="Feature_Dungeon_Mutators">Pontuação do Equipamento Recomendada: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;600 - {score}&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_recommended_gearscore" rel_version="Feature_Dungeon_Mutators"/>
 	<string key="ui_dungeon_mutator_codex" rel_version="Feature_Dungeon_Mutators">Códice</string>
 	<string key="ui_dungeon_mutator_difficulty_default" rel_version="Feature_Dungeon_Mutators">Comum</string>
 	<string key="ui_dungeon_mutator_difficulty_1" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt; (Normal)</string>
@@ -94,7 +94,7 @@
 	<string key="ui_dungeon_mutator_gold" rel_version="Feature_Dungeon_Mutators">Ouro</string>
 	<string key="ui_dungeon_mutator_dungeon_progression" rel_version="Feature_Dungeon_Mutators">Progressão da Expedição</string>
 	<string key="ui_dungeon_mutator_difficulty_codex" rel_version="Feature_Dungeon_Mutators">Códice de dificuldade</string>
-	<string key="ui_dungeon_mutator_difficulty_points" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{val}&lt;/font&gt; pontos</string>
+	<string key="ui_dungeon_mutator_difficulty_points" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{val}&lt;/font&gt; pontos</string>
 	<string key="SavageTitle" rel_version="Feature_Dungeon_Mutators">Selvagem</string>
 	<string key="SavageDescription" rel_version="Feature_Dungeon_Mutators">Descrição de Selvagem</string>
 	<string key="BarbaricTitle" rel_version="Feature_Dungeon_Mutators">Bárbaro</string>
@@ -156,17 +156,22 @@
 	<string key="Mut_Voi_Resist_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Os inimigos têm absorção de dano imaterial.</string>
 	<string key="Mut_Voi_Leech_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Os ataques dos inimigos aplicam Sanguessuga, que os curam e causam dano imaterial aos jogadores continuamente.</string>
 	<string key="Mut_Voi_Leech_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Os ataques dos inimigos aplicam Sanguessuga, que os curam e causam dano imaterial aos jogadores continuamente.</string>
-	<string key="Mut_Voi_Stacks_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Quando atingidos, os inimigos aplicam acúmulos de Paranoia. Ao atingir {[Type_StatusEffectData.Mut_Voi_Stacks_1_Effect.AddOnStackSize]} acúmulos, Paranoia causa dano imaterial.</string>
-	<string key="Mut_Voi_Stacks_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Quando atingidos, os inimigos aplicam acúmulos de Paranoia forte. Ao atingir {[Type_StatusEffectData.Mut_Voi_Stacks_2_Effect.AddOnStackSize]} acúmulos, Paranoia causa dano imaterial.</string>
+	<string key="Mut_Voi_Stacks_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Quando atingidos, os inimigos aplicam acúmulos de Paranoia. Ao chegar em {[Type_StatusEffectData.Mut_Voi_Stacks_1_Effect.AddOnStackSize]} acúmulos, faz uma explosão imaterial aparecer na sua localização.</string>
+	<string key="Mut_Voi_Stacks_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Quando atingidos, os inimigos aplicam acúmulos de Paranoia. Ao chegar em {[Type_StatusEffectData.Mut_Voi_Stacks_2_Effect.AddOnStackSize]} acúmulos, faz uma explosão imaterial aparecer na sua localização.</string>
 	<string key="Mut_Voi_Death_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Ao serem abatidos, os inimigos lançam um feitiço que concede Energizado Imaterial a outros inimigos na área.</string>
 	<string key="Mut_Fir_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Seleciona periodicamente o jogador com a menor porcentagem de saúde. Após vários segundos, o jogador selecionado lança Chama Encadeada, causando dano aos jogadores e IAs próximos.</string>
 	<string key="Mut_Voi_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Seleciona periodicamente o jogador com a menor porcentagem de saúde. Após vários segundos, o jogador selecionado lança Imaterial Encadeado, causando dano aos jogadores e IAs próximos.</string>
 	<string key="Mut_Fir_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Ao selecionar o jogador com a porcentagem de saúde mais baixa, todos os outros jogadores recebem Enfraquecido Frágil. O jogador selecionado ganha uma aura que elimina o Enfraquecido Frágil.</string>
 	<string key="Mut_Voi_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Ao selecionar o jogador com a porcentagem de saúde mais baixa, todos os outros jogadores recebem Enfraquecido Frágil. O jogador selecionado ganha uma aura que elimina o Enfraquecido Frágil.</string>
 	<string key="Mut_Curse4_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Enquanto as zonas de silêncio estão ativas, todos os jogadores perdem a regeneração natural de mana. Ficar na zona de silêncio concede uma grande quantidade de regeneração de mana.</string>
-	<string key="Mut_Fir_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Usar habilidades causa uma aflição global. Quando a aflição é aplicada, uma zona é conjurada em cada jogador, silenciando todos os outros na área. Quando a aflição acaba, as zonas detonam e causam Dano Flamejante aos inimigos e jogadores na área.</string>
-	<string key="Mut_Voi_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Usar habilidades causa uma aflição global. Quando a aflição é aplicada, uma zona é conjurada em cada jogador, silenciando todos os outros na área. Quando a aflição acaba, as zonas detonam e causam Dano Imaterial aos inimigos e jogadores na área.</string>
+	<string key="Mut_Fir_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Usar habilidades causa uma aflição global. Quando a aflição é aplicada, uma zona é conjurada em cada jogador, silenciando todos os outros na área. Quando a aflição acaba, as zonas detonam e causam Dano Flamejante aos jogadores na área.</string>
+	<string key="Mut_Voi_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Usar habilidades causa uma aflição global. Quando a aflição é aplicada, uma zona é conjurada em cada jogador, silenciando todos os outros na área. Quando a aflição acaba, as zonas detonam e causam Dano Imaterial aos jogadores na área.</string>
 	<string key="ui_dungeon_mutator_highest_rank_tooltip" rel_version="Feature_Dungeon_Mutators">O ranque mais alto que você atingiu nesta dificuldade: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank}&lt;/font&gt;</string>
 	<string key="ui_dungeon_survive_for">Sobreviva durante</string>
+	<string key="ui_dungeon_possible_rewards_header" rel_version="Feature_Dungeon_Mutators">Possíveis Recompensas</string>
+	<string key="ui_dungeon_no_possible_rewards" rel_version="Feature_Dungeon_Mutators">Sem Possíveis Recompensas</string>
+	<string key="ui_dungeon_orb_explanation" rel_version="Feature_Dungeon_Mutators">Uma recompensa única. Orbes de Afinação de Expedição Transmutada também estão disponíveis na Loja da Facção.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip" rel_version="Feature_Dungeon_Mutators"/>
+	<string key="ui_dungeon_gearscore_underlevel_warning" rel_version="Feature_Dungeon_Mutators">AVISO: A Pontuação Média do seu Equipamento é muito baixa para ter um bom desempenho nesta Expedição.</string>
 </resources>
 

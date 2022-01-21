@@ -10,7 +10,7 @@
 	<string key="ui_dungeon_requirements_gearscore">Empfohlene Stufe: {level}</string>
 	<string key="ui_flyout_recommended_groupsize">Empfohlene Spielerzahl: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_equipment_warning">Um diese Expedition abzuschließen, muss deine Gruppe mindestens &lt;font color="#ffffff"&gt;{item}&lt;/font&gt; haben.</string>
-	<string key="ui_dungeon_reward_level">Der Rüstwert der erhaltenen Gegenstände kann von den hier aufgelisteten abweichen.</string>
+	<string key="ui_dungeon_reward_level"/>
 	<string key="ui_dungeon_level_requirement">Erforderliche Stufe: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Vergangene Zeit:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Voraussichtliche Wartedauer:</string>
@@ -64,7 +64,7 @@
 	<string key="ui_dungeon_mutation_promotion_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Gegner&lt;/font&gt; können die folgenden &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Boni&lt;/font&gt; haben:</string>
 	<string key="ui_dungeon_mutation_curse_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Spieler&lt;/font&gt; erhalten die folgenden &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Schwächungen&lt;/font&gt;:</string>
 	<string key="ui_dungeon_mutator_expiration_text" rel_version="Feature_Dungeon_Mutators">Ändert sich in: </string>
-	<string key="ui_dungeon_mutator_recommended_gearscore" rel_version="Feature_Dungeon_Mutators">Empfohlener Rüstwert: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;600 – {score}&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_recommended_gearscore" rel_version="Feature_Dungeon_Mutators"/>
 	<string key="ui_dungeon_mutator_codex" rel_version="Feature_Dungeon_Mutators">Kodex</string>
 	<string key="ui_dungeon_mutator_difficulty_default" rel_version="Feature_Dungeon_Mutators">Normal</string>
 	<string key="ui_dungeon_mutator_difficulty_1" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt; (Normal)</string>
@@ -94,7 +94,7 @@
 	<string key="ui_dungeon_mutator_gold" rel_version="Feature_Dungeon_Mutators">Gold</string>
 	<string key="ui_dungeon_mutator_dungeon_progression" rel_version="Feature_Dungeon_Mutators">Expeditionsfortschritt</string>
 	<string key="ui_dungeon_mutator_difficulty_codex" rel_version="Feature_Dungeon_Mutators">Schwierigkeitskodex</string>
-	<string key="ui_dungeon_mutator_difficulty_points" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{val}&lt;/font&gt; Pkt.</string>
+	<string key="ui_dungeon_mutator_difficulty_points" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{val}&lt;/font&gt; Pkt.</string>
 	<string key="SavageTitle" rel_version="Feature_Dungeon_Mutators">[Wild]</string>
 	<string key="SavageDescription" rel_version="Feature_Dungeon_Mutators">Beschreibung zu "Wild"</string>
 	<string key="BarbaricTitle" rel_version="Feature_Dungeon_Mutators">[Barbarisch]</string>
@@ -156,17 +156,22 @@
 	<string key="Mut_Voi_Resist_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Gegner erhalten Unheilsabsorption.</string>
 	<string key="Mut_Voi_Leech_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Bei einem Treffer applizieren Gegner Sauger, verursachen Unheilsschaden und heilen den Gegner über Zeit.</string>
 	<string key="Mut_Voi_Leech_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Bei einem Treffer applizieren Gegner Sauger, verursachen Unheilsschaden und heilen den Gegner über Zeit.</string>
-	<string key="Mut_Voi_Stacks_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Werden Gegner getroffen, applizieren sie stapelbare Paranoia. Ab {[Type_StatusEffectData.Mut_Voi_Stacks_1_Effect.AddOnStackSize]} Stapeln wird Unheilsschaden zugefügt.</string>
-	<string key="Mut_Voi_Stacks_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Werden Gegner getroffen, applizieren sie stapelbare Paranoia. Ab {[Type_StatusEffectData.Mut_Voi_Stacks_2_Effect.AddOnStackSize]} Stapeln wird Unheilsschaden zugefügt.</string>
+	<string key="Mut_Voi_Stacks_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Wenn du einen Gegner triffst, erhältst du einen Stapel Paranoia. Bei {[Type_StatusEffectData.Mut_Voi_Stacks_1_Effect.AddOnStackSize]} Stapeln wird an deinem Standort eine Unheilsexplosion erzeugt.</string>
+	<string key="Mut_Voi_Stacks_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Wenn du einen Gegner triffst, erhältst du einen Stapel Paranoia. Bei {[Type_StatusEffectData.Mut_Voi_Stacks_2_Effect.AddOnStackSize]} Stapeln wird an deinem Standort eine Unheilsexplosion erzeugt.</string>
 	<string key="Mut_Voi_Death_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Beim Tod wirken Gegner einen Zauber, der anderen Gegnern in dem Gebiet Unheilsermächtigung verleiht.</string>
 	<string key="Mut_Fir_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">In regelmäßigen Abständen wird der Spieler mit der prozentual niedrigsten Gesundheit ausgewählt. Nach einigen Sekunden wirkt der ausgewählte Spieler einen Feuer-Kettenzauber und schadet Spielern und KI-Gefährten in der Nähe.</string>
 	<string key="Mut_Voi_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">In regelmäßigen Abständen wird der Spieler mit der prozentual niedrigsten Gesundheit ausgewählt. Nach einigen Sekunden wirkt der ausgewählte Spieler einen Unheil-Kettenzauber und schadet Spielern und KI-Gefährten in der Nähe.</string>
 	<string key="Mut_Fir_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Bei der Auswahl des Spielers mit der prozentual niedrigsten Gesundheit erhalten alle anderen Spieler "Verwelktes Schwächen". Der gewählte Spieler erhält eine Aura, die diese Schwächung läutert.</string>
 	<string key="Mut_Voi_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Bei der Auswahl des Spielers mit der prozentual niedrigsten Gesundheit erhalten alle anderen Spieler "Verwelktes Schwächen". Der gewählte Spieler erhält eine Aura, die diese Schwächung läutert.</string>
 	<string key="Mut_Curse4_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Solange Stillezonen aktiv sind, verlieren alle Spieler ihre natürliche Manaregeneration. Steht man in einer Stillezone, wird kontinuierlich eine große Menge Mana wiederhergestellt.</string>
-	<string key="Mut_Fir_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Durch das Verwenden von Fertigkeiten wird der globale Leidenseffekt aufgehoben. Wenn der Leidenseffekt aufgehoben wurde, wird auf alle Spieler eine Zone angewendet, die Spieler im Einzugsgebiet verstummen lässt. Nachdem der Leidenseffekt aufgehoben wurde, explodieren die Zonen und verursachen Feuerschaden bei Gegnern und Spielern im Einzugsgebiet.</string>
-	<string key="Mut_Voi_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Durch das Verwenden von Fertigkeiten wird der globale Leidenseffekt aufgehoben. Wenn der Leidenseffekt aufgehoben wurde, wird auf alle Spieler eine Zone angewendet, die Spieler im Einzugsgebiet verstummen lässt. Nachdem der Leidenseffekt aufgehoben wurde, explodieren die Zonen und verursachen Unheilsschaden bei Gegnern und Spielern im Einzugsgebiet.</string>
+	<string key="Mut_Fir_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Durch das Verwenden von Fertigkeiten wird der globale Leidenseffekt aufgehoben. Wenn der Leidenseffekt aufgehoben wurde, wird auf alle Spieler eine Zone angewendet, die Spieler im Einzugsgebiet verstummen lässt. Nachdem der Leidenseffekt aufgehoben wurde, explodieren die Zonen und verursachen Feuerschaden bei Spielern im Einzugsgebiet.</string>
+	<string key="Mut_Voi_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Durch das Verwenden von Fertigkeiten wird der globale Leidenseffekt aufgehoben. Wenn der Leidenseffekt aufgehoben wurde, wird auf alle Spieler eine Zone angewendet, die Spieler im Einzugsgebiet verstummen lässt. Nachdem der Leidenseffekt aufgehoben wurde, explodieren die Zonen und verursachen Unheilsschaden bei Spielern im Einzugsgebiet.</string>
 	<string key="ui_dungeon_mutator_highest_rank_tooltip" rel_version="Feature_Dungeon_Mutators">Der höchste Rang, der auf diesem Schwierigkeitsgrad erreicht wurde: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank}&lt;/font&gt;</string>
 	<string key="ui_dungeon_survive_for">Überlebt für</string>
+	<string key="ui_dungeon_possible_rewards_header" rel_version="Feature_Dungeon_Mutators">Mögliche Belohnungen</string>
+	<string key="ui_dungeon_no_possible_rewards" rel_version="Feature_Dungeon_Mutators">Keine möglichen Belohnungen</string>
+	<string key="ui_dungeon_orb_explanation" rel_version="Feature_Dungeon_Mutators">Eine einmalige Belohnung. Mutierte Expeditionsstimmkugeln sind auch im Fraktionsladen erhältlich.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip" rel_version="Feature_Dungeon_Mutators"/>
+	<string key="ui_dungeon_gearscore_underlevel_warning" rel_version="Feature_Dungeon_Mutators">ACHTUNG: Ihr durchschnittlicher Rüstwert ist zu niedrig, als dass Sie bei dieser Expedition gut abschneiden könnten.</string>
 </resources>
 

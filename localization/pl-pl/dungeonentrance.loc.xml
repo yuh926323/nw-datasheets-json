@@ -10,7 +10,7 @@
 	<string key="ui_dungeon_requirements_gearscore">Zalecany poziom: {level}</string>
 	<string key="ui_flyout_recommended_groupsize">Zalecana liczba graczy: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;{players}&lt;/font&gt;</string>
 	<string key="ui_dungeon_requirements_equipment_warning">Aby ukończyć tę ekspedycję, twoja grupa musi mieć co najmniej: &lt;font color="#ffffff"&gt;{item}&lt;/font&gt;.</string>
-	<string key="ui_dungeon_reward_level">Znalezione przedmioty mogą się różnić od przedmiotów z listy ze względu na ich liczbę punktów wyposażenia.</string>
+	<string key="ui_dungeon_reward_level"/>
 	<string key="ui_dungeon_level_requirement">Wymagany poziom: {level}</string>
 	<string key="ui_dungeon_elapsed_time">Minęło:</string>
 	<string key="ui_dungeon_estimated_time_remaining">Szacowany czas oczekiwania:</string>
@@ -64,7 +64,7 @@
 	<string key="ui_dungeon_mutation_promotion_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ff9393" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Wrogowie&lt;/font&gt; mogą mieć następujące &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;premie:&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutation_curse_description" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffd45f" face="lyshineui/fonts/Nimbus_Bold.font"&gt;Gracze&lt;/font&gt; otrzymują następujące &lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;negatywne efekty:&lt;/font&gt;</string>
 	<string key="ui_dungeon_mutator_expiration_text" rel_version="Feature_Dungeon_Mutators">Zmienia się za: </string>
-	<string key="ui_dungeon_mutator_recommended_gearscore" rel_version="Feature_Dungeon_Mutators">Zalecana liczba pkt wyposażenia: &lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;600 – {score}&lt;/font&gt;</string>
+	<string key="ui_dungeon_mutator_recommended_gearscore" rel_version="Feature_Dungeon_Mutators"/>
 	<string key="ui_dungeon_mutator_codex" rel_version="Feature_Dungeon_Mutators">Kodeks</string>
 	<string key="ui_dungeon_mutator_difficulty_default" rel_version="Feature_Dungeon_Mutators">Zwykła</string>
 	<string key="ui_dungeon_mutator_difficulty_1" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/CaslonAnt.font"&gt;1&lt;/font&gt; (Normalny)</string>
@@ -94,7 +94,7 @@
 	<string key="ui_dungeon_mutator_gold" rel_version="Feature_Dungeon_Mutators">Złoto</string>
 	<string key="ui_dungeon_mutator_dungeon_progression" rel_version="Feature_Dungeon_Mutators">Postęp ekspedycji</string>
 	<string key="ui_dungeon_mutator_difficulty_codex" rel_version="Feature_Dungeon_Mutators">Kodeks poz. trudności</string>
-	<string key="ui_dungeon_mutator_difficulty_points" rel_version="Feature_Dungeon_Mutators">&lt;font color="#ffffff" face="lyshineui/fonts/Nimbus_Bold.font"&gt;{val}&lt;/font&gt; pkt</string>
+	<string key="ui_dungeon_mutator_difficulty_points" rel_version="Feature_Dungeon_Mutators">&lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{val}&lt;/font&gt; pkt</string>
 	<string key="SavageTitle" rel_version="Feature_Dungeon_Mutators">Dzikość</string>
 	<string key="SavageDescription" rel_version="Feature_Dungeon_Mutators">Opis dzikości</string>
 	<string key="BarbaricTitle" rel_version="Feature_Dungeon_Mutators">Barbarzyństwo</string>
@@ -156,17 +156,22 @@
 	<string key="Mut_Voi_Resist_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Wrogowie dysponują pochłanianiem obrażeń od próżni.</string>
 	<string key="Mut_Voi_Leech_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Wrogowie nakładają przy trafieniu wyssanie, zadające obrażenia od próżni i zapewniające wrogowi leczenie czasowe.</string>
 	<string key="Mut_Voi_Leech_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Wrogowie nakładają przy trafieniu wyssanie, zadające obrażenia od próżni i zapewniające wrogowi leczenie czasowe.</string>
-	<string key="Mut_Voi_Stacks_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Trafieni wrogowie nakładają kumulujące się efekty paranoi. Gdy liczba efektów wyniesie {[Type_StatusEffectData.Mut_Voi_Stacks_1_Effect.AddOnStackSize]}, cel otrzyma obrażenia od próżni.</string>
-	<string key="Mut_Voi_Stacks_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Trafieni wrogowie nakładają kumulujące się efekty paranoi. Gdy liczba efektów wyniesie {[Type_StatusEffectData.Mut_Voi_Stacks_2_Effect.AddOnStackSize]}, cel otrzyma obrażenia od próżni.</string>
+	<string key="Mut_Voi_Stacks_1_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Trafieni wrogowie nakładają kumulujące się efekty paranoi. Po skumulowaniu się {[Type_StatusEffectData.Mut_Voi_Stacks_1_Effect.AddOnStackSize]} razy wywołuje wybuch próżni w miejscu, w którym się znajdujesz.</string>
+	<string key="Mut_Voi_Stacks_2_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Trafieni wrogowie nakładają kumulujące się efekty paranoi. Po skumulowaniu się {[Type_StatusEffectData.Mut_Voi_Stacks_2_Effect.AddOnStackSize]} razy wywołuje wybuch próżni w miejscu, w którym się znajdujesz.</string>
 	<string key="Mut_Voi_Death_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Po śmierci wrogowie rzucają zaklęcie zapewniające innym okolicznym wrogom nasączenie mocą próżni.</string>
 	<string key="Mut_Fir_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Okresowo wybiera gracza z najmniejszą procentowo ilością zdrowia. Po kilku sekundach wybrany gracz rzuca łańcuch ognia, zadając obrażenia pobliskim graczom i SI.</string>
 	<string key="Mut_Voi_Curse3_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Okresowo wybiera gracza z najmniejszą procentowo ilością zdrowia. Po kilku sekundach wybrany gracz rzuca łańcuch próżni, zadając obrażenia pobliskim graczom i SI.</string>
 	<string key="Mut_Fir_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Gdy gracz z najniższym poziomem zdrowia zostanie wybrany, na pozostałych graczy zostanie nałożone zeschnięte osłabienie. Wybrany gracz otrzyma aurę, która usuwa zeschnięte osłabienie.</string>
 	<string key="Mut_Voi_Curse3_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Gdy gracz z najniższym poziomem zdrowia zostanie wybrany, na pozostałych graczy zostanie nałożone zeschnięte osłabienie. Wybrany gracz otrzyma aurę, która usuwa zeschnięte osłabienie.</string>
 	<string key="Mut_Curse4_Major_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Gdy strefy wyciszenia są aktywne, wszyscy gracze tracą naturalną zdolność regeneracji many. Przebywanie w strefie wyciszenia regeneruje dużą ilość many.</string>
-	<string key="Mut_Fir_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Używanie umiejętności wyczerpuje globalną dolegliwość. Gdy zostaje ona wyczerpana, na wszystkich graczy rzucana jest strefa wyciszająca graczy znajdujących się w jej obrębie. Gdy dolegliwość przestaje działać, strefy eksplodują, zadając obrażenia od ognia zarówno wrogom, jak i graczom znajdującym się w promieniu rażenia.</string>
-	<string key="Mut_Voi_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Używanie umiejętności wyczerpuje globalną dolegliwość. Gdy zostaje ona wyczerpana, na wszystkich graczy rzucana jest strefa wyciszająca graczy znajdujących się w jej obrębie. Gdy dolegliwość przestaje działać, strefy eksplodują, zadając obrażenia od próżni zarówno wrogom, jak i graczom znajdującym się w promieniu rażenia.</string>
+	<string key="Mut_Fir_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Używanie umiejętności wyczerpuje globalną dolegliwość. Gdy zostaje ona wyczerpana, na wszystkich graczy rzucana jest strefa wyciszająca graczy znajdujących się w jej obrębie. Gdy dolegliwość przestaje działać, strefy eksplodują, zadając obrażenia od ognia graczom znajdującym się w promieniu rażenia.</string>
+	<string key="Mut_Voi_Curse4_Minor_Buff_Tooltip" rel_version="Feature_Dungeon_Mutators">Używanie umiejętności wyczerpuje globalną dolegliwość. Gdy zostaje ona wyczerpana, na wszystkich graczy rzucana jest strefa wyciszająca graczy znajdujących się w jej obrębie. Gdy dolegliwość przestaje działać, strefy eksplodują, zadając obrażenia od próżni graczom znajdującym się w promieniu rażenia.</string>
 	<string key="ui_dungeon_mutator_highest_rank_tooltip" rel_version="Feature_Dungeon_Mutators">Najwyższa ranga osiągnięta na tym poziomie trudności: &lt;font face="lyshineui/fonts/Nimbus_Bold.font"&gt;{rank}&lt;/font&gt;</string>
 	<string key="ui_dungeon_survive_for">Przetrwaj przez</string>
+	<string key="ui_dungeon_possible_rewards_header" rel_version="Feature_Dungeon_Mutators">Potencjalne nagrody</string>
+	<string key="ui_dungeon_no_possible_rewards" rel_version="Feature_Dungeon_Mutators">Brak potencjalnych nagród</string>
+	<string key="ui_dungeon_orb_explanation" rel_version="Feature_Dungeon_Mutators">Jednorazowa nagroda. Kule strojące zmutowanej ekspedycji można również kupić w sklepie frakcji.</string>
+	<string key="ui_dungeon_gearscore_recommendation_tooltip" rel_version="Feature_Dungeon_Mutators"/>
+	<string key="ui_dungeon_gearscore_underlevel_warning" rel_version="Feature_Dungeon_Mutators">UWAGA: Twoja przeciętna liczba punktów wyposażenia jest za niska, aby dobrze poradzić sobie w tej ekspedycji.</string>
 </resources>
 

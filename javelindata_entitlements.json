@@ -4253,5 +4253,12 @@
         "RewardType": "Entitlement",
         "Reward(s)": "Ent_Housing_Love2022_Couch+Ent_Housing_Love2022_Chair+Ent_Housing_Love2022_Candelabra+Ent_Housing_Love2022_Sconce+Ent_Housing_Love2022_Desk+Ent_Housing_Love2022_LovePotion+Ent_Housing_Love2022_Tub+Ent_Housing_Love2022_VaseFlowers+Ent_Housing_Love2022_Table",
         "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "CPPE",
+        "EntitlementIndex": 581,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Misc"
     }
 ]

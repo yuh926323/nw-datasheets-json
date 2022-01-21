@@ -38630,8 +38630,8 @@
     {
         "StatusID": "Mut_Fir_Curse3_Major_Buff",
         "DisplayName": "@Mut_Fir_Curse3_Major_Buff_DisplayName",
-        "Description": "@Mut_Fir_Curse3_Major_Buff_Tooltip",
-        "PlaceholderIcon": "lyshineui/images/status/SE_shrivelled.png",
+        "Description": "@Mut_Fir_Curse3_Minor_Buff_Tooltip",
+        "PlaceholderIcon": "lyshineui/images/status/SE_combustible.png",
         "ShowInUITray": "1",
         "ShowTextInDamageNumbers": true,
         "FxScriptOn": "Mut_Shrivelled_Caster_Fire",
@@ -38762,8 +38762,8 @@
     {
         "StatusID": "Mut_Voi_Curse3_Major_Buff",
         "DisplayName": "@Mut_Voi_Curse3_Major_Buff_DisplayName",
-        "Description": "@Mut_Voi_Curse3_Major_Buff_Tooltip",
-        "PlaceholderIcon": "lyshineui/images/status/SE_shrivelled.png",
+        "Description": "@Mut_Voi_Curse3_Minor_Buff_Tooltip",
+        "PlaceholderIcon": "lyshineui/images/status/SE_combustible.png",
         "ShowInUITray": "1",
         "ShowTextInDamageNumbers": true,
         "FxScriptOn": "Mut_Shrivelled_Caster_Void",

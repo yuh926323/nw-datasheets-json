@@ -124,7 +124,7 @@
     {
         "SpellID": "Mut_Fir_Curse3_Minor_Tell",
         "AttachToOwner": true,
-        "StickWhenAttached": true,
+        "StickWhenAttached": false,
         "StoreOffsetWhenStuckToGDE": false,
         "EndOnCasterDeath": false,
         "IgnoreTargetIfAtDeathsDoor": true,
@@ -220,7 +220,7 @@
     {
         "SpellID": "Mut_Voi_Curse3_Minor_Tell",
         "AttachToOwner": true,
-        "StickWhenAttached": true,
+        "StickWhenAttached": false,
         "StoreOffsetWhenStuckToGDE": false,
         "EndOnCasterDeath": false,
         "IgnoreTargetIfAtDeathsDoor": true,
@@ -342,7 +342,7 @@
     {
         "SpellID": "Mut_Curse3_Major_Tell",
         "AttachToOwner": true,
-        "StickWhenAttached": true,
+        "StickWhenAttached": false,
         "StoreOffsetWhenStuckToGDE": false,
         "EndOnCasterDeath": false,
         "IgnoreTargetIfAtDeathsDoor": true,
@@ -372,7 +372,7 @@
     {
         "SpellID": "Mut_Fir_Curse3_Major_Tell",
         "AttachToOwner": true,
-        "StickWhenAttached": true,
+        "StickWhenAttached": false,
         "StoreOffsetWhenStuckToGDE": false,
         "EndOnCasterDeath": false,
         "IgnoreTargetIfAtDeathsDoor": true,
@@ -402,7 +402,7 @@
     {
         "SpellID": "Mut_Voi_Curse3_Major_Tell",
         "AttachToOwner": true,
-        "StickWhenAttached": true,
+        "StickWhenAttached": false,
         "StoreOffsetWhenStuckToGDE": false,
         "EndOnCasterDeath": false,
         "IgnoreTargetIfAtDeathsDoor": true,
@@ -433,7 +433,7 @@
         "SpellID": "Mut_Base_Curse3_Major",
         "StatusEffects": "Mut_Base_Curse3_Major_Heal",
         "AttachToOwner": true,
-        "StickWhenAttached": true,
+        "StickWhenAttached": false,
         "StoreOffsetWhenStuckToGDE": false,
         "EndOnCasterDeath": false,
         "IgnoreTargetIfAtDeathsDoor": true,

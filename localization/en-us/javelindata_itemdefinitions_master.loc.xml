@@ -27581,7 +27581,7 @@
 	<string key="UmbralCrystalT1_MasterName">Umbral Crystal</string>
 	<string key="UmbralGeodeT1_Description" rel_version="Feature_Dungeon_Mutators">Open this Geode to receive the powerful contents within.</string>
 	<string key="UmbralGeodeT1_MasterName" rel_version="Feature_Dungeon_Mutators">Umbral Geode</string>
-	<string key="UmbralShardT1_Description">An Azoth shard that pulses with a dark energy. It doesn't seem to be corrupted…but is it? Drag and drop onto a piece of equipment that is 600 Gear Score or higher.</string>
+	<string key="UmbralShardT1_Description">An Azoth shard that pulses with a dark energy. It doesn't seem to be corrupted…but is it? Drag and drop onto a piece of equipment that is 590 Gear Score or higher.</string>
 	<string key="UmbralShardT1_MasterName">Umbral Shard</string>
 	<string key="Unarmed_Description">Unarmed</string>
 	<string key="Unarmed_MasterName">Unarmed</string>

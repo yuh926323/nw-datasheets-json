@@ -8140,6 +8140,154 @@
         "Item4": "55"
     },
     {
+        "LootTableID": "AlligatorYoungSkinning",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "[LTID]SkinningSmall",
+        "Item2": "[LTID]SkinningEliteBonus",
+        "Item3": "[LTID]AlligatorYoungMeats",
+        "Item4": "[LTID]AlligatorYoungResources",
+        "Item5": "[LTID]RareAlligatorYoungResources"
+    },
+    {
+        "LootTableID": "AlligatorYoungSkinning_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "4-6",
+        "Item2": "3",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "AlligatorYoungSkinning_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "90000",
+        "Item5": "101150"
+    },
+    {
+        "LootTableID": "AlligatorYoungMeats",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "RedMeatT1",
+        "Item2": "[LTID]RareAlligatorYoungMeats"
+    },
+    {
+        "LootTableID": "AlligatorYoungMeats_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0-1",
+        "Item2": "1"
+    },
+    {
+        "LootTableID": "AlligatorYoungMeats_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "95000"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungMeats",
+        "AND/OR": "OR",
+        "Conditions": "EnemyLevel",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "RedMeatT1",
+        "Item2": "PrimeRedMeatT1"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungMeats_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0-1",
+        "Item2": "2-3"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungMeats_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 5,
+        "Item1": "0",
+        "Item2": "55"
+    },
+    {
+        "LootTableID": "AlligatorYoungResources",
+        "AND/OR": "OR",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "ScalyHideT1",
+        "Item2": "[LBID]SkinningAttributeItems",
+        "Item3": "[LTID]Fang",
+        "Item4": "[LTID]ClawsFangs"
+    },
+    {
+        "LootTableID": "AlligatorYoungResources_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1-2"
+    },
+    {
+        "LootTableID": "AlligatorYoungResources_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "20000",
+        "Item3": "60000",
+        "Item4": "80000"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungResources",
+        "AND/OR": "OR",
+        "Conditions": "EnemyLevel",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "[LTID]RareHidesT2",
+        "Item2": "[LTID]RareHidesT3",
+        "Item3": "[LTID]RareHidesT4",
+        "Item4": "[LTID]RareHidesT5"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungResources_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungResources_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 5,
+        "Item1": "0",
+        "Item2": "22",
+        "Item3": "42",
+        "Item4": "55"
+    },
+    {
         "LootTableID": "BoarSkinning",
         "AND/OR": "AND",
         "HWMMult": 0,

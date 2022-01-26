@@ -1053,5 +1053,12 @@
         "IsInitialState": false,
         "DefaultDialogue": "@9928_01_YonasMemorial",
         "RequiredLevel": 0
+    },
+    {
+        "ConversationStateId": "9929_MSQ_RecliningThorpe_Default",
+        "ConversationType": "Linear_Objective",
+        "IsInitialState": true,
+        "DefaultDialogue": "@9929_MSQ_RecliningThorpe_Default",
+        "RequiredLevel": 0
     }
 ]

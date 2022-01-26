@@ -540,6 +540,21 @@
         "CooldownDuration": 0
     },
     {
+        "ConsumableID": "JuniperBerryT5",
+        "AddStatusEffects": "EatRawFood",
+        "StatusEffectMod": 1,
+        "DurationOverrides": 0,
+        "MinDurationModifier": 0,
+        "MaxDurationModifier": 0,
+        "DurationScaleFactor": 0,
+        "MinPotencyModifier": 0,
+        "MaxPotencyModifier": 0,
+        "PotencyScaleFactor": 0,
+        "UseCount": 0,
+        "MannequinTag": "Eat",
+        "CooldownDuration": 0
+    },
+    {
         "ConsumableID": "BlueberryT1",
         "AddStatusEffects": "EatRawFood",
         "StatusEffectMod": 1,

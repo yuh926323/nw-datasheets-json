@@ -8914,6 +8914,72 @@
         "GameEventId": "Chart_Location"
     },
     {
+        "AchievementID": "DEPRECATED_1648",
+        "AchievementIndex": 1648,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "DEPRECATED_1649",
+        "AchievementIndex": 1649,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "DEPRECATED_1650",
+        "AchievementIndex": 1650,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "DEPRECATED_1651",
+        "AchievementIndex": 1651,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "DEPRECATED_1652",
+        "AchievementIndex": 1652,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "DEPRECATED_1653",
+        "AchievementIndex": 1653,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "DEPRECATED_1654",
+        "AchievementIndex": 1654,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "DEPRECATED_1655",
+        "AchievementIndex": 1655,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "DEPRECATED_1656",
+        "AchievementIndex": 1656,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "DEPRECATED_1657",
+        "AchievementIndex": 1657,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "DEPRECATED_1658",
+        "AchievementIndex": 1658,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
         "AchievementID": "ancientcrater1_9091_charted",
         "AchievementIndex": 1659,
         "Category": "Map",
@@ -13066,6 +13132,11 @@
         "GameEventId": "Chart_Location"
     },
     {
+        "AchievementID": "DEPRECATED_2400",
+        "AchievementIndex": 2400,
+        "Category": "Objective"
+    },
+    {
         "AchievementID": "99_MSQ_8",
         "AchievementIndex": 2401,
         "Category": "Objective"
@@ -13809,6 +13880,21 @@
     {
         "AchievementID": "99_MSQ_19a",
         "AchievementIndex": 2543,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2544",
+        "AchievementIndex": 2544,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2545",
+        "AchievementIndex": 2545,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2546",
+        "AchievementIndex": 2546,
         "Category": "Objective"
     },
     {
@@ -15354,6 +15440,26 @@
         "GameEventId": "Chart_Location"
     },
     {
+        "AchievementID": "DEPRECATED_2859",
+        "AchievementIndex": 2859,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2860",
+        "AchievementIndex": 2860,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2861",
+        "AchievementIndex": 2861,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2862",
+        "AchievementIndex": 2862,
+        "Category": "Objective"
+    },
+    {
         "AchievementID": "factionarea_40277_charted",
         "AchievementIndex": 2863,
         "Category": "Map",
@@ -15633,6 +15739,31 @@
         "GameEventId": "Chart_Location"
     },
     {
+        "AchievementID": "DEPRECATED_2912",
+        "AchievementIndex": 2912,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2913",
+        "AchievementIndex": 2913,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2914",
+        "AchievementIndex": 2914,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2915",
+        "AchievementIndex": 2915,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2916",
+        "AchievementIndex": 2916,
+        "Category": "Objective"
+    },
+    {
         "AchievementID": "02_Quest_21",
         "AchievementIndex": 2917,
         "Category": "Objective"
@@ -15680,6 +15811,26 @@
     {
         "AchievementID": "02_Quest_30",
         "AchievementIndex": 2926,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2927",
+        "AchievementIndex": 2927,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2928",
+        "AchievementIndex": 2928,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2929",
+        "AchievementIndex": 2929,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2930",
+        "AchievementIndex": 2930,
         "Category": "Objective"
     },
     {
@@ -15765,6 +15916,36 @@
         "AchievementIndex": 2946,
         "Category": "Journal",
         "GameEventId": "Read_LoreItem"
+    },
+    {
+        "AchievementID": "DEPRECATED_2947",
+        "AchievementIndex": 2947,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2948",
+        "AchievementIndex": 2948,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2949",
+        "AchievementIndex": 2949,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2950",
+        "AchievementIndex": 2950,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2951",
+        "AchievementIndex": 2951,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "DEPRECATED_2952",
+        "AchievementIndex": 2952,
+        "Category": "Objective"
     },
     {
         "AchievementID": "10_Quest_21",
@@ -17327,6 +17508,11 @@
         "GameEventId": "Read_LoreItem"
     },
     {
+        "AchievementID": "DEPRECATED_3269",
+        "AchievementIndex": 3269,
+        "Category": "Objective"
+    },
+    {
         "AchievementID": "SwapActive_CanaryAdiana_Off",
         "AchievementIndex": 3270,
         "Category": "Objective"
@@ -17721,6 +17907,10 @@
         "AchievementIndex": 3345,
         "Category": "Map",
         "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "DEPRECATED_3346",
+        "AchievementIndex": 3346
     },
     {
         "AchievementID": "spiritshrine_01_30142_discovered",
@@ -19830,39 +20020,9 @@
         "GameEventId": "Chart_Location"
     },
     {
-        "AchievementID": "11_Tosti_1",
-        "AchievementIndex": 3871,
-        "Category": "Objective"
-    },
-    {
-        "AchievementID": "11_Tosti_2",
-        "AchievementIndex": 3872,
-        "Category": "Objective"
-    },
-    {
-        "AchievementID": "11_Tosti_3",
-        "AchievementIndex": 3873,
-        "Category": "Objective"
-    },
-    {
-        "AchievementID": "11_Tosti_4",
-        "AchievementIndex": 3874,
-        "Category": "Objective"
-    },
-    {
-        "AchievementID": "11_Tosti_Swap",
-        "AchievementIndex": 3875,
-        "Category": "Objective"
-    },
-    {
         "AchievementID": "CampSkin_Unlock_CampSkin_Winter01_A",
         "AchievementIndex": 3876,
         "Category": "CampSkin"
-    },
-    {
-        "AchievementID": "0424_0102_MakeBagAppear",
-        "AchievementIndex": 3877,
-        "Category": "Objective"
     },
     {
         "AchievementID": "S_downpayment",
@@ -20033,6 +20193,46 @@
         "AchievementIndex": 3911,
         "Category": "Journal",
         "GameEventId": "Read_LoreItem"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_01",
+        "AchievementIndex": 3912,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_02",
+        "AchievementIndex": 3913,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_03",
+        "AchievementIndex": 3914,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_04",
+        "AchievementIndex": 3915,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_05",
+        "AchievementIndex": 3916,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_06",
+        "AchievementIndex": 3917,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_07",
+        "AchievementIndex": 3918,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "07_Quest_Isabella_08",
+        "AchievementIndex": 3919,
+        "Category": "Objective"
     },
     {
         "AchievementID": "Lore_unlock_KubikirisBurden_Title_01_01",
@@ -20221,16 +20421,6 @@
         "GameEventId": "Read_LoreItem"
     },
     {
-        "AchievementID": "11_Tosti_5",
-        "AchievementIndex": 3956,
-        "Category": "Objective"
-    },
-    {
-        "AchievementID": "11_GreatAxe_Ready_Finale",
-        "AchievementIndex": 3957,
-        "Category": "Objective"
-    },
-    {
         "AchievementID": "factionarea_40284_charted",
         "AchievementIndex": 3958,
         "Category": "Map",
@@ -20345,11 +20535,6 @@
         "GameEventId": "Read_LoreItem"
     },
     {
-        "AchievementID": "SwapActive_1130_Shrines",
-        "AchievementIndex": 4045,
-        "Category": "Objective"
-    },
-    {
         "AchievementID": "SwapActive_MSQ_MaraBook",
         "AchievementIndex": 4046,
         "Category": "Objective"
@@ -20386,43 +20571,136 @@
         "Category": "Objective"
     },
     {
-        "AchievementID": "11_BBMastery_1",
-        "AchievementIndex": 4059,
-        "Category": "Objective"
-    },
-    {
-        "AchievementID": "11_BBMastery_2",
-        "AchievementIndex": 4060,
-        "Category": "Objective"
-    },
-    {
-        "AchievementID": "11_BBMastery_3",
-        "AchievementIndex": 4061,
-        "Category": "Objective"
-    },
-    {
-        "AchievementID": "11_BBMastery_4",
-        "AchievementIndex": 4062,
-        "Category": "Objective"
-    },
-    {
-        "AchievementID": "11_BBMastery_5",
-        "AchievementIndex": 4063,
-        "Category": "Objective"
-    },
-    {
-        "AchievementID": "11_BBMastery_6",
-        "AchievementIndex": 4064,
-        "Category": "Objective"
-    },
-    {
-        "AchievementID": "11_BBMastery_7",
-        "AchievementIndex": 4065,
-        "Category": "Objective"
-    },
-    {
         "AchievementID": "spiritshrine_20208_charted",
         "AchievementIndex": 4090,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "SliceSwap_1526_09_04_Lore_On",
+        "AchievementIndex": 4096,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "99_MSQ_36_B",
+        "AchievementIndex": 4099,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "99_MSQ_36_B_Unlock",
+        "AchievementIndex": 4100,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "99_MSQ_52_b",
+        "AchievementIndex": 4101,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "99_MSQ_52_b_Unlock",
+        "AchievementIndex": 4102,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "SwapActive_1224_swordgirl_Off",
+        "AchievementIndex": 4103,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "SwapActive_1224_swordgirlMD_OnOff",
+        "AchievementIndex": 4104,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "SwapActive_1224_swordgirlEF_OnOff",
+        "AchievementIndex": 4105,
+        "Category": "Objective"
+    },
+    {
+        "AchievementID": "dynasty_harborage_20209_discovered",
+        "AchievementIndex": 4106,
+        "Category": "Map"
+    },
+    {
+        "AchievementID": "dynasty_harborage_20209_charted",
+        "AchievementIndex": 4107,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "spiritshrine_03_40175_discovered",
+        "AchievementIndex": 4108,
+        "Category": "Map"
+    },
+    {
+        "AchievementID": "spiritshrine_03_40175_charted",
+        "AchievementIndex": 4109,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "spiritshrine_04_40176_discovered",
+        "AchievementIndex": 4110,
+        "Category": "Map"
+    },
+    {
+        "AchievementID": "spiritshrine_04_40176_charted",
+        "AchievementIndex": 4111,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "spiritshrine_03_50152_discovered",
+        "AchievementIndex": 4112,
+        "Category": "Map"
+    },
+    {
+        "AchievementID": "spiritshrine_03_50152_charted",
+        "AchievementIndex": 4113,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "spiritshrine_04_50153_discovered",
+        "AchievementIndex": 4114,
+        "Category": "Map"
+    },
+    {
+        "AchievementID": "spiritshrine_04_50153_charted",
+        "AchievementIndex": 4115,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "spiritshrine_05_50154_discovered",
+        "AchievementIndex": 4116,
+        "Category": "Map"
+    },
+    {
+        "AchievementID": "spiritshrine_05_50154_charted",
+        "AchievementIndex": 4117,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "spiritshrine_04_50425_discovered",
+        "AchievementIndex": 4118,
+        "Category": "Map"
+    },
+    {
+        "AchievementID": "spiritshrine_04_50425_charted",
+        "AchievementIndex": 4119,
+        "Category": "Map",
+        "GameEventId": "Chart_Location"
+    },
+    {
+        "AchievementID": "spiritshrine_02_60240_discovered",
+        "AchievementIndex": 4120,
+        "Category": "Map"
+    },
+    {
+        "AchievementID": "spiritshrine_02_60240_charted",
+        "AchievementIndex": 4121,
         "Category": "Map",
         "GameEventId": "Chart_Location"
     }

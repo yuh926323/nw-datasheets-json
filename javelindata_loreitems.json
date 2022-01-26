@@ -9806,6 +9806,46 @@
         "Order": 6
     },
     {
+        "LoreID": "TalesofExpeditions_Title_06_01",
+        "Type": "Default",
+        "Title": "@TalesofExpeditions_Title_06_01",
+        "Subtitle": "@TalesofExpeditions_Subtitle_06_01",
+        "Body": "@TalesofExpeditions_Body_06_01",
+        "AchievementId": "Lore_unlock_TalesofExpeditions_Title_06_01",
+        "ParentID": "TalesofExpeditions_Chapter_06",
+        "Order": 1
+    },
+    {
+        "LoreID": "TalesofExpeditions_Title_06_02",
+        "Type": "Default",
+        "Title": "@TalesofExpeditions_Title_06_02",
+        "Subtitle": "@TalesofExpeditions_Subtitle_06_02",
+        "Body": "@TalesofExpeditions_Body_06_02",
+        "AchievementId": "Lore_unlock_TalesofExpeditions_Title_06_02",
+        "ParentID": "TalesofExpeditions_Chapter_06",
+        "Order": 2
+    },
+    {
+        "LoreID": "TalesofExpeditions_Title_06_03",
+        "Type": "Default",
+        "Title": "@TalesofExpeditions_Title_06_03",
+        "Subtitle": "@TalesofExpeditions_Subtitle_06_03",
+        "Body": "@TalesofExpeditions_Body_06_03",
+        "AchievementId": "Lore_unlock_TalesofExpeditions_Title_06_03",
+        "ParentID": "TalesofExpeditions_Chapter_06",
+        "Order": 3
+    },
+    {
+        "LoreID": "TalesofExpeditions_Title_06_04",
+        "Type": "Default",
+        "Title": "@TalesofExpeditions_Title_06_04",
+        "Subtitle": "@TalesofExpeditions_Subtitle_06_04",
+        "Body": "@TalesofExpeditions_Body_06_04",
+        "AchievementId": "Lore_unlock_TalesofExpeditions_Title_06_04",
+        "ParentID": "TalesofExpeditions_Chapter_06",
+        "Order": 4
+    },
+    {
         "LoreID": "Topic_WinterConvergence",
         "Type": "Topic",
         "Title": "@Topic_WinterConvergence",
@@ -10018,5 +10058,17 @@
         "ParentID": "Tales_of_Brimstone_Sands_Chapter_16",
         "Order": 1,
         "LoreNotesLocation": "A letter found in Drusillas personal quarters."
+    },
+    {
+        "LoreID": "00_Aeternum_Title_27_03",
+        "Type": "Default",
+        "Title": "@00_Aeternum_Title_27_03",
+        "Subtitle": "@00_Aeternum_subtitle_27_03",
+        "Body": "@00_Aeternum_Body_27_03",
+        "AchievementId": "Lore_unlock_00_Aeternum_Title_27_03",
+        "ParentID": "00_Aeternum_Chapter_27",
+        "Order": 3,
+        "AssociatedQuest": "End of MSQ",
+        "LoreNotesLocation": "Myrkguard Cathedral"
     }
 ]

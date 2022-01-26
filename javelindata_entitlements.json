@@ -315,12 +315,39 @@
         "SourceType": "Store"
     },
     {
+        "UniqueTagID": "softcoal_dye",
+        "EntitlementIndex": 125,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA028",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "blemishedpearl_dye",
+        "EntitlementIndex": 126,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA029",
+        "SourceType": "Store"
+    },
+    {
         "UniqueTagID": "sublimebone_dye",
         "EntitlementIndex": 127,
         "IsEnabled": true,
         "IsConsumable": true,
         "RewardType": "ItemDye",
         "Reward(s)": "DyeA030",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "sandalwood_dye",
+        "EntitlementIndex": 128,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA031",
         "SourceType": "Store"
     },
     {
@@ -369,6 +396,15 @@
         "SourceType": "Store"
     },
     {
+        "UniqueTagID": "agelessbronze_dye",
+        "EntitlementIndex": 134,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA037",
+        "SourceType": "Store"
+    },
+    {
         "UniqueTagID": "burntsienna_dye",
         "EntitlementIndex": 135,
         "IsEnabled": true,
@@ -384,6 +420,24 @@
         "IsConsumable": true,
         "RewardType": "ItemDye",
         "Reward(s)": "DyeA039",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "blond_dye",
+        "EntitlementIndex": 137,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA040",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "sushigreen_dye",
+        "EntitlementIndex": 138,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA041",
         "SourceType": "Store"
     },
     {
@@ -411,6 +465,15 @@
         "IsConsumable": true,
         "RewardType": "ItemDye",
         "Reward(s)": "DyeA044",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "mantis_dye",
+        "EntitlementIndex": 142,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA045",
         "SourceType": "Store"
     },
     {
@@ -450,6 +513,15 @@
         "SourceType": "Store"
     },
     {
+        "UniqueTagID": "supremesaphire_dye",
+        "EntitlementIndex": 147,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA050",
+        "SourceType": "Store"
+    },
+    {
         "UniqueTagID": "fiercecobalt_dye",
         "EntitlementIndex": 148,
         "IsEnabled": true,
@@ -465,6 +537,24 @@
         "IsConsumable": true,
         "RewardType": "ItemDye",
         "Reward(s)": "DyeA052",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "butterflywing_dye",
+        "EntitlementIndex": 150,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA053",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "tranquilblossom_dye",
+        "EntitlementIndex": 151,
+        "IsEnabled": true,
+        "IsConsumable": true,
+        "RewardType": "ItemDye",
+        "Reward(s)": "DyeA054",
         "SourceType": "Store"
     },
     {
@@ -654,6 +744,24 @@
         "IsConsumable": false,
         "RewardType": "GuildCrest",
         "Reward(s)": "icon_crest_55",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "icon_crest_171",
+        "EntitlementIndex": 173,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "GuildCrest",
+        "Reward(s)": "icon_crest_171",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "icon_crest_172",
+        "EntitlementIndex": 174,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "GuildCrest",
+        "Reward(s)": "icon_crest_172",
         "SourceType": "Store"
     },
     {
@@ -1789,7 +1897,7 @@
     },
     {
         "UniqueTagID": "Ent_galaxy_rabbit",
-        "EntitlementIndex": 294,
+        "EntitlementIndex": 563,
         "IsEnabled": true,
         "DisplayName": "Galaxy Rabbit",
         "IsConsumable": false,
@@ -2610,6 +2718,15 @@
         "SourceType": "Store"
     },
     {
+        "UniqueTagID": "Ent_Emote_Pray",
+        "EntitlementIndex": 382,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_Pray",
+        "SourceType": "Store"
+    },
+    {
         "UniqueTagID": "Ent_Emote_Noseblow",
         "EntitlementIndex": 383,
         "IsEnabled": true,
@@ -2707,6 +2824,24 @@
         "RewardType": "ItemSkin",
         "Reward(s)": "Skin_Chest_WarSpecial+Skin_Head_WarSpecial+Skin_Legs_WarSpecial+Skin_Feet_WarSpecial+Skin_Hands_WarSpecial",
         "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_ClassicRPGWizard",
+        "EntitlementIndex": 395,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_ClassicRPGWizard+Skin_Head_ClassicRPGWizard+Skin_Legs_ClassicRPGWizard+Skin_Feet_ClassicRPGWizard+Skin_Hands_ClassicRPGWizard",
+        "SourceType": "Prime"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_ClassicRPGRogue",
+        "EntitlementIndex": 397,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_ClassicRPGRogue+Skin_Head_ClassicRPGRogue+Skin_Legs_ClassicRPGRogue+Skin_Feet_ClassicRPGRogue+Skin_Hands_ClassicRPGRogue",
+        "SourceType": "Prime"
     },
     {
         "UniqueTagID": "EntitlementSkin_RoyalCourt_Crown",
@@ -3328,6 +3463,159 @@
         "SourceType": "Store"
     },
     {
+        "UniqueTagID": "EntitlementSkin_Stormbound",
+        "EntitlementIndex": 473,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Stormbound+Skin_Head_Stormbound+Skin_Legs_Stormbound+Skin_Feet_Stormbound+Skin_Hands_Stormbound",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Miner",
+        "EntitlementIndex": 474,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Miner+Skin_Head_Miner+Skin_Legs_Miner+Skin_Feet_Miner+Skin_Hands_Miner",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Lunar_1",
+        "EntitlementIndex": 475,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Lunar01+Skin_Head_Lunar01+Skin_Legs_Lunar01+Skin_Feet_Lunar01+Skin_Hands_Lunar01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Lunar_2",
+        "EntitlementIndex": 476,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Lunar02+Skin_Head_Lunar02+Skin_Legs_Lunar02+Skin_Feet_Lunar02+Skin_Hands_Lunar02",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Shield_Lunar",
+        "EntitlementIndex": 477,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Lunar_ShieldT",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Firestaff_Lunar",
+        "EntitlementIndex": 478,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Lunar_Firestaff",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Sword_Lunar",
+        "EntitlementIndex": 479,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Lunar_Longsword",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Musket_Lunar",
+        "EntitlementIndex": 480,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Lunar_Musket",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_VoidGauntlet_Lunar",
+        "EntitlementIndex": 481,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Lunar_VoidGauntlet",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_SkinningKnife_Lunar",
+        "EntitlementIndex": 483,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LunarNewYear_SkinningKnife",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Sickle_Lunar",
+        "EntitlementIndex": 484,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LunarNewYear_Sickle",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Pickaxe_Lunar",
+        "EntitlementIndex": 485,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LunarNewYear_Pickaxe",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_LoggingAxe_Lunar",
+        "EntitlementIndex": 486,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LunarNewYear_LoggingAxe",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_FishingPole_Lunar",
+        "EntitlementIndex": 487,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LunarNewYear_FishingPole",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_AzothStaff_Lunar",
+        "EntitlementIndex": 488,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_LunarNewYear_AzothScepter",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Tool_Bundle_Lunar",
+        "EntitlementIndex": 489,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_AzothStaff_Lunar+EntitlementSkin_FishingPole_Lunar+EntitlementSkin_LoggingAxe_Lunar+EntitlementSkin_Pickaxe_Lunar+EntitlementSkin_Sickle_Lunar+EntitlementSkin_SkinningKnife_Lunar",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_QueenWave",
+        "EntitlementIndex": 490,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_RoyalWave",
+        "SourceType": "Store"
+    },
+    {
         "UniqueTagID": "Ent_Venetian_Crest_Pack",
         "EntitlementIndex": 491,
         "IsEnabled": true,
@@ -3335,6 +3623,33 @@
         "RewardType": "Entitlement",
         "Reward(s)": "icon_crest_096_Twitch+icon_crest_097_Twitch+icon_crest_098_Twitch",
         "SourceType": "Prime"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_SnowAngel",
+        "EntitlementIndex": 492,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_SnowAngel",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_Autograph",
+        "EntitlementIndex": 493,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_Autograph",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_Pushups",
+        "EntitlementIndex": 494,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_PushUps",
+        "SourceType": "Store"
     },
     {
         "UniqueTagID": "PenaltyTest_PenaltyEconomyLocked",
@@ -3346,12 +3661,309 @@
         "RewardType": "Misc"
     },
     {
+        "UniqueTagID": "Ent_Pet_LunarTiger",
+        "EntitlementIndex": 496,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Pet_Entitlement_Tiger_NewYear",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Lunar_HangingLantern",
+        "EntitlementIndex": 497,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Lighting_LunarNewYear2022_HangingLantern01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Lunar_StringLantern",
+        "EntitlementIndex": 498,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Lighting_LunarNewYear2022_StringLanterns01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Lunar_Firecrackers",
+        "EntitlementIndex": 499,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_LunarNewYear2022_Firecrackers01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Lunar_FooDog",
+        "EntitlementIndex": 500,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_LunarNewYear2022_FooDog01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Lunar_LionMask_1",
+        "EntitlementIndex": 501,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_LunarNewYear2022_LionMask01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Lunar_LionMask_2",
+        "EntitlementIndex": 502,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_LunarNewYear2022_LionMask02",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Lunar_PaperFan_1",
+        "EntitlementIndex": 503,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_LunarNewYear2022_PaperFan01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Lunar_PaperFan_2",
+        "EntitlementIndex": 504,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_LunarNewYear2022_PaperFan02",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Lunar_Shadowbox",
+        "EntitlementIndex": 505,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_LunarNewYear2022_Shadowbox01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Lunar_Bundle",
+        "EntitlementIndex": 506,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "Ent_Housing_Lunar_HangingLantern+Ent_Housing_Lunar_StringLantern+Ent_Housing_Lunar_Firecrackers+Ent_Housing_Lunar_FooDog+Ent_Housing_Lunar_LionMask_1+Ent_Housing_Lunar_LionMask_2+Ent_Housing_Lunar_PaperFan_1+Ent_Housing_Lunar_PaperFan_2+Ent_Housing_Lunar_Shadowbox",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Crest_Lunar_Bundle",
+        "EntitlementIndex": 507,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "icon_crest_171+icon_crest_172",
+        "SourceType": "Store"
+    },
+    {
         "UniqueTagID": "EntitlementTitle_TurkeyTerror",
         "EntitlementIndex": 508,
         "IsEnabled": true,
         "IsConsumable": false,
         "RewardType": "PlayerTitle",
         "Reward(s)": "PlayerTitle_TurkeyTerror",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_CorruptedLove_Bow",
+        "EntitlementIndex": 509,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Bow_Valentine",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_CorruptedLove_FireStaff",
+        "EntitlementIndex": 510,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Firestaff_Valentine",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_CorruptedLove_IceGauntlet",
+        "EntitlementIndex": 511,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_IceGaunt_Valentine",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_CorruptedLove_Musket",
+        "EntitlementIndex": 512,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Musket_Valentine",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_CorruptedLove_Rapier",
+        "EntitlementIndex": 513,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Rapier_Valentine",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_CorruptedLove_WarHammer",
+        "EntitlementIndex": 514,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_WarHammer_Valentine",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_CoconutHorse",
+        "EntitlementIndex": 515,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_Coconut_Horse",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Valentines_1",
+        "EntitlementIndex": 516,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Valentines01+Skin_Head_Valentines01+Skin_Legs_Valentines01+Skin_Feet_Valentines01+Skin_Hands_Valentines01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Valentines_2",
+        "EntitlementIndex": 517,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Valentines02+Skin_Head_Valentines02+Skin_Legs_Valentines02+Skin_Feet_Valentines02+Skin_Hands_Valentines02",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_SkinningKnife_Valentines",
+        "EntitlementIndex": 518,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Valentines_SkinningKnife",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Sickle_Valentines",
+        "EntitlementIndex": 519,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Valentines_Sickle",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Pickaxe_Valentines",
+        "EntitlementIndex": 520,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Valentines_Pickaxe",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_LoggingAxe_Valentines",
+        "EntitlementIndex": 521,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Valentines_LoggingAxe",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_FishingPole_Valentines",
+        "EntitlementIndex": 522,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Valentines_FishingPole",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_AzothStaff_Valentines",
+        "EntitlementIndex": 523,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Valentines_AzothScepter",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Tool_Bundle_Valentines",
+        "EntitlementIndex": 524,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "EntitlementSkin_AzothStaff_Valentines+EntitlementSkin_FishingPole_Valentines+EntitlementSkin_LoggingAxe_Valentines+EntitlementSkin_Pickaxe_Valentines+EntitlementSkin_Sickle_Valentines+EntitlementSkin_SkinningKnife_Valentines",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_Waveborne",
+        "EntitlementIndex": 525,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Chest_Waveborne+Skin_Head_Waveborne+Skin_Legs_Waveborne+Skin_Feet_Waveborne+Skin_Hands_Waveborne",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_AngelsDemons_Musket",
+        "EntitlementIndex": 526,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Musket_AngelsDemons",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_AngelsDemons_TowerShield",
+        "EntitlementIndex": 528,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_ShieldT_AngelsDemons",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_AngelsDemons_Rapier",
+        "EntitlementIndex": 529,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_Rapier_AngelsDemons",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "EntitlementSkin_AngelsDemons_VoidGauntlet",
+        "EntitlementIndex": 530,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "ItemSkin",
+        "Reward(s)": "Skin_AngelsDemons_VoidGauntlet",
         "SourceType": "Store"
     },
     {
@@ -3397,6 +4009,24 @@
         "IsConsumable": false,
         "RewardType": "ItemSkin",
         "Reward(s)": "Skin_Hands_WinterOutfit02",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_Swoon",
+        "EntitlementIndex": 536,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_Swoon",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Emote_GiveFlower",
+        "EntitlementIndex": 537,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Emote",
+        "Reward(s)": "Emote_GiveFlower",
         "SourceType": "Store"
     },
     {
@@ -3524,5 +4154,111 @@
         "RewardType": "Entitlement",
         "Reward(s)": "icon_crest_212",
         "SourceType": "Twitch"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Love2022_Couch",
+        "EntitlementIndex": 552,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Bed_Love2022_Couch01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Love2022_Chair",
+        "EntitlementIndex": 553,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Chair_Love2022_Chair01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Love2022_Candelabra",
+        "EntitlementIndex": 554,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Lighting_Love2022_Candelabra01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Love2022_Sconce",
+        "EntitlementIndex": 555,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Lighting_Love2022_Sconce01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Love2022_Desk",
+        "EntitlementIndex": 556,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Love2022_Desk01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Love2022_LovePotion",
+        "EntitlementIndex": 557,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Love2022_LovePotion01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Love2022_Rug",
+        "EntitlementIndex": 558,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Rug_Love2022_Rug01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Love2022_Tub",
+        "EntitlementIndex": 559,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Love2022_Tub01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Love2022_VaseFlowers",
+        "EntitlementIndex": 560,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Love2022_VaseFlowers01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Love2022_Table",
+        "EntitlementIndex": 561,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "HousingItem",
+        "Reward(s)": "House_HousingItem_Entitlement_Table_Love2022_Table01",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "Ent_Housing_Love2022_Bundle",
+        "EntitlementIndex": 562,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Entitlement",
+        "Reward(s)": "Ent_Housing_Love2022_Couch+Ent_Housing_Love2022_Chair+Ent_Housing_Love2022_Candelabra+Ent_Housing_Love2022_Sconce+Ent_Housing_Love2022_Desk+Ent_Housing_Love2022_LovePotion+Ent_Housing_Love2022_Tub+Ent_Housing_Love2022_VaseFlowers+Ent_Housing_Love2022_Table",
+        "SourceType": "Store"
+    },
+    {
+        "UniqueTagID": "CPPE",
+        "EntitlementIndex": 581,
+        "IsEnabled": true,
+        "IsConsumable": false,
+        "RewardType": "Misc"
     }
 ]

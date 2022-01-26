@@ -8140,6 +8140,154 @@
         "Item4": "55"
     },
     {
+        "LootTableID": "AlligatorYoungSkinning",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "[LTID]SkinningSmall",
+        "Item2": "[LTID]SkinningEliteBonus",
+        "Item3": "[LTID]AlligatorYoungMeats",
+        "Item4": "[LTID]AlligatorYoungResources",
+        "Item5": "[LTID]RareAlligatorYoungResources"
+    },
+    {
+        "LootTableID": "AlligatorYoungSkinning_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "4-6",
+        "Item2": "3",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "AlligatorYoungSkinning_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "90000",
+        "Item5": "101150"
+    },
+    {
+        "LootTableID": "AlligatorYoungMeats",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "RedMeatT1",
+        "Item2": "[LTID]RareAlligatorYoungMeats"
+    },
+    {
+        "LootTableID": "AlligatorYoungMeats_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0-1",
+        "Item2": "1"
+    },
+    {
+        "LootTableID": "AlligatorYoungMeats_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "95000"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungMeats",
+        "AND/OR": "OR",
+        "Conditions": "EnemyLevel",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "RedMeatT1",
+        "Item2": "PrimeRedMeatT1"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungMeats_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0-1",
+        "Item2": "2-3"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungMeats_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 5,
+        "Item1": "0",
+        "Item2": "55"
+    },
+    {
+        "LootTableID": "AlligatorYoungResources",
+        "AND/OR": "OR",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "ScalyHideT1",
+        "Item2": "[LBID]SkinningAttributeItems",
+        "Item3": "[LTID]Fang",
+        "Item4": "[LTID]ClawsFangs"
+    },
+    {
+        "LootTableID": "AlligatorYoungResources_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1-2"
+    },
+    {
+        "LootTableID": "AlligatorYoungResources_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "20000",
+        "Item3": "60000",
+        "Item4": "80000"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungResources",
+        "AND/OR": "OR",
+        "Conditions": "EnemyLevel",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "[LTID]RareHidesT2",
+        "Item2": "[LTID]RareHidesT3",
+        "Item3": "[LTID]RareHidesT4",
+        "Item4": "[LTID]RareHidesT5"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungResources_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "RareAlligatorYoungResources_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 5,
+        "Item1": "0",
+        "Item2": "22",
+        "Item3": "42",
+        "Item4": "55"
+    },
+    {
         "LootTableID": "BoarSkinning",
         "AND/OR": "AND",
         "HWMMult": 0,
@@ -12564,6 +12712,7 @@
         "LootTableID": "ChestLootEliteItemRoll",
         "AND/OR": "AND",
         "LuckSafe": "TRUE",
+        "UseLevelGS": "TRUE",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
@@ -15720,6 +15869,7 @@
         "AND/OR": "AND",
         "LuckSafe": "TRUE",
         "Conditions": "GlobalMod",
+        "UseLevelGS": "TRUE",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
@@ -15729,7 +15879,8 @@
         "Item4": "[LTID]ArenaKeyParts",
         "Item5": "[LTID]CreatureLootDungeon",
         "Item6": "[LTID]GypsumYellowTable",
-        "Item7": "[LBID]GlobalNamedList"
+        "Item7": "[LBID]GlobalNamedList",
+        "Item8": "BagofJuniperBerries"
     },
     {
         "LootTableID": "CreatureLootMaster_Qty",
@@ -15742,7 +15893,8 @@
         "Item4": "1",
         "Item5": "1",
         "Item6": "1",
-        "Item7": "1"
+        "Item7": "1",
+        "Item8": "1"
     },
     {
         "LootTableID": "CreatureLootMaster_Probs",
@@ -15755,7 +15907,8 @@
         "Item4": "0",
         "Item5": "0",
         "Item6": "0",
-        "Item7": "999900"
+        "Item7": "999900",
+        "Item8": "500000"
     },
     {
         "LootTableID": "CreatureLootElite",
@@ -15901,7 +16054,7 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 100000,
-        "Item1": "25000"
+        "Item1": "0"
     },
     {
         "LootTableID": "GypsumBlue",
@@ -16219,7 +16372,8 @@
         "Item3": "[LTID]CreatureLootDungeonReekwater00",
         "Item4": "[LTID]CreatureLootDungeonEdengrove00",
         "Item5": "[LTID]CreatureLootDungeonEbonscale00",
-        "Item6": "[LTID]CreatureLootDungeonRestlessShores01"
+        "Item6": "[LTID]CreatureLootDungeonRestlessShores01",
+        "Item7": "[LTID]CreatureLootDungeonEbonscale00_Mut"
     },
     {
         "LootTableID": "CreatureLootDungeon_Qty",
@@ -16231,7 +16385,8 @@
         "Item3": "1",
         "Item4": "1",
         "Item5": "1",
-        "Item6": "1"
+        "Item6": "1",
+        "Item7": "1"
     },
     {
         "LootTableID": "CreatureLootDungeon_Probs",
@@ -16243,7 +16398,8 @@
         "Item3": "0",
         "Item4": "0",
         "Item5": "0",
-        "Item6": "0"
+        "Item6": "0",
+        "Item7": "0"
     },
     {
         "LootTableID": "CreatureLootDungeonAmrine",
@@ -16408,6 +16564,41 @@
     },
     {
         "LootTableID": "CreatureLootDungeonEbonscale00_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "84000",
+        "Item2": "94000",
+        "Item3": "94000",
+        "Item4": "97000"
+    },
+    {
+        "LootTableID": "CreatureLootDungeonEbonscale00_Mut",
+        "AND/OR": "OR",
+        "Conditions": "Ebonscale00_Mut",
+        "UseLevelGS": "TRUE",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "[LBID]DungeonResources",
+        "Item2": "[LBID]LootDungeonArmor",
+        "GearScoreRange2": "480-495",
+        "Item3": "[LBID]LootDungeonWeapons",
+        "GearScoreRange3": "480-495",
+        "Item4": "[LBID]DungeonNamedItems"
+    },
+    {
+        "LootTableID": "CreatureLootDungeonEbonscale00_Mut_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "CreatureLootDungeonEbonscale00_Mut_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 100000,
@@ -17153,6 +17344,7 @@
         "AND/OR": "AND",
         "LuckSafe": "TRUE",
         "Conditions": "GlobalMod",
+        "UseLevelGS": "TRUE",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
@@ -17188,6 +17380,7 @@
         "LootTableID": "GlobalNamedListRoll",
         "AND/OR": "AND",
         "LuckSafe": "TRUE",
+        "UseLevelGS": "TRUE",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
@@ -17320,6 +17513,182 @@
         "Item1": "0"
     },
     {
+        "LootTableID": "GiftGoldBox1",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "IngotPreciousT1"
+    },
+    {
+        "LootTableID": "GiftGoldBox1_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "GiftGoldBox1_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0"
+    },
+    {
+        "LootTableID": "GiftGoldBox2",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "IngotPreciousT1"
+    },
+    {
+        "LootTableID": "GiftGoldBox2_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "GiftGoldBox2_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0"
+    },
+    {
+        "LootTableID": "GiftGoldBox3",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "IngotPreciousT1"
+    },
+    {
+        "LootTableID": "GiftGoldBox3_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "GiftGoldBox3_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0"
+    },
+    {
+        "LootTableID": "UmbralBox1",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "UmbralShardT1"
+    },
+    {
+        "LootTableID": "UmbralBox1_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "10"
+    },
+    {
+        "LootTableID": "UmbralBox1_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0"
+    },
+    {
+        "LootTableID": "UmbralBox2",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "UmbralShardT1"
+    },
+    {
+        "LootTableID": "UmbralBox2_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "30"
+    },
+    {
+        "LootTableID": "UmbralBox2_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0"
+    },
+    {
+        "LootTableID": "UmbralBox3",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "UmbralShardT1"
+    },
+    {
+        "LootTableID": "UmbralBox3_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "200"
+    },
+    {
+        "LootTableID": "UmbralBox3_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0"
+    },
+    {
+        "LootTableID": "GypsumOrbBox1",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "GypsumOrb"
+    },
+    {
+        "LootTableID": "GypsumOrbBox1_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "GypsumOrbBox1_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0"
+    },
+    {
+        "LootTableID": "UmbralGeode",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "UmbralShardT1"
+    },
+    {
+        "LootTableID": "UmbralGeode_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "10"
+    },
+    {
+        "LootTableID": "UmbralGeode_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0"
+    },
+    {
         "LootTableID": "WCGoldLockboxT1",
         "AND/OR": "AND",
         "HWMMult": 0,
@@ -17342,94 +17711,26 @@
         "Item1": "0"
     },
     {
-        "LootTableID": "HastilyWrappedPresent",
+        "LootTableID": "BagofJuniperBerries",
         "AND/OR": "AND",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "WCToken",
-        "Item2": "[LTID]WCGoldLockBoxT1LevelLimit",
-        "Item3": "[LBID]WCPatterns"
+        "Item1": "JuniperBerryT5"
     },
     {
-        "LootTableID": "HastilyWrappedPresent_Qty",
+        "LootTableID": "BagofJuniperBerries_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1",
-        "Item2": "1",
-        "Item3": "1"
+        "Item1": "3-5"
     },
     {
-        "LootTableID": "HastilyWrappedPresent_Probs",
+        "LootTableID": "BagofJuniperBerries_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 100000,
-        "Item1": "0",
-        "Item2": "0",
-        "Item3": "99000"
-    },
-    {
-        "LootTableID": "BeautifullyWrappedPresent",
-        "AND/OR": "AND",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "WCToken",
-        "Item2": "WCPToken",
-        "Item3": "[LTID]WCGoldLockBoxT1LevelLimit",
-        "Item4": "[LBID]WCPatterns"
-    },
-    {
-        "LootTableID": "BeautifullyWrappedPresent_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "3",
-        "Item2": "1",
-        "Item3": "1",
-        "Item4": "1"
-    },
-    {
-        "LootTableID": "BeautifullyWrappedPresent_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 100000,
-        "Item1": "0",
-        "Item2": "95000",
-        "Item3": "0",
-        "Item4": "98000"
-    },
-    {
-        "LootTableID": "ExquisitelyWrappedPresent",
-        "AND/OR": "AND",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "WCToken",
-        "Item2": "WCPToken",
-        "Item3": "[LTID]WCGoldLockBoxT1LevelLimit",
-        "Item4": "[LBID]WCPatterns"
-    },
-    {
-        "LootTableID": "ExquisitelyWrappedPresent_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "5",
-        "Item2": "1",
-        "Item3": "1",
-        "Item4": "1"
-    },
-    {
-        "LootTableID": "ExquisitelyWrappedPresent_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 100000,
-        "Item1": "0",
-        "Item2": "90000",
-        "Item3": "0",
-        "Item4": "96000"
+        "Item1": "0"
     },
     {
         "LootTableID": "WCGoldLockBoxT1LevelLimit",
@@ -17455,27 +17756,53 @@
         "Item1": "14"
     },
     {
-        "LootTableID": "ItemCastHead",
+        "LootTableID": "CraftingUmbralRewards",
         "AND/OR": "AND",
         "UseLevelGS": "TRUE",
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]BonusUmbralCrafting"
     },
     {
-        "LootTableID": "ItemCastHead_Qty",
+        "LootTableID": "CraftingUmbralRewards_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "1"
     },
     {
-        "LootTableID": "ItemCastHead_Probs",
+        "LootTableID": "CraftingUmbralRewards_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
         "Item1": "0"
+    },
+    {
+        "LootTableID": "ItemCastHead",
+        "AND/OR": "AND",
+        "UseLevelGS": "TRUE",
+        "HWMMult": 1000,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
+    },
+    {
+        "LootTableID": "ItemCastHead_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1"
+    },
+    {
+        "LootTableID": "ItemCastHead_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 1,
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastChest",
@@ -17484,21 +17811,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastChest_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastChest_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastHands",
@@ -17507,21 +17837,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastHands_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastHands_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastLegs",
@@ -17530,21 +17863,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastLegs_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastLegs_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastFeet",
@@ -17553,21 +17889,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastFeet_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastFeet_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastSword",
@@ -17576,21 +17915,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastSword_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastSword_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastHatchet",
@@ -17599,21 +17941,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastHatchet_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastHatchet_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastRapier",
@@ -17622,21 +17967,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastRapier_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastRapier_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastSpear",
@@ -17645,21 +17993,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastSpear_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastSpear_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastGreatAxe",
@@ -17668,21 +18019,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastGreatAxe_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastGreatAxe_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastWarHammer",
@@ -17691,21 +18045,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastWarHammer_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastWarHammer_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastBow",
@@ -17714,21 +18071,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastBow_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastBow_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastMusket",
@@ -17737,21 +18097,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastMusket_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastMusket_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastLifeStaff",
@@ -17760,21 +18123,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastLifeStaff_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastLifeStaff_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastFireStaff",
@@ -17783,21 +18149,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastFireStaff_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastFireStaff_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastIceGauntlet",
@@ -17806,21 +18175,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastIceGauntlet_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastIceGauntlet_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastVoidGauntlet",
@@ -17829,21 +18201,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastVoidGauntlet_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastVoidGauntlet_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastShield",
@@ -17852,21 +18227,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastShield_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastShield_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastRing",
@@ -17875,21 +18253,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastRing_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastRing_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastAmulet",
@@ -17898,21 +18279,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastAmulet_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastAmulet_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "ItemCastEarring",
@@ -17921,21 +18305,24 @@
         "HWMMult": 1000,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LBID]GypsumCasts"
+        "Item1": "[LBID]GypsumCasts",
+        "Item2": "[LBID]BonusUmbral"
     },
     {
         "LootTableID": "ItemCastEarring_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1"
+        "Item1": "1",
+        "Item2": "1"
     },
     {
         "LootTableID": "ItemCastEarring_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
-        "Item1": "0"
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "PostCapArcanaT1",
@@ -17957,7 +18344,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1-2",
+        "Item4": "0-1",
         "Item5": "1"
     },
     {
@@ -17991,7 +18378,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "1",
-        "Item4": "2-3",
+        "Item4": "1-2",
         "Item5": "1"
     },
     {
@@ -18028,7 +18415,7 @@
         "Item2": "3",
         "Item3": "2",
         "Item4": "1",
-        "Item5": "3-5",
+        "Item5": "2-3",
         "Item6": "1",
         "Item7": "1"
     },
@@ -18065,7 +18452,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1-2",
+        "Item4": "0-1",
         "Item5": "1"
     },
     {
@@ -18099,7 +18486,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "1",
-        "Item4": "2-3",
+        "Item4": "1-2",
         "Item5": "1"
     },
     {
@@ -18136,7 +18523,7 @@
         "Item2": "3",
         "Item3": "2",
         "Item4": "1",
-        "Item5": "3-5",
+        "Item5": "2-3",
         "Item6": "1",
         "Item7": "1"
     },
@@ -18172,7 +18559,7 @@
         "Item1": "1",
         "Item2": "2",
         "Item3": "1",
-        "Item4": "1-2"
+        "Item4": "0-1"
     },
     {
         "LootTableID": "PostCapCookingT1_Probs",
@@ -18203,7 +18590,7 @@
         "Item1": "2",
         "Item2": "4",
         "Item3": "1",
-        "Item4": "2-3"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapCookingT2_Probs",
@@ -18236,7 +18623,7 @@
         "Item2": "6",
         "Item3": "2",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "2-3"
     },
     {
         "LootTableID": "PostCapCookingT3_Probs",
@@ -18269,7 +18656,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1-2",
+        "Item4": "0-1",
         "Item5": "1"
     },
     {
@@ -18303,7 +18690,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "1",
-        "Item4": "2-3",
+        "Item4": "1-2",
         "Item5": "1"
     },
     {
@@ -18340,7 +18727,7 @@
         "Item2": "3",
         "Item3": "2",
         "Item4": "1",
-        "Item5": "3-5",
+        "Item5": "2-3",
         "Item6": "1",
         "Item7": "1"
     },
@@ -18365,8 +18752,7 @@
         "MaxRoll": 0,
         "Item1": "[LBID]PostCapPerkItems",
         "Item2": "[LBID]PostCapIngredients",
-        "Item3": "[LBID]PostCapResources",
-        "Item4": "AzureVialT1"
+        "Item3": "[LBID]PostCapResources"
     },
     {
         "LootTableID": "PostCapFishingT1_Qty",
@@ -18375,8 +18761,7 @@
         "MaxRoll": 0,
         "Item1": "1",
         "Item2": "1",
-        "Item3": "1",
-        "Item4": "1-2"
+        "Item3": "1"
     },
     {
         "LootTableID": "PostCapFishingT1_Probs",
@@ -18385,8 +18770,7 @@
         "MaxRoll": 100000,
         "Item1": "0",
         "Item2": "0",
-        "Item3": "0",
-        "Item4": "0"
+        "Item3": "0"
     },
     {
         "LootTableID": "PostCapFishingT2",
@@ -18407,7 +18791,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "1",
-        "Item4": "2-3"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapFishingT2_Probs",
@@ -18440,7 +18824,7 @@
         "Item2": "3",
         "Item3": "2",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "1-3"
     },
     {
         "LootTableID": "PostCapFishingT3_Probs",
@@ -18470,7 +18854,7 @@
         "MaxRoll": 0,
         "Item1": "1",
         "Item2": "1",
-        "Item3": "1-2"
+        "Item3": "0-1"
     },
     {
         "LootTableID": "PostCapFurnishingT1_Probs",
@@ -18502,7 +18886,7 @@
         "Item2": "2",
         "Item3": "1",
         "Item4": "1",
-        "Item5": "1"
+        "Item5": "1-2"
     },
     {
         "LootTableID": "PostCapFurnishingT2_Probs",
@@ -18536,7 +18920,7 @@
         "Item2": "3",
         "Item3": "2",
         "Item4": "1-2",
-        "Item5": "3-5"
+        "Item5": "2-3"
     },
     {
         "LootTableID": "PostCapFurnishingT3_Probs",
@@ -18557,8 +18941,7 @@
         "MaxRoll": 0,
         "Item1": "[LBID]PostCapPerkItems",
         "Item2": "[LBID]PostCapIngredients",
-        "Item3": "[LBID]PostCapResources",
-        "Item4": "AzureVialT1"
+        "Item3": "[LBID]PostCapResources"
     },
     {
         "LootTableID": "PostCapHarvestingT1_Qty",
@@ -18567,8 +18950,7 @@
         "MaxRoll": 0,
         "Item1": "1",
         "Item2": "1",
-        "Item3": "1",
-        "Item4": "1-2"
+        "Item3": "1"
     },
     {
         "LootTableID": "PostCapHarvestingT1_Probs",
@@ -18577,8 +18959,7 @@
         "MaxRoll": 100000,
         "Item1": "0",
         "Item2": "0",
-        "Item3": "0",
-        "Item4": "0"
+        "Item3": "0"
     },
     {
         "LootTableID": "PostCapHarvestingT2",
@@ -18599,7 +18980,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "2-3"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapHarvestingT2_Probs",
@@ -18632,7 +19013,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "1-3"
     },
     {
         "LootTableID": "PostCapHarvestingT3_Probs",
@@ -18664,7 +19045,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1-2"
+        "Item4": "0-1"
     },
     {
         "LootTableID": "PostCapJewelcraftingT1_Probs",
@@ -18695,7 +19076,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "1",
-        "Item4": "2-3"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapJewelcraftingT2_Probs",
@@ -18728,7 +19109,7 @@
         "Item2": "3",
         "Item3": "2",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "2-3"
     },
     {
         "LootTableID": "PostCapJewelcraftingT3_Probs",
@@ -18760,7 +19141,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1-2"
+        "Item4": "0-1"
     },
     {
         "LootTableID": "PostCapLeatherworkingT1_Probs",
@@ -18824,7 +19205,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "2-3"
     },
     {
         "LootTableID": "PostCapLeatherworkingT3_Probs",
@@ -18845,8 +19226,7 @@
         "MaxRoll": 0,
         "Item1": "[LBID]PostCapPerkItems",
         "Item2": "[LBID]PostCapIngredients",
-        "Item3": "[LBID]PostCapResources",
-        "Item4": "AzureVialT1"
+        "Item3": "[LBID]PostCapResources"
     },
     {
         "LootTableID": "PostCapLoggingT1_Qty",
@@ -18855,8 +19235,7 @@
         "MaxRoll": 0,
         "Item1": "1",
         "Item2": "1",
-        "Item3": "1",
-        "Item4": "1-2"
+        "Item3": "1"
     },
     {
         "LootTableID": "PostCapLoggingT1_Probs",
@@ -18865,8 +19244,7 @@
         "MaxRoll": 100000,
         "Item1": "0",
         "Item2": "0",
-        "Item3": "0",
-        "Item4": "0"
+        "Item3": "0"
     },
     {
         "LootTableID": "PostCapLoggingT2",
@@ -18887,7 +19265,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "2-3"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapLoggingT2_Probs",
@@ -18920,7 +19298,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "1-3"
     },
     {
         "LootTableID": "PostCapLoggingT3_Probs",
@@ -18941,8 +19319,7 @@
         "MaxRoll": 0,
         "Item1": "[LBID]PostCapPerkItems",
         "Item2": "[LBID]PostCapIngredients",
-        "Item3": "[LBID]PostCapResources",
-        "Item4": "AzureVialT1"
+        "Item3": "[LBID]PostCapResources"
     },
     {
         "LootTableID": "PostCapMiningT1_Qty",
@@ -18951,8 +19328,7 @@
         "MaxRoll": 0,
         "Item1": "1",
         "Item2": "1",
-        "Item3": "1",
-        "Item4": "1-2"
+        "Item3": "1"
     },
     {
         "LootTableID": "PostCapMiningT1_Probs",
@@ -18961,8 +19337,7 @@
         "MaxRoll": 100000,
         "Item1": "0",
         "Item2": "0",
-        "Item3": "0",
-        "Item4": "0"
+        "Item3": "0"
     },
     {
         "LootTableID": "PostCapMiningT2",
@@ -18983,7 +19358,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "2-3"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapMiningT2_Probs",
@@ -19016,7 +19391,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "1-3"
     },
     {
         "LootTableID": "PostCapMiningT3_Probs",
@@ -19037,8 +19412,7 @@
         "MaxRoll": 0,
         "Item1": "[LBID]PostCapPerkItems",
         "Item2": "[LBID]PostCapIngredients",
-        "Item3": "[LBID]PostCapResources",
-        "Item4": "AzureVialT1"
+        "Item3": "[LBID]PostCapResources"
     },
     {
         "LootTableID": "PostCapSkinningT1_Qty",
@@ -19047,8 +19421,7 @@
         "MaxRoll": 0,
         "Item1": "1",
         "Item2": "1",
-        "Item3": "1",
-        "Item4": "1-2"
+        "Item3": "1"
     },
     {
         "LootTableID": "PostCapSkinningT1_Probs",
@@ -19057,8 +19430,7 @@
         "MaxRoll": 100000,
         "Item1": "0",
         "Item2": "0",
-        "Item3": "0",
-        "Item4": "0"
+        "Item3": "0"
     },
     {
         "LootTableID": "PostCapSkinningT2",
@@ -19079,7 +19451,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "2-3"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapSkinningT2_Probs",
@@ -19112,7 +19484,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "1-3"
     },
     {
         "LootTableID": "PostCapSkinningT3_Probs",
@@ -19144,7 +19516,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1-2"
+        "Item4": "0-1"
     },
     {
         "LootTableID": "PostCapSmeltingT1_Probs",
@@ -19175,7 +19547,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "2-3"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapSmeltingT2_Probs",
@@ -19208,7 +19580,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "2-3"
     },
     {
         "LootTableID": "PostCapSmeltingT3_Probs",
@@ -19240,7 +19612,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1-2"
+        "Item4": "0-1"
     },
     {
         "LootTableID": "PostCapStonecuttingT1_Probs",
@@ -19271,7 +19643,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "2-3"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapStonecuttingT2_Probs",
@@ -19304,7 +19676,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "2-3"
     },
     {
         "LootTableID": "PostCapStonecuttingT3_Probs",
@@ -19337,7 +19709,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1-2",
+        "Item4": "0-1",
         "Item5": "1"
     },
     {
@@ -19371,7 +19743,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "1",
-        "Item4": "2-3",
+        "Item4": "1-2",
         "Item5": "1"
     },
     {
@@ -19408,7 +19780,7 @@
         "Item2": "3",
         "Item3": "2",
         "Item4": "1",
-        "Item5": "3-5",
+        "Item5": "2-3",
         "Item6": "1",
         "Item7": "1"
     },
@@ -19444,7 +19816,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1-2"
+        "Item4": "0-1"
     },
     {
         "LootTableID": "PostCapWeavingT1_Probs",
@@ -19475,7 +19847,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "2-3"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapWeavingT2_Probs",
@@ -19508,7 +19880,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "2-3"
     },
     {
         "LootTableID": "PostCapWeavingT3_Probs",
@@ -19540,7 +19912,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1-2"
+        "Item4": "0-1"
     },
     {
         "LootTableID": "PostCapWoodworkingT1_Probs",
@@ -19571,7 +19943,7 @@
         "Item1": "2",
         "Item2": "2",
         "Item3": "2",
-        "Item4": "2-3"
+        "Item4": "1-2"
     },
     {
         "LootTableID": "PostCapWoodworkingT2_Probs",
@@ -19604,7 +19976,7 @@
         "Item2": "3",
         "Item3": "3",
         "Item4": "1",
-        "Item5": "3-5"
+        "Item5": "2-3"
     },
     {
         "LootTableID": "PostCapWoodworkingT3_Probs",
@@ -22630,7 +23002,7 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "[LBID]DarknessMinor1Containers60",
-        "Item2": "GypsumPurple"
+        "Item2": "[LTID]GypsumPurpleDarknessRoll"
     },
     {
         "LootTableID": "DarknessMinor1EventLoot60_Qty",
@@ -22655,7 +23027,7 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "[LBID]DarknessMinor2Containers60",
-        "Item2": "GypsumPurple"
+        "Item2": "[LTID]GypsumPurpleDarknessRoll"
     },
     {
         "LootTableID": "DarknessMinor2EventLoot60_Qty",
@@ -22680,7 +23052,7 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "[LBID]DarknessMajor1Containers60",
-        "Item2": "GypsumPurple"
+        "Item2": "[LTID]GypsumPurpleDarknessRoll"
     },
     {
         "LootTableID": "DarknessMajor1EventLoot60_Qty",
@@ -22705,7 +23077,7 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "[LBID]DarknessMajor2Containers60",
-        "Item2": "GypsumPurple"
+        "Item2": "[LTID]GypsumPurpleDarknessRoll"
     },
     {
         "LootTableID": "DarknessMajor2EventLoot60_Qty",
@@ -22730,7 +23102,7 @@
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "[LBID]DarknessMajor2Containers65",
-        "Item2": "GypsumPurple"
+        "Item2": "[LTID]GypsumPurpleDarknessRoll"
     },
     {
         "LootTableID": "DarknessMajor2EventLoot65_Qty",
@@ -22747,6 +23119,29 @@
         "MaxRoll": 100000,
         "Item1": "0",
         "Item2": "0"
+    },
+    {
+        "LootTableID": "GypsumPurpleDarknessRoll",
+        "AND/OR": "AND",
+        "Conditions": "Level",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "GypsumPurple"
+    },
+    {
+        "LootTableID": "GypsumPurpleDarknessRoll_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "GypsumPurpleDarknessRoll_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "60"
     },
     {
         "LootTableID": "DarknessFragments",
@@ -22874,9 +23269,8 @@
         "MaxRoll": 0,
         "Item1": "[LBID]DarknessWeaponBucket",
         "Item2": "[LBID]DarknessArmorBucket",
-        "Item3": "[LTID]DarknessMinor2RollGypsum",
-        "Item4": "[LBID]DarknessShieldsBucket",
-        "Item5": "[LBID]DarknessEventMaterials"
+        "Item3": "[LBID]DarknessShieldsBucket",
+        "Item4": "[LBID]DarknessEventMaterials"
     },
     {
         "LootTableID": "DarknessMinor2Roll_Qty",
@@ -22886,8 +23280,7 @@
         "Item1": "1",
         "Item2": "1",
         "Item3": "1",
-        "Item4": "1",
-        "Item5": "1"
+        "Item4": "1"
     },
     {
         "LootTableID": "DarknessMinor2Roll_Probs",
@@ -22896,58 +23289,8 @@
         "MaxRoll": 100000,
         "Item1": "0",
         "Item2": "0",
-        "Item3": "50000",
-        "Item4": "91000",
-        "Item5": "95000"
-    },
-    {
-        "LootTableID": "DarknessMinor2RollGypsum",
-        "AND/OR": "AND",
-        "UseLevelGS": "TRUE",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "[LTID]DarknessMinor2RollGypsumGear"
-    },
-    {
-        "LootTableID": "DarknessMinor2RollGypsum_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "1"
-    },
-    {
-        "LootTableID": "DarknessMinor2RollGypsum_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 100000,
-        "Item1": "0"
-    },
-    {
-        "LootTableID": "DarknessMinor2RollGypsumGear",
-        "AND/OR": "OR",
-        "UseLevelGS": "TRUE",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "[LBID]DarknessWeaponBucket",
-        "Item2": "[LBID]DarknessArmorBucket"
-    },
-    {
-        "LootTableID": "DarknessMinor2RollGypsumGear_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "1",
-        "Item2": "1"
-    },
-    {
-        "LootTableID": "DarknessMinor2RollGypsumGear_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 100000,
-        "Item1": "0",
-        "Item2": "0"
+        "Item3": "91000",
+        "Item4": "95000"
     },
     {
         "LootTableID": "DarknessMajor1Roll",
@@ -23057,29 +23400,6 @@
         "Item2": "35000"
     },
     {
-        "LootTableID": "BreachGypsum",
-        "AND/OR": "AND",
-        "Conditions": "Level",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "[LBID]GypsumDrops"
-    },
-    {
-        "LootTableID": "BreachGypsum_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "1"
-    },
-    {
-        "LootTableID": "BreachGypsum_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "59"
-    },
-    {
         "LootTableID": "DarknessMajor1",
         "AND/OR": "OR",
         "UseLevelGS": "TRUE",
@@ -23150,18 +23470,16 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LTID]ArenaGypsum",
-        "Item2": "[LTID]AwardCorrupted",
-        "Item3": "[LBID]NamedArenaCorrupted"
+        "Item1": "[LTID]AwardCorrupted",
+        "Item2": "[LBID]NamedArenaCorrupted"
     },
     {
         "LootTableID": "AwardCorruptedRoll_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1",
-        "Item2": "3",
-        "Item3": "1"
+        "Item1": "3",
+        "Item2": "1"
     },
     {
         "LootTableID": "AwardCorruptedRoll_Probs",
@@ -23169,8 +23487,7 @@
         "GSBonus": 0,
         "MaxRoll": 100000,
         "Item1": "0",
-        "Item2": "0",
-        "Item3": "96000"
+        "Item2": "96000"
     },
     {
         "LootTableID": "AwardAncientRoll",
@@ -23179,18 +23496,16 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LTID]ArenaGypsum",
-        "Item2": "[LTID]AwardAncient",
-        "Item3": "[LBID]NamedArenaAncient"
+        "Item1": "[LTID]AwardAncient",
+        "Item2": "[LBID]NamedArenaAncient"
     },
     {
         "LootTableID": "AwardAncientRoll_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1",
-        "Item2": "3",
-        "Item3": "1"
+        "Item1": "3",
+        "Item2": "1"
     },
     {
         "LootTableID": "AwardAncientRoll_Probs",
@@ -23198,8 +23513,7 @@
         "GSBonus": 0,
         "MaxRoll": 100000,
         "Item1": "0",
-        "Item2": "0",
-        "Item3": "96000"
+        "Item2": "96000"
     },
     {
         "LootTableID": "AwardLostRoll",
@@ -23208,18 +23522,16 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LTID]ArenaGypsum",
-        "Item2": "[LTID]AwardLost",
-        "Item3": "[LBID]NamedArenaLost"
+        "Item1": "[LTID]AwardLost",
+        "Item2": "[LBID]NamedArenaLost"
     },
     {
         "LootTableID": "AwardLostRoll_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1",
-        "Item2": "3",
-        "Item3": "1"
+        "Item1": "3",
+        "Item2": "1"
     },
     {
         "LootTableID": "AwardLostRoll_Probs",
@@ -23227,8 +23539,7 @@
         "GSBonus": 0,
         "MaxRoll": 100000,
         "Item1": "0",
-        "Item2": "0",
-        "Item3": "96000"
+        "Item2": "96000"
     },
     {
         "LootTableID": "AwardAngryEarthRoll",
@@ -23237,18 +23548,16 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LTID]ArenaGypsum",
-        "Item2": "[LTID]AwardAngryEarth",
-        "Item3": "[LBID]NamedArenaAngryEarth"
+        "Item1": "[LTID]AwardAngryEarth",
+        "Item2": "[LBID]NamedArenaAngryEarth"
     },
     {
         "LootTableID": "AwardAngryEarthRoll_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1",
-        "Item2": "3",
-        "Item3": "1"
+        "Item1": "3",
+        "Item2": "1"
     },
     {
         "LootTableID": "AwardAngryEarthRoll_Probs",
@@ -23256,8 +23565,7 @@
         "GSBonus": 0,
         "MaxRoll": 100000,
         "Item1": "0",
-        "Item2": "0",
-        "Item3": "96000"
+        "Item2": "96000"
     },
     {
         "LootTableID": "AwardSwampBeastRoll",
@@ -23266,18 +23574,16 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "[LTID]ArenaGypsum",
-        "Item2": "[LTID]AwardAngryEarth",
-        "Item3": "[LBID]NamedArenaAngryEarth"
+        "Item1": "[LTID]AwardAngryEarth",
+        "Item2": "[LBID]NamedArenaAngryEarth"
     },
     {
         "LootTableID": "AwardSwampBeastRoll_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "1",
-        "Item2": "3",
-        "Item3": "1"
+        "Item1": "3",
+        "Item2": "1"
     },
     {
         "LootTableID": "AwardSwampBeastRoll_Probs",
@@ -23285,31 +23591,7 @@
         "GSBonus": 0,
         "MaxRoll": 100000,
         "Item1": "0",
-        "Item2": "0",
-        "Item3": "96000"
-    },
-    {
-        "LootTableID": "ArenaGypsum",
-        "AND/OR": "AND",
-        "Conditions": "Level",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "[LBID]GypsumDrops"
-    },
-    {
-        "LootTableID": "ArenaGypsum_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "1"
-    },
-    {
-        "LootTableID": "ArenaGypsum_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "59"
+        "Item2": "96000"
     },
     {
         "LootTableID": "AwardCorrupted",
@@ -25311,6 +25593,3106 @@
         "Item9": "0"
     },
     {
+        "LootTableID": "PlaytestKeyMutators",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "KeyMutator"
+    },
+    {
+        "LootTableID": "PlaytestKeyMutators_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "10"
+    },
+    {
+        "LootTableID": "PlaytestKeyMutators_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0"
+    },
+    {
+        "LootTableID": "PlaytestAptitudeResources",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Refined",
+        "Item2": "Playtest_Box_Raw",
+        "Item3": "Playtest_Box_Rare",
+        "Item4": "Playtest_Box_Food",
+        "Item5": "Playtest_Box_Water"
+    },
+    {
+        "LootTableID": "PlaytestAptitudeResources_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "100",
+        "Item2": "100",
+        "Item3": "100",
+        "Item4": "100",
+        "Item5": "100"
+    },
+    {
+        "LootTableID": "PlaytestAptitudeResources_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestRefinedResources",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "TimberT5",
+        "Item2": "TimberT51",
+        "Item3": "ClothT5",
+        "Item4": "ClothT51",
+        "Item5": "IngotT5",
+        "Item6": "IngotT51",
+        "Item7": "BlockT5",
+        "Item8": "BlockT51",
+        "Item9": "LeatherT5",
+        "Item10": "LeatherT51"
+    },
+    {
+        "LootTableID": "PlaytestRefinedResources_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1000",
+        "Item2": "100",
+        "Item3": "1000",
+        "Item4": "100",
+        "Item5": "1000",
+        "Item6": "100",
+        "Item7": "1000",
+        "Item8": "100",
+        "Item9": "1000",
+        "Item10": "100"
+    },
+    {
+        "LootTableID": "PlaytestRefinedResources_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0"
+    },
+    {
+        "LootTableID": "PlaytestRawResources",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "RawhideT5",
+        "Item2": "StoneT4",
+        "Item3": "OreT5",
+        "Item4": "OrePreciousT3",
+        "Item5": "IngotPreciousT3",
+        "Item6": "WoodT5",
+        "Item7": "FiberT5"
+    },
+    {
+        "LootTableID": "PlaytestRawResources_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1000",
+        "Item2": "1000",
+        "Item3": "1000",
+        "Item4": "1000",
+        "Item5": "1000",
+        "Item6": "1000",
+        "Item7": "1000"
+    },
+    {
+        "LootTableID": "PlaytestRawResources_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0"
+    },
+    {
+        "LootTableID": "PlaytestRareResources",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "CinnabarT1",
+        "Item2": "TolviumT1",
+        "Item3": "WildwoodT1",
+        "Item4": "BarbvineT1",
+        "Item5": "SmolderhideT1",
+        "Item6": "ScarhideT1",
+        "Item7": "BlisterweaveT1",
+        "Item8": "ScaleclothT1"
+    },
+    {
+        "LootTableID": "PlaytestRareResources_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "100",
+        "Item2": "100",
+        "Item3": "100",
+        "Item4": "100",
+        "Item5": "100",
+        "Item6": "100",
+        "Item7": "100",
+        "Item8": "100"
+    },
+    {
+        "LootTableID": "PlaytestRareResources_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0"
+    },
+    {
+        "LootTableID": "PlaytestFoodResources",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Herbs",
+        "Item2": "Playtest_Box_Seasonings",
+        "Item3": "Playtest_Box_Meats",
+        "Item4": "Playtest_Box_Fish",
+        "Item5": "Playtest_Box_Fruit",
+        "Item6": "Playtest_Box_Vegetables",
+        "Item7": "Playtest_Box_Grains",
+        "Item8": "Playtest_Box_Oils"
+    },
+    {
+        "LootTableID": "PlaytestFoodResources_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "100",
+        "Item2": "100",
+        "Item3": "100",
+        "Item4": "100",
+        "Item5": "100",
+        "Item6": "100",
+        "Item7": "100",
+        "Item8": "100"
+    },
+    {
+        "LootTableID": "PlaytestFoodResources_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0"
+    },
+    {
+        "LootTableID": "PlaytestHerbs",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "BasilT1",
+        "Item2": "SaffronT1",
+        "Item3": "ThymeT1",
+        "Item4": "OreganoT1",
+        "Item5": "DillT1",
+        "Item6": "ParsleyT1",
+        "Item7": "RosemaryT1",
+        "Item8": "TarragonT1",
+        "Item9": "SageT1",
+        "Item10": "MintT1"
+    },
+    {
+        "LootTableID": "PlaytestHerbs_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "250",
+        "Item2": "250",
+        "Item3": "250",
+        "Item4": "250",
+        "Item5": "250",
+        "Item6": "250",
+        "Item7": "250",
+        "Item8": "250",
+        "Item9": "250",
+        "Item10": "250"
+    },
+    {
+        "LootTableID": "PlaytestHerbs_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0"
+    },
+    {
+        "LootTableID": "PlaytestSeasoning",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "PeppercornT1",
+        "Item2": "CinnamonT1",
+        "Item3": "NutmegT1",
+        "Item4": "PaprikaT1",
+        "Item5": "GingerT1",
+        "Item6": "GarlicT1",
+        "Item7": "SaltT1",
+        "Item8": "SugarT1",
+        "Item9": "SeasoningBlendT1"
+    },
+    {
+        "LootTableID": "PlaytestSeasoning_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "250",
+        "Item2": "250",
+        "Item3": "250",
+        "Item4": "250",
+        "Item5": "250",
+        "Item6": "250",
+        "Item7": "250",
+        "Item8": "250",
+        "Item9": "250"
+    },
+    {
+        "LootTableID": "PlaytestSeasoning_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0"
+    },
+    {
+        "LootTableID": "PlaytestMeat",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "MeatGameT1",
+        "Item2": "VenisonT1",
+        "Item3": "PorkT1",
+        "Item4": "TurkeyBreastT1",
+        "Item5": "TurkeyThighT1",
+        "Item6": "BearFlankT1",
+        "Item7": "HamHockT1",
+        "Item8": "RabbitT1",
+        "Item9": "VenisonTenderloinT1",
+        "Item10": "WolfLoinT1",
+        "Item11": "PrimeRedMeatT1",
+        "Item12": "PorkBellyT1",
+        "Item13": "EggT1",
+        "Item14": "PoultryT1",
+        "Item15": "RedMeatT1"
+    },
+    {
+        "LootTableID": "PlaytestMeat_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "200",
+        "Item2": "200",
+        "Item3": "200",
+        "Item4": "200",
+        "Item5": "200",
+        "Item6": "100",
+        "Item7": "100",
+        "Item8": "200",
+        "Item9": "100",
+        "Item10": "100",
+        "Item11": "200",
+        "Item12": "100",
+        "Item13": "200",
+        "Item14": "200",
+        "Item15": "200"
+    },
+    {
+        "LootTableID": "PlaytestMeat_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0",
+        "Item12": "0",
+        "Item13": "0",
+        "Item14": "0",
+        "Item15": "0"
+    },
+    {
+        "LootTableID": "PlaytestFish",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "FishRoeT1",
+        "Item2": "MeatSquidT1",
+        "Item3": "FishT1",
+        "Item4": "FishT2",
+        "Item5": "FishT3",
+        "Item6": "FishT4",
+        "Item7": "SquidInkT1"
+    },
+    {
+        "LootTableID": "PlaytestFish_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "200",
+        "Item2": "100",
+        "Item3": "200",
+        "Item4": "200",
+        "Item5": "200",
+        "Item6": "200",
+        "Item7": "100"
+    },
+    {
+        "LootTableID": "PlaytestFish_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0"
+    },
+    {
+        "LootTableID": "PlaytestFruit",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "StrawberryT1",
+        "Item2": "CranberryT1",
+        "Item3": "MelonT1",
+        "Item4": "NutT1",
+        "Item5": "BerryT1",
+        "Item6": "OrangeT1",
+        "Item7": "LemonT1",
+        "Item8": "AppleT1",
+        "Item9": "CoconutT1",
+        "Item10": "TomatoT1",
+        "Item11": "BlueberryT1"
+    },
+    {
+        "LootTableID": "PlaytestFruit_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "100",
+        "Item2": "100",
+        "Item3": "100",
+        "Item4": "100",
+        "Item5": "100",
+        "Item6": "100",
+        "Item7": "100",
+        "Item8": "100",
+        "Item9": "100",
+        "Item10": "100",
+        "Item11": "100"
+    },
+    {
+        "LootTableID": "PlaytestFruit_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0"
+    },
+    {
+        "LootTableID": "PlaytestVegetables",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "BroccoliT1",
+        "Item2": "PotatoT1",
+        "Item3": "CornT1",
+        "Item4": "CarrotT1",
+        "Item5": "CabbageT1",
+        "Item6": "MushroomT1",
+        "Item7": "CauliflowerT1",
+        "Item8": "StringBeanT1",
+        "Item9": "OnionT1",
+        "Item10": "BroccoliT1"
+    },
+    {
+        "LootTableID": "PlaytestVegetables_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "100",
+        "Item2": "100",
+        "Item3": "100",
+        "Item4": "100",
+        "Item5": "100",
+        "Item6": "100",
+        "Item7": "100",
+        "Item8": "100",
+        "Item9": "100",
+        "Item10": "100"
+    },
+    {
+        "LootTableID": "PlaytestVegetables_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0"
+    },
+    {
+        "LootTableID": "PlaytestGrains",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "WheatT1",
+        "Item2": "RiceT1",
+        "Item3": "BarleyT1",
+        "Item4": "FlourT1",
+        "Item5": "BreadT1",
+        "Item6": "PastaT1",
+        "Item7": "PastryCrustT1",
+        "Item8": "YeastT1"
+    },
+    {
+        "LootTableID": "PlaytestGrains_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "200",
+        "Item2": "200",
+        "Item3": "200",
+        "Item4": "200",
+        "Item5": "200",
+        "Item6": "100",
+        "Item7": "100",
+        "Item8": "200"
+    },
+    {
+        "LootTableID": "PlaytestGrains_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0"
+    },
+    {
+        "LootTableID": "PlaytestOils",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "FishOilT1",
+        "Item2": "HoneyT1",
+        "Item3": "CookingOilT1",
+        "Item4": "CheeseT1",
+        "Item5": "ButterT1",
+        "Item6": "MilkT1"
+    },
+    {
+        "LootTableID": "PlaytestOils_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "200",
+        "Item2": "200",
+        "Item3": "200",
+        "Item4": "200",
+        "Item5": "200",
+        "Item6": "200"
+    },
+    {
+        "LootTableID": "PlaytestOils_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
+    },
+    {
+        "LootTableID": "PlaytestWater",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "WaterT1"
+    },
+    {
+        "LootTableID": "PlaytestWater_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "5000"
+    },
+    {
+        "LootTableID": "PlaytestWater_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0"
+    },
+    {
+        "LootTableID": "PlaytestTrophiesT1",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "House_HousingItem_Buff_Alchemy_Bonus_T1",
+        "Item2": "House_HousingItem_Buff_Blacksmithing_Bonus_T1",
+        "Item3": "House_HousingItem_Buff_Cooking_Bonus_T1",
+        "Item4": "House_HousingItem_Buff_Damage_Vs_Ancients_T1",
+        "Item5": "House_HousingItem_Buff_Damage_Vs_AngryEarth_T1",
+        "Item6": "House_HousingItem_Buff_Damage_Vs_Beasts_T1",
+        "Item7": "House_HousingItem_Buff_Damage_Vs_Corrupted_T1",
+        "Item8": "House_HousingItem_Buff_Damage_Vs_Lost_T1",
+        "Item9": "House_HousingItem_Buff_Engineering_Bonus_T1",
+        "Item10": "House_HousingItem_Buff_Fishing_Bonus_T1",
+        "Item11": "House_HousingItem_Buff_Harvesting_Bonus_T1",
+        "Item12": "House_HousingItem_Buff_Logging_Bonus_T1",
+        "Item13": "House_HousingItem_Buff_Luck_Bonus_T1",
+        "Item14": "House_HousingItem_Buff_Mining_Bonus_T1",
+        "Item15": "House_HousingItem_Buff_Outfitting_Bonus_T1",
+        "Item16": "House_HousingItem_Buff_Skinning_Bonus_T1",
+        "Item17": "House_HousingItem_Storage_T4_ChestAncient",
+        "Item18": "House_HousingItem_Storage_T4_ChestMacab",
+        "Item19": "House_HousingItem_Storage_T4_ChestSteel"
+    },
+    {
+        "LootTableID": "PlaytestTrophiesT1_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "3",
+        "Item2": "3",
+        "Item3": "3",
+        "Item4": "3",
+        "Item5": "3",
+        "Item6": "3",
+        "Item7": "3",
+        "Item8": "3",
+        "Item9": "3",
+        "Item10": "3",
+        "Item11": "3",
+        "Item12": "3",
+        "Item13": "3",
+        "Item14": "3",
+        "Item15": "3",
+        "Item16": "3",
+        "Item17": "5",
+        "Item18": "5",
+        "Item19": "5"
+    },
+    {
+        "LootTableID": "PlaytestTrophiesT1_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0",
+        "Item12": "0",
+        "Item13": "0",
+        "Item14": "0",
+        "Item15": "0",
+        "Item16": "0",
+        "Item17": "0",
+        "Item18": "0",
+        "Item19": "0"
+    },
+    {
+        "LootTableID": "PlaytestTrophiesT2",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "House_HousingItem_Buff_Alchemy_Bonus_T2",
+        "Item2": "House_HousingItem_Buff_Blacksmithing_Bonus_T2",
+        "Item3": "House_HousingItem_Buff_Cooking_Bonus_T2",
+        "Item4": "House_HousingItem_Buff_Damage_Vs_Ancients_T2",
+        "Item5": "House_HousingItem_Buff_Damage_Vs_AngryEarth_T2",
+        "Item6": "House_HousingItem_Buff_Damage_Vs_Beasts_T2",
+        "Item7": "House_HousingItem_Buff_Damage_Vs_Corrupted_T2",
+        "Item8": "House_HousingItem_Buff_Damage_Vs_Lost_T2",
+        "Item9": "House_HousingItem_Buff_Engineering_Bonus_T2",
+        "Item10": "House_HousingItem_Buff_Fishing_Bonus_T2",
+        "Item11": "House_HousingItem_Buff_Harvesting_Bonus_T2",
+        "Item12": "House_HousingItem_Buff_Logging_Bonus_T2",
+        "Item13": "House_HousingItem_Buff_Luck_Bonus_T2",
+        "Item14": "House_HousingItem_Buff_Mining_Bonus_T2",
+        "Item15": "House_HousingItem_Buff_Outfitting_Bonus_T2",
+        "Item16": "House_HousingItem_Buff_Skinning_Bonus_T2",
+        "Item17": "House_HousingItem_Storage_T4_ChestAncient",
+        "Item18": "House_HousingItem_Storage_T4_ChestMacab",
+        "Item19": "House_HousingItem_Storage_T4_ChestSteel"
+    },
+    {
+        "LootTableID": "PlaytestTrophiesT2_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "3",
+        "Item2": "3",
+        "Item3": "3",
+        "Item4": "3",
+        "Item5": "3",
+        "Item6": "3",
+        "Item7": "3",
+        "Item8": "3",
+        "Item9": "3",
+        "Item10": "3",
+        "Item11": "3",
+        "Item12": "3",
+        "Item13": "3",
+        "Item14": "3",
+        "Item15": "3",
+        "Item16": "3",
+        "Item17": "5",
+        "Item18": "5",
+        "Item19": "5"
+    },
+    {
+        "LootTableID": "PlaytestTrophiesT2_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0",
+        "Item12": "0",
+        "Item13": "0",
+        "Item14": "0",
+        "Item15": "0",
+        "Item16": "0",
+        "Item17": "0",
+        "Item18": "0",
+        "Item19": "0"
+    },
+    {
+        "LootTableID": "PlaytestTrophiesT3",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "House_HousingItem_Buff_Alchemy_Bonus_T3",
+        "Item2": "House_HousingItem_Buff_Blacksmithing_Bonus_T3",
+        "Item3": "House_HousingItem_Buff_Cooking_Bonus_T3",
+        "Item4": "House_HousingItem_Buff_Damage_Vs_Ancients_T3",
+        "Item5": "House_HousingItem_Buff_Damage_Vs_AngryEarth_T3",
+        "Item6": "House_HousingItem_Buff_Damage_Vs_Beasts_T3",
+        "Item7": "House_HousingItem_Buff_Damage_Vs_Corrupted_T3",
+        "Item8": "House_HousingItem_Buff_Damage_Vs_Lost_T3",
+        "Item9": "House_HousingItem_Buff_Engineering_Bonus_T3",
+        "Item10": "House_HousingItem_Buff_Fishing_Bonus_T3",
+        "Item11": "House_HousingItem_Buff_Harvesting_Bonus_T3",
+        "Item12": "House_HousingItem_Buff_Logging_Bonus_T3",
+        "Item13": "House_HousingItem_Buff_Luck_Bonus_T3",
+        "Item14": "House_HousingItem_Buff_Mining_Bonus_T3",
+        "Item15": "House_HousingItem_Buff_Outfitting_Bonus_T3",
+        "Item16": "House_HousingItem_Buff_Skinning_Bonus_T3",
+        "Item17": "House_HousingItem_Storage_T4_ChestAncient",
+        "Item18": "House_HousingItem_Storage_T4_ChestMacab",
+        "Item19": "House_HousingItem_Storage_T4_ChestSteel"
+    },
+    {
+        "LootTableID": "PlaytestTrophiesT3_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "3",
+        "Item2": "3",
+        "Item3": "3",
+        "Item4": "3",
+        "Item5": "3",
+        "Item6": "3",
+        "Item7": "3",
+        "Item8": "3",
+        "Item9": "3",
+        "Item10": "3",
+        "Item11": "3",
+        "Item12": "3",
+        "Item13": "3",
+        "Item14": "3",
+        "Item15": "3",
+        "Item16": "3",
+        "Item17": "5",
+        "Item18": "5",
+        "Item19": "5"
+    },
+    {
+        "LootTableID": "PlaytestTrophiesT3_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0",
+        "Item12": "0",
+        "Item13": "0",
+        "Item14": "0",
+        "Item15": "0",
+        "Item16": "0",
+        "Item17": "0",
+        "Item18": "0",
+        "Item19": "0"
+    },
+    {
+        "LootTableID": "PlaytestStandingVials",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_StandingVial_Brightwood",
+        "Item2": "Playtest_StandingVial_Everfall",
+        "Item3": "Playtest_StandingVial_Reekwater",
+        "Item4": "Playtest_StandingVial_Windsward",
+        "Item5": "Playtest_StandingVial_Ebonscale",
+        "Item6": "Playtest_StandingVial_FirstLight",
+        "Item7": "Playtest_StandingVial_CutlassKeys",
+        "Item8": "Playtest_StandingVial_Mourningdale",
+        "Item9": "Playtest_StandingVial_MonarchsBluffs",
+        "Item10": "Playtest_StandingVial_WeaversFen",
+        "Item11": "Playtest_StandingVial_RestlessShore"
+    },
+    {
+        "LootTableID": "PlaytestStandingVials_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "10",
+        "Item2": "10",
+        "Item3": "10",
+        "Item4": "10",
+        "Item5": "10",
+        "Item6": "10",
+        "Item7": "10",
+        "Item8": "10",
+        "Item9": "10",
+        "Item10": "10",
+        "Item11": "10"
+    },
+    {
+        "LootTableID": "PlaytestStandingVials_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0"
+    },
+    {
+        "LootTableID": "PlaytestCraftingClothingT5",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "ClothingHead_BlacksmithT5",
+        "Item2": "ClothingChest_BlacksmithT5",
+        "Item3": "ClothingHands_BlacksmithT5",
+        "Item4": "ClothingLegs_BlacksmithT5",
+        "Item5": "ClothingFeet_BlacksmithT5",
+        "Item6": "ClothingHead_EngineerT5",
+        "Item7": "ClothingChest_EngineerT5",
+        "Item8": "ClothingHands_EngineerT5",
+        "Item9": "ClothingLegs_EngineerT5",
+        "Item10": "ClothingFeet_EngineerT5",
+        "Item11": "MediumHead_AlchemistVar3T5",
+        "Item12": "MediumChest_AlchemistVar3T5",
+        "Item13": "MediumHands_AlchemistVar3T5",
+        "Item14": "MediumLegs_AlchemistVar3T5",
+        "Item15": "MediumFeet_AlchemistVar3T5",
+        "Item16": "ClothingHead_OutfitterT5",
+        "Item17": "ClothingChest_OutfitterT5",
+        "Item18": "ClothingHands_OutfitterT5",
+        "Item19": "ClothingLegs_OutfitterT5",
+        "Item20": "ClothingFeet_OutfitterT5",
+        "Item21": "ClothingHead_ChefT5",
+        "Item22": "ClothingChest_ChefT5",
+        "Item23": "ClothingHands_ChefT5",
+        "Item24": "ClothingLegs_ChefT5",
+        "Item25": "ClothingFeet_ChefT5",
+        "Item26": "ClothingHead_JewelcraftingT5",
+        "Item27": "ClothingChest_JewelcraftingT5",
+        "Item28": "ClothingHands_JewelcraftingT5",
+        "Item29": "ClothingLegs_JewelcraftingT5",
+        "Item30": "ClothingFeet_JewelcraftingT5"
+    },
+    {
+        "LootTableID": "PlaytestCraftingClothingT5_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1",
+        "Item7": "1",
+        "Item8": "1",
+        "Item9": "1",
+        "Item10": "1",
+        "Item11": "1",
+        "Item12": "1",
+        "Item13": "1",
+        "Item14": "1",
+        "Item15": "1",
+        "Item16": "1",
+        "Item17": "1",
+        "Item18": "1",
+        "Item19": "1",
+        "Item20": "1",
+        "Item21": "1",
+        "Item22": "1",
+        "Item23": "1",
+        "Item24": "1",
+        "Item25": "1",
+        "Item26": "1",
+        "Item27": "1",
+        "Item28": "1",
+        "Item29": "1",
+        "Item30": "1"
+    },
+    {
+        "LootTableID": "PlaytestCraftingClothingT5_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0",
+        "Item12": "0",
+        "Item13": "0",
+        "Item14": "0",
+        "Item15": "0",
+        "Item16": "0",
+        "Item17": "0",
+        "Item18": "0",
+        "Item19": "0",
+        "Item20": "0",
+        "Item21": "0",
+        "Item22": "0",
+        "Item23": "0",
+        "Item24": "0",
+        "Item25": "0",
+        "Item26": "0",
+        "Item27": "0",
+        "Item28": "0",
+        "Item29": "0",
+        "Item30": "0"
+    },
+    {
+        "LootTableID": "PlaytestRefiningClothingT5",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "ClothingHead_SmelterT5",
+        "Item2": "ClothingChest_SmelterT5",
+        "Item3": "ClothingHands_SmelterT5",
+        "Item4": "ClothingLegs_SmelterT5",
+        "Item5": "ClothingFeet_SmelterT5",
+        "Item6": "ClothingHead_WoodWorkerT5",
+        "Item7": "ClothingChest_WoodWorkerT5",
+        "Item8": "ClothingHands_WoodWorkerT5",
+        "Item9": "ClothingLegs_WoodWorkerT5",
+        "Item10": "ClothingFeet_WoodWorkerT5",
+        "Item11": "ClothingHead_WeaverT5",
+        "Item12": "ClothingChest_WeaverT5",
+        "Item13": "ClothingHands_WeaverT5",
+        "Item14": "ClothingLegs_WeaverT5",
+        "Item15": "ClothingFeet_WeaverT5",
+        "Item16": "ClothingHead_StonecutterT5",
+        "Item17": "ClothingChest_StonecutterT5",
+        "Item18": "ClothingHands_StonecutterT5",
+        "Item19": "ClothingLegs_StonecutterT5",
+        "Item20": "ClothingFeet_StonecutterT5",
+        "Item21": "ClothingHead_TannerT5",
+        "Item22": "ClothingChest_TannerT5",
+        "Item23": "ClothingHands_TannerT5",
+        "Item24": "ClothingLegs_TannerT5",
+        "Item25": "ClothingFeet_TannerT5"
+    },
+    {
+        "LootTableID": "PlaytestRefiningClothingT5_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1",
+        "Item7": "1",
+        "Item8": "1",
+        "Item9": "1",
+        "Item10": "1",
+        "Item11": "1",
+        "Item12": "1",
+        "Item13": "1",
+        "Item14": "1",
+        "Item15": "1",
+        "Item16": "1",
+        "Item17": "1",
+        "Item18": "1",
+        "Item19": "1",
+        "Item20": "1",
+        "Item21": "1",
+        "Item22": "1",
+        "Item23": "1",
+        "Item24": "1",
+        "Item25": "1"
+    },
+    {
+        "LootTableID": "PlaytestRefiningClothingT5_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0",
+        "Item12": "0",
+        "Item13": "0",
+        "Item14": "0",
+        "Item15": "0",
+        "Item16": "0",
+        "Item17": "0",
+        "Item18": "0",
+        "Item19": "0",
+        "Item20": "0",
+        "Item21": "0",
+        "Item22": "0",
+        "Item23": "0",
+        "Item24": "0",
+        "Item25": "0"
+    },
+    {
+        "LootTableID": "PlaytestGatheringClothingT5",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "ClothingHead_MinerT5",
+        "Item2": "ClothingChest_MinerT5",
+        "Item3": "ClothingHands_MinerT5",
+        "Item4": "ClothingLegs_MinerT5",
+        "Item5": "ClothingFeet_MinerT5",
+        "Item6": "ClothingHead_HorticulturistT5",
+        "Item7": "ClothingChest_HorticulturistT5",
+        "Item8": "ClothingHands_HorticulturistT5",
+        "Item9": "ClothingLegs_HorticulturistT5",
+        "Item10": "ClothingFeet_HorticulturistT5",
+        "Item11": "ClothingHead_SkinnerT5",
+        "Item12": "ClothingChest_SkinnerT5",
+        "Item13": "ClothingHands_SkinnerT5",
+        "Item14": "ClothingLegs_SkinnerT5",
+        "Item15": "ClothingFeet_SkinnerT5",
+        "Item16": "ClothingHead_LumberjackT5",
+        "Item17": "ClothingChest_LumberjackT5",
+        "Item18": "ClothingHands_LumberjackT5",
+        "Item19": "ClothingLegs_LumberjackT5",
+        "Item20": "ClothingFeet_LumberjackT5",
+        "Item21": "ClothingHead_FishingT5",
+        "Item22": "ClothingChest_FishingT5",
+        "Item23": "ClothingHands_FishingT5",
+        "Item24": "ClothingLegs_FishingT5",
+        "Item25": "ClothingFeet_FishingT5"
+    },
+    {
+        "LootTableID": "PlaytestGatheringClothingT5_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1",
+        "Item7": "1",
+        "Item8": "1",
+        "Item9": "1",
+        "Item10": "1",
+        "Item11": "1",
+        "Item12": "1",
+        "Item13": "1",
+        "Item14": "1",
+        "Item15": "1",
+        "Item16": "1",
+        "Item17": "1",
+        "Item18": "1",
+        "Item19": "1",
+        "Item20": "1",
+        "Item21": "1",
+        "Item22": "1",
+        "Item23": "1",
+        "Item24": "1",
+        "Item25": "1"
+    },
+    {
+        "LootTableID": "PlaytestGatheringClothingT5_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0",
+        "Item12": "0",
+        "Item13": "0",
+        "Item14": "0",
+        "Item15": "0",
+        "Item16": "0",
+        "Item17": "0",
+        "Item18": "0",
+        "Item19": "0",
+        "Item20": "0",
+        "Item21": "0",
+        "Item22": "0",
+        "Item23": "0",
+        "Item24": "0",
+        "Item25": "0"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsDamageT5625",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Longsword_DMG_T5_625",
+        "Item2": "Playtest_Hatchet_DMG_T5_625",
+        "Item3": "Playtest_Warhammer_DMG_T5_625",
+        "Item4": "Playtest_Greataxe_DMG_T5_625",
+        "Item5": "Playtest_Bow_DMG_T5_625",
+        "Item6": "Playtest_Musket_DMG_T5_625",
+        "Item7": "Playtest_ShieldRound_DMG_T5_625",
+        "Item8": "Playtest_ShieldKite_DMG_T5_625",
+        "Item9": "Playtest_ShieldTower_DMG_T5_625",
+        "Item10": "Playtest_StaffFire_DMG_T5_625",
+        "Item11": "Playtest_StaffLife_DMG_T5_625",
+        "Item12": "Playtest_Spear_DMG_T5_625",
+        "Item13": "Playtest_Rapier_DMG_T5_625",
+        "Item14": "Playtest_GauntletIce_DMG_T5_625",
+        "Item15": "Playtest_GauntletVoid_DMG_T5_625",
+        "Item16": "ArrowT5",
+        "Item17": "ShotT5"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsDamageT5625_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1",
+        "Item7": "1",
+        "Item8": "1",
+        "Item9": "1",
+        "Item10": "1",
+        "Item11": "1",
+        "Item12": "1",
+        "Item13": "1",
+        "Item14": "1",
+        "Item15": "1",
+        "Item16": "500",
+        "Item17": "500"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsDamageT5625_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0",
+        "Item12": "0",
+        "Item13": "0",
+        "Item14": "0",
+        "Item15": "0",
+        "Item16": "0",
+        "Item17": "0"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsTankT5625",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Longsword_TNK_T5_625",
+        "Item2": "Playtest_Hatchet_TNK_T5_625",
+        "Item3": "Playtest_Warhammer_TNK_T5_625",
+        "Item4": "Playtest_Greataxe_TNK_T5_625",
+        "Item5": "Playtest_Bow_TNK_T5_625",
+        "Item6": "Playtest_Musket_TNK_T5_625",
+        "Item7": "Playtest_ShieldRound_TNK_T5_625",
+        "Item8": "Playtest_ShieldKite_TNK_T5_625",
+        "Item9": "Playtest_ShieldTower_TNK_T5_625",
+        "Item10": "Playtest_StaffFire_TNK_T5_625",
+        "Item11": "Playtest_StaffLife_TNK_T5_625",
+        "Item12": "Playtest_Spear_TNK_T5_625",
+        "Item13": "Playtest_Rapier_TNK_T5_625",
+        "Item14": "Playtest_GauntletIce_TNK_T5_625",
+        "Item15": "Playtest_GauntletVoid_TNK_T5_625",
+        "Item16": "ArrowT5",
+        "Item17": "ShotT5"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsTankT5625_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1",
+        "Item7": "1",
+        "Item8": "1",
+        "Item9": "1",
+        "Item10": "1",
+        "Item11": "1",
+        "Item12": "1",
+        "Item13": "1",
+        "Item14": "1",
+        "Item15": "1",
+        "Item16": "500",
+        "Item17": "500"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsTankT5625_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0",
+        "Item12": "0",
+        "Item13": "0",
+        "Item14": "0",
+        "Item15": "0",
+        "Item16": "0",
+        "Item17": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Armor_Soldier_T5_625_Heavy",
+        "Item2": "Playtest_Box_Armor_Soldier_T5_625_Medium",
+        "Item3": "Playtest_Box_Armor_Soldier_T5_625_Light",
+        "Item4": "Playtest_Box_Armor_Soldier_T5_625_Trinket"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Heavy",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_HeavyHead_Soldier_T5_625",
+        "Item2": "Playtest_HeavyChest_Soldier_T5_625",
+        "Item3": "Playtest_HeavyHands_Soldier_T5_625",
+        "Item4": "Playtest_HeavyLegs_Soldier_T5_625",
+        "Item5": "Playtest_HeavyFeet_Soldier_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Heavy_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Heavy_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Medium",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_MediumHead_Soldier_T5_625",
+        "Item2": "Playtest_MediumChest_Soldier_T5_625",
+        "Item3": "Playtest_MediumHands_Soldier_T5_625",
+        "Item4": "Playtest_MediumLegs_Soldier_T5_625",
+        "Item5": "Playtest_MediumFeet_Soldier_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Medium_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Medium_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Light",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_LightHead_Soldier_T5_625",
+        "Item2": "Playtest_LightChest_Soldier_T5_625",
+        "Item3": "Playtest_LightHands_Soldier_T5_625",
+        "Item4": "Playtest_LightLegs_Soldier_T5_625",
+        "Item5": "Playtest_LightFeet_Soldier_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Light_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Light_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Trinket",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Amulet_Soldier_T5_625",
+        "Item2": "Playtest_Ring_Soldier_T5_625",
+        "Item3": "Playtest_Earring_Soldier_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Trinket_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5625Trinket_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Armor_Ranger_T5_625_Heavy",
+        "Item2": "Playtest_Box_Armor_Ranger_T5_625_Medium",
+        "Item3": "Playtest_Box_Armor_Ranger_T5_625_Light",
+        "Item4": "Playtest_Box_Armor_Ranger_T5_625_Trinket"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Heavy",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_HeavyHead_Ranger_T5_625",
+        "Item2": "Playtest_HeavyChest_Ranger_T5_625",
+        "Item3": "Playtest_HeavyHands_Ranger_T5_625",
+        "Item4": "Playtest_HeavyLegs_Ranger_T5_625",
+        "Item5": "Playtest_HeavyFeet_Ranger_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Heavy_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Heavy_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Medium",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_MediumHead_Ranger_T5_625",
+        "Item2": "Playtest_MediumChest_Ranger_T5_625",
+        "Item3": "Playtest_MediumHands_Ranger_T5_625",
+        "Item4": "Playtest_MediumLegs_Ranger_T5_625",
+        "Item5": "Playtest_MediumFeet_Ranger_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Medium_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Medium_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Light",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_LightHead_Ranger_T5_625",
+        "Item2": "Playtest_LightChest_Ranger_T5_625",
+        "Item3": "Playtest_LightHands_Ranger_T5_625",
+        "Item4": "Playtest_LightLegs_Ranger_T5_625",
+        "Item5": "Playtest_LightFeet_Ranger_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Light_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Light_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Trinket",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Amulet_Ranger_T5_625",
+        "Item2": "Playtest_Ring_Ranger_T5_625",
+        "Item3": "Playtest_Earring_Ranger_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Trinket_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5625Trinket_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Armor_Scholar_T5_625_Heavy",
+        "Item2": "Playtest_Box_Armor_Scholar_T5_625_Medium",
+        "Item3": "Playtest_Box_Armor_Scholar_T5_625_Light",
+        "Item4": "Playtest_Box_Armor_Scholar_T5_625_Trinket"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Heavy",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_HeavyHead_Scholar_T5_625",
+        "Item2": "Playtest_HeavyChest_Scholar_T5_625",
+        "Item3": "Playtest_HeavyHands_Scholar_T5_625",
+        "Item4": "Playtest_HeavyLegs_Scholar_T5_625",
+        "Item5": "Playtest_HeavyFeet_Scholar_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Heavy_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Heavy_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Medium",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_MediumHead_Scholar_T5_625",
+        "Item2": "Playtest_MediumChest_Scholar_T5_625",
+        "Item3": "Playtest_MediumHands_Scholar_T5_625",
+        "Item4": "Playtest_MediumLegs_Scholar_T5_625",
+        "Item5": "Playtest_MediumFeet_Scholar_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Medium_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Medium_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Light",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_LightHead_Scholar_T5_625",
+        "Item2": "Playtest_LightChest_Scholar_T5_625",
+        "Item3": "Playtest_LightHands_Scholar_T5_625",
+        "Item4": "Playtest_LightLegs_Scholar_T5_625",
+        "Item5": "Playtest_LightFeet_Scholar_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Light_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Light_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Trinket",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Amulet_Scholar_T5_625",
+        "Item2": "Playtest_Ring_Scholar_T5_625",
+        "Item3": "Playtest_Earring_Scholar_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Trinket_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5625Trinket_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Armor_Sage_T5_625_Heavy",
+        "Item2": "Playtest_Box_Armor_Sage_T5_625_Medium",
+        "Item3": "Playtest_Box_Armor_Sage_T5_625_Light",
+        "Item4": "Playtest_Box_Armor_Sage_T5_625_Trinket"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Heavy",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_HeavyHead_Sage_T5_625",
+        "Item2": "Playtest_HeavyChest_Sage_T5_625",
+        "Item3": "Playtest_HeavyHands_Sage_T5_625",
+        "Item4": "Playtest_HeavyLegs_Sage_T5_625",
+        "Item5": "Playtest_HeavyFeet_Sage_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Heavy_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Heavy_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Medium",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_MediumHead_Sage_T5_625",
+        "Item2": "Playtest_MediumChest_Sage_T5_625",
+        "Item3": "Playtest_MediumHands_Sage_T5_625",
+        "Item4": "Playtest_MediumLegs_Sage_T5_625",
+        "Item5": "Playtest_MediumFeet_Sage_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Medium_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Medium_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Light",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_LightHead_Sage_T5_625",
+        "Item2": "Playtest_LightChest_Sage_T5_625",
+        "Item3": "Playtest_LightHands_Sage_T5_625",
+        "Item4": "Playtest_LightLegs_Sage_T5_625",
+        "Item5": "Playtest_LightFeet_Sage_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Light_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Light_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Trinket",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Amulet_Sage_T5_625",
+        "Item2": "Playtest_Ring_Sage_T5_625",
+        "Item3": "Playtest_Earring_Sage_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Trinket_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5625Trinket_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Armor_Sentry_T5_625_Heavy",
+        "Item2": "Playtest_Box_Armor_Sentry_T5_625_Medium",
+        "Item3": "Playtest_Box_Armor_Sentry_T5_625_Light",
+        "Item4": "Playtest_Box_Armor_Sentry_T5_625_Trinket"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Heavy",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_HeavyHead_Sentry_T5_625",
+        "Item2": "Playtest_HeavyChest_Sentry_T5_625",
+        "Item3": "Playtest_HeavyHands_Sentry_T5_625",
+        "Item4": "Playtest_HeavyLegs_Sentry_T5_625",
+        "Item5": "Playtest_HeavyFeet_Sentry_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Heavy_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Heavy_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Medium",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_MediumHead_Sentry_T5_625",
+        "Item2": "Playtest_MediumChest_Sentry_T5_625",
+        "Item3": "Playtest_MediumHands_Sentry_T5_625",
+        "Item4": "Playtest_MediumLegs_Sentry_T5_625",
+        "Item5": "Playtest_MediumFeet_Sentry_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Medium_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Medium_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Light",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_LightHead_Sentry_T5_625",
+        "Item2": "Playtest_LightChest_Sentry_T5_625",
+        "Item3": "Playtest_LightHands_Sentry_T5_625",
+        "Item4": "Playtest_LightLegs_Sentry_T5_625",
+        "Item5": "Playtest_LightFeet_Sentry_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Light_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Light_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Trinket",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Amulet_Sentry_T5_625",
+        "Item2": "Playtest_Ring_Sentry_T5_625",
+        "Item3": "Playtest_Earring_Sentry_T5_625"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Trinket_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5625Trinket_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsDamageT5600",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Longsword_DMG_T5_600",
+        "Item2": "Playtest_Hatchet_DMG_T5_600",
+        "Item3": "Playtest_Warhammer_DMG_T5_600",
+        "Item4": "Playtest_Greataxe_DMG_T5_600",
+        "Item5": "Playtest_Bow_DMG_T5_600",
+        "Item6": "Playtest_Musket_DMG_T5_600",
+        "Item7": "Playtest_ShieldRound_DMG_T5_600",
+        "Item8": "Playtest_ShieldKite_DMG_T5_600",
+        "Item9": "Playtest_ShieldTower_DMG_T5_600",
+        "Item10": "Playtest_StaffFire_DMG_T5_600",
+        "Item11": "Playtest_StaffLife_DMG_T5_600",
+        "Item12": "Playtest_Spear_DMG_T5_600",
+        "Item13": "Playtest_Rapier_DMG_T5_600",
+        "Item14": "Playtest_GauntletIce_DMG_T5_600",
+        "Item15": "Playtest_GauntletVoid_DMG_T5_600",
+        "Item16": "ArrowT5",
+        "Item17": "ShotT5"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsDamageT5600_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1",
+        "Item7": "1",
+        "Item8": "1",
+        "Item9": "1",
+        "Item10": "1",
+        "Item11": "1",
+        "Item12": "1",
+        "Item13": "1",
+        "Item14": "1",
+        "Item15": "1",
+        "Item16": "500",
+        "Item17": "500"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsDamageT5600_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0",
+        "Item12": "0",
+        "Item13": "0",
+        "Item14": "0",
+        "Item15": "0",
+        "Item16": "0",
+        "Item17": "0"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsTankT5600",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Longsword_TNK_T5_600",
+        "Item2": "Playtest_Hatchet_TNK_T5_600",
+        "Item3": "Playtest_Warhammer_TNK_T5_600",
+        "Item4": "Playtest_Greataxe_TNK_T5_600",
+        "Item5": "Playtest_Bow_TNK_T5_600",
+        "Item6": "Playtest_Musket_TNK_T5_600",
+        "Item7": "Playtest_ShieldRound_TNK_T5_600",
+        "Item8": "Playtest_ShieldKite_TNK_T5_600",
+        "Item9": "Playtest_ShieldTower_TNK_T5_600",
+        "Item10": "Playtest_StaffFire_TNK_T5_600",
+        "Item11": "Playtest_StaffLife_TNK_T5_600",
+        "Item12": "Playtest_Spear_TNK_T5_600",
+        "Item13": "Playtest_Rapier_TNK_T5_600",
+        "Item14": "Playtest_GauntletIce_TNK_T5_600",
+        "Item15": "Playtest_GauntletVoid_TNK_T5_600",
+        "Item16": "ArrowT5",
+        "Item17": "ShotT5"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsTankT5600_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1",
+        "Item7": "1",
+        "Item8": "1",
+        "Item9": "1",
+        "Item10": "1",
+        "Item11": "1",
+        "Item12": "1",
+        "Item13": "1",
+        "Item14": "1",
+        "Item15": "1",
+        "Item16": "500",
+        "Item17": "500"
+    },
+    {
+        "LootTableID": "PlaytestWeaponsTankT5600_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0",
+        "Item7": "0",
+        "Item8": "0",
+        "Item9": "0",
+        "Item10": "0",
+        "Item11": "0",
+        "Item12": "0",
+        "Item13": "0",
+        "Item14": "0",
+        "Item15": "0",
+        "Item16": "0",
+        "Item17": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Armor_Soldier_T5_600_Heavy",
+        "Item2": "Playtest_Box_Armor_Soldier_T5_600_Medium",
+        "Item3": "Playtest_Box_Armor_Soldier_T5_600_Light",
+        "Item4": "Playtest_Box_Armor_Soldier_T5_600_Trinket"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Heavy",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_HeavyHead_Soldier_T5_600",
+        "Item2": "Playtest_HeavyChest_Soldier_T5_600",
+        "Item3": "Playtest_HeavyHands_Soldier_T5_600",
+        "Item4": "Playtest_HeavyLegs_Soldier_T5_600",
+        "Item5": "Playtest_HeavyFeet_Soldier_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Heavy_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Heavy_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Medium",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_MediumHead_Soldier_T5_600",
+        "Item2": "Playtest_MediumChest_Soldier_T5_600",
+        "Item3": "Playtest_MediumHands_Soldier_T5_600",
+        "Item4": "Playtest_MediumLegs_Soldier_T5_600",
+        "Item5": "Playtest_MediumFeet_Soldier_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Medium_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Medium_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Light",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_LightHead_Soldier_T5_600",
+        "Item2": "Playtest_LightChest_Soldier_T5_600",
+        "Item3": "Playtest_LightHands_Soldier_T5_600",
+        "Item4": "Playtest_LightLegs_Soldier_T5_600",
+        "Item5": "Playtest_LightFeet_Soldier_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Light_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Light_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Trinket",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Amulet_Soldier_T5_600",
+        "Item2": "Playtest_Ring_Soldier_T5_600",
+        "Item3": "Playtest_Earring_Soldier_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Trinket_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSoldierT5600Trinket_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Armor_Ranger_T5_600_Heavy",
+        "Item2": "Playtest_Box_Armor_Ranger_T5_600_Medium",
+        "Item3": "Playtest_Box_Armor_Ranger_T5_600_Light",
+        "Item4": "Playtest_Box_Armor_Ranger_T5_600_Trinket"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Heavy",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_HeavyHead_Ranger_T5_600",
+        "Item2": "Playtest_HeavyChest_Ranger_T5_600",
+        "Item3": "Playtest_HeavyHands_Ranger_T5_600",
+        "Item4": "Playtest_HeavyLegs_Ranger_T5_600",
+        "Item5": "Playtest_HeavyFeet_Ranger_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Heavy_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Heavy_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Medium",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_MediumHead_Ranger_T5_600",
+        "Item2": "Playtest_MediumChest_Ranger_T5_600",
+        "Item3": "Playtest_MediumHands_Ranger_T5_600",
+        "Item4": "Playtest_MediumLegs_Ranger_T5_600",
+        "Item5": "Playtest_MediumFeet_Ranger_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Medium_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Medium_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Light",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_LightHead_Ranger_T5_600",
+        "Item2": "Playtest_LightChest_Ranger_T5_600",
+        "Item3": "Playtest_LightHands_Ranger_T5_600",
+        "Item4": "Playtest_LightLegs_Ranger_T5_600",
+        "Item5": "Playtest_LightFeet_Ranger_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Light_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Light_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Trinket",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Amulet_Ranger_T5_600",
+        "Item2": "Playtest_Ring_Ranger_T5_600",
+        "Item3": "Playtest_Earring_Ranger_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Trinket_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorRangerT5600Trinket_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Armor_Scholar_T5_600_Heavy",
+        "Item2": "Playtest_Box_Armor_Scholar_T5_600_Medium",
+        "Item3": "Playtest_Box_Armor_Scholar_T5_600_Light",
+        "Item4": "Playtest_Box_Armor_Scholar_T5_600_Trinket"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Heavy",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_HeavyHead_Scholar_T5_600",
+        "Item2": "Playtest_HeavyChest_Scholar_T5_600",
+        "Item3": "Playtest_HeavyHands_Scholar_T5_600",
+        "Item4": "Playtest_HeavyLegs_Scholar_T5_600",
+        "Item5": "Playtest_HeavyFeet_Scholar_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Heavy_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Heavy_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Medium",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_MediumHead_Scholar_T5_600",
+        "Item2": "Playtest_MediumChest_Scholar_T5_600",
+        "Item3": "Playtest_MediumHands_Scholar_T5_600",
+        "Item4": "Playtest_MediumLegs_Scholar_T5_600",
+        "Item5": "Playtest_MediumFeet_Scholar_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Medium_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Medium_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Light",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_LightHead_Scholar_T5_600",
+        "Item2": "Playtest_LightChest_Scholar_T5_600",
+        "Item3": "Playtest_LightHands_Scholar_T5_600",
+        "Item4": "Playtest_LightLegs_Scholar_T5_600",
+        "Item5": "Playtest_LightFeet_Scholar_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Light_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Light_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Trinket",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Amulet_Scholar_T5_600",
+        "Item2": "Playtest_Ring_Scholar_T5_600",
+        "Item3": "Playtest_Earring_Scholar_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Trinket_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorScholarT5600Trinket_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Armor_Sage_T5_600_Heavy",
+        "Item2": "Playtest_Box_Armor_Sage_T5_600_Medium",
+        "Item3": "Playtest_Box_Armor_Sage_T5_600_Light",
+        "Item4": "Playtest_Box_Armor_Sage_T5_600_Trinket"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Heavy",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_HeavyHead_Sage_T5_600",
+        "Item2": "Playtest_HeavyChest_Sage_T5_600",
+        "Item3": "Playtest_HeavyHands_Sage_T5_600",
+        "Item4": "Playtest_HeavyLegs_Sage_T5_600",
+        "Item5": "Playtest_HeavyFeet_Sage_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Heavy_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Heavy_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Medium",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_MediumHead_Sage_T5_600",
+        "Item2": "Playtest_MediumChest_Sage_T5_600",
+        "Item3": "Playtest_MediumHands_Sage_T5_600",
+        "Item4": "Playtest_MediumLegs_Sage_T5_600",
+        "Item5": "Playtest_MediumFeet_Sage_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Medium_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Medium_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Light",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_LightHead_Sage_T5_600",
+        "Item2": "Playtest_LightChest_Sage_T5_600",
+        "Item3": "Playtest_LightHands_Sage_T5_600",
+        "Item4": "Playtest_LightLegs_Sage_T5_600",
+        "Item5": "Playtest_LightFeet_Sage_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Light_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Light_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Trinket",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Amulet_Sage_T5_600",
+        "Item2": "Playtest_Ring_Sage_T5_600",
+        "Item3": "Playtest_Earring_Sage_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Trinket_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSageT5600Trinket_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Box_Armor_Sentry_T5_600_Heavy",
+        "Item2": "Playtest_Box_Armor_Sentry_T5_600_Medium",
+        "Item3": "Playtest_Box_Armor_Sentry_T5_600_Light",
+        "Item4": "Playtest_Box_Armor_Sentry_T5_600_Trinket"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Heavy",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_HeavyHead_Sentry_T5_600",
+        "Item2": "Playtest_HeavyChest_Sentry_T5_600",
+        "Item3": "Playtest_HeavyHands_Sentry_T5_600",
+        "Item4": "Playtest_HeavyLegs_Sentry_T5_600",
+        "Item5": "Playtest_HeavyFeet_Sentry_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Heavy_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Heavy_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Medium",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_MediumHead_Sentry_T5_600",
+        "Item2": "Playtest_MediumChest_Sentry_T5_600",
+        "Item3": "Playtest_MediumHands_Sentry_T5_600",
+        "Item4": "Playtest_MediumLegs_Sentry_T5_600",
+        "Item5": "Playtest_MediumFeet_Sentry_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Medium_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Medium_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Light",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_LightHead_Sentry_T5_600",
+        "Item2": "Playtest_LightChest_Sentry_T5_600",
+        "Item3": "Playtest_LightHands_Sentry_T5_600",
+        "Item4": "Playtest_LightLegs_Sentry_T5_600",
+        "Item5": "Playtest_LightFeet_Sentry_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Light_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Light_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Trinket",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Playtest_Amulet_Sentry_T5_600",
+        "Item2": "Playtest_Ring_Sentry_T5_600",
+        "Item3": "Playtest_Earring_Sentry_T5_600"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Trinket_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1"
+    },
+    {
+        "LootTableID": "PlaytestArmorSentryT5600Trinket_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0"
+    },
+    {
         "LootTableID": "PlaytestGemsT5",
         "AND/OR": "AND",
         "HWMMult": 0,
@@ -25454,11 +28836,11 @@
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "Playtest_SkinningKnife_T5",
-        "Item2": "Playtest_HarvestingSickle_T5",
-        "Item3": "Playtest_LumberAxe_T5",
-        "Item4": "Playtest_MiningPick_T5",
-        "Item5": "Playtest_FishingPole_T5"
+        "Item1": "1hSkinningKnifeT5",
+        "Item2": "1hSickleT5",
+        "Item3": "2hAxeT5",
+        "Item4": "2hPickT5",
+        "Item5": "2hFishingPoleT5"
     },
     {
         "LootTableID": "PlaytestToolsT5_Qty",
@@ -26593,11 +29975,11 @@
         "HWMMult": 0,
         "GSBonus": 10,
         "MaxRoll": 0,
-        "Item1": "Playtest_SkinningKnife_T4",
-        "Item2": "Playtest_HarvestingSickle_T4",
-        "Item3": "Playtest_LumberAxe_T4",
-        "Item4": "Playtest_MiningPick_T4",
-        "Item5": "Playtest_FishingPole_T4"
+        "Item1": "1hSkinningKnifeT4",
+        "Item2": "1hSickleT4",
+        "Item3": "2hAxeT4",
+        "Item4": "2hPickT4",
+        "Item5": "2hFishingPoleT4"
     },
     {
         "LootTableID": "PlaytestToolsT4_Qty",
@@ -27737,11 +31119,11 @@
         "HWMMult": 0,
         "GSBonus": 5,
         "MaxRoll": 0,
-        "Item1": "Playtest_SkinningKnife_T3",
-        "Item2": "Playtest_HarvestingSickle_T3",
-        "Item3": "Playtest_LumberAxe_T3",
-        "Item4": "Playtest_MiningPick_T3",
-        "Item5": "Playtest_FishingPole_T3"
+        "Item1": "1hSkinningKnifeT3",
+        "Item2": "1hSickleT3",
+        "Item3": "2hAxeT3",
+        "Item4": "2hPickT3",
+        "Item5": "2hFishingPoleT3"
     },
     {
         "LootTableID": "PlaytestToolsT3_Qty",
@@ -28860,11 +32242,11 @@
         "HWMMult": 0,
         "GSBonus": -10,
         "MaxRoll": 0,
-        "Item1": "Playtest_SkinningKnife_T2",
-        "Item2": "Playtest_HarvestingSickle_T2",
-        "Item3": "Playtest_LumberAxe_T2",
-        "Item4": "Playtest_MiningPick_T2",
-        "Item5": "Playtest_FishingPole_T2"
+        "Item1": "1hSkinningKnifeT2",
+        "Item2": "1hSickleT2",
+        "Item3": "2hAxeT2",
+        "Item4": "2hPickT2",
+        "Item5": "2hFishingPoleT2"
     },
     {
         "LootTableID": "PlaytestToolsT2_Qty",
@@ -29851,212 +33233,100 @@
         "Item4": "54"
     },
     {
-        "LootTableID": "WinterConv_Settlement_Tree_T1",
-        "AND/OR": "AND",
+        "LootTableID": "MutatorLoot_Fire",
+        "AND/OR": "OR",
+        "Conditions": "Fire",
+        "UseLevelGS": "TRUE",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "WCContainer_HastilyWrappedPresent",
-        "Item2": "[LTID]GypsumWhiteTable"
+        "Item1": "SmolderingWeaponShardT5",
+        "Item2": "SmolderingArmorShardT5",
+        "Item3": "[LBID]MutElemArmor",
+        "Item4": "[LBID]MutElemWeapons"
     },
     {
-        "LootTableID": "WinterConv_Settlement_Tree_T1_Qty",
+        "LootTableID": "MutatorLoot_Fire_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "1",
-        "Item2": "1"
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
     },
     {
-        "LootTableID": "WinterConv_Settlement_Tree_T1_Probs",
+        "LootTableID": "MutatorLoot_Fire_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
-        "MaxRoll": 1,
-        "Item1": "0",
-        "Item2": "0"
+        "MaxRoll": 100000,
+        "Item1": "92000",
+        "Item2": "92000",
+        "Item3": "97500",
+        "Item4": "97500"
     },
     {
-        "LootTableID": "WinterConv_Settlement_Tree_T2",
-        "AND/OR": "AND",
+        "LootTableID": "MutatorLoot_Void",
+        "AND/OR": "OR",
+        "Conditions": "Void",
+        "UseLevelGS": "TRUE",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "WCContainer_BeautifullyWrappedPresent",
-        "Item2": "[LTID]GypsumWhiteTable"
+        "Item1": "HollowWeaponShardT5",
+        "Item2": "HollowArmorShardT5",
+        "Item3": "[LBID]MutElemArmor",
+        "Item4": "[LBID]MutElemWeapons"
     },
     {
-        "LootTableID": "WinterConv_Settlement_Tree_T2_Qty",
+        "LootTableID": "MutatorLoot_Void_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "1",
-        "Item2": "1"
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1"
     },
     {
-        "LootTableID": "WinterConv_Settlement_Tree_T2_Probs",
+        "LootTableID": "MutatorLoot_Void_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
-        "MaxRoll": 1,
-        "Item1": "0",
-        "Item2": "0"
+        "MaxRoll": 100000,
+        "Item1": "92000",
+        "Item2": "92000",
+        "Item3": "97500",
+        "Item4": "97500"
     },
     {
-        "LootTableID": "WinterConv_Settlement_Tree_T3",
-        "AND/OR": "AND",
+        "LootTableID": "MutatorLoot_Difficulty",
+        "AND/OR": "OR",
+        "Conditions": "MutDiff",
+        "UseLevelGS": "TRUE",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
-        "Item1": "WCContainer_ExquisitelyWrappedPresent",
-        "Item2": "[LTID]GypsumWhiteTable"
+        "Item1": "[LBID]MutDiffArmor",
+        "Item2": "[LBID]MutDiffWeapons",
+        "Item3": "[LBID]MutDiffAccesories"
     },
     {
-        "LootTableID": "WinterConv_Settlement_Tree_T3_Qty",
+        "LootTableID": "MutatorLoot_Difficulty_Qty",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 0,
         "Item1": "1",
-        "Item2": "1"
+        "Item2": "1",
+        "Item3": "1"
     },
     {
-        "LootTableID": "WinterConv_Settlement_Tree_T3_Probs",
+        "LootTableID": "MutatorLoot_Difficulty_Probs",
         "HWMMult": 0,
         "GSBonus": 0,
         "MaxRoll": 1,
         "Item1": "0",
-        "Item2": "0"
-    },
-    {
-        "LootTableID": "GypsumWhiteTable",
-        "AND/OR": "AND",
-        "Conditions": "Level",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "GypsumWhite"
-    },
-    {
-        "LootTableID": "GypsumWhiteTable_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "1"
-    },
-    {
-        "LootTableID": "GypsumWhiteTable_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "60"
-    },
-    {
-        "LootTableID": "WinterConv_Village_GiftBag",
-        "AND/OR": "OR",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "WCContainer_BeautifullyWrappedPresent"
-    },
-    {
-        "LootTableID": "WinterConv_Village_GiftBag_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "1"
-    },
-    {
-        "LootTableID": "WinterConv_Village_GiftBag_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 1,
-        "Item1": "0"
-    },
-    {
-        "LootTableID": "WinterConv_LostPresent_Standard",
-        "AND/OR": "OR",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "WCStolenPresent"
-    },
-    {
-        "LootTableID": "WinterConv_LostPresent_Standard_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "1"
-    },
-    {
-        "LootTableID": "WinterConv_LostPresent_Standard_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 1,
-        "Item1": "0"
-    },
-    {
-        "LootTableID": "WinterConv_LostPresent_Rare",
-        "AND/OR": "OR",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "WCStolenPresent"
-    },
-    {
-        "LootTableID": "WinterConv_LostPresent_Rare_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "20"
-    },
-    {
-        "LootTableID": "WinterConv_LostPresent_Rare_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 1,
-        "Item1": "0"
-    },
-    {
-        "LootTableID": "WinterConv_Gleamite_Shard",
-        "AND/OR": "OR",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "WCGleamite"
-    },
-    {
-        "LootTableID": "WinterConv_Gleamite_Shard_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "1"
-    },
-    {
-        "LootTableID": "WinterConv_Gleamite_Shard_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 1,
-        "Item1": "0"
-    },
-    {
-        "LootTableID": "WinterConv_Gleamite_Chunk",
-        "AND/OR": "OR",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "WCGleamite"
-    },
-    {
-        "LootTableID": "WinterConv_Gleamite_Chunk_Qty",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 0,
-        "Item1": "15"
-    },
-    {
-        "LootTableID": "WinterConv_Gleamite_Chunk_Probs",
-        "HWMMult": 0,
-        "GSBonus": 0,
-        "MaxRoll": 1,
-        "Item1": "0"
+        "Item2": "0",
+        "Item3": "0"
     },
     {
         "LootTableID": "OmegaWeaponsDamage",
@@ -30311,11 +33581,9 @@
         "Item1": "KeyAmrine",
         "Item2": "KeyShattered",
         "Item3": "KeyDepts",
-        "Item4": "KeyEradinus",
         "Item5": "KeyDynasty",
         "Item6": "KeyGenesis",
-        "Item7": "KeyLazarus",
-        "Item8": "KeyIsabella"
+        "Item7": "KeyLazarus"
     },
     {
         "LootTableID": "OmegaTuningOrbs_Qty",
@@ -30325,11 +33593,9 @@
         "Item1": "10",
         "Item2": "10",
         "Item3": "10",
-        "Item4": "10",
         "Item5": "10",
         "Item6": "10",
-        "Item7": "10",
-        "Item8": "10"
+        "Item7": "10"
     },
     {
         "LootTableID": "OmegaTuningOrbs_Probs",
@@ -30339,11 +33605,9 @@
         "Item1": "0",
         "Item2": "0",
         "Item3": "0",
-        "Item4": "0",
         "Item5": "0",
         "Item6": "0",
-        "Item7": "0",
-        "Item8": "0"
+        "Item7": "0"
     },
     {
         "LootTableID": "OmegaAzoth",
@@ -32172,6 +35436,413 @@
         "Item2": "0",
         "Item3": "0",
         "Item4": "0"
+    },
+    {
+        "LootTableID": "OmegaFullSet600",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Omega_Box_Weapons_600",
+        "Item2": "Omega_Box_Armor_Soldier_600",
+        "Item3": "Omega_Box_Armor_Ranger_600",
+        "Item4": "Omega_Box_Armor_Scholar_600",
+        "Item5": "Omega_Box_Armor_Sage_600",
+        "Item6": "Omega_Box_Armor_Sentry_600"
+    },
+    {
+        "LootTableID": "OmegaFullSet600_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1"
+    },
+    {
+        "LootTableID": "OmegaFullSet600_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
+    },
+    {
+        "LootTableID": "OmegaFullSet602",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Omega_Box_Weapons_602",
+        "Item2": "Omega_Box_Armor_Soldier_602",
+        "Item3": "Omega_Box_Armor_Ranger_602",
+        "Item4": "Omega_Box_Armor_Scholar_602",
+        "Item5": "Omega_Box_Armor_Sage_602",
+        "Item6": "Omega_Box_Armor_Sentry_602"
+    },
+    {
+        "LootTableID": "OmegaFullSet602_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1"
+    },
+    {
+        "LootTableID": "OmegaFullSet602_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
+    },
+    {
+        "LootTableID": "OmegaFullSet605",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Omega_Box_Weapons_605",
+        "Item2": "Omega_Box_Armor_Soldier_605",
+        "Item3": "Omega_Box_Armor_Ranger_605",
+        "Item4": "Omega_Box_Armor_Scholar_605",
+        "Item5": "Omega_Box_Armor_Sage_605",
+        "Item6": "Omega_Box_Armor_Sentry_605"
+    },
+    {
+        "LootTableID": "OmegaFullSet605_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1"
+    },
+    {
+        "LootTableID": "OmegaFullSet605_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
+    },
+    {
+        "LootTableID": "OmegaFullSet607",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Omega_Box_Weapons_607",
+        "Item2": "Omega_Box_Armor_Soldier_607",
+        "Item3": "Omega_Box_Armor_Ranger_607",
+        "Item4": "Omega_Box_Armor_Scholar_607",
+        "Item5": "Omega_Box_Armor_Sage_607",
+        "Item6": "Omega_Box_Armor_Sentry_607"
+    },
+    {
+        "LootTableID": "OmegaFullSet607_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1"
+    },
+    {
+        "LootTableID": "OmegaFullSet607_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
+    },
+    {
+        "LootTableID": "OmegaFullSet610",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Omega_Box_Weapons_610",
+        "Item2": "Omega_Box_Armor_Soldier_610",
+        "Item3": "Omega_Box_Armor_Ranger_610",
+        "Item4": "Omega_Box_Armor_Scholar_610",
+        "Item5": "Omega_Box_Armor_Sage_610",
+        "Item6": "Omega_Box_Armor_Sentry_610"
+    },
+    {
+        "LootTableID": "OmegaFullSet610_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1"
+    },
+    {
+        "LootTableID": "OmegaFullSet610_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
+    },
+    {
+        "LootTableID": "OmegaFullSet612",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Omega_Box_Weapons_612",
+        "Item2": "Omega_Box_Armor_Soldier_612",
+        "Item3": "Omega_Box_Armor_Ranger_612",
+        "Item4": "Omega_Box_Armor_Scholar_612",
+        "Item5": "Omega_Box_Armor_Sage_612",
+        "Item6": "Omega_Box_Armor_Sentry_612"
+    },
+    {
+        "LootTableID": "OmegaFullSet612_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1"
+    },
+    {
+        "LootTableID": "OmegaFullSet612_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
+    },
+    {
+        "LootTableID": "OmegaFullSet615",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Omega_Box_Weapons_615",
+        "Item2": "Omega_Box_Armor_Soldier_615",
+        "Item3": "Omega_Box_Armor_Ranger_615",
+        "Item4": "Omega_Box_Armor_Scholar_615",
+        "Item5": "Omega_Box_Armor_Sage_615",
+        "Item6": "Omega_Box_Armor_Sentry_615"
+    },
+    {
+        "LootTableID": "OmegaFullSet615_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1"
+    },
+    {
+        "LootTableID": "OmegaFullSet615_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
+    },
+    {
+        "LootTableID": "OmegaFullSet617",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Omega_Box_Weapons_617",
+        "Item2": "Omega_Box_Armor_Soldier_617",
+        "Item3": "Omega_Box_Armor_Ranger_617",
+        "Item4": "Omega_Box_Armor_Scholar_617",
+        "Item5": "Omega_Box_Armor_Sage_617",
+        "Item6": "Omega_Box_Armor_Sentry_617"
+    },
+    {
+        "LootTableID": "OmegaFullSet617_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1"
+    },
+    {
+        "LootTableID": "OmegaFullSet617_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
+    },
+    {
+        "LootTableID": "OmegaFullSet620",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Omega_Box_Weapons_620",
+        "Item2": "Omega_Box_Armor_Soldier_620",
+        "Item3": "Omega_Box_Armor_Ranger_620",
+        "Item4": "Omega_Box_Armor_Scholar_620",
+        "Item5": "Omega_Box_Armor_Sage_620",
+        "Item6": "Omega_Box_Armor_Sentry_620"
+    },
+    {
+        "LootTableID": "OmegaFullSet620_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1"
+    },
+    {
+        "LootTableID": "OmegaFullSet620_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
+    },
+    {
+        "LootTableID": "OmegaFullSet622",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Omega_Box_Weapons_622",
+        "Item2": "Omega_Box_Armor_Soldier_622",
+        "Item3": "Omega_Box_Armor_Ranger_622",
+        "Item4": "Omega_Box_Armor_Scholar_622",
+        "Item5": "Omega_Box_Armor_Sage_622",
+        "Item6": "Omega_Box_Armor_Sentry_622"
+    },
+    {
+        "LootTableID": "OmegaFullSet622_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1"
+    },
+    {
+        "LootTableID": "OmegaFullSet622_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
+    },
+    {
+        "LootTableID": "OmegaFullSet625",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "Omega_Box_Weapons_625",
+        "Item2": "Omega_Box_Armor_Soldier_625",
+        "Item3": "Omega_Box_Armor_Ranger_625",
+        "Item4": "Omega_Box_Armor_Scholar_625",
+        "Item5": "Omega_Box_Armor_Sage_625",
+        "Item6": "Omega_Box_Armor_Sentry_625"
+    },
+    {
+        "LootTableID": "OmegaFullSet625_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1",
+        "Item2": "1",
+        "Item3": "1",
+        "Item4": "1",
+        "Item5": "1",
+        "Item6": "1"
+    },
+    {
+        "LootTableID": "OmegaFullSet625_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "0",
+        "Item2": "0",
+        "Item3": "0",
+        "Item4": "0",
+        "Item5": "0",
+        "Item6": "0"
     },
     {
         "LootTableID": "OmegaWeapons600",

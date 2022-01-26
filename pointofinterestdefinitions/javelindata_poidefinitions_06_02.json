@@ -721,5 +721,24 @@
         "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
         "GroupSize": 0,
         "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
+    },
+    {
+        "TerritoryID": 60240,
+        "NameLocalizationKey": "@ui_poi_spiritshrine_02_60240",
+        "IsPOI": true,
+        "MapIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png",
+        "DiscoveryRadius": 150,
+        "IsDiscoverable": false,
+        "IsChartable": true,
+        "DefaultAchievement": 1,
+        "ChartedAchievement": "spiritshrine_02_60240_charted",
+        "POITag": "spiritshrine_02_60240",
+        "AudioGroup": "Music_POI",
+        "AudioState": "spiritshrine",
+        "CanPlaceCamp": false,
+        "DevName": "Spirit Shrine",
+        "TooltipBackground": "LyShineUI/Images/Map/tooltipImages/mapTooltip_spiritshrine.png",
+        "GroupSize": 0,
+        "UnchartedIcon": "LyShineUI/Images/Map/Icon/POIs/spirit_shrine.png"
     }
 ]

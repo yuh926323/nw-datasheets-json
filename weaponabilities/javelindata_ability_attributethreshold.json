@@ -55,7 +55,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Int_Bonus_50_2",
@@ -111,7 +112,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Int_Bonus_100_1",
@@ -167,7 +169,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Int_Bonus_100_2",
@@ -222,7 +225,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0.05000000074505806,
         "Azoth": 1,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Int_Bonus_150_1",
@@ -279,7 +283,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Int_Bonus_150_2",
@@ -334,7 +339,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Int_Bonus_200_1",
@@ -391,7 +397,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Int_Bonus_200_2",
@@ -446,7 +453,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Int_Bonus_250_1",
@@ -503,7 +511,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Int_Bonus_250_2",
@@ -558,7 +567,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Int_Bonus_300_1",
@@ -615,7 +625,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Int_Bonus_300_2",
@@ -669,7 +680,8 @@
         "FastTravelAzothCostMod": -0.10000000149011612,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_50_1",
@@ -725,7 +737,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_50_2",
@@ -780,7 +793,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_100_1",
@@ -836,7 +850,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_100_2",
@@ -890,7 +905,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_150_1",
@@ -946,7 +962,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_150_2",
@@ -1001,7 +1018,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_200_1",
@@ -1057,7 +1075,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_200_2",
@@ -1112,7 +1131,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_250_1",
@@ -1171,7 +1191,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_250_2",
@@ -1226,7 +1247,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_300_1",
@@ -1283,7 +1305,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Con_Bonus_300_2",
@@ -1338,7 +1361,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_50_1",
@@ -1394,7 +1418,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_50_2",
@@ -1449,7 +1474,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_100_1",
@@ -1506,7 +1532,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_100_2",
@@ -1562,7 +1589,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_150_1",
@@ -1619,7 +1647,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_150_2",
@@ -1674,7 +1703,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_200_1",
@@ -1730,7 +1760,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_200_2",
@@ -1785,7 +1816,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_250_1",
@@ -1842,7 +1874,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_250_2",
@@ -1897,7 +1930,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_300_1",
@@ -1956,7 +1990,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_300_1_Crit",
@@ -2010,7 +2045,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Dex_Bonus_300_2",
@@ -2064,7 +2100,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0.15000000596046448
+        "RefundAmmoPercentChance": 0.15000000596046448,
+        "ActivationCooldown": 2
     },
     {
         "AbilityID": "Foc_Bonus_50_1",
@@ -2120,7 +2157,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Foc_Bonus_50_2",
@@ -2175,7 +2213,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Foc_Bonus_100_1",
@@ -2231,7 +2270,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Foc_Bonus_100_2",
@@ -2285,7 +2325,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Foc_Bonus_150_1",
@@ -2341,7 +2382,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Foc_Bonus_150_2",
@@ -2396,7 +2438,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Foc_Bonus_200_1",
@@ -2453,7 +2496,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Foc_Bonus_200_2",
@@ -2508,7 +2552,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Foc_Bonus_250_1",
@@ -2564,7 +2609,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Foc_Bonus_250_2",
@@ -2619,7 +2665,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Foc_Bonus_300_1",
@@ -2675,7 +2722,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Foc_Bonus_300_2",
@@ -2729,7 +2777,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_50_1",
@@ -2787,7 +2836,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_50_2",
@@ -2842,7 +2892,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_100_1",
@@ -2900,7 +2951,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_100_2",
@@ -2955,7 +3007,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_150_1",
@@ -3013,7 +3066,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_150_2",
@@ -3068,7 +3122,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_200_1",
@@ -3125,7 +3180,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_200_2",
@@ -3180,7 +3236,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_250_1",
@@ -3236,7 +3293,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_250_2",
@@ -3291,7 +3349,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_300_1",
@@ -3347,7 +3406,8 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     },
     {
         "AbilityID": "Str_Bonus_300_2",
@@ -3402,6 +3462,7 @@
         "FastTravelAzothCostMod": 0,
         "GiveAzothPercentChance": 0,
         "Azoth": 0,
-        "RefundAmmoPercentChance": 0
+        "RefundAmmoPercentChance": 0,
+        "ActivationCooldown": 0
     }
 ]

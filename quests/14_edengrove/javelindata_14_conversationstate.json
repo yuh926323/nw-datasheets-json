@@ -211,7 +211,8 @@
         "DefaultDialogue": "@1418_03_DefaultDialogue",
         "RequiredLevel": 0,
         "RequiredAchievement": "14_Quest_06",
-        "LinearObjectiveId1": "1418_0202_azuretears"
+        "LinearObjectiveId1": "1418_0202_azuretears",
+        "LinearObjectiveId2": "1418_0201_lights"
     },
     {
         "ConversationStateId": "1418_Ranger_03a",
@@ -219,7 +220,8 @@
         "IsInitialState": false,
         "DefaultDialogue": "@1418_05_DefaultDialogue",
         "RequiredLevel": 0,
-        "RequiredAchievement": "14_Quest_07"
+        "RequiredAchievement": "14_Quest_07",
+        "LinearObjectiveId2": "1418_0201_lights"
     },
     {
         "ConversationStateId": "1418_Ranger_03",
@@ -228,7 +230,8 @@
         "DefaultDialogue": "@1418_04_DefaultDialogue",
         "RequiredLevel": 0,
         "RequiredAchievement": "14_Quest_09",
-        "LinearObjectiveId1": "1416_0301_northeast"
+        "LinearObjectiveId1": "1416_0301_northeast",
+        "LinearObjectiveId2": "1418_0201_lights"
     },
     {
         "ConversationStateId": "1418_Ranger_04",
@@ -236,7 +239,8 @@
         "IsInitialState": false,
         "DefaultDialogue": "@1418_05_DefaultDialogue",
         "RequiredLevel": 0,
-        "RequiredAchievement": "14_Quest_05"
+        "RequiredAchievement": "14_Quest_05",
+        "LinearObjectiveId2": "1418_0201_lights"
     },
     {
         "ConversationStateId": "1418_Ranger_05",
@@ -246,7 +250,8 @@
         "RequiredProgression": "SwordAbilityTable 19 0",
         "RequiredLevel": 60,
         "RequiredAchievement": "14_Quest_05",
-        "LinearObjectiveId1": "1418_0101_RD_00"
+        "LinearObjectiveId1": "1418_0101_RD_00",
+        "LinearObjectiveId2": "1418_0201_lights"
     },
     {
         "ConversationStateId": "1419_Ranger_00",

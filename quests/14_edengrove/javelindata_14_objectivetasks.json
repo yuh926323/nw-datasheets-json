@@ -40,7 +40,7 @@
         "ItemDropProbability": 0,
         "ChestDropProbability": 0,
         "UseGlobalStorage": false,
-        "EnforceLocationRequirement": false,
+        "EnforceLocationRequirement": true,
         "POITag": "ancientcrater12",
         "PauseAndClearLootOnTaskComplete": true,
         "AwardOnlyOnce": false,

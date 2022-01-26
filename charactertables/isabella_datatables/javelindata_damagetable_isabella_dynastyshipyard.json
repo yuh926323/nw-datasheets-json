@@ -262,7 +262,7 @@
         "IsSiege": false,
         "DamageType": "Slash",
         "CanCrit": false,
-        "DmgCoef": 0,
+        "DmgCoef": 0.699999988079071,
         "DmgCoefHead": 1,
         "DmgCoefCrit": 1,
         "PowerLevel": 2,

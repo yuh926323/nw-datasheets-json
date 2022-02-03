@@ -407,6 +407,7 @@
         "MaxTrackedHitCounts": 0,
         "ResetConsecutiveOnSuccess": false,
         "DamageIsMelee": false,
+        "DamageTableRow": "IceMagic_IceStorm",
         "MyHealthPercent": 0,
         "MyStaminaPercent": 0,
         "MyManaPercent": 0,

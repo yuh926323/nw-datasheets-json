@@ -15880,7 +15880,7 @@
         "Item5": "[LTID]CreatureLootDungeon",
         "Item6": "[LTID]GypsumYellowTable",
         "Item7": "[LBID]GlobalNamedList",
-        "Item8": "BagofJuniperBerries"
+        "Item8": "[LBID]BagofJuniperBerries"
     },
     {
         "LootTableID": "CreatureLootMaster_Qty",
@@ -17731,6 +17731,31 @@
         "GSBonus": 0,
         "MaxRoll": 100000,
         "Item1": "0"
+    },
+    {
+        "LootTableID": "BagofJuniperBerries60",
+        "AND/OR": "AND",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "JuniperBerryT5",
+        "Item2": "GypsumWhite"
+    },
+    {
+        "LootTableID": "BagofJuniperBerries60_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "3-5",
+        "Item2": "1"
+    },
+    {
+        "LootTableID": "BagofJuniperBerries60_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 100000,
+        "Item1": "0",
+        "Item2": "0"
     },
     {
         "LootTableID": "WCGoldLockBoxT1LevelLimit",
@@ -46766,5 +46791,51 @@
         "Item4": "0",
         "Item5": "0",
         "Item6": "0"
+    },
+    {
+        "LootTableID": "ForgersSignet_Orange_MakeGood",
+        "AND/OR": "AND",
+        "UseLevelGS": "TRUE",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "RingT5_TheRingoftheForgersSignet_Orange"
+    },
+    {
+        "LootTableID": "ForgersSignet_Orange_MakeGood_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "ForgersSignet_Orange_MakeGood_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 1,
+        "Item1": "0"
+    },
+    {
+        "LootTableID": "ForgersSignet_Purple_MakeGood",
+        "AND/OR": "AND",
+        "UseLevelGS": "TRUE",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "RingT5_TheRingoftheForgersSignet_Purple"
+    },
+    {
+        "LootTableID": "ForgersSignet_Purple_MakeGood_Qty",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 0,
+        "Item1": "1"
+    },
+    {
+        "LootTableID": "ForgersSignet_Purple_MakeGood_Probs",
+        "HWMMult": 0,
+        "GSBonus": 0,
+        "MaxRoll": 1,
+        "Item1": "0"
     }
 ]

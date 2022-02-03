@@ -2213,7 +2213,6 @@
         "TargetStatusEffectDurationMod": 0,
         "TargetStatusEffectDurationMult": 0,
         "Duration": 20,
-        "ResetCooldownTimers": "ActiveWeaponLowest",
         "CooldownTimer": 0
     },
     {
